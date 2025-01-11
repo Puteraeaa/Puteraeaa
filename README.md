@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.putera.me/images/profile.jpg"  />
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBzeDdiZW44amtoeGN1aWd2dXY3azI1OTNjaWlpdmxvdWduYnpibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fBMhjENQiDbb00Kh85/giphy.gif"  />
 </div>
 
 ###
@@ -79,8 +79,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
