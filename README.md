@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Muhamad Putera Alfadri from Bogor, Indonesia<br><br>- 🔭 I’m working as A student developer building innovative projects, from websites to mobile apps, and exploring creative tech solutions.<br>- 📚 I'm currently learning Backend systems with Laravel, Firebase, and integrating Google services.<br>- ⚡ In my free time I Enjoy gaming (especially Barda), learning new programming tools, and spending time reflecting on life—or brainstorming with fun tech ideas.</p>
+<p align="left">I'm Muhamad Putera Alfadri from Bogor, Indonesia<br><br>- 🔭 I’m working as A student developer building innovative projects, from websites to mobile apps, and exploring creative tech solutions.<br>- 📚 I'm currently learning Backend systems with Laravel, Firebase, and integrating Google services.<br>- ⚡ In my free time I Enjoy gaming, learning new programming tools, and spending time reflecting on life—or brainstorming with fun tech ideas.</p>
 
 ###
 
