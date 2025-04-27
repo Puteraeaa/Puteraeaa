@@ -7,8 +7,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puteraeaa&show_icons=true&theme=dracula&hide_border=false&border_radius=10&custom_title=My%20GitHub%20Stats" height="180" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Puteraeaa&layout=compact&langs_count=6&theme=dracula&hide_border=false&card_width=320" height="150" alt="Top Languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=Puteraeaa&theme=dark&hide_border=false&border_radius=10&mode=daily" height="180" alt="GitHub Streak" />
