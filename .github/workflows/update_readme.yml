@@ -27,8 +27,14 @@ jobs:
       - name: Run Script
         run: node quote_generator.mjs
 
+      - name: Stash Changes
+        run: git stash --include-untracked
+
       - name: Pull Latest Changes
         run: git pull origin main --rebase
+
+      - name: Apply Stashed Changes (if any)
+        run: git stash pop || echo "Nothing to stash"
 
       - name: Commit and Push
         env:
