@@ -2,7 +2,7 @@ name: Update README with Random Quote
 
 on:
   schedule:
-       - cron: "*/30 * * * *" # Jalan setiap 30 menit
+    - cron: "0 * * * *" # Jalan setiap jam
   workflow_dispatch: # Bisa dijalankan manual dari GitHub Actions
 
 jobs:
@@ -26,15 +26,6 @@ jobs:
 
       - name: Run Script
         run: node quote_generator.mjs
-
-      - name: Stash Changes
-        run: git stash --include-untracked
-
-      - name: Pull Latest Changes
-        run: git pull origin main --rebase
-
-      - name: Apply Stashed Changes (if any)
-        run: git stash pop || echo "Nothing to stash"
 
       - name: Commit and Push
         env:
