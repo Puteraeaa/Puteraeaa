@@ -27,6 +27,9 @@ jobs:
       - name: Run Script
         run: node quote_generator.mjs
 
+      - name: Debug README Content
+        run: cat README.md
+
       - name: Commit and Push
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
