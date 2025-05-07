@@ -27,19 +27,20 @@ jobs:
       - name: Run Script
         run: node quote_generator.mjs
 
-      - name: Debug File Changes
-        run: git diff README.md
+      - name: Debug README Content
+        run: cat README.md
 
       - name: Force Update README
         run: |
           echo >> README.md # Tambahkan newline untuk memaksa perubahan
           git add README.md
 
-      - name: Commit and Push
+       - name: Commit and Push
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@users.noreply.github.com"
+          git add README.md
           git commit -m "Updated Quote" || echo "No changes to commit"
           git push origin main || echo "No changes to push"
