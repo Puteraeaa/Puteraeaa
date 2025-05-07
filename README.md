@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  "Passion creates, addiction consumes." — Gabor Maté
+  ""The first principle of success is desire." — Robert Collier"
 </em></p>
 
 ---
