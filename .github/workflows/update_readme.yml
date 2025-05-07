@@ -32,7 +32,7 @@ jobs:
 
       - name: Force Update README
         run: |
-          touch README.md
+          echo >> README.md # Tambahkan newline untuk memaksa perubahan
           git add README.md
 
       - name: Commit and Push
