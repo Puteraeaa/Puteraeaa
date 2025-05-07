@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A little progress each day adds up to big results." — Unknown"
+  ""Everything great that has ever happened to humanity has begun as a single thought in someone's mind." — Yanni"
 </em></p>
 
 ---
