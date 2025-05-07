@@ -30,12 +30,7 @@ jobs:
       - name: Debug README Content
         run: cat README.md
 
-      - name: Force Update README
-        run: |
-          echo >> README.md # Tambahkan newline untuk memaksa perubahan
-          git add README.md
-
-       - name: Commit and Push
+      - name: Commit and Push
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
