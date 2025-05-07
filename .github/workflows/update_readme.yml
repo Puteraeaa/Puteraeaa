@@ -2,8 +2,8 @@ name: Update README with Random Quote
 
 on:
   schedule:
-    - cron: "0 * * * *" # Jalan setiap jam
-  workflow_dispatch: # Bisa dijalankan manual dari GitHub Actions
+    - cron: "0 * * * *"  # Jalan setiap jam
+  workflow_dispatch:       # Bisa dijalankan manual dari GitHub Actions
 
 jobs:
   update-readme:
@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN }}
-          fetch-depth: 0  # Ambil semua history biar bisa push
+          fetch-depth: 0  # Ambil semua history biar bisa rebase
 
       - name: Install Node.js
         uses: actions/setup-node@v4
@@ -30,24 +30,33 @@ jobs:
       - name: Debug README Content
         run: cat README.md
 
-      - name: Check Git Status Before Pull
-        run: git status
-
-      - name: Check Last Commit Log Before Pull
-        run: git log -1
-
-      - name: Pull Changes from Remote
-        run: git pull origin main --rebase
-
-      - name: Check Git Status After Pull
-        run: git status
-
-      - name: Commit and Push
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@users.noreply.github.com"
+
+      - name: Pull Latest Changes (Safe Rebase)
+        run: git pull origin main --rebase --autostash
+
+      - name: Commit README Update
+        run: |
           git add README.md
-          git commit -m "Updated Quote" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
+          git diff --cached --quiet || git commit -m "Updated Quote"
+
+      - name: Pull Again to Avoid Conflicts
+        run: git pull origin main --rebase --autostash
+
+      - name: Push to Main Branch
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git push origin main
+          echo "Push to main branch completed."
+      - name: Notify Completion
+        run: echo "README update completed successfully."
+      - name: Notify Failure
+        if: failure()
+        run: echo "README update failed."
+      - name: Notify Success
+        if: success()
+        run: echo "README update succeeded."
