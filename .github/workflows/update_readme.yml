@@ -30,8 +30,17 @@ jobs:
       - name: Debug README Content
         run: cat README.md
 
+      - name: Check Git Status Before Pull
+        run: git status
+
+      - name: Check Last Commit Log Before Pull
+        run: git log -1
+
       - name: Pull Changes from Remote
         run: git pull origin main --rebase
+
+      - name: Check Git Status After Pull
+        run: git status
 
       - name: Commit and Push
         env:
