@@ -3,7 +3,7 @@ name: Update README with Random Quote
 on:
   schedule:
     - cron: "*/30 * * * *" # Jalan setiap 30 menit
-      workflow_dispatch: # Bisa dijalankan manual dari GitHub Actions
+  workflow_dispatch: # Bisa dijalankan manual dari GitHub Actions
 
 jobs:
   update-readme:
