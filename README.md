@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Silence is the great teacher and to learn its lessons you must pay attention to it." — Deepak Chopra"
+  ""Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron"
 </em></p>
 
 ---
