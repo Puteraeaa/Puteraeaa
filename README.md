@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People spend too much time doing and not enough time thinking about what they should be doing." — Naval Ravikant"
+  ""The scariest moment is always just before you start. After that, things can only get better." — Stephen King"
 </em></p>
 
 ---
