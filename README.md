@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are your best thing." — Toni Morrison"
+  ""The older you get, the more you understand how your conscience works." — Criss Jami"
 </em></p>
 
 ---
