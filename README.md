@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Let the beauty of what you love be what you do." — Rumi"
+  ""We take care of the future best by taking care of the present now." — Jon Kabat-Zinn"
 </em></p>
 
 ---
