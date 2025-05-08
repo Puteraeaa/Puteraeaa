@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You become stronger with every problem you face and every obstacle you overcome." — Celestine Chua"
+  ""If you aim at nothing, you will hit it every time.  " — Zig Ziglar"
 </em></p>
 
 ---
