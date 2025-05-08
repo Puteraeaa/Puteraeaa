@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can have results or excuses, but not both." — Arnold Schwarzenegger"
+  ""Whatever you believe with feeling becomes your reality. " — Brian Tracy"
 </em></p>
 
 ---
