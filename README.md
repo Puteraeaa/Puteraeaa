@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." — Winston Churchill"
+  ""It is better to offer no excuse than a bad one. " — George Washington"
 </em></p>
 
 ---
