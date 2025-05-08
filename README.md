@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It always seems impossible until it's done." — Nelson Mandela"
+  ""Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett"
 </em></p>
 
 ---
