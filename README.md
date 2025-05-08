@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Convinced myself, I seek not to convince." — Edgar Allan Poe"
+  ""You are your best thing." — Toni Morrison"
 </em></p>
 
 ---
