@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever you believe with feeling becomes your reality. " — Brian Tracy"
+  ""Some people feel the rain. Others just get wet. " — Bob Dylan"
 </em></p>
 
 ---
