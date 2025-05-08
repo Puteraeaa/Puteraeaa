@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron"
+  ""A man that flies from his fear may find that he has only taken a short cut to meet it." — J.R.R. Tolkien"
 </em></p>
 
 ---
