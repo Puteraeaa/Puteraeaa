@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only thing we have to fear is fear itself." — Franklin D. Roosevelt"
+  ""People spend too much time doing and not enough time thinking about what they should be doing." — Naval Ravikant"
 </em></p>
 
 ---
