@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you try to micromanage yourself all you're going to do is make yourself miserable." — Naval Ravikant"
+  ""Even a hare will bite when it is cornered. " — Chinese Proverb"
 </em></p>
 
 ---
