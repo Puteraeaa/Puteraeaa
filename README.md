@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True friendship ought never to conceal what it thinks. " — St. Jerome"
+  ""Greatest success comes just one step beyond the point at which defeat overtakes you." — Unknown"
 </em></p>
 
 ---
