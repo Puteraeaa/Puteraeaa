@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some people feel the rain. Others just get wet. " — Bob Dylan"
+  ""If the happiness and prosperity of other people depend on you, you have nothing to fear anymore." — Robert Greene"
 </em></p>
 
 ---
