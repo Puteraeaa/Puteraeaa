@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do good by stealth, and blush to find it fame." — Alexander Pope"
+  ""Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." — Richard Bach"
 </em></p>
 
 ---
