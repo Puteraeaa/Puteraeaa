@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." — Andrew Carnegie"
+  ""Convinced myself, I seek not to convince." — Edgar Allan Poe"
 </em></p>
 
 ---
