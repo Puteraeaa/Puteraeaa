@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot teach a crab to walk straight." — Aristophanes"
+  ""The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb"
 </em></p>
 
 ---
