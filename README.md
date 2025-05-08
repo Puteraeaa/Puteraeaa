@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People inspire you, or they drain you. Pick them wisely." — Les Brown"
+  ""Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale"
 </em></p>
 
 ---
