@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The scariest moment is always just before you start. After that, things can only get better." — Stephen King"
+  ""If you're brave enough to say goodbye, life will reward you with a new hello." — Paulo Coelho"
 </em></p>
 
 ---
