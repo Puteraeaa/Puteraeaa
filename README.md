@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If the happiness and prosperity of other people depend on you, you have nothing to fear anymore." — Robert Greene"
+  ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." — Andrew Carnegie"
 </em></p>
 
 ---
