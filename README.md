@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We take care of the future best by taking care of the present now." — Jon Kabat-Zinn"
+  ""Do good by stealth, and blush to find it fame." — Alexander Pope"
 </em></p>
 
 ---
