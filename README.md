@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Numbing the pain for a while will make it worse when you finally feel it." — Albus Dumbledore"
+  ""Happiness is the spiritual experience of living every minute with love, grace and gratitude." — Denis Waitley"
 </em></p>
 
 ---
