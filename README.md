@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb"
+  ""Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work." — John Eliot"
 </em></p>
 
 ---
