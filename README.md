@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you aim at nothing, you will hit it every time.  " — Zig Ziglar"
+  ""Rudeness is the weak man's imitation of strength." — Eric Hoffer"
 </em></p>
 
 ---
