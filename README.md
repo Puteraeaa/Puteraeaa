@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even a hare will bite when it is cornered. " — Chinese Proverb"
+  ""Let the beauty of what you love be what you do." — Rumi"
 </em></p>
 
 ---
