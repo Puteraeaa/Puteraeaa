@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rudeness is the weak man's imitation of strength." — Eric Hoffer"
+  ""People inspire you, or they drain you. Pick them wisely." — Les Brown"
 </em></p>
 
 ---
