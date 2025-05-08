@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is the spiritual experience of living every minute with love, grace and gratitude." — Denis Waitley"
+  ""Rest and be kind, you don't have to prove anything." — Jack Kerouac"
 </em></p>
 
 ---
