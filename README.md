@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's easier to go down a hill than up it but the view is much better at the top." — Henry Ward Beecher"
+  ""Just try to be the best you can be; never cease trying to be the best you can be. That's in your power." — John Wooden"
 </em></p>
 
 ---
