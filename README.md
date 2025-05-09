@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quality, not the longevity, of one's life is what is important." — Martin Luther King, Jr."
+  ""A thing must be loved before it is lovable." — Gilbert Chesterton"
 </em></p>
 
 ---
