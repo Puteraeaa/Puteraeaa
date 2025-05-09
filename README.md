@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is often safer to be in chains than to be free. " — Franz Kafka"
+  ""Many a man has failed because he had his wishbone where his backbone should have been." — Ronald Reagan"
 </em></p>
 
 ---
