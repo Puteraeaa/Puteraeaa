@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is nothing quite so tragic as a young cynic." — Maya Angelou"
+  ""Tension is who you think you should be. Relaxation is who you are." — Chinese Proverb"
 </em></p>
 
 ---
