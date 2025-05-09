@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who bring sunshine into the lives of others cannot keep it from themselves." — James Matthew Barrie"
+  ""What do we live for, if it is not to make life less difficult for each other?" — George Eliot"
 </em></p>
 
 ---
