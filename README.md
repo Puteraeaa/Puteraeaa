@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we will be quiet and ready enough, we shall find compensation in every disappointment." — Henry David Thoreau"
+  ""There is no path to Happiness. Happiness is the path." — Dan Millman"
 </em></p>
 
 ---
