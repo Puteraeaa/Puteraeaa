@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the advantages of being disorganized is that one is always having surprising discoveries." — A.A. Milne"
+  ""Words are the clothing of our thoughts." — Jonathan Swift"
 </em></p>
 
 ---
