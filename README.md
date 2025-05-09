@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Take care of your cents: dollars will take care of themselves." — Thomas Jefferson"
+  ""Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn"
 </em></p>
 
 ---
