@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words are the clothing of our thoughts." — Jonathan Swift"
+  ""Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in." — Robert Greene"
 </em></p>
 
 ---
