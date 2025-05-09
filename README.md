@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words, once they are printed, have a life of their own." — Carol Burnett"
+  ""Wheresoever you go, go with all your heart." — Confucius"
 </em></p>
 
 ---
