@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A good stance and posture reflect a proper state of mind." — Morihei Ueshiba"
+  ""Whatever happens always happens on time." — Zen Proverb"
 </em></p>
 
 ---
