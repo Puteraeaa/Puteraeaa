@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like playing the violin in public and learning the instrument as one goes on." — Samuel Butler"
+  ""A tiny change today brings a dramatically different tomorrow." — Richard Bach"
 </em></p>
 
 ---
