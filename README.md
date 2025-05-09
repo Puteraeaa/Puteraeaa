@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Laziness may appear attractive, but work gives satisfaction." — Anne Frank"
+  ""A good stance and posture reflect a proper state of mind." — Morihei Ueshiba"
 </em></p>
 
 ---
