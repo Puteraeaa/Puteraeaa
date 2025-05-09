@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best of us sometimes eat our words.  " — Albus Dumbledore"
+  ""High thoughts must have high language." — Aristophanes"
 </em></p>
 
 ---
