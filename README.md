@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just try to be the best you can be; never cease trying to be the best you can be. That's in your power." — John Wooden"
+  ""Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." — Steve Jobs"
 </em></p>
 
 ---
