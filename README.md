@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no path to Happiness. Happiness is the path." — Dan Millman"
+  ""Words, once they are printed, have a life of their own." — Carol Burnett"
 </em></p>
 
 ---
