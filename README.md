@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What do we live for, if it is not to make life less difficult for each other?" — George Eliot"
+  ""Life is either a daring adventure, or nothing." — Helen Keller"
 </em></p>
 
 ---
