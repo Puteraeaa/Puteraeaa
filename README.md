@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A tiny change today brings a dramatically different tomorrow." — Richard Bach"
+  ""Don't look back - you're not going that way." — Mary Engelbreit"
 </em></p>
 
 ---
