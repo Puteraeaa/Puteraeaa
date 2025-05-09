@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wheresoever you go, go with all your heart." — Confucius"
+  ""What is a friend? A single soul dwelling in two bodies." — Aristotle"
 </em></p>
 
 ---
