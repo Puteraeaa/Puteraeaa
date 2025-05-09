@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most people spend more time and energy going around problems than in trying to solve them. " — Henry Ford"
+  ""I believe that one of life's greatest risks is never daring to risk." — Oprah Winfrey"
 </em></p>
 
 ---
