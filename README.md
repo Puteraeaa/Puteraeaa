@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't wish it were easier, wish you were better." — Jim Rohn"
+  ""Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." — Charles Dickens"
 </em></p>
 
 ---
