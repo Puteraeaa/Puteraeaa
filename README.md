@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever happens always happens on time." — Zen Proverb"
+  ""Those who bring sunshine into the lives of others cannot keep it from themselves." — James Matthew Barrie"
 </em></p>
 
 ---
