@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is either a daring adventure, or nothing." — Helen Keller"
+  ""The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett"
 </em></p>
 
 ---
