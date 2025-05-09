@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is those who concentrate on but one thing at a time who advance in this world." — Gary Keller"
+  ""Laziness may appear attractive, but work gives satisfaction." — Anne Frank"
 </em></p>
 
 ---
