@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn"
+  ""One of the advantages of being disorganized is that one is always having surprising discoveries." — A.A. Milne"
 </em></p>
 
 ---
