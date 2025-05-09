@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Projecting your mind into a successful situation is the most powerful means to achieve goals.  " — Estee Lauder"
+  ""If we will be quiet and ready enough, we shall find compensation in every disappointment." — Henry David Thoreau"
 </em></p>
 
 ---
