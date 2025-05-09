@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett"
+  ""The quality, not the longevity, of one's life is what is important." — Martin Luther King, Jr."
 </em></p>
 
 ---
