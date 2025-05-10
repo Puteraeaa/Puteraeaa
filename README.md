@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Elegance does not consist in putting on a new dress." — Coco Chanel"
+  ""Fishing is much more than fish." — Herbert Hoover"
 </em></p>
 
 ---
