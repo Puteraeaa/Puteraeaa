@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who laughs at himself never runs out of things to laugh at." — Epictetus"
+  ""The more you give, the more comes back to you." — Napoleon Hill"
 </em></p>
 
 ---
