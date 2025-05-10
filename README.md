@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One must be poor to know the luxury of giving." — George Eliot"
+  ""Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry." — Celestine Chua"
 </em></p>
 
 ---
