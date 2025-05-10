@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never allow a person to tell you no who doesn't have the power to say yes." — Eleanor Roosevelt"
+  ""Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy"
 </em></p>
 
 ---
