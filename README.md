@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." — Zen Proverb"
+  ""One small positive thought can change your whole day." — Zig Ziglar"
 </em></p>
 
 ---
