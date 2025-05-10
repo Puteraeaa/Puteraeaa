@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is a difference between giving directions and giving direction." — Simon Sinek"
+  ""Amateurs sit and wait for inspiration, the rest of us just get up and got to work." — Stephen King"
 </em></p>
 
 ---
