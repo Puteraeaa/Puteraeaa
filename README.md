@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Amateurs sit and wait for inspiration, the rest of us just get up and got to work." — Stephen King"
+  ""Nature does not hurry, yet everything is accomplished." — Lao Tzu"
 </em></p>
 
 ---
