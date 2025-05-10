@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you judge others, you do not define them, you define yourself." — Earl Nightingale"
+  ""Most people fail in life not because they aim too high and miss, but because they aim too low and hit." — Les Brown"
 </em></p>
 
 ---
