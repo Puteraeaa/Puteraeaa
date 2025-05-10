@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fishing is much more than fish." — Herbert Hoover"
+  ""Anything becomes interesting if you look at it long enough.." — Gustave Flaubert"
 </em></p>
 
 ---
