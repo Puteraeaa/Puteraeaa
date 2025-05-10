@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One small positive thought can change your whole day." — Zig Ziglar"
+  ""When you judge others, you do not define them, you define yourself." — Earl Nightingale"
 </em></p>
 
 ---
