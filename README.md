@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all different. Don't judge, understand instead." — Roy T. Bennett"
+  ""Be brave to stand for what you believe in even if you stand alone." — Roy T. Bennett"
 </em></p>
 
 ---
