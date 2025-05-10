@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the past steal your present." — Cherralea Morgen"
+  ""Behind every beautiful thing, there's some kind of pain." — Bob Dylan"
 </em></p>
 
 ---
