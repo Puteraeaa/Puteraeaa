@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be brave to stand for what you believe in even if you stand alone." — Roy T. Bennett"
+  ""Never allow a person to tell you no who doesn't have the power to say yes." — Eleanor Roosevelt"
 </em></p>
 
 ---
