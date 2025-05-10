@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We may not be able to stop evil in the world, but how we treat one another is entirely up to us." — Barack Obama"
+  ""He who laughs at himself never runs out of things to laugh at." — Epictetus"
 </em></p>
 
 ---
