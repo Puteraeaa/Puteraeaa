@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's necessary to get the losers out of your life if you want to live your dream." — Les Brown"
+  ""Learning never exhausts the mind. " — Leonardo da Vinci"
 </em></p>
 
 ---
