@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All problems are interpersonal relationship problems." — Alfred Adler"
+  ""A mistake is only an error, it becomes a mistake when you fail to correct it." — John Lennon"
 </em></p>
 
 ---
