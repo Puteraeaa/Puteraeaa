@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your next step is simple. You are the first domino." — Gary Keller"
+  ""Nothing is permanent in this wicked world - not even our troubles." — Charlie Chaplin"
 </em></p>
 
 ---
