@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A hero is an ordinary person doing things in an extra ordinary way." — Christopher Reeve"
+  ""We are all different. Don't judge, understand instead." — Roy T. Bennett"
 </em></p>
 
 ---
