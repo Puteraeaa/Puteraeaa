@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound." — James Allen"
+  ""There is a difference between giving directions and giving direction." — Simon Sinek"
 </em></p>
 
 ---
