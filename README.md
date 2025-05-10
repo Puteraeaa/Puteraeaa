@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart." — Roy T. Bennett"
+  ""The first step is to establish that something is possible; then probability will occur." — Elon Musk"
 </em></p>
 
 ---
