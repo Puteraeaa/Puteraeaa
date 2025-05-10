@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nature does not hurry, yet everything is accomplished." — Lao Tzu"
+  ""Your next step is simple. You are the first domino." — Gary Keller"
 </em></p>
 
 ---
