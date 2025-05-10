@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Open your eyes and look within. Are you satisfied with the life you're living?" — Bob Marley"
+  ""Success is never final; failure is never fatal." — Conrad Hilton"
 </em></p>
 
 ---
