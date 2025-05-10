@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy"
+  ""Open your eyes and look within. Are you satisfied with the life you're living?" — Bob Marley"
 </em></p>
 
 ---
