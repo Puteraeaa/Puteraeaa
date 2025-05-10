@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you give, the more comes back to you." — Napoleon Hill"
+  ""Engage in those actions and thoughts that nurture the good qualities you want to have." — Paramahansa Yogananda"
 </em></p>
 
 ---
