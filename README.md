@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trying to define yourself is like trying to bite your own teeth." — Zen Proverb"
+  ""Everyone wants to go to Heaven, but no one wants to die." — Robert Kiyosaki"
 </em></p>
 
 ---
