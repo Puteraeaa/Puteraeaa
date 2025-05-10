@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A mistake is only an error, it becomes a mistake when you fail to correct it." — John Lennon"
+  ""We may not be able to stop evil in the world, but how we treat one another is entirely up to us." — Barack Obama"
 </em></p>
 
 ---
