@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself." — Alexander Graham Bell"
+  ""Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." — Steve Maraboli"
 </em></p>
 
 ---
