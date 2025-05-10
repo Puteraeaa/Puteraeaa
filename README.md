@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have a brain and mind of your own. Use it, and reach your own decisions." — Napoleon Hill"
+  ""Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." — Zen Proverb"
 </em></p>
 
 ---
