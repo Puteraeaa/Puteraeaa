@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most people fail in life not because they aim too high and miss, but because they aim too low and hit." — Les Brown"
+  ""It's necessary to get the losers out of your life if you want to live your dream." — Les Brown"
 </em></p>
 
 ---
