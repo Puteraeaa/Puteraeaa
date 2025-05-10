@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Engage in those actions and thoughts that nurture the good qualities you want to have." — Paramahansa Yogananda"
+  ""A hero is an ordinary person doing things in an extra ordinary way." — Christopher Reeve"
 </em></p>
 
 ---
