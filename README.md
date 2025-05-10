@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Children are our greatest natural resource." — Herbert Hoover"
+  ""You have a brain and mind of your own. Use it, and reach your own decisions." — Napoleon Hill"
 </em></p>
 
 ---
