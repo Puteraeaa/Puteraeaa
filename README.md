@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Chop your own wood and it will warm you twice. " — Henry Ford"
+  ""Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve"
 </em></p>
 
 ---
