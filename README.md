@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive." — Joan Rivers"
+  ""Simple words, repeated daily, can change your life." — Maxime Lagace"
 </em></p>
 
 ---
