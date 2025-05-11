@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wishing to be friends is quick work, but friendship is a slow ripening fruit." — Aristotle"
+  ""Sometimes it is harder to deprive oneself of a pain than of a pleasure." — F. Scott Fitzgerald"
 </em></p>
 
 ---
