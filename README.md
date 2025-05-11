@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Definitions belong to the definers, not the defined." — Toni Morrison"
+  ""Tomorrow is only found in the calendar of fools." — Og Mandino"
 </em></p>
 
 ---
