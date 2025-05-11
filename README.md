@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends." — Deepak Chopra"
+  ""No matter how tall the mountain is, it cannot block the sun." — Chinese Proverb"
 </em></p>
 
 ---
