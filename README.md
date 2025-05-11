@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose." — Dr. Seuss"
+  ""Weeds are flowers too, once you get to know them." — A.A. Milne"
 </em></p>
 
 ---
