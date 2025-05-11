@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer"
+  ""Chop your own wood and it will warm you twice. " — Henry Ford"
 </em></p>
 
 ---
