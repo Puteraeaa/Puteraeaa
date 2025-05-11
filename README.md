@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett"
+  ""They who have conquered doubt and fear have conquered failure." — James Allen"
 </em></p>
 
 ---
