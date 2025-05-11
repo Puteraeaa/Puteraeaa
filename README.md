@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes it is harder to deprive oneself of a pain than of a pleasure." — F. Scott Fitzgerald"
+  ""No idea, no matter how good, will work if it doesn't get used." — Peter A. Cohen"
 </em></p>
 
 ---
