@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't stumble over something that's behind you." — Steve Harvey"
+  ""Truth is exact correspondence with reality. " — Paramahansa Yogananda"
 </em></p>
 
 ---
