@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No idea, no matter how good, will work if it doesn't get used." — Peter A. Cohen"
+  ""The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett"
 </em></p>
 
 ---
