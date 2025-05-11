@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is not a goal...it's a by-product of a life well lived." — Eleanor Roosevelt"
+  ""Don't stumble over something that's behind you." — Steve Harvey"
 </em></p>
 
 ---
