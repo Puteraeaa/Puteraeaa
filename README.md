@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is your attitude, not your aptitude, that determines your altitude." — Zig Ziglar"
+  ""Follow the man who seeks the truth; run from the man who has found it." — Vaclav Havel"
 </em></p>
 
 ---
