@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowledge is a treasure, but practice is the key to it." — Lao Tzu"
+  ""I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive." — Joan Rivers"
 </em></p>
 
 ---
