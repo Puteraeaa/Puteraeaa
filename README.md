@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to offer no excuse than a bad one. " — George Washington"
+  ""Happiness is not a goal...it's a by-product of a life well lived." — Eleanor Roosevelt"
 </em></p>
 
 ---
