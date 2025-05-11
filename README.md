@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities." — Charles Dickens"
+  ""It is your attitude, not your aptitude, that determines your altitude." — Zig Ziglar"
 </em></p>
 
 ---
