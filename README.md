@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""None are more hopelessly enslaved than those who falsely believe they are free." — Johann Wolfgang von Goethe"
+  ""For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter." — Celestine Chua"
 </em></p>
 
 ---
