@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Simple words, repeated daily, can change your life." — Maxime Lagace"
+  ""We can have more than we've got because we can become more than we are." — Jim Rohn"
 </em></p>
 
 ---
