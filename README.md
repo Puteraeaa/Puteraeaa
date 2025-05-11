@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tomorrow is only found in the calendar of fools." — Og Mandino"
+  ""Simple words, repeated daily, can change your life." — Maxime Lagace"
 </em></p>
 
 ---
