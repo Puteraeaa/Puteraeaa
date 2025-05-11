@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter how tall the mountain is, it cannot block the sun." — Chinese Proverb"
+  ""Knowledge is a treasure, but practice is the key to it." — Lao Tzu"
 </em></p>
 
 ---
