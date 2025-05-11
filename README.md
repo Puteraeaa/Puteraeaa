@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must create our own world or we will die from inaction." — Robert Greene"
+  ""It is better to offer no excuse than a bad one. " — George Washington"
 </em></p>
 
 ---
