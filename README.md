@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is exact correspondence with reality. " — Paramahansa Yogananda"
+  ""The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends." — Deepak Chopra"
 </em></p>
 
 ---
