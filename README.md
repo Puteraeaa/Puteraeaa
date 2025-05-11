@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""They who have conquered doubt and fear have conquered failure." — James Allen"
+  ""Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford"
 </em></p>
 
 ---
