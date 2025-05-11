@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We've got to live, no matter how many skies have fallen." — D. H. Lawrence"
+  ""The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer"
 </em></p>
 
 ---
