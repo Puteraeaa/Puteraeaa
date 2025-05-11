@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve"
+  ""Wishing to be friends is quick work, but friendship is a slow ripening fruit." — Aristotle"
 </em></p>
 
 ---
