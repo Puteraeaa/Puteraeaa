@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only thing we have to fear is fear itself." — Franklin D. Roosevelt"
+  ""You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose." — Dr. Seuss"
 </em></p>
 
 ---
