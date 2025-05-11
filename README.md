@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Without the rain there would be no rainbow." — Gilbert Chesterton"
+  ""Write to help yourself, publish to help others." — Jack Butcher"
 </em></p>
 
 ---
