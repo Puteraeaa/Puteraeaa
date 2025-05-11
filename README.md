@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you set your goals ridiculously high and its a failure, you will fail above everyone elses success." — James Cameron"
+  ""The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities." — Charles Dickens"
 </em></p>
 
 ---
