@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All leaders are readers." — Jim Rohn"
+  ""None are more hopelessly enslaved than those who falsely believe they are free." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
