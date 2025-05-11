@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Beware of false knowledge, it is more dangerous than ignorance." — George Bernard Shaw"
+  ""All leaders are readers." — Jim Rohn"
 </em></p>
 
 ---
