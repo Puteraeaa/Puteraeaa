@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter." — Celestine Chua"
+  ""We must create our own world or we will die from inaction." — Robert Greene"
 </em></p>
 
 ---
