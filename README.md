@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop being tormented by everyone else's reaction to you." — Joyce Meyer"
+  ""Rivers know this: there is no hurry. We shall get there some day." — A.A. Milne"
 </em></p>
 
 ---
