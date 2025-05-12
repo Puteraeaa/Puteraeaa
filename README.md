@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Without the confidence, nothing can be accomplished." — Sathya Sai Baba"
+  ""When you're the only sane person, you look like the only insane person." — Criss Jami"
 </em></p>
 
 ---
