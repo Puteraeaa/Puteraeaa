@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligence is the ability to adapt to change." — Stephen Hawking"
+  ""Sometimes, the only way to evolve is to open ourselves fully." — Kamal Ravikant"
 </em></p>
 
 ---
