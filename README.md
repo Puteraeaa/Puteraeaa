@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." — Robert Greene"
+  ""You can live a whole life time never being awake." — Dan Millman"
 </em></p>
 
 ---
