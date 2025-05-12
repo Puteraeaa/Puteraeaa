@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who wishes to be obeyed must know how to command." — Niccolo Machiavelli"
+  ""Those who seek the easy way do not seek the true way." — Dogen"
 </em></p>
 
 ---
