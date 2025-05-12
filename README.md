@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every drop in the ocean counts. " — Yoko Ono"
+  ""A very little key will open a very heavy door." — Charles Dickens"
 </em></p>
 
 ---
