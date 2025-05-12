@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not the men in your life that matters, it's the life in your men." — Mae West"
+  ""The quieter you become, the more you are able to hear." — Rumi"
 </em></p>
 
 ---
