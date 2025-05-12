@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you're the only sane person, you look like the only insane person." — Criss Jami"
+  ""Problems remain as problems because people are busy defending them rather than finding solutions." — Celestine Chua"
 </em></p>
 
 ---
