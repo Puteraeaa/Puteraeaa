@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest test of courage on earth is to bear defeat without losing heart." — Robert Greene"
+  ""There is no significance in life without struggle." — Lolly Daskal"
 </em></p>
 
 ---
