@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is the progressive realization of a worthy goal or ideal." — Earl Nightingale"
+  ""I'd rather welcome change than cling to the past." — Robert Kiyosaki"
 </em></p>
 
 ---
