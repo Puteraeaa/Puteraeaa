@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are far from the enemy, make him believe you are near." — Sun Tzu"
+  ""All great truths begin as blasphemies." — George Bernard Shaw"
 </em></p>
 
 ---
