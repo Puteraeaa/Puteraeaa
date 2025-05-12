@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember, today is the tomorrow you worried about yesterday." — Dale Carnegie"
+  ""Insanity is relative. It depends on who has who locked in what cage.  " — Ray Bradbury"
 </em></p>
 
 ---
