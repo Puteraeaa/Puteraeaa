@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one ever is defeated until defeat has been accepted as a reality." — Napoleon Hill"
+  ""Admire as much as you can. Most people do not admire enough." — Vincent van Gogh"
 </em></p>
 
 ---
