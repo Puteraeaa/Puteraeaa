@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who seek the easy way do not seek the true way." — Dogen"
+  ""Work harder on yourself than you do on your job." — Jim Rohn"
 </em></p>
 
 ---
