@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Admire as much as you can. Most people do not admire enough." — Vincent van Gogh"
+  ""Intelligence is the ability to adapt to change." — Stephen Hawking"
 </em></p>
 
 ---
