@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All great truths begin as blasphemies." — George Bernard Shaw"
+  ""Never whine, never complain, never try to justify yourself." — Robert Greene"
 </em></p>
 
 ---
