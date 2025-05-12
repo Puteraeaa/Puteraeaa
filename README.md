@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is more creative...nor destructive...than a brilliant mind with a purpose." — Dan Brown"
+  ""Fools resist. The wise embrace." — Maxime Lagace"
 </em></p>
 
 ---
