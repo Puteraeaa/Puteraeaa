@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life has the name of life, but in reality it is death." — Heraclitus"
+  ""When at last you are come to the ocean of happiness, do not go back thirsty." — Kabir"
 </em></p>
 
 ---
