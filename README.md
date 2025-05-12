@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When at last you are come to the ocean of happiness, do not go back thirsty." — Kabir"
+  ""Opportunities don't often come along. So, when they do, you have to grab them." — Audrey Hepburn"
 </em></p>
 
 ---
