@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quieter you become, the more you are able to hear." — Rumi"
+  ""No one ever is defeated until defeat has been accepted as a reality." — Napoleon Hill"
 </em></p>
 
 ---
