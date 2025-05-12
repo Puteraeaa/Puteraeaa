@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunities don't often come along. So, when they do, you have to grab them." — Audrey Hepburn"
+  ""Without the confidence, nothing can be accomplished." — Sathya Sai Baba"
 </em></p>
 
 ---
