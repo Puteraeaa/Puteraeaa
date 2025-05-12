@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I'd rather welcome change than cling to the past." — Robert Kiyosaki"
+  ""No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung"
 </em></p>
 
 ---
