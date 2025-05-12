@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Problems remain as problems because people are busy defending them rather than finding solutions." — Celestine Chua"
+  ""Life is like playing the violin in public and learning the instrument as one goes on." — Samuel Butler"
 </em></p>
 
 ---
