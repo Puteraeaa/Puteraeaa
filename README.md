@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most people achieved their greatest success one step beyond what looked like their greatest failure." — Brian Tracy"
+  ""Remember, today is the tomorrow you worried about yesterday." — Dale Carnegie"
 </em></p>
 
 ---
