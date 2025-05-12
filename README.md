@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fools resist. The wise embrace." — Maxime Lagace"
+  ""What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." — Robert Greene"
 </em></p>
 
 ---
