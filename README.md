@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no significance in life without struggle." — Lolly Daskal"
+  ""Most people achieved their greatest success one step beyond what looked like their greatest failure." — Brian Tracy"
 </em></p>
 
 ---
