@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can live a whole life time never being awake." — Dan Millman"
+  ""Alone we can do so little; together we can do so much." — Helen Keller"
 </em></p>
 
 ---
