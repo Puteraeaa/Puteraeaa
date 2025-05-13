@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Working hard for something we don't care about is called stress: Working hard for something we love is called passion." — Simon Sinek"
+  ""I dream my painting and I paint my dream." — Vincent van Gogh"
 </em></p>
 
 ---
