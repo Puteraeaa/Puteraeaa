@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Attitude, not aptitude, determines altitude.  " — Zig Ziglar"
+  ""The smallest of actions is always better than the noblest of intentions." — Robin Sharma"
 </em></p>
 
 ---
