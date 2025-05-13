@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are free, and that is why you are lost. " — Franz Kafka"
+  ""Unless someone truly has the power to say no, they never truly have the power to say yes." — Dan Millman"
 </em></p>
 
 ---
