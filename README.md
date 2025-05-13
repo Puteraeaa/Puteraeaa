@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  " — Estee Lauder"
+  ""Life is a journey, not a destination." — Dan Millman"
 </em></p>
 
 ---
