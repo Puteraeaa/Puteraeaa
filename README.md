@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What the mind can conceive and believe, and the heart desire, you can achieve." — Norman Vincent Peale"
+  ""Debt is the slavery of the free." — Publilius Syrus"
 </em></p>
 
 ---
