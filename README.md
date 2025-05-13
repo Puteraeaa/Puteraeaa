@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never allow a person to tell you no who doesn't have the power to say yes." — Eleanor Roosevelt"
+  ""There is always risk, so learn to manage risk instead of avoiding it." — Robert Kiyosaki"
 </em></p>
 
 ---
