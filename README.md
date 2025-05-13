@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is always risk, so learn to manage risk instead of avoiding it." — Robert Kiyosaki"
+  ""You are free, and that is why you are lost. " — Franz Kafka"
 </em></p>
 
 ---
