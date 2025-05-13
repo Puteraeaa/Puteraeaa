@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is more real than nothing." — Samuel Beckett"
+  ""Choose to be optimistic, it feels better." — Dalai Lama"
 </em></p>
 
 ---
