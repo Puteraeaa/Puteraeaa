@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's wise to tell the truth. It's even wiser to tell it kindly." — Maxime Lagace"
+  ""Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." — Charles Dickens"
 </em></p>
 
 ---
