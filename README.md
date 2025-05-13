@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever your mind can conceive and believe, it can achieve." — Napoleon Hill"
+  ""If you correct your mind, the rest of your life will fall into place." — Lao Tzu"
 </em></p>
 
 ---
