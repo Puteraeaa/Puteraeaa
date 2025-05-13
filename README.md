@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The smallest of actions is always better than the noblest of intentions." — Robin Sharma"
+  ""To lose your temper is only useful once a year." — Colin R. Davis"
 </em></p>
 
 ---
