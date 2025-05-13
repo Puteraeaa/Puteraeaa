@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True life is lived when tiny changes occur." — Leo Tolstoy"
+  ""Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — Colin Powell"
 </em></p>
 
 ---
