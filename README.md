@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our attitude toward life determines life's attitude towards us." — Earl Nightingale"
+  ""Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  " — Estee Lauder"
 </em></p>
 
 ---
