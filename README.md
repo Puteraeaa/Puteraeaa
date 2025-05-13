@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " — Nikola Tesla"
+  ""Nothing brings down walls as surely as acceptance." — Deepak Chopra"
 </em></p>
 
 ---
