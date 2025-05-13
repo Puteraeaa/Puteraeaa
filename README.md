@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing brings down walls as surely as acceptance." — Deepak Chopra"
+  ""What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people." — Jack Butcher"
 </em></p>
 
 ---
