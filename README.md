@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Behind every beautiful thing, there's some kind of pain." — Bob Dylan"
+  ""Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love." — Morihei Ueshiba"
 </em></p>
 
 ---
