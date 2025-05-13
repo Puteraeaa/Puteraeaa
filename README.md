@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love." — Morihei Ueshiba"
+  ""The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." — Naval Ravikant"
 </em></p>
 
 ---
