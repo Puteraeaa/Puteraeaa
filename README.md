@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life may be full of pain but that's not an excuse to give up." — Arnold Schwarzenegger"
+  ""Never allow a person to tell you no who doesn't have the power to say yes." — Eleanor Roosevelt"
 </em></p>
 
 ---
