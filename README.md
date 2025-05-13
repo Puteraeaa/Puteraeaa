@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To lose your temper is only useful once a year." — Colin R. Davis"
+  ""Kindness is a language which the deaf can hear and the blind can see." — Mark Twain"
 </em></p>
 
 ---
