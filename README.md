@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people." — Jack Butcher"
+  ""Whatever your mind can conceive and believe, it can achieve." — Napoleon Hill"
 </em></p>
 
 ---
