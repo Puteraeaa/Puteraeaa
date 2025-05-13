@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners." — Nicolas Chamfort"
+  ""It's wise to tell the truth. It's even wiser to tell it kindly." — Maxime Lagace"
 </em></p>
 
 ---
