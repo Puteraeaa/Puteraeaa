@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who has overcome his fears will truly be free." — Aristotle"
+  ""True life is lived when tiny changes occur." — Leo Tolstoy"
 </em></p>
 
 ---
