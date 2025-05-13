@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Unless someone truly has the power to say no, they never truly have the power to say yes." — Dan Millman"
+  ""There is a difference between giving directions and giving direction." — Simon Sinek"
 </em></p>
 
 ---
