@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A leader is one who knows the way, goes the way, and shows the way." — Unknown"
+  ""Why live an ordinary life, when you can live an extraordinary one." — Tony Robbins"
 </em></p>
 
 ---
