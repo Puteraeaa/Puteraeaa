@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa"
+  ""Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " — Nikola Tesla"
 </em></p>
 
 ---
