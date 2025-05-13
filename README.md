@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone sees what you appear to be, few experience what you really are." — Niccolo Machiavelli"
+  ""A leader is one who knows the way, goes the way, and shows the way." — Unknown"
 </em></p>
 
 ---
