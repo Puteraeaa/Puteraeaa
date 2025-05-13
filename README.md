@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you know, the more you know you don't know." — Aristotle"
+  ""Absurdity is the ecstasy of intellectualism." — Criss Jami"
 </em></p>
 
 ---
