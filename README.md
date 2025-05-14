@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." — Brian Tracy"
+  ""Do not take life too seriously. You will never get out of it alive." — Elbert Hubbard"
 </em></p>
 
 ---
