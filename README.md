@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Get busy living, or get busy dying." — Stephen King"
+  ""Never argue with ignorance. It only leads to frustration." — Unknown"
 </em></p>
 
 ---
