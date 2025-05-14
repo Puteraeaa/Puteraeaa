@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't wish it were easier, wish you were better." — Jim Rohn"
+  ""Longevity is a fleeting moment that lasts forever." — Vidal Sassoon"
 </em></p>
 
 ---
