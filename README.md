@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A rational person can find peace by cultivating indifference to things outside of their control." — Naval Ravikant"
+  ""People spend too much time doing and not enough time thinking about what they should be doing." — Naval Ravikant"
 </em></p>
 
 ---
