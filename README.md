@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The pain of parting is nothing to the joy of meeting again." — Charles Dickens"
+  ""The best way to understanding is a few good examples." — Isaac Newton"
 </em></p>
 
 ---
