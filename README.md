@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being." — Anita Krizzan"
+  ""Mastering others is strength, mastering yourself is true power." — Lao Tzu"
 </em></p>
 
 ---
