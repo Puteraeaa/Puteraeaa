@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future is the worst thing about the present." — Gustave Flaubert"
+  ""A lot of people have gone further than they thought they could because someone else thought they could." — Zig Ziglar"
 </em></p>
 
 ---
