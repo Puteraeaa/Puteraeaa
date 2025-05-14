@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A lot of people have gone further than they thought they could because someone else thought they could." — Zig Ziglar"
+  ""Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." — Earl Nightingale"
 </em></p>
 
 ---
