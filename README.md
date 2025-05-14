@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Attitude is a little thing that makes a big difference." — Winston Churchill"
+  ""Get busy living, or get busy dying." — Stephen King"
 </em></p>
 
 ---
