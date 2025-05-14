@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never argue with ignorance. It only leads to frustration." — Unknown"
+  ""We meet ourselves time and again in a thousand disguises on the path of life." — Carl Jung"
 </em></p>
 
 ---
