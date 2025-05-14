@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino"
+  ""You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being." — Anita Krizzan"
 </em></p>
 
 ---
