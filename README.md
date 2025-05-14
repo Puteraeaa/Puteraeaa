@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A good system shortens the road to the goal. " — Orison Swett Marden"
+  ""A rational person can find peace by cultivating indifference to things outside of their control." — Naval Ravikant"
 </em></p>
 
 ---
