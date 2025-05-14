@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greater the impact you want to make, the greater your influence needs to be." — Lolly Daskal"
+  ""You'll get more from being a peacemaker than a warrior." — Arnold Schwarzenegger"
 </em></p>
 
 ---
