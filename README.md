@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best way to understanding is a few good examples." — Isaac Newton"
+  ""You can, you should, and if you're brave enough to start, you will." — Stephen King"
 </em></p>
 
 ---
