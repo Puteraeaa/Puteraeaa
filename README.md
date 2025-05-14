@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The biggest challenge after success is shutting up about it." — Criss Jami"
+  ""Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino"
 </em></p>
 
 ---
