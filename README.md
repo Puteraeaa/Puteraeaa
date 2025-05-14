@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Decide upon your major definite purpose in life and then organize all your activities around it." — Brian Tracy"
+  ""Any game becomes important when you know and love the players." — W.P. Kinsella"
 </em></p>
 
 ---
