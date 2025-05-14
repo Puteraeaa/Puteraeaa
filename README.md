@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A person is only by the thoughts that he chooses." — James Allen"
+  ""Decide upon your major definite purpose in life and then organize all your activities around it." — Brian Tracy"
 </em></p>
 
 ---
