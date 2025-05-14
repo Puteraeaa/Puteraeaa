@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Longevity is a fleeting moment that lasts forever." — Vidal Sassoon"
+  ""The future is the worst thing about the present." — Gustave Flaubert"
 </em></p>
 
 ---
