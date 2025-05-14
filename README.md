@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Far and away the best prize that life has to offer is the chance to work hard at work worth doing." — Theodore Roosevelt"
+  ""It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone." — Kahlil Gibran"
 </em></p>
 
 ---
