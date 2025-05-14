@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction." — Criss Jami"
+  ""The pain of parting is nothing to the joy of meeting again." — Charles Dickens"
 </em></p>
 
 ---
