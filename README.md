@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You need a plan to build a house. To build a life, it is even more important to have a plan or goal." — Zig Ziglar"
+  ""The greater the impact you want to make, the greater your influence needs to be." — Lolly Daskal"
 </em></p>
 
 ---
