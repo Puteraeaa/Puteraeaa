@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You'll get more from being a peacemaker than a warrior." — Arnold Schwarzenegger"
+  ""Life has no limitations except the ones you make." — Les Brown"
 </em></p>
 
 ---
