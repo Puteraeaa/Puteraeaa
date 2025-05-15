@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can handle rejection, you'll learn to get everything you want." — Tony Robbins"
+  ""All animals except man know that the principal business of life is to enjoy it." — Samuel Butler"
 </em></p>
 
 ---
