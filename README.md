@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no significance in life without struggle." — Lolly Daskal"
+  ""Never feel shame for trying and failing, for he who has never failed is he who has never tried." — Og Mandino"
 </em></p>
 
 ---
