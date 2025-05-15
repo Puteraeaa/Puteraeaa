@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore"
+  ""If you done it, it ain't bragging." — Walt Whitman"
 </em></p>
 
 ---
