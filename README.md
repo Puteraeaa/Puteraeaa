@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't explain your philosophy. Embody it." — Epictetus"
+  ""If you can handle rejection, you'll learn to get everything you want." — Tony Robbins"
 </em></p>
 
 ---
