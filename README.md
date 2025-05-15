@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Turn off your mind, relax, and float downstream." — John Lennon"
+  ""It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." — Sun Tzu"
 </em></p>
 
 ---
