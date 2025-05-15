@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always remember that you are absolutely unique. Just like everyone else. " — Margaret Mead"
+  ""Never argue with ignorance. It only leads to frustration." — Unknown"
 </em></p>
 
 ---
