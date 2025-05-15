@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never argue with ignorance. It only leads to frustration." — Unknown"
+  ""We have a duty to maintain the light of consciousness to make sure it continues into the future." — Elon Musk"
 </em></p>
 
 ---
