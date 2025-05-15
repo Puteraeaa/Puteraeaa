@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place." — Richard Bach"
+  ""If no one ever broke the rules, then we'd never advance." — Simon Sinek"
 </em></p>
 
 ---
