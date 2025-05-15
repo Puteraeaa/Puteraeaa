@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  " — David Brinkley"
+  ""Don't waste time on excuses. Just get it done." — Ralph Marston"
 </em></p>
 
 ---
