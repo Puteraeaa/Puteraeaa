@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep others in suspense, cultivate an air of unpredictability." — Robert Greene"
+  ""There is no significance in life without struggle." — Lolly Daskal"
 </em></p>
 
 ---
