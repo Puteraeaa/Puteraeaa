@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He will win who knows when to fight and when not to fight." — Sun Tzu"
+  ""I've always tried to go a step past wherever people expected me to end up." — Beverly Sills"
 </em></p>
 
 ---
