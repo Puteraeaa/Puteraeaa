@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Light a candle instead of cursing the darkness." — Eleanor Roosevelt"
+  ""Life is like riding a bicycle. To keep your balance you must keep moving." — Albert Einstein"
 </em></p>
 
 ---
