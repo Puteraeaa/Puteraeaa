@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I never said it would be easy, I only said it would be worth it." — Mae West"
+  ""What do we live for, if it is not to make life less difficult for each other?" — George Eliot"
 </em></p>
 
 ---
