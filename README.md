@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trust is built and maintained by many small actions over time." — Lolly Daskal"
+  ""Science can flourish only in an atmosphere of free speech. " — Albert Einstein"
 </em></p>
 
 ---
