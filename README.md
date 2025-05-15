@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more we have the less we own." — Meister Eckhart"
+  ""Nothing makes a man broad-minded like adversity." — Will Rogers"
 </em></p>
 
 ---
