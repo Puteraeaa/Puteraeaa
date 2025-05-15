@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Science can flourish only in an atmosphere of free speech. " — Albert Einstein"
+  ""He will win who knows when to fight and when not to fight." — Sun Tzu"
 </em></p>
 
 ---
