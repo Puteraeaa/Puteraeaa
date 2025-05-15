@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you pray for rain, be prepared to deal with some mud." — Mary Engelbreit"
+  ""A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  " — David Brinkley"
 </em></p>
 
 ---
