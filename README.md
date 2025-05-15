@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Unless a man is master of his soul, all other kinds of mastery amount to little." — Theodore Roosevelt"
+  ""Always remember that you are absolutely unique. Just like everyone else. " — Margaret Mead"
 </em></p>
 
 ---
