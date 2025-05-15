@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you are tempted to give up, your breakthrough is probably just around the corner." — Joyce Meyer"
+  ""The more we have the less we own." — Meister Eckhart"
 </em></p>
 
 ---
