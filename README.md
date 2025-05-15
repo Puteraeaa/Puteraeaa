@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To the mind that is still, the whole universe surrenders." — Lao Tzu"
+  ""When I let go of what I am, I become what I might be." — Lao Tzu"
 </em></p>
 
 ---
