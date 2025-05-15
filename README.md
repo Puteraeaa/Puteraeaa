@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""How many times do you have to get hit over the head until you figure out who's hitting you?" — Harry S. Truman"
+  ""Throw your heart over the bar and your body will follow." — Norman Vincent Peale"
 </em></p>
 
 ---
