@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When I let go of what I am, I become what I might be." — Lao Tzu"
+  ""I never said it would be easy, I only said it would be worth it." — Mae West"
 </em></p>
 
 ---
