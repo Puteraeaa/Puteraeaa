@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I've always tried to go a step past wherever people expected me to end up." — Beverly Sills"
+  ""Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place." — Richard Bach"
 </em></p>
 
 ---
