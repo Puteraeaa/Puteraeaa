@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great things are not done by impulse, but by a series of small things brought together." — Vincent van Gogh"
+  ""It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore"
 </em></p>
 
 ---
