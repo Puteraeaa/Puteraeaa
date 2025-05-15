@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If no one ever broke the rules, then we'd never advance." — Simon Sinek"
+  ""The more acquaintances you have, the less you know them." — Chinese Proverb"
 </em></p>
 
 ---
