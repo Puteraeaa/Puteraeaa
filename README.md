@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We have a duty to maintain the light of consciousness to make sure it continues into the future." — Elon Musk"
+  ""To the mind that is still, the whole universe surrenders." — Lao Tzu"
 </em></p>
 
 ---
