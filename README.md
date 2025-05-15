@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a traveling to the edge of knowledge, then a leap taken." — D. H. Lawrence"
+  ""When you are tempted to give up, your breakthrough is probably just around the corner." — Joyce Meyer"
 </em></p>
 
 ---
