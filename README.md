@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throw your heart over the bar and your body will follow." — Norman Vincent Peale"
+  ""Keep others in suspense, cultivate an air of unpredictability." — Robert Greene"
 </em></p>
 
 ---
