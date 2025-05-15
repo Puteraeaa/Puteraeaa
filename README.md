@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What do we live for, if it is not to make life less difficult for each other?" — George Eliot"
+  ""Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present." — Joan Rivers"
 </em></p>
 
 ---
