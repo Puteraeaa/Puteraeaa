@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." — Sun Tzu"
+  ""Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found." — Alexander Pope"
 </em></p>
 
 ---
