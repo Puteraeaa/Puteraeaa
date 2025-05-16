@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again." — Og Mandino"
+  ""Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence." — Sydney Smith"
 </em></p>
 
 ---
