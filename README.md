@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " — Steve Jobs"
+  ""He who fails to plan, plans to fail." — Unknown"
 </em></p>
 
 ---
