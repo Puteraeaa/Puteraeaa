@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are not stuck where you are unless you decide to be.  " — Wayne Dyer"
+  ""Zen insists that the whole trouble is just our failure to realize that there is no problem." — Bruce Lee"
 </em></p>
 
 ---
