@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want something new, you have to stop doing something old." — Peter Drucker"
+  ""Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again." — Og Mandino"
 </em></p>
 
 ---
