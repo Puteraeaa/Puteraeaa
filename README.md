@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a gift. Never forget to enjoy and bask in every moment you are in." — Celestine Chua"
+  ""Raise your words, not voice. It is rain that grows flowers, not thunder." — Rumi"
 </em></p>
 
 ---
