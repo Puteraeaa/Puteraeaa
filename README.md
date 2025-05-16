@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You need a plan to build a house. To build a life, it is even more important to have a plan or goal." — Zig Ziglar"
+  ""We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right." — Sonia Ricotti"
 </em></p>
 
 ---
