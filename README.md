@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Get mad, then get over it." — Colin Powell"
+  ""You are not stuck where you are unless you decide to be.  " — Wayne Dyer"
 </em></p>
 
 ---
