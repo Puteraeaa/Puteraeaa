@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The price of inaction is far greater than the cost of making a mistake." — Meister Eckhart"
+  ""Your happiness is what truly matters most. Do what you have to do in order to be happy." — Brian Tracy"
 </em></p>
 
 ---
