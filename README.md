@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do not push the boundaries, you will never know where they are." — T.S. Eliot"
+  ""Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. " — Lao Tzu"
 </em></p>
 
 ---
