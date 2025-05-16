@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Smile, breathe and go slowly." — Thich Nhat Hanh"
+  ""If you want something new, you have to stop doing something old." — Peter Drucker"
 </em></p>
 
 ---
