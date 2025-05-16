@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Find something you love and do it better than everyone else." — Gurbaksh Chahal"
+  ""First learn the meaning of what you say, and then speak." — Epictetus"
 </em></p>
 
 ---
