@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no such thing as a great talent without great willpower." — Honore de Balzac"
+  ""Nature is pleased with simplicity. And nature is no dummy." — Isaac Newton"
 </em></p>
 
 ---
