@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence." — Sydney Smith"
+  ""The two most important days in your life are the day you are born and the day you find out why." — Mark Twain"
 </em></p>
 
 ---
