@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your happiness is what truly matters most. Do what you have to do in order to be happy." — Brian Tracy"
+  ""You need a plan to build a house. To build a life, it is even more important to have a plan or goal." — Zig Ziglar"
 </em></p>
 
 ---
