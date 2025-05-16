@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Someday death will take us to another star." — Vincent van Gogh"
+  ""A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." — Harry S. Truman"
 </em></p>
 
 ---
