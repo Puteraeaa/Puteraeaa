@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." — Richard Bach"
+  ""Better to light a candle than to curse the darkness. " — Chinese Proverb"
 </em></p>
 
 ---
