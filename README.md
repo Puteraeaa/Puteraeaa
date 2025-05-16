@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday." — Jonathan Swift"
+  ""Confidence breeds beauty.  " — Estee Lauder"
 </em></p>
 
 ---
