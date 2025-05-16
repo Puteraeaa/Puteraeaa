@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you chase two rabbits, you catch none." — Confucius"
+  ""Do not follow the ideas of others, but learn to listen to the voice within yourself." — Dogen"
 </em></p>
 
 ---
