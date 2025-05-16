@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one ever is defeated until defeat has been accepted as a reality." — Napoleon Hill"
+  ""It's your life-but only if you make it so." — Eleanor Roosevelt"
 </em></p>
 
 ---
