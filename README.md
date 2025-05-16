@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't get to a place that you don't believe exists." — Unknown"
+  ""No one ever is defeated until defeat has been accepted as a reality." — Napoleon Hill"
 </em></p>
 
 ---
