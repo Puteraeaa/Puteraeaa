@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right." — Sonia Ricotti"
+  ""If you do not push the boundaries, you will never know where they are." — T.S. Eliot"
 </em></p>
 
 ---
