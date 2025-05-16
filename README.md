@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is not something outside to be discovered, it is something inside to be realized." — Osho"
+  ""Get mad, then get over it." — Colin Powell"
 </em></p>
 
 ---
