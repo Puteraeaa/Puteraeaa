@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success does not consist in never making mistakes but in never making the same one a second time." — George Bernard Shaw"
+  ""A golden cage is still just a cage." — Anita Krizzan"
 </em></p>
 
 ---
