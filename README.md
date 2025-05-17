@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe you can and you're halfway there." — Theodore Roosevelt"
+  ""Reality is the leading cause of stress among those in touch with it." — Lily Tomlin"
 </em></p>
 
 ---
