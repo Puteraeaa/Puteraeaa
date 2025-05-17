@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be royal in your own fashion: act like a king to be treated like one." — Robert Greene"
+  ""Optimism is the one quality more associated with success and happiness than any other." — Brian Tracy"
 </em></p>
 
 ---
