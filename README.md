@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only by attracting the best people will you accomplish great deeds." — Colin Powell"
+  ""Passion creates, addiction consumes." — Gabor Mate"
 </em></p>
 
 ---
