@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Try not to become a man of success, but rather try to become a man of value." — Albert Einstein"
+  ""Life can only be understood backwards; but it must be lived forwards." — Soren Kierkegaard"
 </em></p>
 
 ---
