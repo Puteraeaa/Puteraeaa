@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you correct your mind, the rest of your life will fall into place." — Lao Tzu"
+  ""The friend is the man who knows all about you, and still likes you." — Elbert Hubbard"
 </em></p>
 
 ---
