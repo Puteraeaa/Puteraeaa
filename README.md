@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Passion creates, addiction consumes." — Gabor Mate"
+  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
 </em></p>
 
 ---
