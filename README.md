@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar"
+  ""Failure will never overtake me if my determination to succeed is strong enough." — Og Mandino"
 </em></p>
 
 ---
