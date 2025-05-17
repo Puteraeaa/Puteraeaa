@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Associate with people who are likely to improve you.  " — Seneca"
+  ""Luck is what happens when preparation meets opportunity.  " — Seneca"
 </em></p>
 
 ---
