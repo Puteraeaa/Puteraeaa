@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  " — Ray Bradbury"
+  ""Always turn a negative situation into a positive situation." — Michael Jordan"
 </em></p>
 
 ---
