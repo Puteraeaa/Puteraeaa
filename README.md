@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For your life to be great, your faith must be bigger than your fear." — Robin Sharma"
+  ""First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  " — Estee Lauder"
 </em></p>
 
 ---
