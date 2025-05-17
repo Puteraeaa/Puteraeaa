@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We think too much and feel too little." — Charlie Chaplin"
+  ""If a man knows not to which port he sails, no wind is favorable.  " — Seneca"
 </em></p>
 
 ---
