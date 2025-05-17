@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The friend is the man who knows all about you, and still likes you." — Elbert Hubbard"
+  ""For your life to be great, your faith must be bigger than your fear." — Robin Sharma"
 </em></p>
 
 ---
