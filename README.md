@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not follow the ideas of others, but learn to listen to the voice within yourself." — Dogen"
+  ""The way to change others' minds is with affection, and not anger." — Dalai Lama"
 </em></p>
 
 ---
