@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you believe in a thing, believe in it all the way, implicitly and unquestionable." — Walt Disney"
+  ""The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  " — Ray Bradbury"
 </em></p>
 
 ---
