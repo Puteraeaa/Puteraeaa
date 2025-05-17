@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let anyone define you. You define yourself." — Billie Jean King"
+  ""The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." — Stephen Hawking"
 </em></p>
 
 ---
