@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life can only be understood backwards; but it must be lived forwards." — Soren Kierkegaard"
+  ""You may delay, but time will not." — Benjamin Franklin"
 </em></p>
 
 ---
