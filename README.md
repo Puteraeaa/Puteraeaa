@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Reality is the leading cause of stress among those in touch with it." — Lily Tomlin"
+  ""Only by attracting the best people will you accomplish great deeds." — Colin Powell"
 </em></p>
 
 ---
