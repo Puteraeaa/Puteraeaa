@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every poem should remind the reader that they are going to die." — Edgar Allan Poe"
+  ""Only put off until tomorrow what you are willing to die having left undone." — Pablo Picasso"
 </em></p>
 
 ---
