@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." — Stephen Hawking"
+  ""A fool sees himself as another, but a wise man sees others as himself." — Dogen"
 </em></p>
 
 ---
