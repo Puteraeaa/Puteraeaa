@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Faith means believing the unbelievable." — Gilbert Chesterton"
+  ""That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln"
 </em></p>
 
 ---
