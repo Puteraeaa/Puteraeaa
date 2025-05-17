@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Luck is what happens when preparation meets opportunity.  " — Seneca"
+  ""Don't let anyone define you. You define yourself." — Billie Jean King"
 </em></p>
 
 ---
