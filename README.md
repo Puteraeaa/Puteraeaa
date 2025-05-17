@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
+  ""Success does not consist in never making mistakes but in never making the same one a second time." — George Bernard Shaw"
 </em></p>
 
 ---
