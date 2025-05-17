@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Optimism is the one quality more associated with success and happiness than any other." — Brian Tracy"
+  ""All our knowledge has its origins in our perceptions." — Leonardo da Vinci"
 </em></p>
 
 ---
