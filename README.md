@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only put off until tomorrow what you are willing to die having left undone." — Pablo Picasso"
+  ""When you believe in a thing, believe in it all the way, implicitly and unquestionable." — Walt Disney"
 </em></p>
 
 ---
