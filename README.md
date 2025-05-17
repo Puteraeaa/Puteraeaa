@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A fool sees himself as another, but a wise man sees others as himself." — Dogen"
+  ""Try not to become a man of success, but rather try to become a man of value." — Albert Einstein"
 </em></p>
 
 ---
