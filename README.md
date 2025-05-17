@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Reality is nothing but a collective hunch." — Lily Tomlin"
+  ""Attitude is a little thing that makes a big difference." — Winston Churchill"
 </em></p>
 
 ---
