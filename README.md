@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always turn a negative situation into a positive situation." — Michael Jordan"
+  ""Do good by stealth, and blush to find it fame." — Alexander Pope"
 </em></p>
 
 ---
