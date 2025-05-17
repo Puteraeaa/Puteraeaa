@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All our knowledge has its origins in our perceptions." — Leonardo da Vinci"
+  ""Without struggle, no progress and no result. Every breaking of habit produces a change in the machine." — G.I. Gurdjieff"
 </em></p>
 
 ---
