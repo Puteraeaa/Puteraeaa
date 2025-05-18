@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Heal the past, live the present, dream the future." — Mary Engelbreit"
+  ""A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett"
 </em></p>
 
 ---
