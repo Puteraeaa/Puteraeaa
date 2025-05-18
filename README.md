@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest weariness comes from work not done." — Eric Hoffer"
+  ""Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found." — Pema Chodron"
 </em></p>
 
 ---
