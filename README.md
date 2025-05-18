@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our happiness depends on the habit of mind we cultivate." — Norman Vincent Peale"
+  ""As you think, so shall you become. " — Bruce Lee"
 </em></p>
 
 ---
