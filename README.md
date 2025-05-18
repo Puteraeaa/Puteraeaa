@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all like the bright moon, we still have our darker side.  " — Kahlil Gibran"
+  ""Showing off is the fool's idea of glory. " — Bruce Lee"
 </em></p>
 
 ---
