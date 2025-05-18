@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People have the illusion that all over the world, all the time, all kinds of fantastic things are happening." — David Brinkley"
+  ""People who have goals succeed because they know where they're going. It's that simple." — Earl Nightingale"
 </em></p>
 
 ---
