@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can tell more about a person by what he says about others than you can by what others say about him." — Audrey Hepburn"
+  ""Changing minds is harder than finding people who already agree." — Jack Butcher"
 </em></p>
 
 ---
