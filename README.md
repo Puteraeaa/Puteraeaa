@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do good by stealth, and blush to find it fame." — Alexander Pope"
+  ""Success is an iceberg." — Unknown"
 </em></p>
 
 ---
