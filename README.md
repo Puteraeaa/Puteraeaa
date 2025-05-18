@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Either you choose to stay in the shallow end of the pool or you go out into the ocean." — Christopher Reeve"
+  ""The secret of getting ahead is getting started." — Mark Twain"
 </em></p>
 
 ---
