@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The divine is not something high above us. It is in heaven, it is in earth, it is inside us." — Morihei Ueshiba"
+  ""Life is the dancer and you are the dance." — Eckhart Tolle"
 </em></p>
 
 ---
