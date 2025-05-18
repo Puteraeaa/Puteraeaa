@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius"
+  ""The only place where success comes before work is in the dictionary." — Vidal Sassoon"
 </em></p>
 
 ---
