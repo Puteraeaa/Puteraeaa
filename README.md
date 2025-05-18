@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found." — Pema Chodron"
+  ""We are all like the bright moon, we still have our darker side.  " — Kahlil Gibran"
 </em></p>
 
 ---
