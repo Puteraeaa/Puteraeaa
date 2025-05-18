@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live in the sunshine, swim the sea, drink the wild air." — Ralph Waldo Emerson"
+  ""If life were predictable it would cease to be life, and be without flavor." — Eleanor Roosevelt"
 </em></p>
 
 ---
