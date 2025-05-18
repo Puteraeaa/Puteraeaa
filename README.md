@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People who have goals succeed because they know where they're going. It's that simple." — Earl Nightingale"
+  ""Success is stumbling from failure to failure with no loss of enthusiasm." — Winston Churchill"
 </em></p>
 
 ---
