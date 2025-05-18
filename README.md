@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It matters not what someone is born, but what they grow to be." — Albus Dumbledore"
+  ""He is not a lover who does not love forever." — Euripides"
 </em></p>
 
 ---
