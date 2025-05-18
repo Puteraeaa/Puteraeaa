@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truth is rarely pure and never simple. " — Oscar Wilde"
+  ""Better to light a candle than to curse the darkness. " — Chinese Proverb"
 </em></p>
 
 ---
