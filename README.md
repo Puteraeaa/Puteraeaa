@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As you think, so shall you become. " — Bruce Lee"
+  ""The truth is rarely pure and never simple. " — Oscar Wilde"
 </em></p>
 
 ---
