@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is the meaning and the purpose of life, the whole aim and end of human existence." — Aristotle"
+  ""Our happiness depends on the habit of mind we cultivate." — Norman Vincent Peale"
 </em></p>
 
 ---
