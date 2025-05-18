@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Changing minds is harder than finding people who already agree." — Jack Butcher"
+  ""People have the illusion that all over the world, all the time, all kinds of fantastic things are happening." — David Brinkley"
 </em></p>
 
 ---
