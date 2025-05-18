@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Showing off is the fool's idea of glory. " — Bruce Lee"
+  ""There is no truth. There is only perception." — Gustave Flaubert"
 </em></p>
 
 ---
