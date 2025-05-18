@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is achieved and maintained by those who try and keep trying. " — W. Clement Stone"
+  ""Live in the sunshine, swim the sea, drink the wild air." — Ralph Waldo Emerson"
 </em></p>
 
 ---
