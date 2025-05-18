@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience is a bitter plant, but its fruit is sweet." — Chinese Proverb"
+  ""You are the average of the five people you spend the most time with." — Jim Rohn"
 </em></p>
 
 ---
