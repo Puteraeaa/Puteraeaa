@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only place where success comes before work is in the dictionary." — Vidal Sassoon"
+  ""Patience is a bitter plant, but its fruit is sweet." — Chinese Proverb"
 </em></p>
 
 ---
