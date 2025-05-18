@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is the dancer and you are the dance." — Eckhart Tolle"
+  ""Success is achieved and maintained by those who try and keep trying. " — W. Clement Stone"
 </em></p>
 
 ---
