@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no truth. There is only perception." — Gustave Flaubert"
+  ""If you try to micromanage yourself all you're going to do is make yourself miserable." — Naval Ravikant"
 </em></p>
 
 ---
