@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be angry is to revenge the faults of others on ourselves." — Alexander Pope"
+  ""Happiness is the meaning and the purpose of life, the whole aim and end of human existence." — Aristotle"
 </em></p>
 
 ---
