@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be yourself; everyone else is already taken." — Oscar Wilde"
+  ""To be angry is to revenge the faults of others on ourselves." — Alexander Pope"
 </em></p>
 
 ---
