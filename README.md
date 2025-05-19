@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep your dreams, you never know when you might need them." — Carlos Ruiz Zafon"
+  ""Each time we don't say what we wanna say, we're dying." — Yoko Ono"
 </em></p>
 
 ---
