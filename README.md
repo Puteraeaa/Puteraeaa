@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't spend time beating on a wall, hoping to transform it into a door." — Coco Chanel"
+  ""The purpose of life is the expansion of happiness." — Deepak Chopra"
 </em></p>
 
 ---
