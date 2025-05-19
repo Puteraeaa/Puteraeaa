@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." — G.I. Gurdjieff"
+  ""Nothing will work unless you do." — Maya Angelou"
 </em></p>
 
 ---
