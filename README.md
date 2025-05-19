@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One must be deeply aware of the impermanence of the world." — Dogen"
+  ""If you want peace, accept. If you want suffering, expect." — Maxime Lagace"
 </em></p>
 
 ---
