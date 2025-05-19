@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar"
+  ""If you can't feed a hundred people, then feed just one." — Mother Teresa"
 </em></p>
 
 ---
