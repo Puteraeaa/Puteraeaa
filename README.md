@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love never keeps a man from pursuing his destiny." — Paulo Coelho"
+  ""Trust your instincts: my first reaction is almost invariably the right one.  " — Estee Lauder"
 </em></p>
 
 ---
