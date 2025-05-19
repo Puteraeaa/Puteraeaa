@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A bird does not sing because it has an answer. It sings because it has a song." — Chinese Proverb"
+  ""Not everything that weighs you down is yours to carry." — Unknown"
 </em></p>
 
 ---
