@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." — Amelia Earhart"
+  ""Don't spend time beating on a wall, hoping to transform it into a door." — Coco Chanel"
 </em></p>
 
 ---
