@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is difficult to free fools from the chains they revere. " — Voltaire"
+  ""If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you." — Simon Sinek"
 </em></p>
 
 ---
