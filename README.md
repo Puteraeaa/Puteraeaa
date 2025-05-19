@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Comedy = tragedy + time." — Carol Burnett"
+  ""You can have results or excuses, but not both." — Arnold Schwarzenegger"
 </em></p>
 
 ---
