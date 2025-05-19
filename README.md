@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." — Thomas Edison"
+  ""It's not whether you get knocked down, its whether you get back up." — Vince Lombardi"
 </em></p>
 
 ---
