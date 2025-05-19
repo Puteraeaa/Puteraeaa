@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino"
+  ""Keep your dreams, you never know when you might need them." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
