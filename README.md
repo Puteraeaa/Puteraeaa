@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Surrender to what is. Let go of what was. Have faith in what will be." — Sonia Ricotti"
+  ""Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar"
 </em></p>
 
 ---
