@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing will work unless you do." — Maya Angelou"
+  ""There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing." — Morihei Ueshiba"
 </em></p>
 
 ---
