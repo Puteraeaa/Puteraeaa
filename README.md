@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I learned the value of hard work by working hard. " — Margaret Mead"
+  ""This is such a short and precious life that it's really important that you don't spend it being unhappy." — Naval Ravikant"
 </em></p>
 
 ---
