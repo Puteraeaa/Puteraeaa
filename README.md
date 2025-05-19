@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want peace, accept. If you want suffering, expect." — Maxime Lagace"
+  ""I learned the value of hard work by working hard. " — Margaret Mead"
 </em></p>
 
 ---
