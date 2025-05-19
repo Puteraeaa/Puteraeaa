@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who cannot control his words shows that he cannot control himself." — Robert Greene"
+  ""It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have." — Gary Keller"
 </em></p>
 
 ---
