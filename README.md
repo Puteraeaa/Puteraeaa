@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one ever is defeated until defeat has been accepted as a reality." — Napoleon Hill"
+  ""Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." — Thomas Edison"
 </em></p>
 
 ---
