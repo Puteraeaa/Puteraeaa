@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love doesn't need reason. It speaks from the irrational wisdom of the heart." — Deepak Chopra"
+  ""Love is merely the name for the desire and pursuit of the whole." — Aristophanes"
 </em></p>
 
 ---
