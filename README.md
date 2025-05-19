@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love is merely the name for the desire and pursuit of the whole." — Aristophanes"
+  ""The only place success comes before work is in the dictionary." — Vince Lombardi"
 </em></p>
 
 ---
