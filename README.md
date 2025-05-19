@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All men are equal before fish." — Herbert Hoover"
+  ""There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." — G.I. Gurdjieff"
 </em></p>
 
 ---
