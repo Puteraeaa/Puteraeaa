@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trusting our intuition often saves us from disaster. " — Anne Wilson Schaef"
+  ""All men are equal before fish." — Herbert Hoover"
 </em></p>
 
 ---
