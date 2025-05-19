@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each time we don't say what we wanna say, we're dying." — Yoko Ono"
+  ""Surrender to what is. Let go of what was. Have faith in what will be." — Sonia Ricotti"
 </em></p>
 
 ---
