@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more we have the less we own." — Meister Eckhart"
+  ""One must be deeply aware of the impermanence of the world." — Dogen"
 </em></p>
 
 ---
