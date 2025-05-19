@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trust your instincts: my first reaction is almost invariably the right one.  " — Estee Lauder"
+  ""No one ever is defeated until defeat has been accepted as a reality." — Napoleon Hill"
 </em></p>
 
 ---
