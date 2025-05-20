@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There can be no deep disappointment where there is not deep love." — Martin Luther King, Jr."
+  ""Is it really possible to tell someone else what one feels?" — Leo Tolstoy"
 </em></p>
 
 ---
