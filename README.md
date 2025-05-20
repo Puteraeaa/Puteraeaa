@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Lack of emotion causes lack of progress and lack of motivation." — Tony Robbins"
+  ""Never do things others can do and will do if there are things others cannot do or will not do." — Amelia Earhart"
 </em></p>
 
 ---
