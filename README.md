@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The whole of life, from the moment you are born to the moment you die, is a process of learning." — Jiddu Krishnamurti"
+  ""We have a choice everyday regarding the attitude we will embrace for that day." — Charles Swindoll"
 </em></p>
 
 ---
