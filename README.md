@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Kindness is a language which the deaf can hear and the blind can see." — Mark Twain"
+  ""To a mind that is still, the entire universe surrenders." — Zhuangzi"
 </em></p>
 
 ---
