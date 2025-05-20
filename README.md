@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hope is a waking dream." — Aristotle"
+  ""Do your duty and a little more and the future will take care of itself." — Andrew Carnegie"
 </em></p>
 
 ---
