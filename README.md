@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To a mind that is still, the entire universe surrenders." — Zhuangzi"
+  ""Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." — Buddha"
 </em></p>
 
 ---
