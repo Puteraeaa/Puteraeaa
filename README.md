@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do your duty and a little more and the future will take care of itself." — Andrew Carnegie"
+  ""My powers are ordinary. Only my application brings me success." — Isaac Newton"
 </em></p>
 
 ---
