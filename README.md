@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you." — Simon Sinek"
+  ""Don't set your own goals by what other people make important." — Lolly Daskal"
 </em></p>
 
 ---
