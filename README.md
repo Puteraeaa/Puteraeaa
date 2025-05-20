@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop being a prisoner of your past. Become the architect of your future." — Robin Sharma"
+  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
 </em></p>
 
 ---
