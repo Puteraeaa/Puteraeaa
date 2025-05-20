@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never do things others can do and will do if there are things others cannot do or will not do." — Amelia Earhart"
+  ""If you do the work you get rewarded. There are no shortcuts in life." — Michael Jordan"
 </em></p>
 
 ---
