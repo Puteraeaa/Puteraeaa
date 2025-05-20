@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." — Buddha"
+  ""Live simply, expect little, give much." — Norman Vincent Peale"
 </em></p>
 
 ---
