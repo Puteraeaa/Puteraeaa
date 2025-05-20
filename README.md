@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be the silent watcher of your thoughts and behavior. You are beneath the thinker." — Eckhart Tolle"
+  ""People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind." — Eckhart Tolle"
 </em></p>
 
 ---
