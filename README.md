@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is during our darkest moments that we must focus to see the light." — Aristotle"
+  ""He that can have patience can have what he will." — Benjamin Franklin"
 </em></p>
 
 ---
