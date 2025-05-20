@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from." — T.S. Eliot"
+  ""You can do nothing to change the past, and the future will never come exactly as you plan or hope for." — Dan Millman"
 </em></p>
 
 ---
