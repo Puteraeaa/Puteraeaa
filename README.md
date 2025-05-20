@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man is happy who does not think himself so." — Norman Vincent Peale"
+  ""If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month." — Theodore Roosevelt"
 </em></p>
 
 ---
