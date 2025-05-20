@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do the work you get rewarded. There are no shortcuts in life." — Michael Jordan"
+  ""Kindness is a language which the deaf can hear and the blind can see." — Mark Twain"
 </em></p>
 
 ---
