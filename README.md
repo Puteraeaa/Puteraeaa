@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time heals what reason cannot.  " — Seneca"
+  ""Happiness is only real, when shared." — Christopher McCandless"
 </em></p>
 
 ---
