@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perfectionism is simply putting a limit on your future." — John Eliot"
+  ""No man is happy who does not think himself so." — Norman Vincent Peale"
 </em></p>
 
 ---
