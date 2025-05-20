@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can do nothing to change the past, and the future will never come exactly as you plan or hope for." — Dan Millman"
+  ""We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences " — Nikola Tesla"
 </em></p>
 
 ---
