@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month." — Theodore Roosevelt"
+  ""Hope is a waking dream." — Aristotle"
 </em></p>
 
 ---
