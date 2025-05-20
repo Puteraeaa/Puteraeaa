@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live simply, expect little, give much." — Norman Vincent Peale"
+  ""I didn't get there by wishing for it or hoping for it, but by working for it." — Estee Lauder"
 </em></p>
 
 ---
