@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failing is another stepping stone to greatness." — Oprah Winfrey"
+  ""Every day passes whether you participate or not." — Ming-Dao Deng"
 </em></p>
 
 ---
