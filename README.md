@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is only real, when shared." — Christopher McCandless"
+  ""If I love myself I love you. If I love you I love myself." — Rumi"
 </em></p>
 
 ---
