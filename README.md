@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I love myself I love you. If I love you I love myself." — Rumi"
+  ""Faith is taking the first step even when you don't see the whole staircase." — Martin Luther King, Jr."
 </em></p>
 
 ---
