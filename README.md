@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't set your own goals by what other people make important." — Lolly Daskal"
+  ""Lack of emotion causes lack of progress and lack of motivation." — Tony Robbins"
 </em></p>
 
 ---
