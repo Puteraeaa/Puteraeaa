@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day passes whether you participate or not." — Ming-Dao Deng"
+  ""Some people don't like change, but you need to embrace change if the alternative is disaster." — Elon Musk"
 </em></p>
 
 ---
