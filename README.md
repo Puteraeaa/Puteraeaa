@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We have a choice everyday regarding the attitude we will embrace for that day." — Charles Swindoll"
+  ""There can be no deep disappointment where there is not deep love." — Martin Luther King, Jr."
 </em></p>
 
 ---
