@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I didn't get there by wishing for it or hoping for it, but by working for it." — Estee Lauder"
+  ""Be the silent watcher of your thoughts and behavior. You are beneath the thinker." — Eckhart Tolle"
 </em></p>
 
 ---
