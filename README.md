@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My powers are ordinary. Only my application brings me success." — Isaac Newton"
+  ""Optimism is the one quality more associated with success and happiness than any other." — Brian Tracy"
 </em></p>
 
 ---
