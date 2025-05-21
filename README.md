@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I don't walk away from things that I think are unfinished." — Arnold Schwarzenegger"
+  ""If you try, you might get exactly what you want. If you don't, you don't." — Unknown"
 </em></p>
 
 ---
