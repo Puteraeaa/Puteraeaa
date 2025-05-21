@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Blessed is he who expects nothing, for he shall never be disappointed." — Alexander Pope"
+  ""Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life." — Eleanor Roosevelt"
 </em></p>
 
 ---
