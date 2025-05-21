@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The beautiful journey of today can only begin when we learn to let go of yesterday." — Steve Maraboli"
+  ""There are no secrets to success. It is the result of preparation, hard work, learning from failure." — Colin Powell"
 </em></p>
 
 ---
