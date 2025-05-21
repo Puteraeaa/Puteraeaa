@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man who dares to waste one hour of time has not discovered the value of life." — Charles Darwin"
+  ""I learned the value of hard work by working hard. " — Margaret Mead"
 </em></p>
 
 ---
