@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot control the behavior of others, but you can always choose how you respond to it." — Roy T. Bennett"
+  ""The finish line is just the beginning of a whole new race." — Unknown"
 </em></p>
 
 ---
