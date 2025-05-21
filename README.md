@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The finish line is just the beginning of a whole new race." — Unknown"
+  ""How you think when you lose determines how long it will be until you win." — Gilbert Chesterton"
 </em></p>
 
 ---
