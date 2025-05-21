@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." — Celestine Chua"
+  ""I would rather die on my feet than live on my knees." — Euripides"
 </em></p>
 
 ---
