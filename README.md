@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a process. We are a process. The universe is a process." — Anne Wilson Schaef"
+  ""You cannot control the behavior of others, but you can always choose how you respond to it." — Roy T. Bennett"
 </em></p>
 
 ---
