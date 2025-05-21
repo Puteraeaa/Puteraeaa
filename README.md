@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give." — Eleanor Roosevelt"
+  ""I learned the value of hard work by working hard. " — Margaret Mead"
 </em></p>
 
 ---
