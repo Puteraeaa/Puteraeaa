@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To belittle, you have to be little." — Kahlil Gibran"
+  ""Your mind is infinite, it's your doubts that are limiting." — Robert Kiyosaki"
 </em></p>
 
 ---
