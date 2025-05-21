@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your mind is infinite, it's your doubts that are limiting." — Robert Kiyosaki"
+  ""A man who dares to waste one hour of time has not discovered the value of life." — Charles Darwin"
 </em></p>
 
 ---
