@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything you look at can become a fairy tale and you can get a story from everything you touch." — Hans Christian Andersen"
+  ""Growth is in a series of mistakes. That's the only way you learn." — Steve Harvey"
 </em></p>
 
 ---
