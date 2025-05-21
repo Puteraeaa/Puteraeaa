@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Listening well is as powerful as talking well, and is also as essential to true conversation." — Chinese Proverb"
+  ""Blessed is he who expects nothing, for he shall never be disappointed." — Alexander Pope"
 </em></p>
 
 ---
