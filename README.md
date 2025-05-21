@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A dead thing can go with the stream, but only a living thing can go against it." — Gilbert Chesterton"
+  ""The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!" — Tony Robbins"
 </em></p>
 
 ---
