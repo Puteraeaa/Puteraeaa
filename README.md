@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I skate to where the puck is going to be, not where it has been." — Wayne Gretzky"
+  ""Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." — Celestine Chua"
 </em></p>
 
 ---
