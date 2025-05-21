@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Better to light a candle than to curse the darkness. " — Chinese Proverb"
+  ""The beautiful journey of today can only begin when we learn to let go of yesterday." — Steve Maraboli"
 </em></p>
 
 ---
