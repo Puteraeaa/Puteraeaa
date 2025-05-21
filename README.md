@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Muddy water is best cleared by leaving it alone." — Alan Watts"
+  ""The chief danger in life is that you may take too many precautions." — Alfred Adler"
 </em></p>
 
 ---
