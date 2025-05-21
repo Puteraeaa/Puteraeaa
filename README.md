@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We turn not older with years but newer every day." — Emily Dickinson"
+  ""What the eye doesn't see and the mind doesn't know, doesn't exist." — D. H. Lawrence"
 </em></p>
 
 ---
