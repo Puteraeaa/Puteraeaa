@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life." — Eleanor Roosevelt"
+  ""Keep smiling, because life is a beautiful thing and there's so much to smile about." — Marilyn Monroe"
 </em></p>
 
 ---
