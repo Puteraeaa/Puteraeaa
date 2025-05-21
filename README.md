@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Follow your instincts. That is where true wisdom manifests itself." — Oprah Winfrey"
+  ""Everything you look at can become a fairy tale and you can get a story from everything you touch." — Hans Christian Andersen"
 </em></p>
 
 ---
