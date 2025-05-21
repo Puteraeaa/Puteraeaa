@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong." — Elon Musk"
+  ""Listening well is as powerful as talking well, and is also as essential to true conversation." — Chinese Proverb"
 </em></p>
 
 ---
