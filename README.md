@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we know how to adapt, we end up being superior." — Ming-Dao Deng"
+  ""You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give." — Eleanor Roosevelt"
 </em></p>
 
 ---
