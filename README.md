@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I learned the value of hard work by working hard. " — Margaret Mead"
+  ""To belittle, you have to be little." — Kahlil Gibran"
 </em></p>
 
 ---
