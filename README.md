@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I learned the value of hard work by working hard. " — Margaret Mead"
+  ""Don't listen to the person who has the answers; listen to the person who has the questions." — Albert Einstein"
 </em></p>
 
 ---
