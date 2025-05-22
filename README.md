@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is but one dream flowing into another." — Ming-Dao Deng"
+  ""Truth is the offspring of silence and meditation." — Isaac Newton"
 </em></p>
 
 ---
