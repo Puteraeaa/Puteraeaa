@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The energy of the mind is the essence of life." — Aristotle"
+  ""Knowing is not enough, we must apply. Willing is not enough, we must do." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
