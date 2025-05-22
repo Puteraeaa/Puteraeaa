@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life begins where fear ends." — Osho"
+  ""An ounce of performance is worth pounds of promises." — Mae West"
 </em></p>
 
 ---
