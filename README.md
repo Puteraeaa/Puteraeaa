@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes adversity is what you need to face in order to become successful." — Zig Ziglar"
+  ""It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." — Kamal Ravikant"
 </em></p>
 
 ---
