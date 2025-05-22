@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is about creating value." — Candice Carpenter"
+  ""The soul without imagination is what an observatory would be without a telescope." — Henry Ward Beecher"
 </em></p>
 
 ---
