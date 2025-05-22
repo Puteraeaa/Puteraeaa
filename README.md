@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man who cannot tolerate small misfortunes can never accomplish great things." — Chinese Proverb"
+  ""There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing." — Morihei Ueshiba"
 </em></p>
 
 ---
