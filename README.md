@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no ordinary moments." — Dan Millman"
+  ""A man who cannot tolerate small misfortunes can never accomplish great things." — Chinese Proverb"
 </em></p>
 
 ---
