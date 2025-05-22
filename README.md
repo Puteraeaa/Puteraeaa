@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing." — Morihei Ueshiba"
+  ""The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb"
 </em></p>
 
 ---
