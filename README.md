@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you." — Peter Drucker"
+  ""Go for it now. The future is promised to no one." — Wayne Dyer"
 </em></p>
 
 ---
