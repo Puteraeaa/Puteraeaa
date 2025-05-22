@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowing is not enough, we must apply. Willing is not enough, we must do." — Johann Wolfgang von Goethe"
+  ""The past has no power over the present moment. " — Eckhart Tolle"
 </em></p>
 
 ---
