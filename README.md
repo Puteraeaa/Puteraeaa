@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
+  ""Every artist dips his brush in his own soul, and paints his own nature into his pictures." — Henry Ward Beecher"
 </em></p>
 
 ---
