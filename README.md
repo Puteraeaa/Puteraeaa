@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The soul without imagination is what an observatory would be without a telescope." — Henry Ward Beecher"
+  ""The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." — Benjamin Mays"
 </em></p>
 
 ---
