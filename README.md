@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." — Epictetus"
+  ""Sometimes adversity is what you need to face in order to become successful." — Zig Ziglar"
 </em></p>
 
 ---
