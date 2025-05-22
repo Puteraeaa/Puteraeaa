@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everybody has talent, but ability takes hard work." — Michael Jordan"
+  ""Never let the things you can't do stop you from doing what you can." — Ronald Reagan"
 </em></p>
 
 ---
