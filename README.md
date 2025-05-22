@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is simply what our feelings do to us." — Honore de Balzac"
+  ""He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." — Epictetus"
 </em></p>
 
 ---
