@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." — Kamal Ravikant"
+  ""The purpose of life is the life of purpose." — Robin Sharma"
 </em></p>
 
 ---
