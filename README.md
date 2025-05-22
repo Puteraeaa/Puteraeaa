@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" — Robert Kiyosaki"
+  ""Life is but one dream flowing into another." — Ming-Dao Deng"
 </em></p>
 
 ---
