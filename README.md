@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind." — F. Scott Fitzgerald"
+  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
 </em></p>
 
 ---
