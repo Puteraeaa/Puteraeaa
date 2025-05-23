@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." — Bhagavad Gita"
+  ""Be as fluid as water, do not give your enemies anything solid to attack." — Robert Greene"
 </em></p>
 
 ---
