@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale"
+  ""Inner peace is when you realize that, in the end, nothing matters." — Maxime Lagace"
 </em></p>
 
 ---
