@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who never made a mistake never tried anything new." — Albert Einstein"
+  ""Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections." — Bob Marley"
 </em></p>
 
 ---
