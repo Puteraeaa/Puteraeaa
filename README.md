@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perfectionism is simply putting a limit on your future." — John Eliot"
+  ""Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured." — Mark Twain"
 </em></p>
 
 ---
