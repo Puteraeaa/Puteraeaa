@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." — Benjamin Mays"
+  ""You can have results or excuses, but not both." — Arnold Schwarzenegger"
 </em></p>
 
 ---
