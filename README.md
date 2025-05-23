@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured." — Mark Twain"
+  ""Some people want it to happen, some wish it would happen, others make it happen." — Michael Jordan"
 </em></p>
 
 ---
