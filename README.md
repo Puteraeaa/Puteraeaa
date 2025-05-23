@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Inner peace is when you realize that, in the end, nothing matters." — Maxime Lagace"
+  ""Great acts are made up of small deeds." — Lao Tzu"
 </em></p>
 
 ---
