@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live your life as an exclamation rather than an explanation." — Isaac Newton"
+  ""Perfectionism is simply putting a limit on your future." — John Eliot"
 </em></p>
 
 ---
