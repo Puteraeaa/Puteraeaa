@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great acts are made up of small deeds." — Lao Tzu"
+  ""The only reason to be alive is to enjoy it." — Rita Mae Brown"
 </em></p>
 
 ---
