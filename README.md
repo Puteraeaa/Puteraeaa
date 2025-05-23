@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life goes by fast. Enjoy it. Calm down. It's all funny." — Joan Rivers"
+  ""If you don't like something, change it. If you can't change it, change your attitude." — Maya Angelou"
 </em></p>
 
 ---
