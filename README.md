@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The friend is the man who knows all about you, and still likes you." — Elbert Hubbard"
+  ""Courage Is a Love Affair with the Unknown" — Osho"
 </em></p>
 
 ---
