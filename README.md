@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is particularly hard if you divide it into small jobs. " — Henry Ford"
+  ""When you can't make them see the light, make them feel the heat." — Ronald Reagan"
 </em></p>
 
 ---
