@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections." — Bob Marley"
+  ""The meaning of life is to find your gift. The purpose of life is to give it away." — Pablo Picasso"
 </em></p>
 
 ---
