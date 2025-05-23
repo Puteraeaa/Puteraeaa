@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Walking with a friend in the dark is better than walking alone in the light." — Helen Keller"
+  ""Your success and happiness lie in you." — Helen Keller"
 </em></p>
 
 ---
