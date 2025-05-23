@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no sadder sight than a young pessimist." — Mark Twain"
+  ""While some of us act without thinking, too many of us think without acting." — Dan Millman"
 </em></p>
 
 ---
