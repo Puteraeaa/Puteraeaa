@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your past does not equal your future." — Tony Robbins"
+  ""It ain't where you start in life, it's where you end up, and what you did along the way." — Colin Powell"
 </em></p>
 
 ---
