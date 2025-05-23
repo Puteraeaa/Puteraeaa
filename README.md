@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be happy we need something to solve. Happiness is therefore a form of action." — Mark Manson"
+  ""There is no sadder sight than a young pessimist." — Mark Twain"
 </em></p>
 
 ---
