@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Reading should be a pleasure, not a chore." — Joan Rivers"
+  ""To be happy we need something to solve. Happiness is therefore a form of action." — Mark Manson"
 </em></p>
 
 ---
