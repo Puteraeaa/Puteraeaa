@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The meaning of life is to find your gift. The purpose of life is to give it away." — Pablo Picasso"
+  ""Nothing is particularly hard if you divide it into small jobs. " — Henry Ford"
 </em></p>
 
 ---
