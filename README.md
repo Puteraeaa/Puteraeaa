@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only reason to be alive is to enjoy it." — Rita Mae Brown"
+  ""The person who never made a mistake never tried anything new." — Albert Einstein"
 </em></p>
 
 ---
