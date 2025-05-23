@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be - don't try to become " — Osho"
+  ""Walking with a friend in the dark is better than walking alone in the light." — Helen Keller"
 </em></p>
 
 ---
