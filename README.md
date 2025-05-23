@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not enough to win a war; it is more important to organize the peace." — Aristotle"
+  ""Forgive those who have hurt you." — Les Brown"
 </em></p>
 
 ---
