@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Forgive those who have hurt you." — Les Brown"
+  ""Our attitude toward life determines life's attitude towards us." — Earl Nightingale"
 </em></p>
 
 ---
