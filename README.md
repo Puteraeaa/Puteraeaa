@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you can't make them see the light, make them feel the heat." — Ronald Reagan"
+  ""Live your life as an exclamation rather than an explanation." — Isaac Newton"
 </em></p>
 
 ---
