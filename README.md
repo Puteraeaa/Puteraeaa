@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Courage Is a Love Affair with the Unknown" — Osho"
+  ""The strongest and sweetest songs yet remain to be sung." — Walt Whitman"
 </em></p>
 
 ---
