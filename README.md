@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be as fluid as water, do not give your enemies anything solid to attack." — Robert Greene"
+  ""Life goes by fast. Enjoy it. Calm down. It's all funny." — Joan Rivers"
 </em></p>
 
 ---
