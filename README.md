@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." — Confucius"
+  ""Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale"
 </em></p>
 
 ---
