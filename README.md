@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who look for the bad in people will surely find it." — Abraham Lincoln"
+  ""Your past does not equal your future." — Tony Robbins"
 </em></p>
 
 ---
