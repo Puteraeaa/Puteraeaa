@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't stop when you're tired. Stop when you're done." — Marilyn Monroe"
+  ""When a man is penalized for honesty he learns to lie." — Criss Jami"
 </em></p>
 
 ---
