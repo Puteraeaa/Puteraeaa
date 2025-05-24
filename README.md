@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The reward of suffering is experience." — Harry S. Truman"
+  ""Any fool can turn a blind eye but who knows what the ostrich sees in the sand." — Samuel Beckett"
 </em></p>
 
 ---
