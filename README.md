@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's wise to tell the truth. It's even wiser to tell it kindly." — Maxime Lagace"
+  ""Short cuts make long delays." — J.R.R. Tolkien"
 </em></p>
 
 ---
