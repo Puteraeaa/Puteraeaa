@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My mind seems to have become a kind of machine for grinding general laws out of large collections of facts." — Charles Darwin"
+  ""Wisdom is the oneness of mind that guides and permeates all things." — Heraclitus"
 </em></p>
 
 ---
