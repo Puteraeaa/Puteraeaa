@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Quality is more important than quantity. One home run is much better than two doubles." — Steve Jobs"
+  ""The only real security that a man can have in this world is a reserve of knowledge, experience and ability. " — Henry Ford"
 </em></p>
 
 ---
