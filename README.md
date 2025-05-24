@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Any fool can turn a blind eye but who knows what the ostrich sees in the sand." — Samuel Beckett"
+  ""People rarely succeed unless they have fun in what they are doing." — Dale Carnegie"
 </em></p>
 
 ---
