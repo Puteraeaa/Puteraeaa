@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You already have every characteristic necessary for success if you recognize, claim, develop and use them." — Zig Ziglar"
+  ""Care about what other people think and you will always be their prisoner." — Lao Tzu"
 </em></p>
 
 ---
