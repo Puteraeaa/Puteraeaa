@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only real security that a man can have in this world is a reserve of knowledge, experience and ability. " — Henry Ford"
+  ""Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!" — Alfred Adler"
 </em></p>
 
 ---
