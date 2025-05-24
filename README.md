@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It always seems impossible until it's done." — Nelson Mandela"
+  ""You have to keep breaking your heart until it opens." — Rumi"
 </em></p>
 
 ---
