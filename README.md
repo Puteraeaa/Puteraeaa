@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your home is where your thoughts find peace." — Zen Proverb"
+  ""Everyone you meet is fighting a battle you know nothing about. Be kind. Always." — Robin Williams"
 </em></p>
 
 ---
