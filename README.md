@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wisdom is the oneness of mind that guides and permeates all things." — Heraclitus"
+  ""Nothing will work unless you do." — Maya Angelou"
 </em></p>
 
 ---
