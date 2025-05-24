@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Winning isn't always championships." — Michael Jordan"
+  ""The reward of suffering is experience." — Harry S. Truman"
 </em></p>
 
 ---
