@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fools read fast. Geniuses reread." — Maxime Lagace"
+  ""It's wise to tell the truth. It's even wiser to tell it kindly." — Maxime Lagace"
 </em></p>
 
 ---
