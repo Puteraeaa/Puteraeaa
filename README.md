@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The key to success is failure." — Michael Jordan"
+  ""Quality is more important than quantity. One home run is much better than two doubles." — Steve Jobs"
 </em></p>
 
 ---
