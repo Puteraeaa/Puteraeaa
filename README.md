@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truly rich men are the ones who have health, loved ones and a work they love." — Maxime Lagace"
+  ""Life is really simple, but men insist on making it complicated. " — Confucius"
 </em></p>
 
 ---
