@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is permanent in this wicked world - not even our troubles." — Charlie Chaplin"
+  ""Everybody's life is either rewarding or an example." — Tony Robbins"
 </em></p>
 
 ---
