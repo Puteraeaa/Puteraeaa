@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always remember that you are absolutely unique. Just like everyone else. " — Margaret Mead"
+  ""To lose your temper is only useful once a year." — Colin R. Davis"
 </em></p>
 
 ---
