@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everybody's life is either rewarding or an example." — Tony Robbins"
+  ""Children are our greatest natural resource." — Herbert Hoover"
 </em></p>
 
 ---
