@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything." — Paramahansa Yogananda"
+  ""A wise man can learn more from a foolish question than a fool can learn from a wise answer.  " — Bruce Lee"
 </em></p>
 
 ---
