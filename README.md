@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To lose your temper is only useful once a year." — Colin R. Davis"
+  ""We must cultivate our garden. " — Voltaire"
 </em></p>
 
 ---
