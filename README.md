@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Short cuts make long delays." — J.R.R. Tolkien"
+  ""It always seems impossible until it's done." — Nelson Mandela"
 </em></p>
 
 ---
