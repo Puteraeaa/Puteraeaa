@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A wise man can learn more from a foolish question than a fool can learn from a wise answer.  " — Bruce Lee"
+  ""Nothing is permanent in this wicked world - not even our troubles." — Charlie Chaplin"
 </em></p>
 
 ---
