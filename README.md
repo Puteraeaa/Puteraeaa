@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more we have the less we own." — Meister Eckhart"
+  ""Always remember that you are absolutely unique. Just like everyone else. " — Margaret Mead"
 </em></p>
 
 ---
