@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison"
+  ""Who looks outside, dreams; who looks inside, awakes." — Lolly Daskal"
 </em></p>
 
 ---
