@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is really simple, but men insist on making it complicated. " — Confucius"
+  ""The key to success is failure." — Michael Jordan"
 </em></p>
 
 ---
