@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make peace with your inner turmoil." — Unknown"
+  ""Don't seek, don't search, don't ask, don't knock, don't demand - relax." — Osho"
 </em></p>
 
 ---
