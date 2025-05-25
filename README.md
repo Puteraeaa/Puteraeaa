@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our truest life is when we are in dreams awake." — Henry David Thoreau"
+  ""We think too much and feel too little." — Charlie Chaplin"
 </em></p>
 
 ---
