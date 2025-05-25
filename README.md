@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long." — Elon Musk"
+  ""Life is a gift. Never forget to enjoy and bask in every moment you are in." — Celestine Chua"
 </em></p>
 
 ---
