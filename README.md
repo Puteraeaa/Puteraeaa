@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We think too much and feel too little." — Charlie Chaplin"
+  ""Sometimes out of your biggest misery, comes your greatest gain." — Steve Harvey"
 </em></p>
 
 ---
