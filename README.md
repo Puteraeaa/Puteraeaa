@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The less you open your heart to others, the more your heart suffers." — Deepak Chopra"
+  ""What most people need to learn in life is how to love people and use things instead of using people and loving things." — Unknown"
 </em></p>
 
 ---
