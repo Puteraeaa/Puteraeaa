@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Till it has loved, no man or woman can become itself." — Emily Dickinson"
+  ""Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. " — Denis Waitley"
 </em></p>
 
 ---
