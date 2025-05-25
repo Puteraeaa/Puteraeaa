@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Coming together is a beginning, staying together is progress, and working together is success. " — Henry Ford"
+  ""Opportunities multiply as they are seized." — Sun Tzu"
 </em></p>
 
 ---
