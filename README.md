@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The less people know, the more stubbornly they know it." — Osho"
+  ""The pursuit of mastery bears gifts. " — Gary Keller"
 </em></p>
 
 ---
