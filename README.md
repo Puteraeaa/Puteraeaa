@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most important thing is to enjoy your life, to be happy, it's all that matters." — Audrey Hepburn"
+  ""If you try to micromanage yourself all you're going to do is make yourself miserable." — Naval Ravikant"
 </em></p>
 
 ---
