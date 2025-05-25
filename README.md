@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What most people need to learn in life is how to love people and use things instead of using people and loving things." — Unknown"
+  ""Coming together is a beginning, staying together is progress, and working together is success. " — Henry Ford"
 </em></p>
 
 ---
