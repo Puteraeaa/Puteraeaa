@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. " — Denis Waitley"
+  ""Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." — Ralph Marston"
 </em></p>
 
 ---
