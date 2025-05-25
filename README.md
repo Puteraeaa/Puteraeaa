@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will." — James Allen"
+  ""Keep away from people who try to belittle your ambitions." — Mark Twain"
 </em></p>
 
 ---
