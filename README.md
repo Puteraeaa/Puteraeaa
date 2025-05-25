@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes out of your biggest misery, comes your greatest gain." — Steve Harvey"
+  ""The less people know, the more stubbornly they know it." — Osho"
 </em></p>
 
 ---
