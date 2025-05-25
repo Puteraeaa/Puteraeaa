@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Shoot for the moon, because even if you miss, you'll land among the stars." — Les Brown"
+  ""Everyday is a second chance." — Unknown"
 </em></p>
 
 ---
