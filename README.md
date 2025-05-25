@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""None of us can change our yesterdays but all of us can change our tomorrows." — Colin Powell"
+  ""Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window." — Peter Drucker"
 </em></p>
 
 ---
