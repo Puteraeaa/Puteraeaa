@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You get in life what you have the courage to ask for." — Oprah Winfrey"
+  ""Make peace with your inner turmoil." — Unknown"
 </em></p>
 
 ---
