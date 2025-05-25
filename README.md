@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is best to begin at the beginning." — Amelia Earhart"
+  ""The less you open your heart to others, the more your heart suffers." — Deepak Chopra"
 </em></p>
 
 ---
