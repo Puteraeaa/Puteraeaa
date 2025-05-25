@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The pursuit of mastery bears gifts. " — Gary Keller"
+  ""Any fool can paint a picture, but it takes a wise man to be able to sell it." — Samuel Butler"
 </em></p>
 
 ---
