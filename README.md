@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't seek, don't search, don't ask, don't knock, don't demand - relax." — Osho"
+  ""Shoot for the moon, because even if you miss, you'll land among the stars." — Les Brown"
 </em></p>
 
 ---
