@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you've made a mistake, it's better just to laugh at it." — Zen Proverb"
+  ""Only those who will risk going too far can possibly find out how far one can go." — T.S. Eliot"
 </em></p>
 
 ---
