@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only those who will risk going too far can possibly find out how far one can go." — T.S. Eliot"
+  ""If you let your head get too big, it'll break your neck." — Elvis Presley"
 </em></p>
 
 ---
