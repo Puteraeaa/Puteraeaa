@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To achieve, you need thought. You have to know what you are doing and that's real power." — Ayn Rand"
+  ""If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long." — Elon Musk"
 </em></p>
 
 ---
