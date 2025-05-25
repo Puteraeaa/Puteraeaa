@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you let your head get too big, it'll break your neck." — Elvis Presley"
+  ""You get in life what you have the courage to ask for." — Oprah Winfrey"
 </em></p>
 
 ---
