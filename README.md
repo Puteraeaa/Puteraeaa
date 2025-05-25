@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What the eye doesn't see and the mind doesn't know, doesn't exist." — D. H. Lawrence"
+  ""Our truest life is when we are in dreams awake." — Henry David Thoreau"
 </em></p>
 
 ---
