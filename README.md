@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep away from people who try to belittle your ambitions." — Mark Twain"
+  ""If you're afraid - don't do it, - if you're doing it - don't be afraid! " — Genghis Khan"
 </em></p>
 
 ---
