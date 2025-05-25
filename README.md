@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People seldom do what they believe in. They do what is convenient, then repent." — Bob Dylan"
+  ""A loving heart is the truest wisdom." — Charles Dickens"
 </em></p>
 
 ---
