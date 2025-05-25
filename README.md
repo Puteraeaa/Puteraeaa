@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never put off to tomorrow what you can do to-day." — Thomas Jefferson"
+  ""If you've made a mistake, it's better just to laugh at it." — Zen Proverb"
 </em></p>
 
 ---
