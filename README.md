@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a gift. Never forget to enjoy and bask in every moment you are in." — Celestine Chua"
+  ""Everyone has the right to make his own decisions, but none has the right to force his decision on others." — Ayn Rand"
 </em></p>
 
 ---
