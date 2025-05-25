@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyday is a second chance." — Unknown"
+  ""It is best to begin at the beginning." — Amelia Earhart"
 </em></p>
 
 ---
