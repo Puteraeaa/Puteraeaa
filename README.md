@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunities multiply as they are seized." — Sun Tzu"
+  ""The most important thing is to enjoy your life, to be happy, it's all that matters." — Audrey Hepburn"
 </em></p>
 
 ---
