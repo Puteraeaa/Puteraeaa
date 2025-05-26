@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience is bitter, but its fruit is sweet." — Aristotle"
+  ""Small men think they are small; great men never know they are great. " — Chinese Proverb"
 </em></p>
 
 ---
