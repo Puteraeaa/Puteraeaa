@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The primary cause of unhappiness is never the situation but your thoughts about it." — Eckhart Tolle"
+  ""You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." — Norman Vincent Peale"
 </em></p>
 
 ---
