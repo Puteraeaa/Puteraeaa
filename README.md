@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most great people have achieved their greatest success just one step beyond their greatest failure." — Napoleon Hill"
+  ""All power is from within and therefore under our control." — Robert Collier"
 </em></p>
 
 ---
