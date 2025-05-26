@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be calm is the highest achievement of the self." — Zen Proverb"
+  ""I try more and more to be myself, caring relatively little whether people approve or disapprove." — Vincent van Gogh"
 </em></p>
 
 ---
