@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Chase your passion, not your pension. " — Denis Waitley"
+  ""Be patient and calm; no one can catch fish in anger." — Herbert Hoover"
 </em></p>
 
 ---
