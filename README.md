@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it." — Alexandre Dumas"
+  ""Don't wait for the right opportunity: create it." — George Bernard Shaw"
 </em></p>
 
 ---
