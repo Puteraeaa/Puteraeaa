@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A tiny change today brings a dramatically different tomorrow." — Richard Bach"
+  ""Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end." — Roy T. Bennett"
 </em></p>
 
 ---
