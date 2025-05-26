@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone has the right to make his own decisions, but none has the right to force his decision on others." — Ayn Rand"
+  ""Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it." — Alexandre Dumas"
 </em></p>
 
 ---
