@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant"
+  ""The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac"
 </em></p>
 
 ---
