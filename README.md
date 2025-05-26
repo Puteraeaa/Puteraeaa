@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nourish the mind like you would your body. The mind cannot survive on junk food." — Brian Tracy"
+  ""Life itself is the most wonderful fairy tale." — Hans Christian Andersen"
 </em></p>
 
 ---
