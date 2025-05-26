@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be fully alive is to feel that everything is possible." — Eric Hoffer"
+  ""Patience is bitter, but its fruit is sweet." — Aristotle"
 </em></p>
 
 ---
