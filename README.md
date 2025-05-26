@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your work is to discover your work and then, with all your heart, to give yourself to it." — Buddha"
+  ""A Rolling Stone Gathers No Moss." — Publilius Syrus"
 </em></p>
 
 ---
