@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your greatest asset is your earning ability. Your greatest resource is your time." — Brian Tracy"
+  ""To be calm is the highest achievement of the self." — Zen Proverb"
 </em></p>
 
 ---
