@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't wait for the right opportunity: create it." — George Bernard Shaw"
+  ""Common sense is not so common. " — Voltaire"
 </em></p>
 
 ---
