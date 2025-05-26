@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Small men think they are small; great men never know they are great. " — Chinese Proverb"
+  ""Your work is to discover your work and then, with all your heart, to give yourself to it." — Buddha"
 </em></p>
 
 ---
