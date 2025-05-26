@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." — Norman Vincent Peale"
+  ""What do we live for, if it is not to make life less difficult for each other?" — George Eliot"
 </em></p>
 
 ---
