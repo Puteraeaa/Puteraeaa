@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We win by helping each other win." — Jack Butcher"
+  ""Nourish the mind like you would your body. The mind cannot survive on junk food." — Brian Tracy"
 </em></p>
 
 ---
