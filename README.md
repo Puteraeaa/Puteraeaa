@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To create more positive results in your life, replace 'if only' with 'next time'." — Celestine Chua"
+  ""Most great people have achieved their greatest success just one step beyond their greatest failure." — Napoleon Hill"
 </em></p>
 
 ---
