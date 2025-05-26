@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene"
+  ""Most people spend more time and energy going around problems than in trying to solve them. " — Henry Ford"
 </em></p>
 
 ---
