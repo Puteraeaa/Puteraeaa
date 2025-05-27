@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fewer the words, the better the prayer." — Martin Luther"
+  ""You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." — Zig Ziglar"
 </em></p>
 
 ---
