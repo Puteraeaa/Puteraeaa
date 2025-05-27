@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best way to find yourself is to lose yourself in the service of others." — Mahatma Gandhi"
+  ""People rarely succeed unless they have fun in what they are doing." — Dale Carnegie"
 </em></p>
 
 ---
