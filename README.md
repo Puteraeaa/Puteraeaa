@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are never too old to set another goal or to dream a new dream." — Les Brown"
+  ""If your happiness depends on what somebody else does, I guess you do have a problem." — Richard Bach"
 </em></p>
 
 ---
