@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
+  ""How much pain they have cost us, the evils which have never happened." — Thomas Jefferson"
 </em></p>
 
 ---
