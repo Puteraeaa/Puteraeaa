@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Beware of false knowledge, it is more dangerous than ignorance." — George Bernard Shaw"
+  ""Silence is the great teacher and to learn its lessons you must pay attention to it." — Deepak Chopra"
 </em></p>
 
 ---
