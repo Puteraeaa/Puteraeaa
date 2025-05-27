@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every failure brings with it the seed of an equivalent success." — Napoleon Hill"
+  ""The fewer the words, the better the prayer." — Martin Luther"
 </em></p>
 
 ---
