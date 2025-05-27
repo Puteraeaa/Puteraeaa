@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People rarely succeed unless they have fun in what they are doing." — Dale Carnegie"
+  ""Wishing to be friends is quick work, but friendship is a slow ripening fruit." — Aristotle"
 </em></p>
 
 ---
