@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowing is not enough, we must apply. Willing is not enough, we must do." — Johann Wolfgang von Goethe"
+  ""Every failure brings with it the seed of an equivalent success." — Napoleon Hill"
 </em></p>
 
 ---
