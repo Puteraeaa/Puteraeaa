@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Walk slowly but never walk backward." — Unknown"
+  ""Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you." — Jeffrey Gitomer"
 </em></p>
 
 ---
