@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each path to knowledge involves different rules and these rules are not interchangeable." — Barack Obama"
+  ""No man ever steps in the same river twice, for it's not the same river and he's not the same man." — Heraclitus"
 </em></p>
 
 ---
