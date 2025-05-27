@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life's too mysterious to take too serious." — Mary Engelbreit"
+  ""Heaven is right where you are standing." — Morihei Ueshiba"
 </em></p>
 
 ---
