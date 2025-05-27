@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don´t hesitate or allow yourself to make excuses. Just get out and do it." — Christopher McCandless"
+  ""Better a diamond with a flaw than a pebble without one." — Chinese Proverb"
 </em></p>
 
 ---
