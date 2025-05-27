@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live the moment for the moment." — Michael Jordan"
+  ""You are what you believe in. You become that which you believe you can become." — Bhagavad Gita"
 </em></p>
 
 ---
