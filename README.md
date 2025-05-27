@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you." — Bob Proctor"
+  ""You are never too old to set another goal or to dream a new dream." — Les Brown"
 </em></p>
 
 ---
