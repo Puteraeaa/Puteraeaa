@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wishing to be friends is quick work, but friendship is a slow ripening fruit." — Aristotle"
+  ""Don't learn to do, but learn in doing." — Samuel Butler"
 </em></p>
 
 ---
