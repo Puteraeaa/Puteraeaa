@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. " — Martin Luther"
+  ""Each path to knowledge involves different rules and these rules are not interchangeable." — Barack Obama"
 </em></p>
 
 ---
