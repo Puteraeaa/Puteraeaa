@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your setback is just a setup for a comeback." — Steve Harvey"
+  ""Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything." — Shunryu Suzuki"
 </em></p>
 
 ---
