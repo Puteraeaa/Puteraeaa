@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sad thing is, you can still love someone and be wrong for them." — Elvis Presley"
+  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
 </em></p>
 
 ---
