@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Creative endeavors are by their nature uncertain." — Robert Greene"
+  ""It's not what happens to you, but how you react to it that matters." — Epictetus"
 </em></p>
 
 ---
