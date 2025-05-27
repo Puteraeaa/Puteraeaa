@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not what happens to you, but how you react to it that matters." — Epictetus"
+  ""Life's too mysterious to take too serious." — Mary Engelbreit"
 </em></p>
 
 ---
