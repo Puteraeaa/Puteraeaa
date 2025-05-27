@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Better a diamond with a flaw than a pebble without one." — Chinese Proverb"
+  ""The real meditation is how you live your life." — Jon Kabat-Zinn"
 </em></p>
 
 ---
