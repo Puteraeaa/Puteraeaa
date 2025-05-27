@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't gain the world and lose your soul. Wisdom is better than silver and gold." — Bob Marley"
+  ""The strongest and sweetest songs yet remain to be sung." — Walt Whitman"
 </em></p>
 
 ---
