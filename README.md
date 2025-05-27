@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be patient and calm; no one can catch fish in anger." — Herbert Hoover"
+  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
 </em></p>
 
 ---
