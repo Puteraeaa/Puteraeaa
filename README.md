@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with." — Woody Allen"
+  ""Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. " — Martin Luther"
 </em></p>
 
 ---
