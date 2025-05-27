@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
+  ""Knowing is not enough, we must apply. Willing is not enough, we must do." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
