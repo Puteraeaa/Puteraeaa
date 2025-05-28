@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Focus is a matter of deciding what things you're not going to do." — John Carmack"
+  ""A lie can travel half way around the world while the truth is putting on its shoes." — Mark Twain"
 </em></p>
 
 ---
