@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A mountain never yields to the wind no matter how strong it is." — Zen Proverb"
+  ""The greatest weariness comes from work not done." — Eric Hoffer"
 </em></p>
 
 ---
