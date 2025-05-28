@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Until we can manage time, we can manage nothing else." — Peter Drucker"
+  ""Your worth consists in what you are and not in what you have." — Thomas Edison"
 </em></p>
 
 ---
