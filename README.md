@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest weariness comes from work not done." — Eric Hoffer"
+  ""Use your smile to change the world but don't let the world change your smile." — Unknown"
 </em></p>
 
 ---
