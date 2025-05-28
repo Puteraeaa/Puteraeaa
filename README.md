@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't have to control your thoughts; you just have to stop letting them control you." — Dan Millman"
+  ""Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua"
 </em></p>
 
 ---
