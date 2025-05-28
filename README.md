@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Experience is a comb which nature gives us when we are bald. " — Chinese Proverb"
+  ""Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." — Paulo Coelho"
 </em></p>
 
 ---
