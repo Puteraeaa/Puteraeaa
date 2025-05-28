@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A loving heart is the truest wisdom." — Charles Dickens"
+  ""Don't let someone elses. opinion become your reality." — Les Brown"
 </em></p>
 
 ---
