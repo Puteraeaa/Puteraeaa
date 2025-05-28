@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give out what you most want to come back." — Robin Sharma"
+  ""The busy man is never wise and the wise man is never busy." — Lin Yutang"
 </em></p>
 
 ---
