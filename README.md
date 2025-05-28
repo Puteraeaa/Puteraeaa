@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do one thing every day that scares you." — Eleanor Roosevelt"
+  ""Attitude, not aptitude, determines altitude.  " — Zig Ziglar"
 </em></p>
 
 ---
