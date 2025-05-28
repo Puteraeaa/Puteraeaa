@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything has beauty but not everyone sees it." — Confucius"
+  ""Knowing is not enough, we must apply. Willing is not enough, we must do.  " — Bruce Lee"
 </em></p>
 
 ---
