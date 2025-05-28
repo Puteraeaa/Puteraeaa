@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Through discipline comes freedom." — Aristotle"
+  ""Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." — Sigmund Freud"
 </em></p>
 
 ---
