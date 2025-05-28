@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Although the world is full of suffering, it is also full of the overcoming of it." — Helen Keller"
+  ""Focus is a matter of deciding what things you're not going to do." — John Carmack"
 </em></p>
 
 ---
