@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's necessary to get the losers out of your life if you want to live your dream." — Les Brown"
+  ""Until we can manage time, we can manage nothing else." — Peter Drucker"
 </em></p>
 
 ---
