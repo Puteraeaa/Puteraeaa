@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Attitude, not aptitude, determines altitude.  " — Zig Ziglar"
+  ""Life is like underwear, should be changed twice a day.  " — Ray Bradbury"
 </em></p>
 
 ---
