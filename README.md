@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom lies in being bold." — Robert Frost"
+  ""The eyes of others our prisons; their thoughts our cages." — Virginia Woolf"
 </em></p>
 
 ---
