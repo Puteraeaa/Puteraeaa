@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't be afraid to give up the good to go for the great." — John D. Rockefeller"
+  ""Anger begins with folly, and ends with repentance. " — Beverly Sills"
 </em></p>
 
 ---
