@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The purpose of life is the life of purpose." — Robin Sharma"
+  ""Although the world is full of suffering, it is also full of the overcoming of it." — Helen Keller"
 </em></p>
 
 ---
