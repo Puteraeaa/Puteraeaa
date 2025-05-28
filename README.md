@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A lie can travel half way around the world while the truth is putting on its shoes." — Mark Twain"
+  ""Don't be afraid to give up the good to go for the great." — John D. Rockefeller"
 </em></p>
 
 ---
