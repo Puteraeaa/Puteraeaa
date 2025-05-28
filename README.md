@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The chief danger in life is that you may take too many precautions." — Alfred Adler"
+  ""Enjoy life. There's plenty of time to be dead." — Hans Christian Andersen"
 </em></p>
 
 ---
