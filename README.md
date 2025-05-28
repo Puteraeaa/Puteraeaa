@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like underwear, should be changed twice a day.  " — Ray Bradbury"
+  ""The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." — Carl Jung"
 </em></p>
 
 ---
