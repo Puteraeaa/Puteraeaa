@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua"
+  ""Experience is a comb which nature gives us when we are bald. " — Chinese Proverb"
 </em></p>
 
 ---
