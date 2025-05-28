@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anger begins with folly, and ends with repentance. " — Beverly Sills"
+  ""You don't have to control your thoughts; you just have to stop letting them control you." — Dan Millman"
 </em></p>
 
 ---
