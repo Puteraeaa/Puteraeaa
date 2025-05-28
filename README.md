@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no one giant step that does it. It's a lot of little steps." — Peter A. Cohen"
+  ""The salvation of the world lies in the human heart." — Vaclav Havel"
 </em></p>
 
 ---
