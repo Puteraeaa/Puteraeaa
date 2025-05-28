@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." — Paulo Coelho"
+  ""The chief danger in life is that you may take too many precautions." — Alfred Adler"
 </em></p>
 
 ---
