@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not whether you get knocked down, its whether you get back up." — Vince Lombardi"
+  ""A mountain never yields to the wind no matter how strong it is." — Zen Proverb"
 </em></p>
 
 ---
