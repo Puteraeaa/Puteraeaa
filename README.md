@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." — Carl Jung"
+  ""It's necessary to get the losers out of your life if you want to live your dream." — Les Brown"
 </em></p>
 
 ---
