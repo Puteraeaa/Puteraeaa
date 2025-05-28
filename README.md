@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The salvation of the world lies in the human heart." — Vaclav Havel"
+  ""Once you learn to quit, it becomes a habit." — Vince Lombardi"
 </em></p>
 
 ---
