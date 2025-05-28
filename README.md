@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The eyes of others our prisons; their thoughts our cages." — Virginia Woolf"
+  ""A loving heart is the truest wisdom." — Charles Dickens"
 </em></p>
 
 ---
