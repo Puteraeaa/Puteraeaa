@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must have strong minds, ready to accept facts as they are." — Harry S. Truman"
+  ""Keep your friends close, and your enemies closer." — Sun Tzu"
 </em></p>
 
 ---
