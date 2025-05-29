@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The Truth is realized in an instant; the Act is practiced step by step." — Seungsahn"
+  ""Get busy living, or get busy dying." — Stephen King"
 </em></p>
 
 ---
