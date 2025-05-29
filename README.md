@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can do two things at once, but you can't focus effectively on two things at once." — Gary Keller"
+  ""It is better to be looked over than overlooked." — Mae West"
 </em></p>
 
 ---
