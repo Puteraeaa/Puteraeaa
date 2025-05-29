@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing." — Morihei Ueshiba"
+  ""As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others." — Audrey Hepburn"
 </em></p>
 
 ---
