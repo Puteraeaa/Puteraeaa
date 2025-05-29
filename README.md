@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If anything is worth doing, do it with all your heart." — Buddha"
+  ""To get angry is like to revenge yourself for the guilt of others." — Jonathan Swift"
 </em></p>
 
 ---
