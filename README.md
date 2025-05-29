@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality." — James Cameron"
+  ""None of us can change our yesterdays but all of us can change our tomorrows." — Colin Powell"
 </em></p>
 
 ---
