@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death smiles at us all. All we can do is smile back." — Marcus Aurelius"
+  ""We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies." — Emily Dickinson"
 </em></p>
 
 ---
