@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Creative people are often found either disagreeable or intimidating by mediocrities." — Criss Jami"
+  ""Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly." — Marcus Aurelius"
 </em></p>
 
 ---
