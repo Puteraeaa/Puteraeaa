@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Champions keep playing until they get it right." — Billie Jean King"
+  ""The merit of all things lies in their difficulty." — Alexandre Dumas"
 </em></p>
 
 ---
