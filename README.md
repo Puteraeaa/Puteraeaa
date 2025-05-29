@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The sweetest pleasure arises from difficulties overcome." — Publilius Syrus"
+  ""The destiny of man is in his own soul. " — Herodotus"
 </em></p>
 
 ---
