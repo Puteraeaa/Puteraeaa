@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Things do not have meaning. We assign meaning to everything." — Tony Robbins"
+  ""Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." — Dan Millman"
 </em></p>
 
 ---
