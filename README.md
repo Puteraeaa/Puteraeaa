@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To get angry is like to revenge yourself for the guilt of others." — Jonathan Swift"
+  ""You can do two things at once, but you can't focus effectively on two things at once." — Gary Keller"
 </em></p>
 
 ---
