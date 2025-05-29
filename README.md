@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time." — Thomas Jefferson"
+  ""Embrace the life you have and stop wishing that you could be someone else." — Joyce Meyer"
 </em></p>
 
 ---
