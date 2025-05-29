@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day may not be good, but there's something good in every day." — Unknown"
+  ""Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time." — Thomas Jefferson"
 </em></p>
 
 ---
