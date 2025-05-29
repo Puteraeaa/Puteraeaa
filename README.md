@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others." — Audrey Hepburn"
+  ""If anything is worth doing, do it with all your heart." — Buddha"
 </em></p>
 
 ---
