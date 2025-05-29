@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe and you're halfway there." — Harry S. Truman"
+  ""One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." — Elbert Hubbard"
 </em></p>
 
 ---
