@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly." — Marcus Aurelius"
+  ""Believe and you're halfway there." — Harry S. Truman"
 </em></p>
 
 ---
