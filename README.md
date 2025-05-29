@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Embrace the life you have and stop wishing that you could be someone else." — Joyce Meyer"
+  ""Don't think money does everything or you are going to end up doing everything for money." — Voltaire"
 </em></p>
 
 ---
