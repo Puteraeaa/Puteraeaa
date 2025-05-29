@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." — Dan Millman"
+  ""Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality." — James Cameron"
 </em></p>
 
 ---
