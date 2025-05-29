@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make your stand today. On this spot. On this day." — Ming-Dao Deng"
+  ""To belittle, you have to be little." — Kahlil Gibran"
 </em></p>
 
 ---
