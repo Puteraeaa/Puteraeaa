@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The merit of all things lies in their difficulty." — Alexandre Dumas"
+  ""We must have strong minds, ready to accept facts as they are." — Harry S. Truman"
 </em></p>
 
 ---
