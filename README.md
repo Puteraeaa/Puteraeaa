@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes you have to travel a long way to find what is near." — Paulo Coelho"
+  ""There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing." — Morihei Ueshiba"
 </em></p>
 
 ---
