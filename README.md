@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The journey is what brings us happiness not the destination." — Dan Millman"
+  ""Champions keep playing until they get it right." — Billie Jean King"
 </em></p>
 
 ---
