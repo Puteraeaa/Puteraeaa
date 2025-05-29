@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember to look up at the stars and not down at your feet." — Stephen Hawking"
+  ""If it is not right, do not do it, if it is not true, do not say it." — Marcus Aurelius"
 </em></p>
 
 ---
