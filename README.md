@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The destiny of man is in his own soul. " — Herodotus"
+  ""If you're walking down the right path and you're willing to keep walking, eventually you'll make progress." — Barack Obama"
 </em></p>
 
 ---
