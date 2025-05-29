@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You drown not by falling into a river, but by staying submerged in it." — Paulo Coelho"
+  ""Death smiles at us all. All we can do is smile back." — Marcus Aurelius"
 </em></p>
 
 ---
