@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anything worth doing is worth doing slowly." — Mae West"
+  ""If you are far from the enemy, make him believe you are near." — Sun Tzu"
 </em></p>
 
 ---
