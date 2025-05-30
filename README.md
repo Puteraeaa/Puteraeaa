@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You'll get more from being a peacemaker than a warrior." — Arnold Schwarzenegger"
+  ""Our deeds determine us, as much as we determine our deeds." — George Eliot"
 </em></p>
 
 ---
