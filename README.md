@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our stories may be singular, but our destination is shared." — Barack Obama"
+  ""What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!" — Charles Darwin"
 </em></p>
 
 ---
