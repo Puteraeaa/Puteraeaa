@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Selfishness and greed, individual or national, cause most of our troubles." — Harry S. Truman"
+  ""Real loss is only possible when you love something more than you love yourself." — Robin Williams"
 </em></p>
 
 ---
