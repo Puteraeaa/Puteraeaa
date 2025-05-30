@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is much more successfully looked at from a single window." — F. Scott Fitzgerald"
+  ""If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream." — Arnold Schwarzenegger"
 </em></p>
 
 ---
