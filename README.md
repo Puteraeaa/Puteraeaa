@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have the potential for greatness." — Steve Harvey"
+  ""Today I begin a new life. I will greet this day with love in my heart." — Og Mandino"
 </em></p>
 
 ---
