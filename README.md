@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The beautiful journey of today can only begin when we learn to let go of yesterday." — Steve Maraboli"
+  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
 </em></p>
 
 ---
