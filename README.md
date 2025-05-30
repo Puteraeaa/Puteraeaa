@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle." — Albert Einstein"
+  ""Only those who do nothing at all make no mistakes." — Unknown"
 </em></p>
 
 ---
