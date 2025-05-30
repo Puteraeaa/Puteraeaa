@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only those who do nothing at all make no mistakes." — Unknown"
+  ""Life is much more successfully looked at from a single window." — F. Scott Fitzgerald"
 </em></p>
 
 ---
