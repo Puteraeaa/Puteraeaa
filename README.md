@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream." — Arnold Schwarzenegger"
+  ""All we have to decide is what to do with the time that is given to us." — J.R.R. Tolkien"
 </em></p>
 
 ---
