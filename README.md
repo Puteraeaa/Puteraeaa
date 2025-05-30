@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A lot of people have gone further than they thought they could because someone else thought they could." — Zig Ziglar"
+  ""Wealth is the product of man's capacity to think." — Ayn Rand"
 </em></p>
 
 ---
