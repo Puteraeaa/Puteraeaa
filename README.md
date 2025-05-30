@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our deeds determine us, as much as we determine our deeds." — George Eliot"
+  ""Selfishness and greed, individual or national, cause most of our troubles." — Harry S. Truman"
 </em></p>
 
 ---
