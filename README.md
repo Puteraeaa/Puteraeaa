@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
+  ""The more people you help become successful the more successful you become." — Steve Harvey"
 </em></p>
 
 ---
