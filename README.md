@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The dream is free, but the hustle is sold separately." — Steve Harvey"
+  ""Try all things, hold fast that which is good." — John Locke"
 </em></p>
 
 ---
