@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All happiness depends on courage and work." — Honore de Balzac"
+  ""Projecting your mind into a successful situation is the most powerful means to achieve goals.  " — Estee Lauder"
 </em></p>
 
 ---
