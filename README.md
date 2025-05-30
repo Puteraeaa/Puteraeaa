@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't shortchange yourself when it comes to investing in your own better future." — Jim Rohn"
+  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
 </em></p>
 
 ---
