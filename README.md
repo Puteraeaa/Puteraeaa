@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first step is to establish that something is possible; then probability will occur." — Elon Musk"
+  ""We must create our own world or we will die from inaction." — Robert Greene"
 </em></p>
 
 ---
