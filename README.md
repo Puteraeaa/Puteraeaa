@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!" — Charles Darwin"
+  ""You have the potential for greatness." — Steve Harvey"
 </em></p>
 
 ---
