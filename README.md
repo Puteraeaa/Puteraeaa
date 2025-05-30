@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make peace with your inner turmoil." — Unknown"
+  ""The first step is to establish that something is possible; then probability will occur." — Elon Musk"
 </em></p>
 
 ---
