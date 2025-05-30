@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be approximately right rather than exactly wrong." — John Tukey"
+  ""The dream is free, but the hustle is sold separately." — Steve Harvey"
 </em></p>
 
 ---
