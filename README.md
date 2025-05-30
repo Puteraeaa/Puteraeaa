@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more people you help become successful the more successful you become." — Steve Harvey"
+  ""Be approximately right rather than exactly wrong." — John Tukey"
 </em></p>
 
 ---
