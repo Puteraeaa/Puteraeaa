@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A heart is not judged by how much you love, but by how much you are loved by others." — Judy Garland"
+  ""Act the way you want to be and soon you'll be the way you act." — Les Brown"
 </em></p>
 
 ---
