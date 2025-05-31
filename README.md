@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make your mind your own business." — Jack Butcher"
+  ""Love your enemies, for they tell you your faults." — Benjamin Franklin"
 </em></p>
 
 ---
