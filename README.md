@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Blessed is he who expects nothing, for he shall never be disappointed." — Alexander Pope"
+  ""Play your part in life, but never forget that it is only a role." — Paramahansa Yogananda"
 </em></p>
 
 ---
