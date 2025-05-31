@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's always to soon to quit!" — Norman Vincent Peale"
+  ""Whatever you do in life, surround yourself with smart people who'll argue with you." — John Wooden"
 </em></p>
 
 ---
