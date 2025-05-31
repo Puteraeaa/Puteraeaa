@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." — Pema Chodron"
+  ""Heroes don't need to talk about what they did." — W.P. Kinsella"
 </em></p>
 
 ---
