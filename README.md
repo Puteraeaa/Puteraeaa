@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People don't care how much you know until they know how much you care." — Theodore Roosevelt"
+  ""Those who know, do. Those that understand, teach." — Aristotle"
 </em></p>
 
 ---
