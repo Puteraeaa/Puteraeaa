@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wherever you are is the entry point." — Kabir"
+  ""You make your own luck if you stay at it long enough." — Naval Ravikant"
 </em></p>
 
 ---
