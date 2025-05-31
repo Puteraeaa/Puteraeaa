@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only normal people are the ones you don't know very well." — Alfred Adler"
+  ""Vision is the art of seeing things invisible." — Jonathan Swift"
 </em></p>
 
 ---
