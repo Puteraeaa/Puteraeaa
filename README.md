@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Act the way you want to be and soon you'll be the way you act." — Les Brown"
+  ""There is an essence of when you are fearless, you become more creative." — Gurbaksh Chahal"
 </em></p>
 
 ---
