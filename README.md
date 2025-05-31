@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw"
+  ""Others have seen what is and asked why. I have seen what could be and asked why not" — Pablo Picasso"
 </em></p>
 
 ---
