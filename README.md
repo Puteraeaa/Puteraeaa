@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who know, do. Those that understand, teach." — Aristotle"
+  ""Decide upon your major definite purpose in life and then organize all your activities around it." — Brian Tracy"
 </em></p>
 
 ---
