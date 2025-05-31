@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Others have seen what is and asked why. I have seen what could be and asked why not" — Pablo Picasso"
+  ""You cannot push anyone up a ladder unless he is willing to climb a little himself." — Andrew Carnegie"
 </em></p>
 
 ---
