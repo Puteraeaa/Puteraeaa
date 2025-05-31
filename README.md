@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything that irritates us about others." — Carl Jung"
+  ""Blessed is he who expects nothing, for he shall never be disappointed." — Alexander Pope"
 </em></p>
 
 ---
