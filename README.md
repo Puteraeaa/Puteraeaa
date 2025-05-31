@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." — Mark Twain"
+  ""Action may not always bring happiness, but there is no happiness without action." — William James"
 </em></p>
 
 ---
