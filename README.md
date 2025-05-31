@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You make your own luck if you stay at it long enough." — Naval Ravikant"
+  ""You play the hand you're dealt. I think the game's worthwhile.  " — Christopher Reeve"
 </em></p>
 
 ---
