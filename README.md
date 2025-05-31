@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want peace, you won't get it with violence." — John Lennon"
+  ""People don't care how much you know until they know how much you care." — Theodore Roosevelt"
 </em></p>
 
 ---
