@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot push anyone up a ladder unless he is willing to climb a little himself." — Andrew Carnegie"
+  ""The more something scares you, the more you should do it." — Mark Manson"
 </em></p>
 
 ---
