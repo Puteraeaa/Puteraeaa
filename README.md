@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A Rolling Stone Gathers No Moss." — Publilius Syrus"
+  ""Everything that irritates us about others." — Carl Jung"
 </em></p>
 
 ---
