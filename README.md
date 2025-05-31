@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Decide upon your major definite purpose in life and then organize all your activities around it." — Brian Tracy"
+  ""Judge your success by what you had to give up in order to get it." — Dalai Lama"
 </em></p>
 
 ---
