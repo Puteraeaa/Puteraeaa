@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trust is built and maintained by many small actions over time." — Lolly Daskal"
+  ""A heart is not judged by how much you love, but by how much you are loved by others." — Judy Garland"
 </em></p>
 
 ---
