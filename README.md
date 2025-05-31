@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I admire those who do good and expect nothing in return." — Roy T. Bennett"
+  ""A Rolling Stone Gathers No Moss." — Publilius Syrus"
 </em></p>
 
 ---
