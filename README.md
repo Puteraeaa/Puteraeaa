@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace is letting it be. Letting life flow, letting emotions flow through you." — Kamal Ravikant"
+  ""No man becomes rich unless he enriches others." — Andrew Carnegie"
 </em></p>
 
 ---
