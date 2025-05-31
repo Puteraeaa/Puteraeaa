@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Action may not always bring happiness, but there is no happiness without action." — William James"
+  ""When asked, how do you write? I invariably answer, one word at a time." — Stephen King"
 </em></p>
 
 ---
