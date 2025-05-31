@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Unless you change how you are, you will always have what you got." — Jim Rohn"
+  ""I do not exist to impress the world. I exist to live my life in a way that will make me happy." — Richard Bach"
 </em></p>
 
 ---
