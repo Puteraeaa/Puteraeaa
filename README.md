@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever you do in life, surround yourself with smart people who'll argue with you." — John Wooden"
+  ""Most great people have achieved their greatest success just one step beyond their greatest failure." — Napoleon Hill"
 </em></p>
 
 ---
