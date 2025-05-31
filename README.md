@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." — Dalai Lama"
+  ""Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw"
 </em></p>
 
 ---
