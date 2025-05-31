@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I do not exist to impress the world. I exist to live my life in a way that will make me happy." — Richard Bach"
+  ""If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." — Pema Chodron"
 </em></p>
 
 ---
