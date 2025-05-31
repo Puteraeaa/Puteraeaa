@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love your enemies, for they tell you your faults." — Benjamin Franklin"
+  ""The only normal people are the ones you don't know very well." — Alfred Adler"
 </em></p>
 
 ---
