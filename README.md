@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most courageous act is still to think for yourself. Aloud." — Coco Chanel"
+  ""As soon as you truly commit to making something happen, the 'how' will reveal itself." — Tony Robbins"
 </em></p>
 
 ---
