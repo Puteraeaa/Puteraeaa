@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is often safer to be in chains than to be free. " — Franz Kafka"
+  ""Nothing can dim the light which shines from within." — Maya Angelou"
 </em></p>
 
 ---
