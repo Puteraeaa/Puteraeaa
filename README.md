@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. " — Jack London"
+  ""A goal is a dream with a deadline." — Napoleon Hill"
 </em></p>
 
 ---
