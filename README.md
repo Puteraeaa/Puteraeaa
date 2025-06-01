@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You're always free to change your mind and choose a different future, or a different past." — Richard Bach"
+  ""Always remember that you are absolutely unique. Just like everyone else. " — Margaret Mead"
 </em></p>
 
 ---
