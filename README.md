@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be regular and orderly in your life, so that you may be violent and original in your work." — Gustave Flaubert"
+  ""Here and now...breathe and relax...in battle and in life." — Dan Millman"
 </em></p>
 
 ---
