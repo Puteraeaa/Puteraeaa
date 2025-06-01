@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I'm an optimist by choice not by stupidity." — Yanni"
+  ""A fool sees himself as another, but a wise man sees others as himself." — Dogen"
 </em></p>
 
 ---
