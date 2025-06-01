@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Heroes don't need to talk about what they did." — W.P. Kinsella"
+  ""Success is not to be pursued, it is to be attracted by the person you become." — Jim Rohn"
 </em></p>
 
 ---
