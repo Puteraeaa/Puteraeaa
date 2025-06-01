@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not doing it is certainly the best way to not getting it.  " — Wayne Gretzky"
+  ""I never said it would be easy, I only said it would be worth it." — Mae West"
 </em></p>
 
 ---
