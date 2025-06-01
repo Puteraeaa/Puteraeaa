@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?" — Sathya Sai Baba"
+  ""In order for you to be the BEST you can be for others, first you must be BEST for yourself." — Jeffrey Gitomer"
 </em></p>
 
 ---
