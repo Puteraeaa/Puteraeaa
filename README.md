@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." — Ming-Dao Deng"
+  ""Not doing it is certainly the best way to not getting it.  " — Wayne Gretzky"
 </em></p>
 
 ---
