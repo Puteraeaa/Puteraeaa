@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is not to be pursued, it is to be attracted by the person you become." — Jim Rohn"
+  ""To live is the rarest thing in the world. Most people exist, that is all. " — Oscar Wilde"
 </em></p>
 
 ---
