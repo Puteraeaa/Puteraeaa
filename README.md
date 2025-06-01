@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The eyes of others our prisons; their thoughts our cages." — Virginia Woolf"
+  ""Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?" — Sathya Sai Baba"
 </em></p>
 
 ---
