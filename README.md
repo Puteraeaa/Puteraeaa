@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing can dim the light which shines from within." — Maya Angelou"
+  ""Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. " — Jack London"
 </em></p>
 
 ---
