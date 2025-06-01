@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowledge is a treasure, but practice is the key to it." — Lao Tzu"
+  ""The eyes of others our prisons; their thoughts our cages." — Virginia Woolf"
 </em></p>
 
 ---
