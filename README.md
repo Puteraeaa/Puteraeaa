@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress is limited by your ability to change your mind." — Jack Butcher"
+  ""Whenever you do a thing, act as if all the world were watching." — Thomas Jefferson"
 </em></p>
 
 ---
