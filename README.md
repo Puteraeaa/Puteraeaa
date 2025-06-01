@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sad thing is, you can still love someone and be wrong for them." — Elvis Presley"
+  ""The greatest doer must also be a great dreamer." — Theodore Roosevelt"
 </em></p>
 
 ---
