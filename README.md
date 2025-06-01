@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." — Henry David Thoreau"
+  ""Happiness is the meaning and the purpose of life, the whole aim and end of human existence." — Aristotle"
 </em></p>
 
 ---
