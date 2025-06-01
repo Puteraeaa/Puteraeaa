@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is the meaning and the purpose of life, the whole aim and end of human existence." — Aristotle"
+  ""Wealth is the product of man's capacity to think." — Ayn Rand"
 </em></p>
 
 ---
