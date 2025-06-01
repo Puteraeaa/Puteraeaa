@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wealth is the product of man's capacity to think." — Ayn Rand"
+  ""Never argue with stupid people, they will drag you down to their level and then beat you with experience." — Mark Twain"
 </em></p>
 
 ---
