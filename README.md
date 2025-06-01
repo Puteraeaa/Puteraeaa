@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never argue with stupid people, they will drag you down to their level and then beat you with experience." — Mark Twain"
+  ""I'm an optimist by choice not by stupidity." — Yanni"
 </em></p>
 
 ---
