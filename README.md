@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To live is the rarest thing in the world. Most people exist, that is all. " — Oscar Wilde"
+  ""Our truest life is when we are in dreams awake." — Henry David Thoreau"
 </em></p>
 
 ---
