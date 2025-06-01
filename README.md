@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress lies not in enhancing what is, but in advancing toward what will be." — Kahlil Gibran"
+  ""Just because something isn't a lie does not mean that it isn't deceptive." — Criss Jami"
 </em></p>
 
 ---
