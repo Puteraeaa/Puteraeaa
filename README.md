@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes you have to shut your eyes, so you can see the real beauty." — Kilian Jornet"
+  ""Progress lies not in enhancing what is, but in advancing toward what will be." — Kahlil Gibran"
 </em></p>
 
 ---
