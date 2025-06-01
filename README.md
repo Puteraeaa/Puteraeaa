@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whenever you do a thing, act as if all the world were watching." — Thomas Jefferson"
+  ""Sometimes you have to shut your eyes, so you can see the real beauty." — Kilian Jornet"
 </em></p>
 
 ---
