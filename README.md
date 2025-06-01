@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just because something isn't a lie does not mean that it isn't deceptive." — Criss Jami"
+  ""It's not how much money you make, it's how much money you keep." — Robert Kiyosaki"
 </em></p>
 
 ---
