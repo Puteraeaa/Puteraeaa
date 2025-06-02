@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." — Sun Tzu"
+  ""Many roads lead to the path, but basically there are only two: reason and practice. " — Bodhidharma"
 </em></p>
 
 ---
