@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be fascinated instead of frustrated." — Jim Rohn"
+  ""We have a duty to maintain the light of consciousness to make sure it continues into the future." — Elon Musk"
 </em></p>
 
 ---
