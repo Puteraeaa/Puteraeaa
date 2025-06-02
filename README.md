@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Many roads lead to the path, but basically there are only two: reason and practice. " — Bodhidharma"
+  ""Patience is bitter, but its fruit is sweet." — Aristotle"
 </em></p>
 
 ---
