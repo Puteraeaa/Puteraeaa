@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A fool sees himself as another, but a wise man sees others as himself." — Dogen"
+  ""I admire those who do good and expect nothing in return." — Roy T. Bennett"
 </em></p>
 
 ---
