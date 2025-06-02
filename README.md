@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I admire those who do good and expect nothing in return." — Roy T. Bennett"
+  ""Focus on how far you have come in life rather than looking at the accomplishments of others." — Lolly Daskal"
 </em></p>
 
 ---
