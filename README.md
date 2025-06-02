@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon"
+  ""You don't have to be great to start, but you have to start to be great.  " — Zig Ziglar"
 </em></p>
 
 ---
