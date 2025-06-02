@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." — Carl Jung"
+  ""Remember, hope is a good thing, maybe the best of things." — Stephen King"
 </em></p>
 
 ---
