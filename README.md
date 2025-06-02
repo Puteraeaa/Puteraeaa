@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever." — Aristophanes"
+  ""Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability." — John Wooden"
 </em></p>
 
 ---
