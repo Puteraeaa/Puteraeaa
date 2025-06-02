@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy." — Norman Vincent Peale"
+  ""Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good." — Bhagavad Gita"
 </em></p>
 
 ---
