@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only when I fall do I get up again." — Vincent van Gogh"
+  ""Never regret your past. Rather, embrace it as the teacher that it is." — Robin Sharma"
 </em></p>
 
 ---
