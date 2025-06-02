@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never regret your past. Rather, embrace it as the teacher that it is." — Robin Sharma"
+  ""Life has the name of life, but in reality it is death." — Heraclitus"
 </em></p>
 
 ---
