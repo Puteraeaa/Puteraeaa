@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You'll see it when you believe it. " — Wayne Dyer"
+  ""Only when I fall do I get up again." — Vincent van Gogh"
 </em></p>
 
 ---
