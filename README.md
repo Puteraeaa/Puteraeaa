@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life has the name of life, but in reality it is death." — Heraclitus"
+  ""Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever." — Aristophanes"
 </em></p>
 
 ---
