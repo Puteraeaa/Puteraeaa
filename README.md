@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good." — Bhagavad Gita"
+  ""Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time." — Jon Kabat-Zinn"
 </em></p>
 
 ---
