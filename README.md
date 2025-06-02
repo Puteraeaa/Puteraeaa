@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It isn't what you do, but how you do it." — John Wooden"
+  ""Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome." — Dan Millman"
 </em></p>
 
 ---
