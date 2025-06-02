@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't have to be great to start, but you have to start to be great.  " — Zig Ziglar"
+  ""Success is the sum of small efforts, repeated day in and day out." — Robert Collier"
 </em></p>
 
 ---
