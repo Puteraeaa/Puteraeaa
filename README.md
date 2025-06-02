@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only when I fall do I get up again." — Vincent van Gogh"
+  ""It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." — Sun Tzu"
 </em></p>
 
 ---
