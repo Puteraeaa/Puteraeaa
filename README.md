@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When one does not have what one wants, one must want what one has." — Sigmund Freud"
+  ""Patience is a bitter plant, but its fruit is sweet." — Chinese Proverb"
 </em></p>
 
 ---
