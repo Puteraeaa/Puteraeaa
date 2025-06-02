@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is the sum of small efforts, repeated day in and day out." — Robert Collier"
+  ""It doesn't matter where you are coming from. All that matters is where you are going. " — Brian Tracy"
 </em></p>
 
 ---
