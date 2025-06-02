@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Focus on how far you have come in life rather than looking at the accomplishments of others." — Lolly Daskal"
+  ""There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
