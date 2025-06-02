@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time." — Jon Kabat-Zinn"
+  ""It doesn't matter where you are coming from. All that matters is where you are going. " — Brian Tracy"
 </em></p>
 
 ---
