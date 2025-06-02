@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." — Peter Drucker"
+  ""Nothing is more creative...nor destructive...than a brilliant mind with a purpose." — Dan Brown"
 </em></p>
 
 ---
