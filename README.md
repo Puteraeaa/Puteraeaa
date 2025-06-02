@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You become a worrier by practicing worry. You become free of worry by practicing the opposite." — Norman Vincent Peale"
+  ""Nothing can survive without food. Everything we consume acts either to heal us or to poison us." — Thich Nhat Hanh"
 </em></p>
 
 ---
