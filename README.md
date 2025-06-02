@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember, hope is a good thing, maybe the best of things." — Stephen King"
+  ""You'll see it when you believe it. " — Wayne Dyer"
 </em></p>
 
 ---
