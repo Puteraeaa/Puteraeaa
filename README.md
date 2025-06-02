@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience is a bitter plant, but its fruit is sweet." — Chinese Proverb"
+  ""Be fascinated instead of frustrated." — Jim Rohn"
 </em></p>
 
 ---
