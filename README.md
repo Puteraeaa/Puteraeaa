@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The real measure of your wealth is how much you'd be worth if you lost all your money." — Unknown"
+  ""20 percent of your activities will account for 80 percent of your results." — Brian Tracy"
 </em></p>
 
 ---
