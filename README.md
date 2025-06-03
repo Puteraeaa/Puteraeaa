@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Friends ask you questions; enemies question you." — Criss Jami"
+  ""The important thing is not to stop questioning. Curiosity has its own reason for existing." — Albert Einstein"
 </em></p>
 
 ---
