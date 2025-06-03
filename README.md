@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most effective way to do it, is to do it." — Amelia Earhart"
+  ""Continuous effort - not strength or intelligence - is the key to unlocking our potential." — Winston Churchill"
 </em></p>
 
 ---
