@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all like the bright moon, we still have our darker side.  " — Kahlil Gibran"
+  ""We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — Bhagavad Gita"
 </em></p>
 
 ---
