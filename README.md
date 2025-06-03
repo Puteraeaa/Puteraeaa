@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The important thing is not to stop questioning. Curiosity has its own reason for existing." — Albert Einstein"
+  ""It isn't what you do, but how you do it." — John Wooden"
 </em></p>
 
 ---
