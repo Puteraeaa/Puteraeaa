@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To wish you were someone else is to waste the person you are." — Unknown"
+  ""We are all like the bright moon, we still have our darker side.  " — Kahlil Gibran"
 </em></p>
 
 ---
