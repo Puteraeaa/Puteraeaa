@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I was wise enough to never grow up while fooling most people into believing I had. " — Margaret Mead"
+  ""Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." — Brian Tracy"
 </em></p>
 
 ---
