@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is only the one reality, neither to be realized nor attained." — Huang Po"
+  ""A friend to all is a friend to none." — Aristotle"
 </em></p>
 
 ---
