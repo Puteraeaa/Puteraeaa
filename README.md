@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — Bhagavad Gita"
+  ""People tend to complicate their own lives, as if living weren't already complicated enough." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
