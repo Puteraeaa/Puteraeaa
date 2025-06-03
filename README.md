@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing brings down walls as surely as acceptance." — Deepak Chopra"
+  ""Friends ask you questions; enemies question you." — Criss Jami"
 </em></p>
 
 ---
