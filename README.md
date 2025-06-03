@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Leaders think and talk about solutions. Followers think and talk about the problems." — Brian Tracy"
+  ""We tend to live up to our expectations." — Earl Nightingale"
 </em></p>
 
 ---
