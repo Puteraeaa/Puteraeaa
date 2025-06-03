@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People tend to complicate their own lives, as if living weren't already complicated enough." — Carlos Ruiz Zafon"
+  ""Forgive yourself for your faults and your mistakes and move on." — Les Brown"
 </em></p>
 
 ---
