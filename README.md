@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""20 percent of your activities will account for 80 percent of your results." — Brian Tracy"
+  ""There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." — Denis Waitley"
 </em></p>
 
 ---
