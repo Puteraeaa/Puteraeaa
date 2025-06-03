@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A different result requires doing something different." — Gary Keller"
+  ""You can avoid reality, but you cannot avoid the consequences of avoiding reality." — Ayn Rand"
 </em></p>
 
 ---
