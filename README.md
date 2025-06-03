@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Forgive yourself for your faults and your mistakes and move on." — Les Brown"
+  ""Choose a job you love, and you will never have to work a day in your life. " — Confucius"
 </em></p>
 
 ---
