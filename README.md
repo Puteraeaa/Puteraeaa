@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You'll never find rainbows if you're looking down.  " — Charlie Chaplin"
+  ""Leaders think and talk about solutions. Followers think and talk about the problems." — Brian Tracy"
 </em></p>
 
 ---
