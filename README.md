@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
+  ""Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy." — Robert Kiyosaki"
 </em></p>
 
 ---
