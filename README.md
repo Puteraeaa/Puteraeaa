@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability." — John Wooden"
+  ""I cannot make my days longer so I strive to make them better." — Henry David Thoreau"
 </em></p>
 
 ---
