@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no greatness where there is not simplicity, goodness, and truth." — Leo Tolstoy"
+  ""You'll never find rainbows if you're looking down.  " — Charlie Chaplin"
 </em></p>
 
 ---
