@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It isn't what you do, but how you do it." — John Wooden"
+  ""Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty." — Theodore Roosevelt"
 </em></p>
 
 ---
