@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you aren't sure which way to do something, do it both ways and see which works better." — John Carmack"
+  ""You are your best thing." — Toni Morrison"
 </em></p>
 
 ---
