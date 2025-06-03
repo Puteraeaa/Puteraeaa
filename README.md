@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Choose a job you love, and you will never have to work a day in your life. " — Confucius"
+  ""I was wise enough to never grow up while fooling most people into believing I had. " — Margaret Mead"
 </em></p>
 
 ---
