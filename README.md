@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." — Brian Tracy"
+  ""There is only the one reality, neither to be realized nor attained." — Huang Po"
 </em></p>
 
 ---
