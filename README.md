@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty." — Theodore Roosevelt"
+  ""It's not the men in your life that matters, it's the life in your men." — Mae West"
 </em></p>
 
 ---
