@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. " — Franz Kafka"
+  ""It is better to offer no excuse than a bad one. " — George Washington"
 </em></p>
 
 ---
