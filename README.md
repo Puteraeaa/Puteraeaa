@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted." — Robert Collier"
+  ""Learning is a weightless treasure you can always carry easily." — Chinese Proverb"
 </em></p>
 
 ---
