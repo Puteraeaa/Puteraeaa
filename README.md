@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Logic is like the sword - those who appeal to it shall perish by it." — Samuel Butler"
+  ""You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes." — A.A. Milne"
 </em></p>
 
 ---
