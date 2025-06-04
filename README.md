@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Instead of thinking outside the box, get rid of the box." — Deepak Chopra"
+  ""Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along." — Celestine Chua"
 </em></p>
 
 ---
