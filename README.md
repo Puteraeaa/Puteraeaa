@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of your greatest lessons come from your darkest moments." — Roger Lee"
+  ""You don't get in life what you want; you get in life what you are." — Les Brown"
 </em></p>
 
 ---
