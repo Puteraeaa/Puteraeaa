@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The true soldier fights not because he hates what is in front of him, but because he loves what is behind him." — Gilbert Chesterton"
+  ""Not why the addiction but why the pain." — Gabor Mate"
 </em></p>
 
 ---
