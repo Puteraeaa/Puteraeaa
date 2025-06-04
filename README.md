@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A fear of weakness only strengthens weakness." — Criss Jami"
+  ""Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. " — Franz Kafka"
 </em></p>
 
 ---
