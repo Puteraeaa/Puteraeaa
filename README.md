@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop." — Mother Teresa"
+  ""Life must be a constant education; one must learn everything, from speaking to dying." — Gustave Flaubert"
 </em></p>
 
 ---
