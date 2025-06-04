@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""None but ourselves can free our minds." — Bob Marley"
+  ""A fear of weakness only strengthens weakness." — Criss Jami"
 </em></p>
 
 ---
