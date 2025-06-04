@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." — Henry Ward Beecher"
+  ""Those who know, do. Those that understand, teach." — Aristotle"
 </em></p>
 
 ---
