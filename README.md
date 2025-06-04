@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life must be a constant education; one must learn everything, from speaking to dying." — Gustave Flaubert"
+  ""You are now, and you do become, what you think about." — Earl Nightingale"
 </em></p>
 
 ---
