@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge." — Robert Greene"
+  ""None but ourselves can free our minds." — Bob Marley"
 </em></p>
 
 ---
