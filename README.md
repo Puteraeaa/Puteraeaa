@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Imagination is more important than knowledge." — Albert Einstein"
+  ""If a man knows not to which port he sails, no wind is favorable.  " — Seneca"
 </em></p>
 
 ---
