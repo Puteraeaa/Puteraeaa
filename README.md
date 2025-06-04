@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't get in life what you want; you get in life what you are." — Les Brown"
+  ""Life is like riding a bicycle. To keep your balance you must keep moving." — Albert Einstein"
 </em></p>
 
 ---
