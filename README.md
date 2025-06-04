@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All know the way; few actually walk it. " — Bodhidharma"
+  ""Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." — Sun Tzu"
 </em></p>
 
 ---
