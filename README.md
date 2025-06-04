@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." — Kamal Ravikant"
+  ""No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations." — Wayne Gretzky"
 </em></p>
 
 ---
