@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Through discipline comes freedom." — Aristotle"
+  ""Imagination is more important than knowledge." — Albert Einstein"
 </em></p>
 
 ---
