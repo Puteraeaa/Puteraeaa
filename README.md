@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is the key to success; each mistake teaches us something." — Morihei Ueshiba"
+  ""We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop." — Mother Teresa"
 </em></p>
 
 ---
