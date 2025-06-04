@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If a man knows not to which port he sails, no wind is favorable.  " — Seneca"
+  ""Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge." — Robert Greene"
 </em></p>
 
 ---
