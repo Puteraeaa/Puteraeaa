@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is going from failure to failure without losing your enthusiasm" — Winston Churchill"
+  ""In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing." — Theodore Roosevelt"
 </em></p>
 
 ---
