@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learning is a weightless treasure you can always carry easily." — Chinese Proverb"
+  ""Success is going from failure to failure without losing your enthusiasm" — Winston Churchill"
 </em></p>
 
 ---
