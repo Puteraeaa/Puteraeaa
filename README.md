@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not why the addiction but why the pain." — Gabor Mate"
+  ""All know the way; few actually walk it. " — Bodhidharma"
 </em></p>
 
 ---
