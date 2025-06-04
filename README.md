@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
+  ""The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." — Henry Ward Beecher"
 </em></p>
 
 ---
