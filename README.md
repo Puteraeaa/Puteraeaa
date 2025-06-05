@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't criticize what you can't understand. " — Bob Dylan"
+  ""My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand." — Thich Nhat Hanh"
 </em></p>
 
 ---
