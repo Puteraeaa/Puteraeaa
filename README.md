@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life can only be understood backwards; but it must be lived forwards." — Soren Kierkegaard"
+  ""Every man is guilty of all the good he did not do. " — Voltaire"
 </em></p>
 
 ---
