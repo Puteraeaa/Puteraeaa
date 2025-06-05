@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle"
+  ""To be prepared is half the victory. " — Miguel de Cervantes"
 </em></p>
 
 ---
