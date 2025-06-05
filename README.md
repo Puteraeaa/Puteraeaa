@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As long as a human being worries about when he will die, and what he has that is his, all of his works are zero." — Kabir"
+  ""If you quit once it becomes a habit." — Michael Jordan"
 </em></p>
 
 ---
