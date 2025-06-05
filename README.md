@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others." — Criss Jami"
+  ""Tragedy is a tool for the living to gain wisdom, not a guide by which to live." — Robert F. Kennedy"
 </em></p>
 
 ---
