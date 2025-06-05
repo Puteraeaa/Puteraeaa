@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you quit once it becomes a habit." — Michael Jordan"
+  ""I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry." — Tony Robbins"
 </em></p>
 
 ---
