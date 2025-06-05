@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I can think of nothing less pleasurable than a life devoted to pleasure." — John D. Rockefeller"
+  ""The weak can never forgive. Forgiveness is the attribute of the strong." — Mahatma Gandhi"
 </em></p>
 
 ---
