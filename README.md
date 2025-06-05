@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest step towards a life of simplicity is to learn to let go." — Steve Maraboli"
+  ""Our stories may be singular, but our destination is shared." — Barack Obama"
 </em></p>
 
 ---
