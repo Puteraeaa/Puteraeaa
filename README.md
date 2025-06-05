@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one can confidently say that he will still be living tomorrow." — Euripides"
+  ""Do you want to know who you are? Don't ask. Act! Action will delineate and define you." — Thomas Jefferson"
 </em></p>
 
 ---
