@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the keys to happiness is a bad memory." — Rita Mae Brown"
+  ""No one can confidently say that he will still be living tomorrow." — Euripides"
 </em></p>
 
 ---
