@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do you want to know who you are? Don't ask. Act! Action will delineate and define you." — Thomas Jefferson"
+  ""Falling down is not failure. Failure comes when you stay where you have fallen." — Socrates"
 </em></p>
 
 ---
