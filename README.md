@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A flower falls, even though we love it; and a weed grows, even though we do not love it." — Dogen"
+  ""Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." — Sun Tzu"
 </em></p>
 
 ---
