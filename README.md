@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The weak can never forgive. Forgiveness is the attribute of the strong." — Mahatma Gandhi"
+  ""What we dwell on is who we become." — Oprah Winfrey"
 </em></p>
 
 ---
