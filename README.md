@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand." — Thich Nhat Hanh"
+  ""It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it." — Gurbaksh Chahal"
 </em></p>
 
 ---
