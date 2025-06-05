@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you are totally at peace with yourself, nothing can shake you." — Deepam Chaterjee"
+  ""Don't criticize what you can't understand. " — Bob Dylan"
 </em></p>
 
 ---
