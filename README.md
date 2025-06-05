@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is only real, when shared." — Christopher McCandless"
+  ""To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others." — Criss Jami"
 </em></p>
 
 ---
