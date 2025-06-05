@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every second you have on this planet is very precious and it's your responsibility that you're happy." — Naval Ravikant"
+  ""The greatest step towards a life of simplicity is to learn to let go." — Steve Maraboli"
 </em></p>
 
 ---
