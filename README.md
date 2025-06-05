@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to know what God thinks about money just look at the people He gives it to." — Alexander Pope"
+  ""Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." — Paramahansa Yogananda"
 </em></p>
 
 ---
