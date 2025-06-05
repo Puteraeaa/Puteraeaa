@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The day is for honest men, the night for thieves." — Euripides"
+  ""Everything is in your own heart." — Thich Nhat Hanh"
 </em></p>
 
 ---
