@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every man is guilty of all the good he did not do. " — Voltaire"
+  ""If you want to know what God thinks about money just look at the people He gives it to." — Alexander Pope"
 </em></p>
 
 ---
