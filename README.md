@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A change is brought about because ordinary people do extraordinary things." — Barack Obama"
+  ""One of the keys to happiness is a bad memory." — Rita Mae Brown"
 </em></p>
 
 ---
