@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't." — Steve Maraboli"
+  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
 </em></p>
 
 ---
