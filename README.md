@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our stories may be singular, but our destination is shared." — Barack Obama"
+  ""Happiness is only real, when shared." — Christopher McCandless"
 </em></p>
 
 ---
