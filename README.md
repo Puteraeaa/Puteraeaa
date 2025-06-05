@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress comes to those who train and train; reliance on secret techniques will get you nowhere." — Morihei Ueshiba"
+  ""All animals except man know that the principal business of life is to enjoy it." — Samuel Butler"
 </em></p>
 
 ---
