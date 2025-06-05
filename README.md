@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great ones are willing to get burned time and again as they sharpen their swords in the fire." — Josh Waitzkin"
+  ""What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!" — Charles Darwin"
 </em></p>
 
 ---
