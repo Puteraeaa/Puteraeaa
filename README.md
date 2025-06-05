@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable." — Elon Musk"
+  ""When you are totally at peace with yourself, nothing can shake you." — Deepam Chaterjee"
 </em></p>
 
 ---
