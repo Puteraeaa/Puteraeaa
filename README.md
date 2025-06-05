@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
+  ""A flower falls, even though we love it; and a weed grows, even though we do not love it." — Dogen"
 </em></p>
 
 ---
