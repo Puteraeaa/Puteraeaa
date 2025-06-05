@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry." — Tony Robbins"
+  ""The sweetest pleasure arises from difficulties overcome." — Publilius Syrus"
 </em></p>
 
 ---
