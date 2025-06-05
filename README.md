@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tragedy is a tool for the living to gain wisdom, not a guide by which to live." — Robert F. Kennedy"
+  ""Great ones are willing to get burned time and again as they sharpen their swords in the fire." — Josh Waitzkin"
 </em></p>
 
 ---
