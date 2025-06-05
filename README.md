@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Find your Light; They can't love you if they can't see you." — Bette Midler"
+  ""Life's too mysterious to take too serious." — Mary Engelbreit"
 </em></p>
 
 ---
