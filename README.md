@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka"
+  ""Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
