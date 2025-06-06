@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't worry about being successful, but work toward being significant and the success will naturally follow." — Oprah Winfrey"
+  ""To travel is to be alive, but to get somewhere is to be dead." — Alan Watts"
 </em></p>
 
 ---
