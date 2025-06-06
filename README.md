@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A clear conscience never fears midnight knocking." — Chinese Proverb"
+  ""Life is a traveling to the edge of knowledge, then a leap taken." — D. H. Lawrence"
 </em></p>
 
 ---
