@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you set your goals ridiculously high and its a failure, you will fail above everyone elses success." — James Cameron"
+  ""We ordinary people must forge our own beauty." — Kenji Miyazawa"
 </em></p>
 
 ---
