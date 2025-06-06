@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is the greatest friend." — Lao Tzu"
+  ""Fear is a natural reaction to moving closer to the truth." — Pema Chodron"
 </em></p>
 
 ---
