@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot." — D. H. Lawrence"
+  ""We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." — Kamal Ravikant"
 </em></p>
 
 ---
