@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We ordinary people must forge our own beauty." — Kenji Miyazawa"
+  ""Remember the entrance to the sanctuary is inside you." — Rumi"
 </em></p>
 
 ---
