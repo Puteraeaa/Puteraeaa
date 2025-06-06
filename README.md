@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest value of a picture is when it forces us to notice what we never expected to see." — John Tukey"
+  ""If you are ever the smartest person in the room, you are in the wrong room." — C. Sean McGee"
 </em></p>
 
 ---
