@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The past has no power over the present moment. " — Eckhart Tolle"
+  ""The older you get, the better you get. Unless you're a banana." — Betty White"
 </em></p>
 
 ---
