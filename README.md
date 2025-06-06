@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To travel is to be alive, but to get somewhere is to be dead." — Alan Watts"
+  ""The outer conditions of a person's life will always be found to reflect their inner beliefs." — James Allen"
 </em></p>
 
 ---
