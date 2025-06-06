@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom itself demands discomfort." — Mark Manson"
+  ""Where your talents and the needs of the world cross, there lies your vocation." — Aristotle"
 </em></p>
 
 ---
