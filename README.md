@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The outer conditions of a person's life will always be found to reflect their inner beliefs." — James Allen"
+  ""There are people who have money and people who are rich." — Coco Chanel"
 </em></p>
 
 ---
