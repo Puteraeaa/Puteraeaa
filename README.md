@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is dangerous to be right in matters on which the established authorities are wrong." — Voltaire"
+  ""It is what we make out of what we have, not what we are given, that separates one person from another." — Nelson Mandela"
 </em></p>
 
 ---
