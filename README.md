@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are ever the smartest person in the room, you are in the wrong room." — C. Sean McGee"
+  ""Magic is believing in yourself, if you can do that, you can make anything happen." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
