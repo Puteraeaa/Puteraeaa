@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our view of the world is truly shaped by what we decide to hear." — William James"
+  ""Don't let your mind stop you." — Steve Harvey"
 </em></p>
 
 ---
