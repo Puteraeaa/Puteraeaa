@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is what we make out of what we have, not what we are given, that separates one person from another." — Nelson Mandela"
+  ""Everything you look at can become a fairy tale and you can get a story from everything you touch." — Hans Christian Andersen"
 </em></p>
 
 ---
