@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let your mind stop you." — Steve Harvey"
+  ""From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka"
 </em></p>
 
 ---
