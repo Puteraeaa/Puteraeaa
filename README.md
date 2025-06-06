@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The older you get, the better you get. Unless you're a banana." — Betty White"
+  ""Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!" — Alfred Adler"
 </em></p>
 
 ---
