@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are people who have money and people who are rich." — Coco Chanel"
+  ""You can discover what your enemy fears most by observing the means he uses to frighten you." — Eric Hoffer"
 </em></p>
 
 ---
