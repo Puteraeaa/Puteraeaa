@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only I can change my life. No one can do it for me." — Carol Burnett"
+  ""The salvation of the world lies in the human heart." — Vaclav Havel"
 </em></p>
 
 ---
