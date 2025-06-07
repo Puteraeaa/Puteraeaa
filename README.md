@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is filled with secrets. You can't learn them all at once." — Dan Brown"
+  ""To be prepared is half the victory. " — Miguel de Cervantes"
 </em></p>
 
 ---
