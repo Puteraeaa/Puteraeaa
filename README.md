@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only in the agony of parting do we look into the depths of love." — George Eliot"
+  ""As you think, so shall you become. " — Bruce Lee"
 </em></p>
 
 ---
