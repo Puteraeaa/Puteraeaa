@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't get to a place that you don't believe exists." — Unknown"
+  ""Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!" — Og Mandino"
 </em></p>
 
 ---
