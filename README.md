@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Cease striving. Then there will be transformation." — Zhuangzi"
+  ""Making your mark on the world is hard. If it were easy, everybody would do it." — Barack Obama"
 </em></p>
 
 ---
