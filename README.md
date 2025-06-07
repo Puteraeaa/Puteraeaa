@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When I let go of what I am, I become what I might be." — Lao Tzu"
+  ""Tall oaks grow from little acorns." — Andrew Carnegie"
 </em></p>
 
 ---
