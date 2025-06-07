@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Making your mark on the world is hard. If it were easy, everybody would do it." — Barack Obama"
+  ""A scientific man ought to have no wishes, no affections, - a mere heart of stone." — Charles Darwin"
 </em></p>
 
 ---
