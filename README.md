@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The one who boasts does so only out of a feeling of inferiority." — Alfred Adler"
+  ""Great acts are made up of small deeds." — Lao Tzu"
 </em></p>
 
 ---
