@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tall oaks grow from little acorns." — Andrew Carnegie"
+  ""Happiness must be grown in one's own garden." — Mary Engelbreit"
 </em></p>
 
 ---
