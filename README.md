@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As you think, so shall you become. " — Bruce Lee"
+  ""You can, you should, and if you're brave enough to start, you will." — Stephen King"
 </em></p>
 
 ---
