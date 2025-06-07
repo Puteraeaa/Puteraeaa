@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great acts are made up of small deeds." — Lao Tzu"
+  ""Only I can change my life. No one can do it for me." — Carol Burnett"
 </em></p>
 
 ---
