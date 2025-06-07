@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wisdom is the oneness of mind that guides and permeates all things." — Heraclitus"
+  ""A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw"
 </em></p>
 
 ---
