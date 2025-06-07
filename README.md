@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Art is to console those who are broken by life." — Vincent van Gogh"
+  ""Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda"
 </em></p>
 
 ---
