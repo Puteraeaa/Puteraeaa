@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness can be found, even in the darkest of times, if one only remembers to turn on the light." — Albus Dumbledore"
+  ""The one who boasts does so only out of a feeling of inferiority." — Alfred Adler"
 </em></p>
 
 ---
