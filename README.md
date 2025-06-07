@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness must be grown in one's own garden." — Mary Engelbreit"
+  ""The future depends on what you do today. " — Mahatma Gandhi"
 </em></p>
 
 ---
