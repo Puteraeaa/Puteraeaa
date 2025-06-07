@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whenever you do a thing, act as if all the world were watching." — Thomas Jefferson"
+  ""In the long run, the sharpest weapon of all is a kind and gentle spirit." — Anne Frank"
 </em></p>
 
 ---
