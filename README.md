@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the middle of chaos lies opportunity.  " — Bruce Lee"
+  ""A crisis is an opportunity riding the dangerous wind." — Chinese Proverb"
 </em></p>
 
 ---
