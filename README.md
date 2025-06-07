@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw"
+  ""Art is to console those who are broken by life." — Vincent van Gogh"
 </em></p>
 
 ---
