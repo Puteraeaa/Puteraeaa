@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is hard to fail, but it is worse never to have tried to succeed." — Theodore Roosevelt"
+  ""Life reflects your own thoughts back to you." — Napoleon Hill"
 </em></p>
 
 ---
