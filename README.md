@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future depends on what you do today. " — Mahatma Gandhi"
+  ""It does not matter how slowly you go so long as you do not stop." — Confucius"
 </em></p>
 
 ---
