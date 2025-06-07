@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Start each day with a positive thought and a grateful heart." — Roy T. Bennett"
+  ""The greatest treasures are those invisible to the eye but found by the heart." — Judy Garland"
 </em></p>
 
 ---
