@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest treasures are those invisible to the eye but found by the heart." — Judy Garland"
+  ""Dreams are for dreamers. Goals are for achievers." — Arnold Schwarzenegger"
 </em></p>
 
 ---
