@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do what you've always done, you'll get what you've always gotten." — Tony Robbins"
+  ""If you've made a mistake, it's better just to laugh at it." — Zen Proverb"
 </em></p>
 
 ---
