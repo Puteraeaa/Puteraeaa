@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want others to be happy, practice compassion. If you want to be happy, practice compassion." — Dalai Lama"
+  ""Your mind is infinite, it's your doubts that are limiting." — Robert Kiyosaki"
 </em></p>
 
 ---
