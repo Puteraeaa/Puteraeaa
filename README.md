@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Paths are made by walking." — Franz Kafka"
+  ""If you do what you've always done, you'll get what you've always gotten." — Tony Robbins"
 </em></p>
 
 ---
