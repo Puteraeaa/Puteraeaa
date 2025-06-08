@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most people spend more time and energy going around problems than in trying to solve them. " — Henry Ford"
+  ""The key to immortality is first living a life worth remembering. " — Bruce Lee"
 </em></p>
 
 ---
