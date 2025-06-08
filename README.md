@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are not stuck where you are unless you decide to be.  " — Wayne Dyer"
+  ""There is no way to happiness - happiness is the way." — Thich Nhat Hanh"
 </em></p>
 
 ---
