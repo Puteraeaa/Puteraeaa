@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you've made a mistake, it's better just to laugh at it." — Zen Proverb"
+  ""Use your smile to change the world but don't let the world change your smile." — Unknown"
 </em></p>
 
 ---
