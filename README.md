@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to be looked over than overlooked." — Mae West"
+  ""Paths are made by walking." — Franz Kafka"
 </em></p>
 
 ---
