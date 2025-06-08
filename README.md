@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations." — Wayne Gretzky"
+  ""I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." — D. H. Lawrence"
 </em></p>
 
 ---
