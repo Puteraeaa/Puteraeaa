@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the past steal your present." — Cherralea Morgen"
+  ""The true soldier fights not because he hates what is in front of him, but because he loves what is behind him." — Gilbert Chesterton"
 </em></p>
 
 ---
