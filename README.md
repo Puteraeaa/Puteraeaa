@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." — Alan Watts"
+  ""Great things happen to those who don't stop believing, trying, learning, and being grateful." — Roy T. Bennett"
 </em></p>
 
 ---
