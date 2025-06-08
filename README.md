@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""How you think when you lose determines how long it will be until you win." — Gilbert Chesterton"
+  ""Don't let the past steal your present." — Cherralea Morgen"
 </em></p>
 
 ---
