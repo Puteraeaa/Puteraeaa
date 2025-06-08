@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just do the best you can. No one can do more than that." — John Wooden"
+  ""Our joy does not have to be based on our circumstances." — Joyce Meyer"
 </em></p>
 
 ---
