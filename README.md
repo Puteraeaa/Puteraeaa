@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't cry because it's over. Smile because it happened." — Dr. Seuss"
+  ""Optimism, when applied to your life, develops strength and peace within you." — Norman Vincent Peale"
 </em></p>
 
 ---
