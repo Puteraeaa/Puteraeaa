@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great things happen to those who don't stop believing, trying, learning, and being grateful." — Roy T. Bennett"
+  ""Every experience is a lesson. Every loss is a gain." — Sathya Sai Baba"
 </em></p>
 
 ---
