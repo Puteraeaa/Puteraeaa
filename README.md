@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every experience is a lesson. Every loss is a gain." — Sathya Sai Baba"
+  ""How you think when you lose determines how long it will be until you win." — Gilbert Chesterton"
 </em></p>
 
 ---
