@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Listening well is as powerful as talking well, and is also as essential to true conversation." — Chinese Proverb"
+  ""Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates"
 </em></p>
 
 ---
