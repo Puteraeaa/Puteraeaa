@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Quiet people have the loudest minds." — Stephen Hawking"
+  ""Don't cry because it's over. Smile because it happened." — Dr. Seuss"
 </em></p>
 
 ---
