@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let your learning lead to knowledge. Let your learning lead to action." — Jim Rohn"
+  ""If you want others to be happy, practice compassion. If you want to be happy, practice compassion." — Dalai Lama"
 </em></p>
 
 ---
