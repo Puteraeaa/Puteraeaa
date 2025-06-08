@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The whole of life, from the moment you are born to the moment you die, is a process of learning." — Jiddu Krishnamurti"
+  ""Most people spend more time and energy going around problems than in trying to solve them. " — Henry Ford"
 </em></p>
 
 ---
