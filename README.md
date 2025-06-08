@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The question is not what you look at, but what you see." — Henry David Thoreau"
+  ""Dreams are the touchstones of our characters." — Henry David Thoreau"
 </em></p>
 
 ---
