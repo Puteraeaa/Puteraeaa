@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your mind is infinite, it's your doubts that are limiting." — Robert Kiyosaki"
+  ""Listening well is as powerful as talking well, and is also as essential to true conversation." — Chinese Proverb"
 </em></p>
 
 ---
