@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Focus on how far you have come in life rather than looking at the accomplishments of others." — Lolly Daskal"
+  ""Don't let your learning lead to knowledge. Let your learning lead to action." — Jim Rohn"
 </em></p>
 
 ---
