@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Optimism, when applied to your life, develops strength and peace within you." — Norman Vincent Peale"
+  ""Just do the best you can. No one can do more than that." — John Wooden"
 </em></p>
 
 ---
