@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." — Harry S. Truman"
+  ""The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." — Oprah Winfrey"
 </em></p>
 
 ---
