@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams are for dreamers. Goals are for achievers." — Arnold Schwarzenegger"
+  ""There are few reasons for telling the truth, but for lying the number is infinite." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
