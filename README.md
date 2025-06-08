@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are few reasons for telling the truth, but for lying the number is infinite." — Carlos Ruiz Zafon"
+  ""If I can pay the bills, I'm happy." — Morgan Wootten"
 </em></p>
 
 ---
