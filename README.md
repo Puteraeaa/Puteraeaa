@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It does not matter how slowly you go so long as you do not stop." — Confucius"
+  ""You miss 100% of the shots you don't take." — Wayne Gretzky"
 </em></p>
 
 ---
