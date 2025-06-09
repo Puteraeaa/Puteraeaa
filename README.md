@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Victims recite problems, leaders provide solutions." — Robin Sharma"
+  ""Life is really simple, but men insist on making it complicated. " — Confucius"
 </em></p>
 
 ---
