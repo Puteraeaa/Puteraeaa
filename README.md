@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Persistence is very important. You should not give up unless you are forced to give up." — Elon Musk"
+  ""The goal is not to show how great you are to others, but how vulnerable you are to yourself." — Maxime Lagace"
 </em></p>
 
 ---
