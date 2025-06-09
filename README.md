@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Selfishness and greed, individual or national, cause most of our troubles." — Harry S. Truman"
+  ""Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. " — Eckhart Tolle"
 </em></p>
 
 ---
