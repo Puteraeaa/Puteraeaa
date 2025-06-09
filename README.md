@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freeing oneself from words is liberation. " — Bodhidharma"
+  ""It is up to each of us to sing as we feel moved by the overall song of life." — Ming-Dao Deng"
 </em></p>
 
 ---
