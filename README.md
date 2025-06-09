@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Show me a hero, and I'll write you a tragedy." — F. Scott Fitzgerald"
+  ""The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you." — Criss Jami"
 </em></p>
 
 ---
