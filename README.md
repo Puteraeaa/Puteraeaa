@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you know what you want, and want it bad enough, you will find a way to get it." — Jim Rohn"
+  ""If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton"
 </em></p>
 
 ---
