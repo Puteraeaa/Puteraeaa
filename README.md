@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is really simple, but men insist on making it complicated. " — Confucius"
+  ""Prefer to be defeated in the presence of the wise than to excel among fools." — Dogen"
 </em></p>
 
 ---
