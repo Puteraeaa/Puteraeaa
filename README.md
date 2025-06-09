@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A fear of weakness only strengthens weakness." — Criss Jami"
+  ""Persistence is very important. You should not give up unless you are forced to give up." — Elon Musk"
 </em></p>
 
 ---
