@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Prefer to be defeated in the presence of the wise than to excel among fools." — Dogen"
+  ""A fear of weakness only strengthens weakness." — Criss Jami"
 </em></p>
 
 ---
