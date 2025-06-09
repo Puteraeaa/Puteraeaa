@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be mindful. Be grateful. Be positive. Be true. Be kind." — Roy T. Bennett"
+  ""Wit is educated insolence." — Aristotle"
 </em></p>
 
 ---
