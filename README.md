@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail." — Arnold Schwarzenegger"
+  ""Selfishness and greed, individual or national, cause most of our troubles." — Harry S. Truman"
 </em></p>
 
 ---
