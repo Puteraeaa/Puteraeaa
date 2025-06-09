@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ripe fruit falls by itself - but it doesn't fall in your mouth. " — Chinese Proverb"
+  ""If you do the work you get rewarded. There are no shortcuts in life." — Michael Jordan"
 </em></p>
 
 ---
