@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do the work you get rewarded. There are no shortcuts in life." — Michael Jordan"
+  ""You cannot have a positive life and a negative mind." — Joyce Meyer"
 </em></p>
 
 ---
