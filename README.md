@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great deeds are usually wrought at great risks." — Herodotus"
+  ""Intelligence is the ability to adapt to change." — Stephen Hawking"
 </em></p>
 
 ---
