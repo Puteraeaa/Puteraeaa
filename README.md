@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not all those who wander are lost." — J.R.R. Tolkien"
+  ""Turn off your mind, relax, and float downstream." — John Lennon"
 </em></p>
 
 ---
