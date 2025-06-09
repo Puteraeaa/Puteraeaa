@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life moves on and so should we." — Spencer Johnson"
+  ""Victims recite problems, leaders provide solutions." — Robin Sharma"
 </em></p>
 
 ---
