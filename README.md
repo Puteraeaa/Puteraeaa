@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My guiding principle is this: Guilt is never to be doubted. " — Franz Kafka"
+  ""Just as true humor is laughter at oneself, true humanity is knowledge of oneself." — Alan Watts"
 </em></p>
 
 ---
