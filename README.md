@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton"
+  ""Not all those who wander are lost." — J.R.R. Tolkien"
 </em></p>
 
 ---
