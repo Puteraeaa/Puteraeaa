@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. " — Eckhart Tolle"
+  ""Confidence is consistency of thinking about what is possible and how to make it possible." — John Eliot"
 </em></p>
 
 ---
