@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wit is educated insolence." — Aristotle"
+  ""Freeing oneself from words is liberation. " — Bodhidharma"
 </em></p>
 
 ---
