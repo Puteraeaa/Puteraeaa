@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed." — Lily Tomlin"
+  ""Everyone thinks of changing the world, but no one thinks of changing himself." — Leo Tolstoy"
 </em></p>
 
 ---
