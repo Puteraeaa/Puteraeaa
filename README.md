@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The goal is not to show how great you are to others, but how vulnerable you are to yourself." — Maxime Lagace"
+  ""Rest in reason; move in passion." — Kahlil Gibran"
 </em></p>
 
 ---
