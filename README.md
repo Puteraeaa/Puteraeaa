@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is consistency of thinking about what is possible and how to make it possible." — John Eliot"
+  ""If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed." — Lily Tomlin"
 </em></p>
 
 ---
