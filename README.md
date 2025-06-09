@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt." — Honore de Balzac"
+  ""All life is a manifestation of the spirit, the manifestation of love." — Morihei Ueshiba"
 </em></p>
 
 ---
