@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is built sequentially. It's one thing at a time." — Gary Keller"
+  ""When you know what you want, and want it bad enough, you will find a way to get it." — Jim Rohn"
 </em></p>
 
 ---
