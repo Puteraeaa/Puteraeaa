@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot have a positive life and a negative mind." — Joyce Meyer"
+  ""Be mindful. Be grateful. Be positive. Be true. Be kind." — Roy T. Bennett"
 </em></p>
 
 ---
