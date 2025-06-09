@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our joy does not have to be based on our circumstances." — Joyce Meyer"
+  ""Ripe fruit falls by itself - but it doesn't fall in your mouth. " — Chinese Proverb"
 </em></p>
 
 ---
