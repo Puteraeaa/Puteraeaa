@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment." — Dan Millman"
+  ""When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  " — Wayne Dyer"
 </em></p>
 
 ---
