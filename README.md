@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people do what unsuccessful people are not willing to do." — Jim Rohn"
+  ""What is a friend? A single soul dwelling in two bodies." — Aristotle"
 </em></p>
 
 ---
