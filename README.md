@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do not tell the truth about yourself you cannot tell it about other people." — Virginia Woolf"
+  ""It is the greatest of all mistakes to do nothing because you can only do little; do something." — Sydney Smith"
 </em></p>
 
 ---
