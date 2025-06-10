@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man is free who is not master of himself." — Epictetus"
+  ""He suffers more than necessary, who suffers before it is necessary.  " — Seneca"
 </em></p>
 
 ---
