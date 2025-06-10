@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy." — Ralph Marston"
+  ""Everything that is made beautiful and fair and lovely is made for the eye of one who sees." — Rumi"
 </em></p>
 
 ---
