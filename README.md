@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What is a friend? A single soul dwelling in two bodies." — Aristotle"
+  ""There is nothing more frightful than ignorance in action." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
