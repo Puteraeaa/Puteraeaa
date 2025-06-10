@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fear of death is more to be feared, than death itself." — Publilius Syrus"
+  ""There is no value in anything until it is finished. " — Genghis Khan"
 </em></p>
 
 ---
