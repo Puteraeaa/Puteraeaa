@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is easier to fight for one's principles than to live up to them. " — Alfred Adler"
+  ""We can know only that we know nothing. And that is the highest degree of human wisdom." — Leo Tolstoy"
 </em></p>
 
 ---
