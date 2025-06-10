@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing we see or hear is perfect. But right there in the imperfection is perfect reality." — Shunryu Suzuki"
+  ""Just try to be the best you can be; never cease trying to be the best you can be. That's in your power." — John Wooden"
 </em></p>
 
 ---
