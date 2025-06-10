@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The happiest people in the world are those who feel absolutely terrific about themselves." — Brian Tracy"
+  ""Successful people do what unsuccessful people are not willing to do." — Jim Rohn"
 </em></p>
 
 ---
