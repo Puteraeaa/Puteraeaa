@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace is letting it be. Letting life flow, letting emotions flow through you." — Kamal Ravikant"
+  ""Instead of worrying about what you cannot control, shift your energy to what you can create." — Roy T. Bennett"
 </em></p>
 
 ---
