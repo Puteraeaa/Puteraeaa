@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can know only that we know nothing. And that is the highest degree of human wisdom." — Leo Tolstoy"
+  ""Learning is a gift, even when pain is your teacher." — Michael Jordan"
 </em></p>
 
 ---
