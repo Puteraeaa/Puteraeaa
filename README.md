@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience is not the ability to wait but the ability to keep a good attitude while waiting." — Joyce Meyer"
+  ""The one who praises you is a thief. The one who criticizes you is your true friend." — Seungsahn"
 </em></p>
 
 ---
