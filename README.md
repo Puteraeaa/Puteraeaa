@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is nothing more frightful than ignorance in action." — Johann Wolfgang von Goethe"
+  ""You can't build a reputation on what you are going to do. " — Henry Ford"
 </em></p>
 
 ---
