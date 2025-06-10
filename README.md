@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Care about what other people think and you will always be their prisoner." — Lao Tzu"
+  ""Life is a traveling to the edge of knowledge, then a leap taken." — D. H. Lawrence"
 </em></p>
 
 ---
