@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The one who praises you is a thief. The one who criticizes you is your true friend." — Seungsahn"
+  ""Learning never exhausts the mind. " — Leonardo da Vinci"
 </em></p>
 
 ---
