@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is the greatest of all mistakes to do nothing because you can only do little; do something." — Sydney Smith"
+  ""Fortunate are those who take the first steps." — Paulo Coelho"
 </em></p>
 
 ---
