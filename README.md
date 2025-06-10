@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no value in anything until it is finished. " — Genghis Khan"
+  ""A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday." — Jonathan Swift"
 </em></p>
 
 ---
