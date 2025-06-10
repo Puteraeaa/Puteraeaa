@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are not the drop in the ocean, but the ocean in the drop." — Deepak Chopra"
+  ""Peace is letting it be. Letting life flow, letting emotions flow through you." — Kamal Ravikant"
 </em></p>
 
 ---
