@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learning is a gift, even when pain is your teacher." — Michael Jordan"
+  ""Patience is not the ability to wait but the ability to keep a good attitude while waiting." — Joyce Meyer"
 </em></p>
 
 ---
