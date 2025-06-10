@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't build a reputation on what you are going to do. " — Henry Ford"
+  ""To handle yourself, use your head; to handle others, use your heart." — Eleanor Roosevelt"
 </em></p>
 
 ---
