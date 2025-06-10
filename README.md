@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He suffers more than necessary, who suffers before it is necessary.  " — Seneca"
+  ""Belief creates the actual fact." — William James"
 </em></p>
 
 ---
