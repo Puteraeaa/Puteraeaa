@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't let your failures define you. You have to let your failures teach you." — Barack Obama"
+  ""Always be a first-rate version of yourself, instead of a second-rate version of someone else." — Judy Garland"
 </em></p>
 
 ---
