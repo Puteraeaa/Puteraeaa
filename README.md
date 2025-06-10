@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday." — Jonathan Swift"
+  ""If you do not tell the truth about yourself you cannot tell it about other people." — Virginia Woolf"
 </em></p>
 
 ---
