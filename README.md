@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life would be tragic if it weren't funny." — Stephen Hawking"
+  ""The fear of death is more to be feared, than death itself." — Publilius Syrus"
 </em></p>
 
 ---
