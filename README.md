@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  " — Wayne Dyer"
+  ""Life would be tragic if it weren't funny." — Stephen Hawking"
 </em></p>
 
 ---
