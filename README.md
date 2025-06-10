@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be in harmony with the wholeness of things is not to have anxiety over imperfections." — Dogen"
+  ""No man will make a great leader who wants to do it all himself or to get all the credit for doing it." — Andrew Carnegie"
 </em></p>
 
 ---
