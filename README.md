@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learning never exhausts the mind. " — Leonardo da Vinci"
+  ""The happiest people in the world are those who feel absolutely terrific about themselves." — Brian Tracy"
 </em></p>
 
 ---
