@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a traveling to the edge of knowledge, then a leap taken." — D. H. Lawrence"
+  ""You are not the drop in the ocean, but the ocean in the drop." — Deepak Chopra"
 </em></p>
 
 ---
