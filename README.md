@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be strong. Be confident. Be the star of your own life." — Estee Lauder"
+  ""Let the beauty of what you love be what you do." — Rumi"
 </em></p>
 
 ---
