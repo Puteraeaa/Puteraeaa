@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Forget safety. Live where you fear to live." — Rumi"
+  ""Every limit is a beginning as well as an ending." — George Eliot"
 </em></p>
 
 ---
