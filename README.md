@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""An investment in knowledge pays the best interest." — Benjamin Franklin"
+  ""The world is open for play, everything and everybody is mockable in a wonderful way." — Robin Williams"
 </em></p>
 
 ---
