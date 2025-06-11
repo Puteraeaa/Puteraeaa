@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Motivation gets you going and habit gets you there.  " — Zig Ziglar"
+  ""Happiness is pretty simple: someone to love, something to do, something to look forward to." — Rita Mae Brown"
 </em></p>
 
 ---
