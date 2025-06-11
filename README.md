@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever." — Alexandre Dumas"
+  ""Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu"
 </em></p>
 
 ---
