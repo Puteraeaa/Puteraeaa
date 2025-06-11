@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The world is open for play, everything and everybody is mockable in a wonderful way." — Robin Williams"
+  ""Forget safety. Live where you fear to live." — Rumi"
 </em></p>
 
 ---
