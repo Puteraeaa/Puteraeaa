@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Let the beauty of what you love be what you do." — Rumi"
+  ""Either you run the day or the day runs you." — Jim Rohn"
 </em></p>
 
 ---
