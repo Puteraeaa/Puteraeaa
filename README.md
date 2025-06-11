@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain." — Josh Waitzkin"
+  ""If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." — Martin Luther King, Jr."
 </em></p>
 
 ---
