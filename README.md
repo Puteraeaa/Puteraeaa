@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A moving door hinge never corrodes. Flowing water never grows stagnant." — Ming-Dao Deng"
+  ""Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort." — Steve Harvey"
 </em></p>
 
 ---
