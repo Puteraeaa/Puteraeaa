@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Excellence is not a skill. It is an attitude. " — Ralph Marston"
+  ""Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. " — Lao Tzu"
 </em></p>
 
 ---
