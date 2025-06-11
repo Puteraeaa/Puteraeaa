@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes." — Alfred Adler"
+  ""Motivation gets you going and habit gets you there.  " — Zig Ziglar"
 </em></p>
 
 ---
