@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Silence is a source of great strength." — Lao Tzu"
+  ""I believe that potential is unlimited - success depends on daring to act on dreams.   " — Estee Lauder"
 </em></p>
 
 ---
