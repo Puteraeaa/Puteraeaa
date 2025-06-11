@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Loving thoughts and actions are clearly beneficial for our physical and mental health." — Dalai Lama"
+  ""A moving door hinge never corrodes. Flowing water never grows stagnant." — Ming-Dao Deng"
 </em></p>
 
 ---
