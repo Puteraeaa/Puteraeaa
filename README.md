@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love is the absence of judgment." — Dalai Lama"
+  ""When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head." — Stephen King"
 </em></p>
 
 ---
