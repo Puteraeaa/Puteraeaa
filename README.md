@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Without struggle, no progress and no result. Every breaking of habit produces a change in the machine." — G.I. Gurdjieff"
+  ""Be strong. Be confident. Be the star of your own life." — Estee Lauder"
 </em></p>
 
 ---
