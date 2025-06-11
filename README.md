@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Through selfless service, you will always be fruitful and find the fulfillment of your desires." — Bhagavad Gita"
+  ""No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain." — Josh Waitzkin"
 </em></p>
 
 ---
