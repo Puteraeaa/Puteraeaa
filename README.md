@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't seek, don't search, don't ask, don't knock, don't demand - relax." — Osho"
+  ""Excellence is not an exception, it is a prevailing attitude." — Colin Powell"
 </em></p>
 
 ---
