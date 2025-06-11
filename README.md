@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest step towards a life of simplicity is to learn to let go." — Steve Maraboli"
+  ""Silence is a source of great strength." — Lao Tzu"
 </em></p>
 
 ---
