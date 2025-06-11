@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Either you run the day or the day runs you." — Jim Rohn"
+  ""Excellence is not a skill. It is an attitude. " — Ralph Marston"
 </em></p>
 
 ---
