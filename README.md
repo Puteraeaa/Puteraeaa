@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Belief creates the actual fact." — William James"
+  ""The more you know, the more you know you don't know." — Aristotle"
 </em></p>
 
 ---
