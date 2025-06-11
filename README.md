@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort." — Steve Harvey"
+  ""Failure is the highway to success." — Og Mandino"
 </em></p>
 
 ---
