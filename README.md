@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." — Martin Luther King, Jr."
+  ""Loving thoughts and actions are clearly beneficial for our physical and mental health." — Dalai Lama"
 </em></p>
 
 ---
