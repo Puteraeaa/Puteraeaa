@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every hour of every day is an unspeakably perfect miracle." — Walt Whitman"
+  ""Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey." — Roy T. Bennett"
 </em></p>
 
 ---
