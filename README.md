@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you know, the more you know you don't know." — Aristotle"
+  ""The greatest step towards a life of simplicity is to learn to let go." — Steve Maraboli"
 </em></p>
 
 ---
