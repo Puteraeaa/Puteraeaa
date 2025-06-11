@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I believe that potential is unlimited - success depends on daring to act on dreams.   " — Estee Lauder"
+  ""Don't seek, don't search, don't ask, don't knock, don't demand - relax." — Osho"
 </em></p>
 
 ---
