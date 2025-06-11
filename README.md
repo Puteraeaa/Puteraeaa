@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't blame others. it won't make you a better person." — Lolly Daskal"
+  ""Through selfless service, you will always be fruitful and find the fulfillment of your desires." — Bhagavad Gita"
 </em></p>
 
 ---
