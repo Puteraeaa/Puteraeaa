@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People do not decide their futures, they decide their habits and their habits decide their futures." — Gary Keller"
+  ""Your world is a living expression of how you are using and have used your mind." — Earl Nightingale"
 </em></p>
 
 ---
