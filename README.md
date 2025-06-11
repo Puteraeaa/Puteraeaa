@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd." — Chinese Proverb"
+  ""Don't blame others. it won't make you a better person." — Lolly Daskal"
 </em></p>
 
 ---
