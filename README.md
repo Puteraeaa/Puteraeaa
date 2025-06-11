@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every limit is a beginning as well as an ending." — George Eliot"
+  ""First say to yourself what you would be; and then do what you have to do." — Epictetus"
 </em></p>
 
 ---
