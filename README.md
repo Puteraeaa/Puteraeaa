@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is the highway to success." — Og Mandino"
+  ""Love is the absence of judgment." — Dalai Lama"
 </em></p>
 
 ---
