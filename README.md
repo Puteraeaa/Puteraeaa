@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never was anything great achieved without danger." — Niccolo Machiavelli"
+  ""Confidence is contagious. So is lack of confidence." — Vince Lombardi"
 </em></p>
 
 ---
