@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep smiling, because life is a beautiful thing and there's so much to smile about." — Marilyn Monroe"
+  ""Avoiding danger is no safer in the long run than exposure." — Helen Keller"
 </em></p>
 
 ---
