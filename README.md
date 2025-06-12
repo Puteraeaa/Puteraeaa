@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who know, do. Those that understand, teach." — Aristotle"
+  ""Better late than never." — Spencer Johnson"
 </em></p>
 
 ---
