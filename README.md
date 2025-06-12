@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wherever you are, it's the place you need to be." — Maxime Lagace"
+  ""My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time." — Steve Jobs"
 </em></p>
 
 ---
