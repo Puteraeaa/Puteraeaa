@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learn to use your emotions to think, not think with your emotions." — Robert Kiyosaki"
+  ""The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. " — Orison Swett Marden"
 </em></p>
 
 ---
