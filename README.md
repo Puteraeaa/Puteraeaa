@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can have the mind or you can have the moment." — Naval Ravikant"
+  ""Keep smiling, because life is a beautiful thing and there's so much to smile about." — Marilyn Monroe"
 </em></p>
 
 ---
