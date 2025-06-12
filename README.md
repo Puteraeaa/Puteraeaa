@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." — Sonia Ricotti"
+  ""Cultivate the merry heart, develop the happiness habit, and life will become a continual feast." — Norman Vincent Peale"
 </em></p>
 
 ---
