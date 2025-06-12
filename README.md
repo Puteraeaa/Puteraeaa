@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time." — Steve Jobs"
+  ""To know even one life has breathed easier because you have lived. This is to have succeeded." — Ralph Waldo Emerson"
 </em></p>
 
 ---
