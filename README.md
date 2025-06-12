@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the beginner's mind there are many possibilities, but in the expert's mind there are few." — Shunryu Suzuki"
+  ""It's much better to do good in a way that no one knows anything about it." — Leo Tolstoy"
 </em></p>
 
 ---
