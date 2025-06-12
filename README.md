@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To know even one life has breathed easier because you have lived. This is to have succeeded." — Ralph Waldo Emerson"
+  ""There is a big difference between being centered and being self-centered." — Lolly Daskal"
 </em></p>
 
 ---
