@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius"
+  ""In the beginner's mind there are many possibilities, but in the expert's mind there are few." — Shunryu Suzuki"
 </em></p>
 
 ---
