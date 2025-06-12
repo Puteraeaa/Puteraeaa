@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always be a first rate version of yourself and not a second rate version of someone else." — Judy Garland"
+  ""Would you rather live your life according to the approval of others or aligned with your truth and your dreams?" — Robin Sharma"
 </em></p>
 
 ---
