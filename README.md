@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Go as far as you can see and you will see further.  " — Zig Ziglar"
+  ""By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius"
 </em></p>
 
 ---
