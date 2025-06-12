@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fools read fast. Geniuses reread." — Maxime Lagace"
+  ""Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor." — Thich Nhat Hanh"
 </em></p>
 
 ---
