@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone you meet is fighting a battle you know nothing about. Be kind. Always." — Robin Williams"
+  ""Learn to use your emotions to think, not think with your emotions." — Robert Kiyosaki"
 </em></p>
 
 ---
