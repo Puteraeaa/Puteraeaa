@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The one who praises you is a thief. The one who criticizes you is your true friend." — Seungsahn"
+  ""Go as far as you can see and you will see further.  " — Zig Ziglar"
 </em></p>
 
 ---
