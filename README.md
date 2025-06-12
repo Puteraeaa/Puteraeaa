@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do it with passion, or not at all." — Rosa Nouchette Carey"
+  ""Everyone you meet is fighting a battle you know nothing about. Be kind. Always." — Robin Williams"
 </em></p>
 
 ---
