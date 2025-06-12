@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Given the choice between the experience of pain and nothing, I would choose pain." — William Faulkner"
+  ""Never was anything great achieved without danger." — Niccolo Machiavelli"
 </em></p>
 
 ---
