@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Avoiding danger is no safer in the long run than exposure." — Helen Keller"
+  ""The opportunity of defeating the enemy is provided by the enemy himself." — Sun Tzu"
 </em></p>
 
 ---
