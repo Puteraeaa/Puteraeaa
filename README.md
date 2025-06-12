@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Would you rather live your life according to the approval of others or aligned with your truth and your dreams?" — Robin Sharma"
+  ""Those who know, do. Those that understand, teach." — Aristotle"
 </em></p>
 
 ---
