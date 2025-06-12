@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor." — Thich Nhat Hanh"
+  ""The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown"
 </em></p>
 
 ---
