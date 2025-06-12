@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is acceptable. Not trying is a whole different ball park." — Michael Jordan"
+  ""Do it with passion, or not at all." — Rosa Nouchette Carey"
 </em></p>
 
 ---
