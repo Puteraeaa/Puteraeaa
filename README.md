@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. " — Orison Swett Marden"
+  ""Life is like underwear, should be changed twice a day.  " — Ray Bradbury"
 </em></p>
 
 ---
