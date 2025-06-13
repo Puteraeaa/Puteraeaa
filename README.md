@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." — Richard Bach"
+  ""Catch, then, O catch the transient hour; Improve each moment as it flies! " — St. Jerome"
 </em></p>
 
 ---
