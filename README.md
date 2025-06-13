@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is always room in your life for thinking bigger, pushing limits and imagining the impossible." — Tony Robbins"
+  ""The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown"
 </em></p>
 
 ---
