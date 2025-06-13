@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We cannot change anything unless we accept it." — Carl Jung"
+  ""Who you are is defined by what you're willing to struggle for." — Mark Manson"
 </em></p>
 
 ---
