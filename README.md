@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can avoid reality, but you cannot avoid the consequences of avoiding reality." — Ayn Rand"
+  ""There is no sadder sight than a young pessimist." — Mark Twain"
 </em></p>
 
 ---
