@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fears are nothing more than a state of mind." — Napoleon Hill"
+  ""Let each man exercise the art he knows." — Aristophanes"
 </em></p>
 
 ---
