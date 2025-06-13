@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are the average of the five people you spend the most time with." — Jim Rohn"
+  ""When you believe in a thing, believe in it all the way, implicitly and unquestionable." — Walt Disney"
 </em></p>
 
 ---
