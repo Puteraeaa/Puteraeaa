@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every man desires to live long, but no man wishes to be old." — Jonathan Swift"
+  ""Live and act within the limit of your knowledge and keep expanding it to the limit of your life." — Ayn Rand"
 </em></p>
 
 ---
