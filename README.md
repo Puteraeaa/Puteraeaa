@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your imagination is your preview of life's coming attractions." — Albert Einstein"
+  ""Fears are nothing more than a state of mind." — Napoleon Hill"
 </em></p>
 
 ---
