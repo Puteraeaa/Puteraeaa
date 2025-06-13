@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Engage in those actions and thoughts that nurture the good qualities you want to have." — Paramahansa Yogananda"
+  ""It is never too late to be what you might have been." — George Eliot"
 </em></p>
 
 ---
