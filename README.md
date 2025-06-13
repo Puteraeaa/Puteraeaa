@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Art is the signature of civilizations. " — Beverly Sills"
+  ""Reversing your treatment of the man you have wronged is better than asking his forgiveness." — Elbert Hubbard"
 </em></p>
 
 ---
