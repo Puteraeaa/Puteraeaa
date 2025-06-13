@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is safer to search in the maze than to remain in a cheeseless situation." — Spencer Johnson"
+  ""The whole world is a series of miracles, but we're so used to them we call them ordinary things." — Hans Christian Andersen"
 </em></p>
 
 ---
