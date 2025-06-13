@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Reversing your treatment of the man you have wronged is better than asking his forgiveness." — Elbert Hubbard"
+  ""The key to success is action." — Brian Tracy"
 </em></p>
 
 ---
