@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Honesty is the first chapter in the book of wisdom." — Thomas Jefferson"
+  ""A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way." — Osho"
 </em></p>
 
 ---
