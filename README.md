@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live and act within the limit of your knowledge and keep expanding it to the limit of your life." — Ayn Rand"
+  ""The way to get started is to quit talking and begin doing." — Walt Disney"
 </em></p>
 
 ---
