@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A dream doesn't become reality through magic it takes sweat, determination and hard work." — Colin Powell"
+  ""Your imagination is your preview of life's coming attractions." — Albert Einstein"
 </em></p>
 
 ---
