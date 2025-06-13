@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is never too late to be what you might have been." — George Eliot"
+  ""There is always room in your life for thinking bigger, pushing limits and imagining the impossible." — Tony Robbins"
 </em></p>
 
 ---
