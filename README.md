@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Heal the past, live the present, dream the future." — Mary Engelbreit"
+  ""You are the average of the five people you spend the most time with." — Jim Rohn"
 </em></p>
 
 ---
