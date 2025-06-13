@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Instead of worrying about what you cannot control, shift your energy to what you can create." — Roy T. Bennett"
+  ""It is safer to search in the maze than to remain in a cheeseless situation." — Spencer Johnson"
 </em></p>
 
 ---
