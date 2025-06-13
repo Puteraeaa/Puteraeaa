@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A comfort zone is a beautiful place, but nothing ever grows there." — Unknown"
+  ""The only lost cause is one we give up on before we enter the struggle." — Vaclav Havel"
 </em></p>
 
 ---
