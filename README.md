@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The whole world is a series of miracles, but we're so used to them we call them ordinary things." — Hans Christian Andersen"
+  ""Heal the past, live the present, dream the future." — Mary Engelbreit"
 </em></p>
 
 ---
