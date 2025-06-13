@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Who you are is defined by what you're willing to struggle for." — Mark Manson"
+  ""To some degree, you control your life by controlling your time." — Conrad Hilton"
 </em></p>
 
 ---
