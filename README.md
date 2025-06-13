@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown"
+  ""Honesty is the first chapter in the book of wisdom." — Thomas Jefferson"
 </em></p>
 
 ---
