@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To some degree, you control your life by controlling your time." — Conrad Hilton"
+  ""A comfort zone is a beautiful place, but nothing ever grows there." — Unknown"
 </em></p>
 
 ---
