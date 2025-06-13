@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no sadder sight than a young pessimist." — Mark Twain"
+  ""We cannot change anything unless we accept it." — Carl Jung"
 </em></p>
 
 ---
