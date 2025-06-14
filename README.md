@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The successful warrior is the average man, with laser-like focus." — Bruce Lee"
+  ""All cruelty springs from weakness.  " — Seneca"
 </em></p>
 
 ---
