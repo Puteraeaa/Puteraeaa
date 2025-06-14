@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." — Sathya Sai Baba"
+  ""Falling down is not failure. Failure comes when you stay where you have fallen." — Socrates"
 </em></p>
 
 ---
