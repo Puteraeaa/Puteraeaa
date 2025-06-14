@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one can hurt you without your consent." — Eleanor Roosevelt"
+  ""Those who dream by day are cognizant of many things which escape those who dream only by night." — Vincent van Gogh"
 </em></p>
 
 ---
