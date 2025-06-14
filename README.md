@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be the silent watcher of your thoughts and behavior. You are beneath the thinker." — Eckhart Tolle"
+  ""Before you can see the Light, you have to deal with the darkness." — Dan Millman"
 </em></p>
 
 ---
