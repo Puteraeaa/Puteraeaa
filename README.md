@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Giving back involves a certain amount of giving up." — Colin Powell"
+  ""The successful warrior is the average man, with laser-like focus." — Bruce Lee"
 </em></p>
 
 ---
