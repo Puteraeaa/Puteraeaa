@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." — Wayne Gretzky"
+  ""The real meditation is how you live your life." — Jon Kabat-Zinn"
 </em></p>
 
 ---
