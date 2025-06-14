@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always try to be a little kinder than necessary." — James Matthew Barrie"
+  ""Take into account that great love and great achievements involve great risk." — Dalai Lama"
 </em></p>
 
 ---
