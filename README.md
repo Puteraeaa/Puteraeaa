@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not uncommon for people to spend their whole life waiting to start living." — Eckhart Tolle"
+  ""You are your best thing." — Toni Morrison"
 </em></p>
 
 ---
