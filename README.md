@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must have strong minds, ready to accept facts as they are." — Harry S. Truman"
+  ""You have to make time, even for something as universal as staring at the stars." — W.P. Kinsella"
 </em></p>
 
 ---
