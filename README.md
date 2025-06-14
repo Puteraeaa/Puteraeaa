@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever your mind can conceive and believe, it can achieve." — Napoleon Hill"
+  ""The purpose of life is the expansion of happiness." — Deepak Chopra"
 </em></p>
 
 ---
