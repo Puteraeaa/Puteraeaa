@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." — Paramahansa Yogananda"
+  ""It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." — Roy T. Bennett"
 </em></p>
 
 ---
