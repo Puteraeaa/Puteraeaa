@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have to make time, even for something as universal as staring at the stars." — W.P. Kinsella"
+  ""You can suffer the pain of change or suffer remaining the way you are." — Joyce Meyer"
 </em></p>
 
 ---
