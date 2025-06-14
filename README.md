@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wisest men follow their own direction." — Euripides"
+  ""If you run you stand a chance of losing, but if you don't run you've already lost." — Barack Obama"
 </em></p>
 
 ---
