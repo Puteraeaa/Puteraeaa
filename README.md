@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Health is the greatest of all possessions." — Jonathan Swift"
+  ""It is not uncommon for people to spend their whole life waiting to start living." — Eckhart Tolle"
 </em></p>
 
 ---
