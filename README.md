@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you genuinely want something, don't wait for it - teach yourself." — Gurbaksh Chahal"
+  ""Life is a series of choices and all we can do is make them." — Kamal Ravikant"
 </em></p>
 
 ---
