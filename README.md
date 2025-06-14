@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be fully alive is to feel that everything is possible." — Eric Hoffer"
+  ""Health is the greatest of all possessions." — Jonathan Swift"
 </em></p>
 
 ---
