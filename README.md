@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a series of choices and all we can do is make them." — Kamal Ravikant"
+  ""You can't have anything worthwhile without difficulties." — Harry S. Truman"
 </em></p>
 
 ---
