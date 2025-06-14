@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are like islands in the sea, separate on the surface but connected in the deep." — William James"
+  ""Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." — Wayne Gretzky"
 </em></p>
 
 ---
