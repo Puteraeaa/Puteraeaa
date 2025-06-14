@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can suffer the pain of change or suffer remaining the way you are." — Joyce Meyer"
+  ""Your heart is the size of an ocean. Go find yourself in its hidden depths." — Rumi"
 </em></p>
 
 ---
