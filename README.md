@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What loneliness is more lonely than distrust?" — George Eliot"
+  ""To be fully alive is to feel that everything is possible." — Eric Hoffer"
 </em></p>
 
 ---
