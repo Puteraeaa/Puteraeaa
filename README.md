@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't have anything worthwhile without difficulties." — Harry S. Truman"
+  ""He who is untrue to his own cause cannot command the respect of others." — Albert Einstein"
 </em></p>
 
 ---
