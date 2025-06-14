@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." — Roy T. Bennett"
+  ""We are like islands in the sea, separate on the surface but connected in the deep." — William James"
 </em></p>
 
 ---
