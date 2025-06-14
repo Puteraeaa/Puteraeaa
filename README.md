@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All cruelty springs from weakness.  " — Seneca"
+  ""Believe in one thing too much and you have no room for new ideas.  " — Ray Bradbury"
 </em></p>
 
 ---
