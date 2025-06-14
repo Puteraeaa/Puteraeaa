@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The purpose of life is the expansion of happiness." — Deepak Chopra"
+  ""Always try to be a little kinder than necessary." — James Matthew Barrie"
 </em></p>
 
 ---
