@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe in one thing too much and you have no room for new ideas.  " — Ray Bradbury"
+  ""If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." — Paramahansa Yogananda"
 </em></p>
 
 ---
