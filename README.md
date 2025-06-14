@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Take into account that great love and great achievements involve great risk." — Dalai Lama"
+  ""Giving back involves a certain amount of giving up." — Colin Powell"
 </em></p>
 
 ---
