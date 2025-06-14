@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's the unknown we fear when we look upon death and darkness, nothing more." — Albus Dumbledore"
+  ""To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others." — Criss Jami"
 </em></p>
 
 ---
