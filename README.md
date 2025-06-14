@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Listen to what you know instead of what you fear." — Richard Bach"
+  ""Time flies whether you are having fun or not." — Mary Engelbreit"
 </em></p>
 
 ---
