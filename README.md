@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who dream by day are cognizant of many things which escape those who dream only by night." — Vincent van Gogh"
+  ""You can, you should, and if you're brave enough to start, you will." — Stephen King"
 </em></p>
 
 ---
