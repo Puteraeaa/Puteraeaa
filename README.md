@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What people need and what they want may be very different." — Elbert Hubbard"
+  ""Only he who has no use for the empire is fit to be entrusted with it." — Zhuangzi"
 </em></p>
 
 ---
