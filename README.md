@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most tragic thing in the world is a man of genius who is not a man of honor." — George Bernard Shaw"
+  ""Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." — Alfred Adler"
 </em></p>
 
 ---
