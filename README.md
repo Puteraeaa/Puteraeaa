@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fastest way to change is to laugh at your own folly." — Spencer Johnson"
+  ""Some people want it to happen, some wish it would happen, others make it happen." — Michael Jordan"
 </em></p>
 
 ---
