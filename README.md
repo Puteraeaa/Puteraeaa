@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be true to yourself, help others, make each day your masterpiece" — John Wooden"
+  ""Failure is the highway to success." — Og Mandino"
 </em></p>
 
 ---
