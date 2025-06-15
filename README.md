@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams provide nourishment for the soul, just as a meal does for the body." — Paulo Coelho"
+  ""The more one judges, the less one loves." — Honore de Balzac"
 </em></p>
 
 ---
