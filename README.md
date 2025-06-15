@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop being tormented by everyone else's reaction to you." — Joyce Meyer"
+  ""Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." — Naval Ravikant"
 </em></p>
 
 ---
