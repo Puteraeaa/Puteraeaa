@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." — Naval Ravikant"
+  ""Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino"
 </em></p>
 
 ---
