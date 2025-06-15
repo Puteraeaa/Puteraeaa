@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can put lipstick on a pig. It's still a pig." — Barack Obama"
+  ""Enjoy every minute of life. Never second-guess life." — Michael Jordan"
 </em></p>
 
 ---
