@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Unhappiness enters through a door that has been left open." — Zen Proverb"
+  ""In the middle of chaos lies opportunity.  " — Bruce Lee"
 </em></p>
 
 ---
