@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am not what happened to me, I am what I choose to become." — Carl Jung"
+  ""There's no coming to consciousness without pain" — Carl Jung"
 </em></p>
 
 ---
