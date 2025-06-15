@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Enjoy every minute of life. Never second-guess life." — Michael Jordan"
+  ""Little by little, one travels far." — J.R.R. Tolkien"
 </em></p>
 
 ---
