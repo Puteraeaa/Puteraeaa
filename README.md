@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." — Alfred Adler"
+  ""Dreams provide nourishment for the soul, just as a meal does for the body." — Paulo Coelho"
 </em></p>
 
 ---
