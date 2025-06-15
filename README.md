@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a succession of lessons, which must be lived to be understood." — Ralph Waldo Emerson"
+  ""The fastest way to change is to laugh at your own folly." — Spencer Johnson"
 </em></p>
 
 ---
