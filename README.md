@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Looking after my health today gives me a better hope for tomorrow. " — Anne Wilson Schaef"
+  ""Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more." — Tony Robbins"
 </em></p>
 
 ---
