@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to learn late than never." — Publilius Syrus"
+  ""Originality is the fine art of remembering what you hear but forgetting where you heard it. " — Laurence J. Peter"
 </em></p>
 
 ---
