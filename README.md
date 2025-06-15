@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some people want it to happen, some wish it would happen, others make it happen." — Michael Jordan"
+  ""It is better to learn late than never." — Publilius Syrus"
 </em></p>
 
 ---
