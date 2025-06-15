@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only he who has no use for the empire is fit to be entrusted with it." — Zhuangzi"
+  ""Death walks faster than the wind and never returns what he has taken." — Hans Christian Andersen"
 </em></p>
 
 ---
