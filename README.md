@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What would you do if you weren't afraid?" — Spencer Johnson"
+  ""The quality of your life is determined by the quality of your thoughts." — Unknown"
 </em></p>
 
 ---
