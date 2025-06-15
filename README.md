@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more one judges, the less one loves." — Honore de Balzac"
+  ""Be true to yourself, help others, make each day your masterpiece" — John Wooden"
 </em></p>
 
 ---
