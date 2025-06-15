@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quality of your life is determined by the quality of your thoughts." — Unknown"
+  ""I am not what happened to me, I am what I choose to become." — Carl Jung"
 </em></p>
 
 ---
