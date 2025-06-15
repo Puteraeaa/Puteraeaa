@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino"
+  ""Unhappiness enters through a door that has been left open." — Zen Proverb"
 </em></p>
 
 ---
