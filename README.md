@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There's no coming to consciousness without pain" — Carl Jung"
+  ""Stop being tormented by everyone else's reaction to you." — Joyce Meyer"
 </em></p>
 
 ---
