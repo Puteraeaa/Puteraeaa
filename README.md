@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is a difference between giving directions and giving direction." — Simon Sinek"
+  ""Anxiety is the dizziness of freedom." — Soren Kierkegaard"
 </em></p>
 
 ---
