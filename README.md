@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best dreams happen when you're awake." — Cherie Gilderbloom"
+  ""You do not read a book for the book's sake, but for your own." — Earl Nightingale"
 </em></p>
 
 ---
