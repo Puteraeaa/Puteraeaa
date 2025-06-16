@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can have it all. You just can't have it all at once. " — Oprah Winfrey"
+  ""In order to carry a positive action, we must develop here a positive vision." — Dalai Lama"
 </em></p>
 
 ---
