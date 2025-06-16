@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Strategy is a commodity, execution is an art." — Peter Drucker"
+  ""People will forget what you said, people will forget what you did, but people will never forget how you made them feel." — Maya Angelou"
 </em></p>
 
 ---
