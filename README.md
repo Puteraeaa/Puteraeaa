@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't give up on your dreams, or your dreams will give up on you." — John Wooden"
+  ""Death is not an ending. It is a transformation." — Ming-Dao Deng"
 </em></p>
 
 ---
