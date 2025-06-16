@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order to carry a positive action, we must develop here a positive vision." — Dalai Lama"
+  ""The single biggest problem in communication is the illusion that it has taken place." — George Bernard Shaw"
 </em></p>
 
 ---
