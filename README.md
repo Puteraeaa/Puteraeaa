@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is getting what you want, happiness is wanting what you get." — W.P. Kinsella"
+  ""Most people spend more time and energy going around problems than in trying to solve them. " — Henry Ford"
 </em></p>
 
 ---
