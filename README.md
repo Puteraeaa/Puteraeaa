@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order for you to be the BEST you can be for others, first you must be BEST for yourself." — Jeffrey Gitomer"
+  ""Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit." — Robin Sharma"
 </em></p>
 
 ---
