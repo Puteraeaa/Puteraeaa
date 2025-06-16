@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The single biggest problem in communication is the illusion that it has taken place." — George Bernard Shaw"
+  ""The fear of death is more to be feared, than death itself." — Publilius Syrus"
 </em></p>
 
 ---
