@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You do not read a book for the book's sake, but for your own." — Earl Nightingale"
+  ""Pleasure in the job puts perfection in the work." — Aristotle"
 </em></p>
 
 ---
