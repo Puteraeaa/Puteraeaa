@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We become what we believe." — Lolly Daskal"
+  ""As you think, you travel, and as you love, you attract." — James Allen"
 </em></p>
 
 ---
