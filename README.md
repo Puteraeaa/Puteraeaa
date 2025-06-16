@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes"
+  ""Strategy is a commodity, execution is an art." — Peter Drucker"
 </em></p>
 
 ---
