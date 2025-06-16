@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just do the best you can. No one can do more than that." — John Wooden"
+  ""Ask no questions, and you'll be told no lies." — Charles Dickens"
 </em></p>
 
 ---
