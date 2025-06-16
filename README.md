@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is the key to success; each mistake teaches us something." — Morihei Ueshiba"
+  ""Genius is the ability to act rightly without precedent - the power to do the right thing the first time." — Elbert Hubbard"
 </em></p>
 
 ---
