@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just throw away all thoughts of imaginary things, and stand firm in that which you are." — Kabir"
+  ""Sometimes you have to lose all you have to find out who you truly are." — Roy T. Bennett"
 </em></p>
 
 ---
