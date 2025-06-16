@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To bear trials with a calm mind robs misfortune of its strength and burden." — Seneca"
+  ""Failure is the key to success; each mistake teaches us something." — Morihei Ueshiba"
 </em></p>
 
 ---
