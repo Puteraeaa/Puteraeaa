@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People will forget what you said, people will forget what you did, but people will never forget how you made them feel." — Maya Angelou"
+  ""Just do the best you can. No one can do more than that." — John Wooden"
 </em></p>
 
 ---
