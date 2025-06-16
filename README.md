@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What the mind can conceive, it can achieve." — Napoleon Hill"
+  ""If I love myself I love you. If I love you I love myself." — Rumi"
 </em></p>
 
 ---
