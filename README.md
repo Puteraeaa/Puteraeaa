@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fear of death is more to be feared, than death itself." — Publilius Syrus"
+  ""Don't give up on your dreams, or your dreams will give up on you." — John Wooden"
 </em></p>
 
 ---
