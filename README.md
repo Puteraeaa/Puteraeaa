@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Pleasure in the job puts perfection in the work." — Aristotle"
+  ""If you truly expect something to be difficult, it will be." — Peter A. Cohen"
 </em></p>
 
 ---
