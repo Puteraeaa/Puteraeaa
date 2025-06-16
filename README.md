@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every man is guilty of all the good he did not do. " — Voltaire"
+  ""By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius"
 </em></p>
 
 ---
