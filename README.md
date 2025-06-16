@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As you think, you travel, and as you love, you attract." — James Allen"
+  ""In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes"
 </em></p>
 
 ---
