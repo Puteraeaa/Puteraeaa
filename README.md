@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ask no questions, and you'll be told no lies." — Charles Dickens"
+  ""To bear trials with a calm mind robs misfortune of its strength and burden." — Seneca"
 </em></p>
 
 ---
