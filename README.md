@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated." — Albus Dumbledore"
+  ""You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." — Zig Ziglar"
 </em></p>
 
 ---
