@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The guest will judge better of a feast than the cook." — Aristotle"
+  ""What the mind can conceive, it can achieve." — Napoleon Hill"
 </em></p>
 
 ---
