@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you truly expect something to be difficult, it will be." — Peter A. Cohen"
+  ""In order for you to be the BEST you can be for others, first you must be BEST for yourself." — Jeffrey Gitomer"
 </em></p>
 
 ---
