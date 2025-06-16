@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anxiety is the dizziness of freedom." — Soren Kierkegaard"
+  ""It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated." — Albus Dumbledore"
 </em></p>
 
 ---
