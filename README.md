@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is simply what our feelings do to us." — Honore de Balzac"
+  ""As you think, you travel, and as you love, you attract." — James Allen"
 </em></p>
 
 ---
