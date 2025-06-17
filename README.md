@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you build the guts to do something, anything, then you better save enough to face the consequences." — Criss Jami"
+  ""If you believe you can, you can. If you believe you can't, then, well you can't." — Celestine Chua"
 </em></p>
 
 ---
