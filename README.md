@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All power is from within and therefore under our control." — Robert Collier"
+  ""It takes a very long time to become young." — Pablo Picasso"
 </em></p>
 
 ---
