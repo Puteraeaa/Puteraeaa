@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Smell the cheese often so you know when it is getting old." — Spencer Johnson"
+  ""Each time we don't say what we wanna say, we're dying." — Yoko Ono"
 </em></p>
 
 ---
