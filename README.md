@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is not something outside to be discovered, it is something inside to be realized." — Osho"
+  ""All power is from within and therefore under our control." — Robert Collier"
 </em></p>
 
 ---
