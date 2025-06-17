@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ego wants comfort and certainty. The soul wants to live fully." — Maxime Lagace"
+  ""If you build the guts to do something, anything, then you better save enough to face the consequences." — Criss Jami"
 </em></p>
 
 ---
