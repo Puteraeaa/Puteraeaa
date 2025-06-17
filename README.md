@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The glow of one warm thought is to me worth more than money." — Thomas Jefferson"
+  ""The chief cause of failure and unhappiness is trading what you want most for what you want right now." — Zig Ziglar"
 </em></p>
 
 ---
