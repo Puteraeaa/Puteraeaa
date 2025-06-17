@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My guiding principle is this: Guilt is never to be doubted. " — Franz Kafka"
+  ""Turn your wounds into wisdom. " — Oprah Winfrey"
 </em></p>
 
 ---
