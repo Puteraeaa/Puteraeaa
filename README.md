@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do all things with love." — Og Mandino"
+  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
 </em></p>
 
 ---
