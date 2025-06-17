@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The soul without imagination is what an observatory would be without a telescope." — Henry Ward Beecher"
+  ""Do all things with love." — Og Mandino"
 </em></p>
 
 ---
