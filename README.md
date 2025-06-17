@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Behind every beautiful thing, there's some kind of pain." — Bob Dylan"
+  ""Truth is the offspring of silence and meditation." — Isaac Newton"
 </em></p>
 
 ---
