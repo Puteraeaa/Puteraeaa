@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Go confidently in the direction of your dreams! Live the life you've imagined." — Henry David Thoreau"
+  ""The most courageous act is still to think for yourself. Aloud." — Coco Chanel"
 </em></p>
 
 ---
