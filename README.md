@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." — Paulo Coelho"
+  ""All power is from within and therefore under our control." — Robert Collier"
 </em></p>
 
 ---
