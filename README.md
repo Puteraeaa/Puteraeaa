@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not all those who wander are lost." — J.R.R. Tolkien"
+  ""You cannot always control what goes on outside. But you can always control what goes on inside. " — Wayne Dyer"
 </em></p>
 
 ---
