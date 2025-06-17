@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you believe you can, you can. If you believe you can't, then, well you can't." — Celestine Chua"
+  ""Go confidently in the direction of your dreams! Live the life you've imagined." — Henry David Thoreau"
 </em></p>
 
 ---
