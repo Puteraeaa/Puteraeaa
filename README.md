@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never put off to tomorrow what you can do to-day." — Thomas Jefferson"
+  ""The enemy is a very good teacher." — Dalai Lama"
 </em></p>
 
 ---
