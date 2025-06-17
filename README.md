@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's better to dance than to march through life." — Yoko Ono"
+  ""Dreams are for dreamers. Goals are for achievers." — Arnold Schwarzenegger"
 </em></p>
 
 ---
