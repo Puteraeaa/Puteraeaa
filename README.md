@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All leaders are readers." — Jim Rohn"
+  ""It's better to dance than to march through life." — Yoko Ono"
 </em></p>
 
 ---
