@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot always control what goes on outside. But you can always control what goes on inside. " — Wayne Dyer"
+  ""Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." — Brian Tracy"
 </em></p>
 
 ---
