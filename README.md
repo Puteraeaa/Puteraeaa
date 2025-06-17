@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams are for dreamers. Goals are for achievers." — Arnold Schwarzenegger"
+  ""The ego wants comfort and certainty. The soul wants to live fully." — Maxime Lagace"
 </em></p>
 
 ---
