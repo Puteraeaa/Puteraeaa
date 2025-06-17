@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each time we don't say what we wanna say, we're dying." — Yoko Ono"
+  ""Getting lost along your path is a part of finding the path you are meant to be on." — Robin Sharma"
 </em></p>
 
 ---
