@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It takes a very long time to become young." — Pablo Picasso"
+  ""All leaders are readers." — Jim Rohn"
 </em></p>
 
 ---
