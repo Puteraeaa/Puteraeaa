@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The decisions of our past are the architects of our present." — Dan Brown"
+  ""The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt"
 </em></p>
 
 ---
