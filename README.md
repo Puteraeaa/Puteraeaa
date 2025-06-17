@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt"
+  ""The only defense against the world is a thorough knowledge of it." — John Locke"
 </em></p>
 
 ---
