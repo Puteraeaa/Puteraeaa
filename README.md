@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die." — Gilbert Chesterton"
+  ""We make a living by what we get, but we make a life by what we give." — Unknown"
 </em></p>
 
 ---
