@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are free, and that is why you are lost. " — Franz Kafka"
+  ""Trusting our intuition often saves us from disaster. " — Anne Wilson Schaef"
 </em></p>
 
 ---
