@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is more real than nothing." — Samuel Beckett"
+  ""Even the finest sword plunged into salt water will eventually rust." — Sun Tzu"
 </em></p>
 
 ---
