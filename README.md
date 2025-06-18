@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have to give up some of the old so that you can make room for the new." — Yanni"
+  ""Nothing is more real than nothing." — Samuel Beckett"
 </em></p>
 
 ---
