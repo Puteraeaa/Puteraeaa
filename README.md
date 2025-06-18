@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even the finest sword plunged into salt water will eventually rust." — Sun Tzu"
+  ""The only limits in our life are those we impose on ourselves." — Bob Proctor"
 </em></p>
 
 ---
