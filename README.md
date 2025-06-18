@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't like something, change it. If you can't change it, change your attitude." — Maya Angelou"
+  ""The person who says something is impossible should not interrupt the person who is doing it." — Chinese Proverb"
 </em></p>
 
 ---
