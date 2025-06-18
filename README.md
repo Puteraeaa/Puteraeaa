@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett"
+  ""Anxiety is the dizziness of freedom." — Soren Kierkegaard"
 </em></p>
 
 ---
