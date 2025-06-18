@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." — Confucius"
+  ""What you get by achieving your goals is not as important as what you become by achieving your goals." — Henry David Thoreau"
 </em></p>
 
 ---
