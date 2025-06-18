@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always do your best. What you plant now, you will harvest later." — Og Mandino"
+  ""If they wrote it to make money, don't read it." — Naval Ravikant"
 </em></p>
 
 ---
