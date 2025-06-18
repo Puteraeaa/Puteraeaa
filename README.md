@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words are the clothing of our thoughts." — Jonathan Swift"
+  ""Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." — Charles Dickens"
 </em></p>
 
 ---
