@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." — Rumi"
+  ""Don't wait for the right opportunity: create it." — George Bernard Shaw"
 </em></p>
 
 ---
