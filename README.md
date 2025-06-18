@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who says something is impossible should not interrupt the person who is doing it." — Chinese Proverb"
+  ""Life is like stepping onto a boat which is about to sail out to sea and sink." — Shunryu Suzuki"
 </em></p>
 
 ---
