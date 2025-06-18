@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anxiety is the dizziness of freedom." — Soren Kierkegaard"
+  ""You have to give up some of the old so that you can make room for the new." — Yanni"
 </em></p>
 
 ---
