@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who hesitates is a damned fool." — Mae West"
+  ""Stop comparing yourself to others and focus on your own improvement." — Lolly Daskal"
 </em></p>
 
 ---
