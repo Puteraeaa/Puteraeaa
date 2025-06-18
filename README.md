@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop comparing yourself to others and focus on your own improvement." — Lolly Daskal"
+  ""To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace." — Morihei Ueshiba"
 </em></p>
 
 ---
