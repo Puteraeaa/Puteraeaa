@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon"
+  ""You are free, and that is why you are lost. " — Franz Kafka"
 </em></p>
 
 ---
