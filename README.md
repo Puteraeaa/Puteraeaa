@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like stepping onto a boat which is about to sail out to sea and sink." — Shunryu Suzuki"
+  ""You can, you should, and if you're brave enough to start, you will." — Stephen King"
 </em></p>
 
 ---
