@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace." — Morihei Ueshiba"
+  ""The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett"
 </em></p>
 
 ---
