@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you get by achieving your goals is not as important as what you become by achieving your goals." — Henry David Thoreau"
+  ""Keep your friends close, and your enemies closer." — Sun Tzu"
 </em></p>
 
 ---
