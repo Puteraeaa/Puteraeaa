@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us." — Socrates"
+  ""Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." — Rumi"
 </em></p>
 
 ---
