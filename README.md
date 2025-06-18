@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Identify your problems, but give your power and energy to solutions." — Tony Robbins"
+  ""Always do your best. What you plant now, you will harvest later." — Og Mandino"
 </em></p>
 
 ---
