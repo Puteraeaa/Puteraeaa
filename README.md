@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anyone who reads a book with a sense of obligation does not understand the art of reading." — Lin Yutang"
+  ""The only time you run out of chances is when you stop taking them." — Unknown"
 </em></p>
 
 ---
