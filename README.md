@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." — Amelia Earhart"
+  ""The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." — Confucius"
 </em></p>
 
 ---
