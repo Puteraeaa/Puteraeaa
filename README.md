@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life has no limitations except the ones you make." — Les Brown"
+  ""Conscience is a dog that does not stop us from passing but that we cannot prevent from barking." — Nicolas Chamfort"
 </em></p>
 
 ---
