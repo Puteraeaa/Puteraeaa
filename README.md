@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can, you should, and if you're brave enough to start, you will." — Stephen King"
+  ""Anyone who reads a book with a sense of obligation does not understand the art of reading." — Lin Yutang"
 </em></p>
 
 ---
