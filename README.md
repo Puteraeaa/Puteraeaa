@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who look for the bad in people will surely find it." — Abraham Lincoln"
+  ""We make a living by what we get, but we make a life by what we give." — Unknown"
 </em></p>
 
 ---
