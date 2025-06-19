@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can see through others only when we can see through ourselves." — Bruce Lee"
+  ""Evil is whatever distracts. " — Franz Kafka"
 </em></p>
 
 ---
