@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is like a dragon where, for every head cut off, two more heads grow back." — Criss Jami"
+  ""The art of being wise is knowing what to overlook." — William James"
 </em></p>
 
 ---
