@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not look for a sanctuary in anyone except your self." — Buddha"
+  ""We must create our own world or we will die from inaction." — Robert Greene"
 </em></p>
 
 ---
