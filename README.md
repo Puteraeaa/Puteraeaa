@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man can get rich himself unless he enriches others." — Earl Nightingale"
+  ""Conflict cannot survive without your participation. " — Wayne Dyer"
 </em></p>
 
 ---
