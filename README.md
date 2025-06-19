@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't waste time on excuses. Just get it done." — Ralph Marston"
+  ""Those who look for the bad in people will surely find it." — Abraham Lincoln"
 </em></p>
 
 ---
