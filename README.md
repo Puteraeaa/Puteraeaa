@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember, hope is a good thing, maybe the best of things." — Stephen King"
+  ""Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." — Earl Nightingale"
 </em></p>
 
 ---
