@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throw me to the wolves and I will return leading the pack.  " — Seneca"
+  ""Write to help yourself, publish to help others." — Jack Butcher"
 </em></p>
 
 ---
