@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People think about what they don't want and attract more of the same." — Unknown"
+  ""Make your mind your own business." — Jack Butcher"
 </em></p>
 
 ---
