@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throughout this life, you can never be certain of living long enough to take another breath." — Zen Proverb"
+  ""There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world." — Henry Ward Beecher"
 </em></p>
 
 ---
