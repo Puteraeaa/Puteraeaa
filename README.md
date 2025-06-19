@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The art of being wise is knowing what to overlook." — William James"
+  ""No man can get rich himself unless he enriches others." — Earl Nightingale"
 </em></p>
 
 ---
