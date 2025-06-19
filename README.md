@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The secret of life is to fall seven times and to get up eight times." — Paulo Coelho"
+  ""All that a man achieves and all that he fails to achieve is the direct result of his own thoughts." — James Allen"
 </em></p>
 
 ---
