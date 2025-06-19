@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself." — Alexander Graham Bell"
+  ""Throw me to the wolves and I will return leading the pack.  " — Seneca"
 </em></p>
 
 ---
