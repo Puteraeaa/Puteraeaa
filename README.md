@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Self-control is strength." — James Allen"
+  ""Cultivate the merry heart, develop the happiness habit, and life will become a continual feast." — Norman Vincent Peale"
 </em></p>
 
 ---
