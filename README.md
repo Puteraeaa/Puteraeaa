@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All that a man achieves and all that he fails to achieve is the direct result of his own thoughts." — James Allen"
+  ""Throughout this life, you can never be certain of living long enough to take another breath." — Zen Proverb"
 </em></p>
 
 ---
