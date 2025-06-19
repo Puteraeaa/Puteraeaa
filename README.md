@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We make a living by what we get, but we make a life by what we give." — Unknown"
+  ""We can see through others only when we can see through ourselves." — Bruce Lee"
 </em></p>
 
 ---
