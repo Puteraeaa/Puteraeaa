@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not uncommon for people to spend their whole life waiting to start living." — Eckhart Tolle"
+  ""The secret of life is to fall seven times and to get up eight times." — Paulo Coelho"
 </em></p>
 
 ---
