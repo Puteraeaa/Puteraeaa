@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your neighbor is the man who needs you." — Elbert Hubbard"
+  ""The way to change others' minds is with affection, and not anger." — Dalai Lama"
 </em></p>
 
 ---
