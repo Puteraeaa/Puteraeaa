@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even a hare will bite when it is cornered. " — Chinese Proverb"
+  ""Confidence is like a dragon where, for every head cut off, two more heads grow back." — Criss Jami"
 </em></p>
 
 ---
