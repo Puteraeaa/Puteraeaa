@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make your mind your own business." — Jack Butcher"
+  ""Growing up is losing some illusions, in order to acquire others." — Virginia Woolf"
 </em></p>
 
 ---
