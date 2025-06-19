@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is only one thing that makes a dream impossible to achieve: the fear of failure." — Paulo Coelho"
+  ""Your neighbor is the man who needs you." — Elbert Hubbard"
 </em></p>
 
 ---
