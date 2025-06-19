@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
+  ""Even a hare will bite when it is cornered. " — Chinese Proverb"
 </em></p>
 
 ---
