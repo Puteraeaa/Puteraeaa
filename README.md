@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Write to help yourself, publish to help others." — Jack Butcher"
+  ""Manifest plainness, embrace simplicity, reduce selfishness, have few desires." — Lao Tzu"
 </em></p>
 
 ---
