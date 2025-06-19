@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty." — Theodore Roosevelt"
+  ""Do every act of your life as if it were your last." — Marcus Aurelius"
 </em></p>
 
 ---
