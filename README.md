@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are only encounters in history. There are no accidents." — Pablo Picasso"
+  ""Until we can manage time, we can manage nothing else." — Peter Drucker"
 </em></p>
 
 ---
