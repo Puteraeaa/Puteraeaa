@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Things turn out best for the people who make the best of the way things turn out." — John Wooden"
+  ""Every man gotta right to decide his own destiny." — Bob Marley"
 </em></p>
 
 ---
