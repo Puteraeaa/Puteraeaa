@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I have lost friends, some by death...others by sheer inability to cross the street." — Virginia Woolf"
+  ""We're responsible for everything that happens to us." — Yanni"
 </em></p>
 
 ---
