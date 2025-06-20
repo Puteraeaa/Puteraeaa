@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We're responsible for everything that happens to us." — Yanni"
+  ""When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything." — Paramahansa Yogananda"
 </em></p>
 
 ---
