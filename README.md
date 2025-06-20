@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who can, does." — George Bernard Shaw"
+  ""Use your smile to change the world but don't let the world change your smile." — Unknown"
 </em></p>
 
 ---
