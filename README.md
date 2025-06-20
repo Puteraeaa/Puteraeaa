@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." — Josh Waitzkin"
+  ""Memory is the scribe of the soul." — Aristotle"
 </em></p>
 
 ---
