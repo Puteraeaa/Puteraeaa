@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no accidents... there is only some purpose that we haven't yet understood." — Deepak Chopra"
+  ""Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition." — John Eliot"
 </em></p>
 
 ---
