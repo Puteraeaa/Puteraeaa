@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anger begins with folly, and ends with repentance. " — Beverly Sills"
+  ""There are only encounters in history. There are no accidents." — Pablo Picasso"
 </em></p>
 
 ---
