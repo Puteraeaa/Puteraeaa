@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition." — John Eliot"
+  ""Treat everyone with politeness and kindness, not because they are nice, but because you are." — Roy T. Bennett"
 </em></p>
 
 ---
