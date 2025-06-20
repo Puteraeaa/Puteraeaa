@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to offer no excuse than a bad one. " — George Washington"
+  ""Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." — Kamal Ravikant"
 </em></p>
 
 ---
