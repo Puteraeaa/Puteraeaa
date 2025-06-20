@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Health is the greatest of all possessions." — Jonathan Swift"
+  ""If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. " — Nikola Tesla"
 </em></p>
 
 ---
