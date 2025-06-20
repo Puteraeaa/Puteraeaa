@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " — Samuel Beckett"
+  ""Whenever you do a thing, act as if all the world were watching." — Thomas Jefferson"
 </em></p>
 
 ---
