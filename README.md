@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No grand idea was ever born in a conference, but a lot of foolish ideas have died there." — F. Scott Fitzgerald"
+  ""Without the rain there would be no rainbow." — Gilbert Chesterton"
 </em></p>
 
 ---
