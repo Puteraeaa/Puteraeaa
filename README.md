@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Treat everyone with politeness and kindness, not because they are nice, but because you are." — Roy T. Bennett"
+  ""Do you want to know who you are? Don't ask. Act! Action will delineate and define you." — Thomas Jefferson"
 </em></p>
 
 ---
