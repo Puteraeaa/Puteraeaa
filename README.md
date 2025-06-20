@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are the sky. Everything else - it's just the weather." — Pema Chodron"
+  ""It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has." — Henry Ward Beecher"
 </em></p>
 
 ---
