@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We will act consistently with our view of who we truly are, whether that view is accurate or not." — Tony Robbins"
+  ""Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino"
 </em></p>
 
 ---
