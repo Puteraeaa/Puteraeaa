@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the behavior of others destroy your inner peace." — Dalai Lama"
+  ""The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." — Eleanor Roosevelt"
 </em></p>
 
 ---
