@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. " — Nikola Tesla"
+  ""Happiness is pretty simple: someone to love, something to do, something to look forward to." — Rita Mae Brown"
 </em></p>
 
 ---
