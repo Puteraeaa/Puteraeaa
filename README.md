@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is pretty simple: someone to love, something to do, something to look forward to." — Rita Mae Brown"
+  ""Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " — Samuel Beckett"
 </em></p>
 
 ---
