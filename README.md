@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life reflects your own thoughts back to you." — Napoleon Hill"
+  ""Silence is a source of great strength." — Lao Tzu"
 </em></p>
 
 ---
