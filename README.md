@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Self-control is strength." — James Allen"
+  ""You are the sky. Everything else - it's just the weather." — Pema Chodron"
 </em></p>
 
 ---
