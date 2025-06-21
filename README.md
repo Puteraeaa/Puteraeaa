@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " — Steve Jobs"
+  ""Embody what you teach, and teach only what you have embodied." — Dan Millman"
 </em></p>
 
 ---
