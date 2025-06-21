@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have." — Gary Keller"
+  ""Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." — Norman Vincent Peale"
 </em></p>
 
 ---
