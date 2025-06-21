@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. " — Charles Swindoll"
+  ""There is no limit to the amount of good you can do if you don't care who gets the credit." — Ronald Reagan"
 </em></p>
 
 ---
