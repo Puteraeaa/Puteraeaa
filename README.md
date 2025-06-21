@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence." — Josh Waitzkin"
+  ""It is never too late to be what you might have been." — George Eliot"
 </em></p>
 
 ---
