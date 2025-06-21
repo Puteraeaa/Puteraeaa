@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only person you should try to be better than is the person you were yesterday." — Brian Tracy"
+  ""Experience is simply the name we give our mistakes. " — Oscar Wilde"
 </em></p>
 
 ---
