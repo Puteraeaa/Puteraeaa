@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Experience is simply the name we give our mistakes. " — Oscar Wilde"
+  ""The pen is the tongue of the mind. " — Miguel de Cervantes"
 </em></p>
 
 ---
