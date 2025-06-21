@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The pen is the tongue of the mind. " — Miguel de Cervantes"
+  ""The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. " — Charles Swindoll"
 </em></p>
 
 ---
