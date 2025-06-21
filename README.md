@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Work out your own salvation. Do not depend on others." — Buddha"
+  ""Nothing good ever comes of violence." — Martin Luther"
 </em></p>
 
 ---
