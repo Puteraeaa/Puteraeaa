@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's your life-but only if you make it so." — Eleanor Roosevelt"
+  ""He is richest who is content with the least, for content is the wealth of nature." — Socrates"
 </em></p>
 
 ---
