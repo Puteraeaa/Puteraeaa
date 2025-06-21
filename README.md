@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality." — Vaclav Havel"
+  ""The secret of life isn't what happens to you, but what you do with what happens to you." — Norman Vincent Peale"
 </em></p>
 
 ---
