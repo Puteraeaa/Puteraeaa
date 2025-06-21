@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to light a single candle than to curse the darkness." — Eleanor Roosevelt"
+  ""What's right is what's left if you do everything else wrong." — Robin Williams"
 </em></p>
 
 ---
