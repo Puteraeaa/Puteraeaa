@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Silence is a source of great strength." — Lao Tzu"
+  ""Today I begin a new life. I will greet this day with love in my heart." — Og Mandino"
 </em></p>
 
 ---
