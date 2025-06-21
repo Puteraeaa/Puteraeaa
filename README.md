@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you have to be in a soap opera try not to be cast in the worst role." — Judy Garland"
+  ""Nothing endures but change." — Heraclitus"
 </em></p>
 
 ---
