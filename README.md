@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""None but ourselves can free our minds." — Bob Marley"
+  ""Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift"
 </em></p>
 
 ---
