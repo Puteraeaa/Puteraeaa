@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time is a game played beautifully by children." — Heraclitus"
+  ""None but ourselves can free our minds." — Bob Marley"
 </em></p>
 
 ---
