@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today I begin a new life. I will greet this day with love in my heart." — Og Mandino"
+  ""Death walks faster than the wind and never returns what he has taken." — Hans Christian Andersen"
 </em></p>
 
 ---
