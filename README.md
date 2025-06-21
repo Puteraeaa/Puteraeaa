@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just do what must be done. This may not be happiness but it is greatness." — George Bernard Shaw"
+  ""If you have to be in a soap opera try not to be cast in the worst role." — Judy Garland"
 </em></p>
 
 ---
