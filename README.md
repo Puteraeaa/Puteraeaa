@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing endures but change." — Heraclitus"
+  ""Pleasure in the job puts perfection in the work." — Aristotle"
 </em></p>
 
 ---
