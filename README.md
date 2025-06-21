@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no limit to the amount of good you can do if you don't care who gets the credit." — Ronald Reagan"
+  ""Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry." — Celestine Chua"
 </em></p>
 
 ---
