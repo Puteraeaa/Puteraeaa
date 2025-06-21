@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not all of us can do great things. But we can do small things with great love." — Mother Teresa"
+  ""The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence." — Josh Waitzkin"
 </em></p>
 
 ---
