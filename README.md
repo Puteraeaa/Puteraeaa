@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Embody what you teach, and teach only what you have embodied." — Dan Millman"
+  ""The only person you should try to be better than is the person you were yesterday." — Brian Tracy"
 </em></p>
 
 ---
