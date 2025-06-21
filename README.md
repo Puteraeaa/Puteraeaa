@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death walks faster than the wind and never returns what he has taken." — Hans Christian Andersen"
+  ""Patience expands your options. If you insist on immediate gratification, your choices are severely limited." — Ralph Marston"
 </em></p>
 
 ---
