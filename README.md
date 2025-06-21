@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience expands your options. If you insist on immediate gratification, your choices are severely limited." — Ralph Marston"
+  ""Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " — Steve Jobs"
 </em></p>
 
 ---
