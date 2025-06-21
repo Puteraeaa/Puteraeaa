@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We have more possibilities available in each moment than we realize." — Thich Nhat Hanh"
+  ""Those who can make you believe absurdities can make you commit atrocities. " — Voltaire"
 </em></p>
 
 ---
