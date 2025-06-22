@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is our experiences that mold us into who we are...during times of adversity our true character will show." — Unknown"
+  ""You are today where your thoughts have brought you." — James Allen"
 </em></p>
 
 ---
