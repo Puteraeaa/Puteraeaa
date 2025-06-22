@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You must be willing to do what others won't do, to have what others won't have." — Les Brown"
+  ""Life belongs to the living, and he who lives must be prepared for changes." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
