@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The final mystery is oneself." — Oscar Wilde"
+  ""Those who are possessed by nothing possess everything." — Morihei Ueshiba"
 </em></p>
 
 ---
