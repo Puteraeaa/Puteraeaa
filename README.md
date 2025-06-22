@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We cannot expect to be happy always... by experiencing evil as well as good we become wise." — Hans Christian Andersen"
+  ""He who is untrue to his own cause cannot command the respect of others." — Albert Einstein"
 </em></p>
 
 ---
