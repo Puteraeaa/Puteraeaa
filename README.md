@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar"
+  ""You must be willing to do what others won't do, to have what others won't have." — Les Brown"
 </em></p>
 
 ---
