@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A little progress each day adds up to big results." — Unknown"
+  ""Words without actions are the assassins of idealism." — Herbert Hoover"
 </em></p>
 
 ---
