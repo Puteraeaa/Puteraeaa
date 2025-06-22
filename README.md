@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ability is a poor man's wealth." — John Wooden"
+  ""Someday death will take us to another star." — Vincent van Gogh"
 </em></p>
 
 ---
