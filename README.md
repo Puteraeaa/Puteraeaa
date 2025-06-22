@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The traveler sees what he sees. The tourist sees what he has come to see." — Gilbert Chesterton"
+  ""The least deviation from truth will be multiplied later." — Aristotle"
 </em></p>
 
 ---
