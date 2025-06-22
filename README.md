@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our truest life is when we are in dreams awake." — Henry David Thoreau"
+  ""While we may not be able to control all that happens to us, we can control what happens inside us." — Benjamin Franklin"
 </em></p>
 
 ---
