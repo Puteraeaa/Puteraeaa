@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are today where your thoughts have brought you." — James Allen"
+  ""When one does not have what one wants, one must want what one has." — Sigmund Freud"
 </em></p>
 
 ---
