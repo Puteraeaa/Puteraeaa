@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not everything that weighs you down is yours to carry." — Unknown"
+  ""Out of suffering have emerged the strongest souls; the most massive characters are seared with scars." — Kahlil Gibran"
 </em></p>
 
 ---
