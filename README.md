@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is little success where there is little laughter." — Andrew Carnegie"
+  ""I know of only one duty, and that is to love." — George Bernard Shaw"
 </em></p>
 
 ---
