@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I know of only one duty, and that is to love." — George Bernard Shaw"
+  ""Health is the greatest of all possessions." — Jonathan Swift"
 </em></p>
 
 ---
