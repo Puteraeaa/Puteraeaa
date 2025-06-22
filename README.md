@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He that can have patience can have what he will." — Benjamin Franklin"
+  ""Not everything that weighs you down is yours to carry." — Unknown"
 </em></p>
 
 ---
