@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can see it in your mind, you can hold it in your mind." — Steve Harvey"
+  ""Happiness cannot be traveled to, owned, earned, worn or consumed." — Denis Waitley"
 </em></p>
 
 ---
