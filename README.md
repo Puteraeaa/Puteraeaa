@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""While we may not be able to control all that happens to us, we can control what happens inside us." — Benjamin Franklin"
+  ""There is little success where there is little laughter." — Andrew Carnegie"
 </em></p>
 
 ---
