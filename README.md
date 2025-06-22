@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Out of suffering have emerged the strongest souls; the most massive characters are seared with scars." — Kahlil Gibran"
+  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
 </em></p>
 
 ---
