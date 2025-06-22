@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit." — Robin Sharma"
+  ""Ability is a poor man's wealth." — John Wooden"
 </em></p>
 
 ---
