@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who are possessed by nothing possess everything." — Morihei Ueshiba"
+  ""If you can see it in your mind, you can hold it in your mind." — Steve Harvey"
 </em></p>
 
 ---
