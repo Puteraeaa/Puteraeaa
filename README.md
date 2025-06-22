@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Someday death will take us to another star." — Vincent van Gogh"
+  ""The final mystery is oneself." — Oscar Wilde"
 </em></p>
 
 ---
