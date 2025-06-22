@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." — Zig Ziglar"
+  ""We cannot expect to be happy always... by experiencing evil as well as good we become wise." — Hans Christian Andersen"
 </em></p>
 
 ---
