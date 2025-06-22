@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your spirit is the true shield." — Morihei Ueshiba"
+  ""Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar"
 </em></p>
 
 ---
