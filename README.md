@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins"
+  ""When you know what you want, and you want it bad enough, you will find a way to get it." — Jim Rohn"
 </em></p>
 
 ---
