@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A tiger doesn't lose sleep over the opinion of sheep." — Shahir Zag"
+  ""He who knows, does not speak. He who speaks, does not know." — Lao Tzu"
 </em></p>
 
 ---
