@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe you can and you're halfway there." — Theodore Roosevelt"
+  ""Do all things with love." — Og Mandino"
 </em></p>
 
 ---
