@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Self-knowledge is the beginning of self-correction." — Norman Vincent Peale"
+  ""Stop acting so small. You are the universe in ecstatic motion." — Rumi"
 </em></p>
 
 ---
