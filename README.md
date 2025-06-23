@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing will work unless you do." — Maya Angelou"
+  ""There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever." — Alexandre Dumas"
 </em></p>
 
 ---
