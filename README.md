@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop acting so small. You are the universe in ecstatic motion." — Rumi"
+  ""The majority of what you want will come from the minority of what you do." — Gary Keller"
 </em></p>
 
 ---
