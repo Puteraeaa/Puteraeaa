@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything great that has ever happened to humanity has begun as a single thought in someone's mind." — Yanni"
+  ""Believe you can and you're halfway there." — Theodore Roosevelt"
 </em></p>
 
 ---
