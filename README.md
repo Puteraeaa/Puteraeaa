@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The dead receive more flowers than the living because regret is stronger than gratitude." — Anne Frank"
+  ""Education breeds confidence. Confidence breeds hope. Hope breeds peace." — Confucius"
 </em></p>
 
 ---
