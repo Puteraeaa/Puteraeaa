@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I skate to where the puck is going to be, not where it has been." — Wayne Gretzky"
+  ""A tiger doesn't lose sleep over the opinion of sheep." — Shahir Zag"
 </em></p>
 
 ---
