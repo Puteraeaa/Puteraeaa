@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing like a health problem to turn up the contrast dial for the rest of life." — Naval Ravikant"
+  ""You can only be afraid of what you think you know." — Jiddu Krishnamurti"
 </em></p>
 
 ---
