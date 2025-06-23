@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If there's a definition of freedom, I think it's this: living life on your terms." — Kamal Ravikant"
+  ""I skate to where the puck is going to be, not where it has been." — Wayne Gretzky"
 </em></p>
 
 ---
