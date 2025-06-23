@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who knows, does not speak. He who speaks, does not know." — Lao Tzu"
+  ""The dead receive more flowers than the living because regret is stronger than gratitude." — Anne Frank"
 </em></p>
 
 ---
