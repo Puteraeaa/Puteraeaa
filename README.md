@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " — Denis Waitley"
+  ""A zen master's life is one continuous mistake." — Dogen"
 </em></p>
 
 ---
