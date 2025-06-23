@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can only be afraid of what you think you know." — Jiddu Krishnamurti"
+  ""Good luck is opportunity meeting preparedness." — Deepak Chopra"
 </em></p>
 
 ---
