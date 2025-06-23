@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never to suffer would never to have been blessed." — Edgar Allan Poe"
+  ""When you change what you believe, you change what you do." — Spencer Johnson"
 </em></p>
 
 ---
