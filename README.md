@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can not live your life just based on what everyone else thinks." — Joyce Meyer"
+  ""Be happy now, without reason - or you never will be at all." — Dan Millman"
 </em></p>
 
 ---
