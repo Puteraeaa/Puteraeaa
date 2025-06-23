@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Growth is in a series of mistakes. That's the only way you learn." — Steve Harvey"
+  ""It is safer to search in the maze than to remain in a cheeseless situation." — Spencer Johnson"
 </em></p>
 
 ---
