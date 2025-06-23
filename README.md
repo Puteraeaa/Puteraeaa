@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The majority of what you want will come from the minority of what you do." — Gary Keller"
+  ""A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu"
 </em></p>
 
 ---
