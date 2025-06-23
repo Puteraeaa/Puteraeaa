@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all." — Dale Carnegie"
+  ""Any fool can turn a blind eye but who knows what the ostrich sees in the sand." — Samuel Beckett"
 </em></p>
 
 ---
