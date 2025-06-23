@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A zen master's life is one continuous mistake." — Dogen"
+  ""Inspire yourself to be great. Being good isn't good enough." — Gurbaksh Chahal"
 </em></p>
 
 ---
