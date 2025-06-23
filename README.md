@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu"
+  ""The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene"
 </em></p>
 
 ---
