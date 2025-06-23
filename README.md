@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The harder you work, the harder it is to surrender." — Vince Lombardi"
+  ""Growth is in a series of mistakes. That's the only way you learn." — Steve Harvey"
 </em></p>
 
 ---
