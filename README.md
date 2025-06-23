@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are now, and you do become, what you think about." — Earl Nightingale"
+  ""Nothing will work unless you do." — Maya Angelou"
 </em></p>
 
 ---
