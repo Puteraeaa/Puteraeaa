@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you know what you want, and you want it bad enough, you will find a way to get it." — Jim Rohn"
+  ""In the middle of difficulty lies opportunity." — Albert Einstein"
 </em></p>
 
 ---
