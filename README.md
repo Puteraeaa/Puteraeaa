@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A tiger doesn't lose sleep over the opinion of sheep." — Shahir Zag"
+  ""If you think adventure is dangerous, try routine; it is lethal." — Paulo Coelho"
 </em></p>
 
 ---
