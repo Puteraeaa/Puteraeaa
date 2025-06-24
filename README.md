@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""20 percent of your activities will account for 80 percent of your results." — Brian Tracy"
+  ""As a man thinketh in his heart, so shall he be." — James Allen"
 </em></p>
 
 ---
