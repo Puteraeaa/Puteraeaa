@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Emancipate yourself from mental slavery, none but ourselves can free our mind." — Bob Marley"
+  ""Our life isn't how much we can take out, but how much we can put in.  " — Estee Lauder"
 </em></p>
 
 ---
