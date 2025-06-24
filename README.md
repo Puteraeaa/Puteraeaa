@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anxiety is the dizziness of freedom." — Soren Kierkegaard"
+  ""Emancipate yourself from mental slavery, none but ourselves can free our mind." — Bob Marley"
 </em></p>
 
 ---
