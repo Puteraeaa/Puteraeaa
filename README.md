@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All leaders are readers." — Jim Rohn"
+  ""The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is." — Eckhart Tolle"
 </em></p>
 
 ---
