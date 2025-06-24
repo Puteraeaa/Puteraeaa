@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may delay, but time will not." — Benjamin Franklin"
+  ""Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift"
 </em></p>
 
 ---
