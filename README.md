@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can see through others only when we can see through ourselves." — Bruce Lee"
+  ""The dead receive more flowers than the living because regret is stronger than gratitude." — Anne Frank"
 </em></p>
 
 ---
