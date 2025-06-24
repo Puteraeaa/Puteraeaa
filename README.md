@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever your mind can conceive and believe, it can achieve." — Napoleon Hill"
+  ""You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba"
 </em></p>
 
 ---
