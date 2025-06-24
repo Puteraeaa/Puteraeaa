@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Create with the heart; build with the mind." — Criss Jami"
+  ""I must also have a dark side if I am to be whole." — Carl Jung"
 </em></p>
 
 ---
