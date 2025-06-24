@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be a master of change rather than a victim of change." — Brian Tracy"
+  ""Whatever your mind can conceive and believe, it can achieve." — Napoleon Hill"
 </em></p>
 
 ---
