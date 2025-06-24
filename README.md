@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba"
+  ""Trust thyself: every heart vibrates to that iron string." — Ralph Waldo Emerson"
 </em></p>
 
 ---
