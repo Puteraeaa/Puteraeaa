@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When we strive to become better than we are, everything around us becomes better, too." — Paulo Coelho"
+  ""We can see through others only when we can see through ourselves." — Bruce Lee"
 </em></p>
 
 ---
