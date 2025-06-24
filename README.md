@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The dead receive more flowers than the living because regret is stronger than gratitude." — Anne Frank"
+  ""Words used to attract the dull of wit are not to be relied on." — Huang Po"
 </em></p>
 
 ---
