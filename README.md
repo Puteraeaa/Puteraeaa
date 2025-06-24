@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trust thyself: every heart vibrates to that iron string." — Ralph Waldo Emerson"
+  ""The primary point of this existence is to live, and all living things move and grow." — Ming-Dao Deng"
 </em></p>
 
 ---
