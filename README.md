@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to offer no excuse than a bad one. " — George Washington"
+  ""Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides"
 </em></p>
 
 ---
