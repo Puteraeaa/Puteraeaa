@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides"
+  ""If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton"
 </em></p>
 
 ---
