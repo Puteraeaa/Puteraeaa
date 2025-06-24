@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift"
+  ""A tiger doesn't lose sleep over the opinion of sheep." — Shahir Zag"
 </em></p>
 
 ---
