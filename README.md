@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember we're all in this alone." — Lily Tomlin"
+  ""Everyday you can take a tiny step in the right direction." — Unknown"
 </em></p>
 
 ---
