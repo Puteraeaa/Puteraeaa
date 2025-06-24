@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In three words I can sum up everything I've learned about life: it goes on." — Robert Frost"
+  ""The world would go on even without you. Don't take yourself so seriously." — Norman Vincent Peale"
 </em></p>
 
 ---
