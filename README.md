@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To find yourself, think for yourself." — Socrates"
+  ""There are as many opinions as there are experts." — Franklin D. Roosevelt"
 </em></p>
 
 ---
