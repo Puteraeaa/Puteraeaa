@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Human behavior flows from three main sources: desire, emotion, and knowledge." — Plato"
+  ""Create with the heart; build with the mind." — Criss Jami"
 </em></p>
 
 ---
