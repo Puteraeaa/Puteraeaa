@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Good luck is opportunity meeting preparedness." — Deepak Chopra"
+  ""The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way." — Robert Kiyosaki"
 </em></p>
 
 ---
