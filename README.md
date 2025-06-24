@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words used to attract the dull of wit are not to be relied on." — Huang Po"
+  ""Be a master of change rather than a victim of change." — Brian Tracy"
 </em></p>
 
 ---
