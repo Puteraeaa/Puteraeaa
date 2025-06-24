@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I must also have a dark side if I am to be whole." — Carl Jung"
+  ""Live, travel, adventure, bless, and don't be sorry.  " — Jack Kerouac"
 </em></p>
 
 ---
