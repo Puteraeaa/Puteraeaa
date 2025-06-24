@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The primary point of this existence is to live, and all living things move and grow." — Ming-Dao Deng"
+  ""All leaders are readers." — Jim Rohn"
 </em></p>
 
 ---
