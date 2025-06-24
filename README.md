@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our life isn't how much we can take out, but how much we can put in.  " — Estee Lauder"
+  ""Get busy living, or get busy dying." — Stephen King"
 </em></p>
 
 ---
