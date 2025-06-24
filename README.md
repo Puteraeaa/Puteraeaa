@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live, travel, adventure, bless, and don't be sorry.  " — Jack Kerouac"
+  ""20 percent of your activities will account for 80 percent of your results." — Brian Tracy"
 </em></p>
 
 ---
