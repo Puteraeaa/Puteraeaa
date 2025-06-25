@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stress happens when the mind resists what is." — Dan Millman"
+  ""Love doesn't need reason. It speaks from the irrational wisdom of the heart." — Deepak Chopra"
 </em></p>
 
 ---
