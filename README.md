@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't bother people for help without first trying to solve the problem yourself." — Colin Powell"
+  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
 </em></p>
 
 ---
