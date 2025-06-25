@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even if you're sure you can win, be careful that you can live with what you lose." — Gary Keller"
+  ""Your best life will not be found in comfort. It will be found in fighting for what you believe in." — Maxime Lagace"
 </em></p>
 
 ---
