@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your best life will not be found in comfort. It will be found in fighting for what you believe in." — Maxime Lagace"
+  ""If I can pay the bills, I'm happy." — Morgan Wootten"
 </em></p>
 
 ---
