@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Strive for excellence, not perfection, because we don't live in a perfect world." — Joyce Meyer"
+  ""We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." — Kamal Ravikant"
 </em></p>
 
 ---
