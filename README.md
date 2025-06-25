@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is what you have before you understand the problem." — Woody Allen"
+  ""Fear can hold you prisoner. Hope can set you free." — Stephen King"
 </em></p>
 
 ---
