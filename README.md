@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear can hold you prisoner. Hope can set you free." — Stephen King"
+  ""The best thing to hold onto in life is each other." — Audrey Hepburn"
 </em></p>
 
 ---
