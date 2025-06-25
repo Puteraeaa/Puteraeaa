@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best thing to hold onto in life is each other." — Audrey Hepburn"
+  ""Life is a succession of lessons, which must be lived to be understood." — Ralph Waldo Emerson"
 </em></p>
 
 ---
