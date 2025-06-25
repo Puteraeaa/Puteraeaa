@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I can pay the bills, I'm happy." — Morgan Wootten"
+  ""Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." — Steve Jobs"
 </em></p>
 
 ---
