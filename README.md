@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I have no methods; all I do is accept people as they are." — Joan Rivers"
+  ""People rarely succeed unless they have fun in what they are doing." — Dale Carnegie"
 </em></p>
 
 ---
