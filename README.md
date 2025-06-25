@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You get paid in direct proportion to the difficulty of problems you solve." — Elon Musk"
+  ""Strive for excellence, not perfection, because we don't live in a perfect world." — Joyce Meyer"
 </em></p>
 
 ---
