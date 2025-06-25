@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." — Steve Jobs"
+  ""By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius"
 </em></p>
 
 ---
