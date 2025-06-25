@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Laziness may appear attractive, but work gives satisfaction." — Anne Frank"
+  ""You get paid in direct proportion to the difficulty of problems you solve." — Elon Musk"
 </em></p>
 
 ---
