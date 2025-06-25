@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
+  ""Even if you're sure you can win, be careful that you can live with what you lose." — Gary Keller"
 </em></p>
 
 ---
