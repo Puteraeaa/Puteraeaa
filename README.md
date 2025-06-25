@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." — Richard Bach"
+  ""Laziness may appear attractive, but work gives satisfaction." — Anne Frank"
 </em></p>
 
 ---
