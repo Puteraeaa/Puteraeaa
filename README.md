@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." — Kamal Ravikant"
+  ""Loss is nothing else but change and change is nature's delight." — Marcus Aurelius"
 </em></p>
 
 ---
