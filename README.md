@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a succession of lessons, which must be lived to be understood." — Ralph Waldo Emerson"
+  ""Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot." — D. H. Lawrence"
 </em></p>
 
 ---
