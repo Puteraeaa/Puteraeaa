@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso"
+  ""Stress happens when the mind resists what is." — Dan Millman"
 </em></p>
 
 ---
