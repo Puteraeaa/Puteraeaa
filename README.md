@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Loss is nothing else but change and change is nature's delight." — Marcus Aurelius"
+  ""Better to live until you die." — Dan Millman"
 </em></p>
 
 ---
