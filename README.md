@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest value of a picture is when it forces us to notice what we never expected to see." — John Tukey"
+  ""I must also have a dark side if I am to be whole." — Carl Jung"
 </em></p>
 
 ---
