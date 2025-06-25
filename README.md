@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Better to live until you die." — Dan Millman"
+  ""You're always free to change your mind and choose a different future, or a different past." — Richard Bach"
 </em></p>
 
 ---
