@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is." — Eckhart Tolle"
+  ""The past has no power over the present moment. " — Eckhart Tolle"
 </em></p>
 
 ---
