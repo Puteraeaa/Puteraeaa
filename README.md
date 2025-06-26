@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." — Dale Carnegie"
+  ""There are no shortcuts to any place worth going. " — Beverly Sills"
 </em></p>
 
 ---
