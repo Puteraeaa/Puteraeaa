@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are willing to believe anything other than the truth." — Carlos Ruiz Zafon"
+  ""Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." — Dale Carnegie"
 </em></p>
 
 ---
