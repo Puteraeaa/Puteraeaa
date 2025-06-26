@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The friendship that can cease has never been real. " — St. Jerome"
+  ""Have a vision. Be demanding." — Colin Powell"
 </em></p>
 
 ---
