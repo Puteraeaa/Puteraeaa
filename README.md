@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The very essence of instinct is that it's followed independently of reason." — Charles Darwin"
+  ""Discontent is the first necessity of progress." — Thomas Edison"
 </em></p>
 
 ---
