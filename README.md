@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  " — Estee Lauder"
+  ""Without the confidence, nothing can be accomplished." — Sathya Sai Baba"
 </em></p>
 
 ---
