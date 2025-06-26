@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The finish line is just the beginning of a whole new race." — Unknown"
+  ""We are willing to believe anything other than the truth." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
