@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The desire for more positive experience is itself a negative experience." — Mark Manson"
+  ""Correct what you can. Learn from what you can't." — Toni Morrison"
 </em></p>
 
 ---
