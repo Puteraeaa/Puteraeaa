@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fortunate are those who take the first steps." — Paulo Coelho"
+  ""The greatest doer must also be a great dreamer." — Theodore Roosevelt"
 </em></p>
 
 ---
