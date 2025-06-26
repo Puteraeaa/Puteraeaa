@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone thinks of changing the world, but no one thinks of changing himself." — Leo Tolstoy"
+  ""Even though you are on the right track - you will get run over if you just sit there." — Will Rogers"
 </em></p>
 
 ---
