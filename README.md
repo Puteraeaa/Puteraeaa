@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Genius, in truth, means little more than the faculty of perceiving in an unhabitual way." — William James"
+  ""The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett"
 </em></p>
 
 ---
