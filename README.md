@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My guiding principle is this: Guilt is never to be doubted. " — Franz Kafka"
+  ""The desire for more positive experience is itself a negative experience." — Mark Manson"
 </em></p>
 
 ---
