@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The trouble with the rat race is that even if you win, you're still a rat." — Lily Tomlin"
+  ""The friendship that can cease has never been real. " — St. Jerome"
 </em></p>
 
 ---
