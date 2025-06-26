@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Correct what you can. Learn from what you can't." — Toni Morrison"
+  ""The very essence of instinct is that it's followed independently of reason." — Charles Darwin"
 </em></p>
 
 ---
