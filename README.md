@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learning never exhausts the mind. " — Leonardo da Vinci"
+  ""Death and life have their determined appointments; riches and honors depend upon heaven. " — Confucius"
 </em></p>
 
 ---
