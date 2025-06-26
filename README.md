@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do you have the patience to wait until your mud settles and the water is clear?" — Lao Tzu"
+  ""First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  " — Estee Lauder"
 </em></p>
 
 ---
