@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Without the confidence, nothing can be accomplished." — Sathya Sai Baba"
+  ""Conflict cannot survive without your participation. " — Wayne Dyer"
 </em></p>
 
 ---
