@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must have strong minds, ready to accept facts as they are." — Harry S. Truman"
+  ""Everyone thinks of changing the world, but no one thinks of changing himself." — Leo Tolstoy"
 </em></p>
 
 ---
