@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene"
+  ""Thinking is the hardest work there is. That is why so few people engage in it." — Robert Kiyosaki"
 </em></p>
 
 ---
