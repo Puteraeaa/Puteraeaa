@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We have a duty to maintain the light of consciousness to make sure it continues into the future." — Elon Musk"
+  ""If you practiced for the day, then you have won. If you were lazy for the day, then you have lost." — Ming-Dao Deng"
 </em></p>
 
 ---
