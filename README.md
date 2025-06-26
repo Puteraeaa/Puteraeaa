@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you practiced for the day, then you have won. If you were lazy for the day, then you have lost." — Ming-Dao Deng"
+  ""Discontent is the first necessity of progress." — Thomas Edison"
 </em></p>
 
 ---
