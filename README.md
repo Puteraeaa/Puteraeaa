@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett"
+  ""Fortunate are those who take the first steps." — Paulo Coelho"
 </em></p>
 
 ---
