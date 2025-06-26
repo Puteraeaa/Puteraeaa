@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest of empires, is the empire over one's self." — Publilius Syrus"
+  ""If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear." — Jon Kabat-Zinn"
 </em></p>
 
 ---
