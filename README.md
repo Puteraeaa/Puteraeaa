@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death and life have their determined appointments; riches and honors depend upon heaven. " — Confucius"
+  ""My guiding principle is this: Guilt is never to be doubted. " — Franz Kafka"
 </em></p>
 
 ---
