@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death is not sad; the sad thing is that most people don't really live at all." — Dan Millman"
+  ""The greatest of empires, is the empire over one's self." — Publilius Syrus"
 </em></p>
 
 ---
