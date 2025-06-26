@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Discontent is the first necessity of progress." — Thomas Edison"
+  ""Do you have the patience to wait until your mud settles and the water is clear?" — Lao Tzu"
 </em></p>
 
 ---
