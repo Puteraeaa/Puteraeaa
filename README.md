@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest doer must also be a great dreamer." — Theodore Roosevelt"
+  ""The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene"
 </em></p>
 
 ---
