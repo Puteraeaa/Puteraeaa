@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Creativity is the greatest rebellion in existence." — Osho"
+  ""Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control." — Maxime Lagace"
 </em></p>
 
 ---
