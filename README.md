@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Discontent is the first necessity of progress." — Thomas Edison"
+  ""We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." — Josh Waitzkin"
 </em></p>
 
 ---
