@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be able to forget means sanity." — Jack London"
+  ""What would life be if we had no courage to attempt anything? " — Vincent van Gogh"
 </em></p>
 
 ---
