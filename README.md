@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who are easily shocked should be shocked more often." — Mae West"
+  ""It's easier to go down a hill than up it but the view is much better at the top." — Henry Ward Beecher"
 </em></p>
 
 ---
