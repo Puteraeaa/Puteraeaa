@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A lot of people have gone further than they thought they could because someone else thought they could." — Zig Ziglar"
+  ""Success does not consist in never making mistakes but in never making the same one a second time." — George Bernard Shaw"
 </em></p>
 
 ---
