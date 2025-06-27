@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever." — Aristophanes"
+  ""Instead of worrying about what you cannot control, shift your energy to what you can create." — Roy T. Bennett"
 </em></p>
 
 ---
