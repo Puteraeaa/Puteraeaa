@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great things are not done by impulse, but by a series of small things brought together." — Vincent van Gogh"
+  ""Before preparing to improve the world, first look around your own home three times. " — Chinese Proverb"
 </em></p>
 
 ---
