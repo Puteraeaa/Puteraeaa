@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""With the new day comes new strength and new thoughts." — Eleanor Roosevelt"
+  ""Be patient and calm; no one can catch fish in anger." — Herbert Hoover"
 </em></p>
 
 ---
