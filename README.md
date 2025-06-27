@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Instead of worrying about what you cannot control, shift your energy to what you can create." — Roy T. Bennett"
+  ""Don't shortchange yourself when it comes to investing in your own better future." — Jim Rohn"
 </em></p>
 
 ---
