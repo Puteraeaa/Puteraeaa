@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do good by stealth, and blush to find it fame." — Alexander Pope"
+  ""No valid plans for the future can be made by those who have no capacity for living now." — Alan Watts"
 </em></p>
 
 ---
