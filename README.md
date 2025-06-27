@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw"
+  ""A leader is one who knows the way, goes the way, and shows the way." — Unknown"
 </em></p>
 
 ---
