@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No valid plans for the future can be made by those who have no capacity for living now." — Alan Watts"
+  ""Every day passes whether you participate or not." — Ming-Dao Deng"
 </em></p>
 
 ---
