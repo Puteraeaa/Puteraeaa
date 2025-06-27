@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing like a health problem to turn up the contrast dial for the rest of life." — Naval Ravikant"
+  ""To be able to forget means sanity." — Jack London"
 </em></p>
 
 ---
