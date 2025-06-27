@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't shortchange yourself when it comes to investing in your own better future." — Jim Rohn"
+  ""If you look for perfection, you'll never be content." — Leo Tolstoy"
 </em></p>
 
 ---
