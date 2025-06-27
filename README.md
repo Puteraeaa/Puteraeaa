@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be patient and calm; no one can catch fish in anger." — Herbert Hoover"
+  ""Great things are not done by impulse, but by a series of small things brought together." — Vincent van Gogh"
 </em></p>
 
 ---
