@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter how tall the mountain is, it cannot block the sun." — Chinese Proverb"
+  ""Those who are easily shocked should be shocked more often." — Mae West"
 </em></p>
 
 ---
