@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People rarely succeed unless they have fun in what they are doing." — Dale Carnegie"
+  ""Nothing like a health problem to turn up the contrast dial for the rest of life." — Naval Ravikant"
 </em></p>
 
 ---
