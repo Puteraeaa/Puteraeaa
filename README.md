@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't look for meaning in the words. Listen to the silences." — Samuel Beckett"
+  ""Every moment of happiness requires a great amount of Ignorance" — Honore de Balzac"
 </em></p>
 
 ---
