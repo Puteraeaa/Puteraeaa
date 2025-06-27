@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." — Paramahansa Yogananda"
+  ""Be happy in the moment, that's enough. Each moment is all we need, not more." — Mother Teresa"
 </em></p>
 
 ---
