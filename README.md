@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you look for perfection, you'll never be content." — Leo Tolstoy"
+  ""Too many of us are not living our dreams because we are living our fears." — Les Brown"
 </em></p>
 
 ---
