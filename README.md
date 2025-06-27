@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present." — Lao Tzu"
+  ""Don't look for meaning in the words. Listen to the silences." — Samuel Beckett"
 </em></p>
 
 ---
