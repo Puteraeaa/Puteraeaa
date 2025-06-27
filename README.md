@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before preparing to improve the world, first look around your own home three times. " — Chinese Proverb"
+  ""A lot of people have gone further than they thought they could because someone else thought they could." — Zig Ziglar"
 </em></p>
 
 ---
