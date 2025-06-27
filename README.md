@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
+  ""To the mind that is still, the whole universe surrenders." — Lao Tzu"
 </em></p>
 
 ---
