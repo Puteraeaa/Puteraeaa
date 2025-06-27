@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything eaten is killed. Every meal is a sacrifice." — Adi Da Samraj"
+  ""Good entrepreneurs don't fail because they stay at it." — Naval Ravikant"
 </em></p>
 
 ---
