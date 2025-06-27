@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Too many of us are not living our dreams because we are living our fears." — Les Brown"
+  ""With the new day comes new strength and new thoughts." — Eleanor Roosevelt"
 </em></p>
 
 ---
