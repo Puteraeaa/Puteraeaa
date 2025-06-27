@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The positive thinker sees the invisible, feels the intangible, and achieves the impossible." — Winston Churchill"
+  ""When you know what you want, and want it bad enough, you will find a way to get it." — Jim Rohn"
 </em></p>
 
 ---
