@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every moment of happiness requires a great amount of Ignorance" — Honore de Balzac"
+  ""Everything eaten is killed. Every meal is a sacrifice." — Adi Da Samraj"
 </em></p>
 
 ---
