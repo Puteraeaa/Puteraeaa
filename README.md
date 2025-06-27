@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A leader is one who knows the way, goes the way, and shows the way." — Unknown"
+  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
 </em></p>
 
 ---
