@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To become what you are not, behave as you do not." — T.S. Eliot"
+  ""On the other side of the clouds is a bright blue sky." — Unknown"
 </em></p>
 
 ---
