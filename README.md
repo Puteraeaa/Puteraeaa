@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments." — Ming-Dao Deng"
+  ""Make improvements, not excuses. Seek respect, not attention." — Roy T. Bennett"
 </em></p>
 
 ---
