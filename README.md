@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is only one thing in the world worse than being talked about, and that is not being talked about. " — Oscar Wilde"
+  ""We never know the love of a parent till we become parents ourselves." — Henry Ward Beecher"
 </em></p>
 
 ---
