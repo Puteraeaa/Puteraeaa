@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""On the other side of the clouds is a bright blue sky." — Unknown"
+  ""It will never rain roses: when we want to have more roses, we must plant more roses." — George Eliot"
 </em></p>
 
 ---
