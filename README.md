@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your vision will become clear only when you can look into your own heart." — Lolly Daskal"
+  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
 </em></p>
 
 ---
