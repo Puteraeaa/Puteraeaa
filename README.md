@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the beginner's mind there are many possibilities, but in the expert's mind there are few." — Shunryu Suzuki"
+  ""If you do not tell the truth about yourself you cannot tell it about other people." — Virginia Woolf"
 </em></p>
 
 ---
