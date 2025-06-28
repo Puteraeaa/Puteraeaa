@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We never know the love of a parent till we become parents ourselves." — Henry Ward Beecher"
+  ""In order for you to be the BEST you can be for others, first you must be BEST for yourself." — Jeffrey Gitomer"
 </em></p>
 
 ---
