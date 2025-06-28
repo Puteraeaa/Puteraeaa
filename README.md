@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Enthusiasm makes up for a host of deficiencies." — Barack Obama"
+  ""If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." — Zig Ziglar"
 </em></p>
 
 ---
