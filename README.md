@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result." — James Allen"
+  ""The difference between impossible and possible is a willing heart." — Lolly Daskal"
 </em></p>
 
 ---
