@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True wealth is of the heart, not of the purse." — Og Mandino"
+  ""The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." — Naval Ravikant"
 </em></p>
 
 ---
