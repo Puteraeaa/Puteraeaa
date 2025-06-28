@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The two most important days in your life are the day you are born and the day you find out why." — Mark Twain"
+  ""Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu"
 </em></p>
 
 ---
