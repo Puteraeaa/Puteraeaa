@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You never know when a moment and a few sincere words can have an impact on a life.  " — Zig Ziglar"
+  ""If you do the work you get rewarded. There are no shortcuts in life." — Michael Jordan"
 </em></p>
 
 ---
