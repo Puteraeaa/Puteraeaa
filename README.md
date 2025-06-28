@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It will never rain roses: when we want to have more roses, we must plant more roses." — George Eliot"
+  ""In the beginner's mind there are many possibilities, but in the expert's mind there are few." — Shunryu Suzuki"
 </em></p>
 
 ---
