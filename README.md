@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great minds are always feared by lesser minds." — Dan Brown"
+  ""We forge the chains we wear in life." — Charles Dickens"
 </em></p>
 
 ---
