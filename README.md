@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All men are equal before fish." — Herbert Hoover"
+  ""Don't be afraid that you do not know something. Be afraid of not learning about it." — Zen Proverb"
 </em></p>
 
 ---
