@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do not tell the truth about yourself you cannot tell it about other people." — Virginia Woolf"
+  ""You never know when a moment and a few sincere words can have an impact on a life.  " — Zig Ziglar"
 </em></p>
 
 ---
