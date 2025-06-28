@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Note that this journey is uniquely yours, no one elses. So the path has to be your own." — Jon Kabat-Zinn"
+  ""All men are equal before fish." — Herbert Hoover"
 </em></p>
 
 ---
