@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success and failure come and go, but don't let them define you. It's who you are that matters." — Kamal Ravikant"
+  ""We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality." — Vaclav Havel"
 </em></p>
 
 ---
