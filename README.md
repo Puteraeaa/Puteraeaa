@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction." — Criss Jami"
+  ""Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. " — Martin Luther"
 </em></p>
 
 ---
