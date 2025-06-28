@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie"
+  ""Great minds are always feared by lesser minds." — Dan Brown"
 </em></p>
 
 ---
