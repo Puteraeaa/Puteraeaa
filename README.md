@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu"
+  ""You can start changing our world for the better daily, no matter how small the action." — Nelson Mandela"
 </em></p>
 
 ---
