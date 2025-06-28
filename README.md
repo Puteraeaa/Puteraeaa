@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make improvements, not excuses. Seek respect, not attention." — Roy T. Bennett"
+  ""Success and failure come and go, but don't let them define you. It's who you are that matters." — Kamal Ravikant"
 </em></p>
 
 ---
