@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We forge the chains we wear in life." — Charles Dickens"
+  ""Confidence is contagious. So is lack of confidence." — Vince Lombardi"
 </em></p>
 
 ---
