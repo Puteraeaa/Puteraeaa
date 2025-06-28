@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fewer the words, the better the prayer." — Martin Luther"
+  ""Enthusiasm makes up for a host of deficiencies." — Barack Obama"
 </em></p>
 
 ---
