@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can start changing our world for the better daily, no matter how small the action." — Nelson Mandela"
+  ""People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie"
 </em></p>
 
 ---
