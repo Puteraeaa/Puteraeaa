@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Any fool can paint a picture, but it takes a wise man to be able to sell it." — Samuel Butler"
+  ""Note that this journey is uniquely yours, no one elses. So the path has to be your own." — Jon Kabat-Zinn"
 </em></p>
 
 ---
