@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only thing we have to fear is fear itself." — Franklin D. Roosevelt"
+  ""A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction." — Criss Jami"
 </em></p>
 
 ---
