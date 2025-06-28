@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
+  ""True wealth is of the heart, not of the purse." — Og Mandino"
 </em></p>
 
 ---
