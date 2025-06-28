@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I put my heart and soul into my work, and I have lost my mind in the process." — Vincent van Gogh"
+  ""You don't need anybody to tell you who you are or what you are. You are what you are!" — John Lennon"
 </em></p>
 
 ---
