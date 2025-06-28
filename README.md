@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Awaken. Take heed, do not squander your life." — Dogen"
+  ""I put my heart and soul into my work, and I have lost my mind in the process." — Vincent van Gogh"
 </em></p>
 
 ---
