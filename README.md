@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't be afraid that you do not know something. Be afraid of not learning about it." — Zen Proverb"
+  ""Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments." — Ming-Dao Deng"
 </em></p>
 
 ---
