@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Re-examine all that you have been told... dismiss that which insults your soul." — Walt Whitman"
+  ""Become the kind of leader that people would follow voluntarily, even if you had no title or position." — Brian Tracy"
 </em></p>
 
 ---
