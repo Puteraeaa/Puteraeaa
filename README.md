@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't need anybody to tell you who you are or what you are. You are what you are!" — John Lennon"
+  ""Any fool can paint a picture, but it takes a wise man to be able to sell it." — Samuel Butler"
 </em></p>
 
 ---
