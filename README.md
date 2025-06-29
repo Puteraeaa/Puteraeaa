@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am who I am today because of the choices I made yesterday." — Eleanor Roosevelt"
+  ""Your life does not get better by chance, it gets better by change." — Jim Rohn"
 </em></p>
 
 ---
