@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must create our own world or we will die from inaction." — Robert Greene"
+  ""The hard path is often the right one. The river teaches more than the shore." — Maxime Lagace"
 </em></p>
 
 ---
