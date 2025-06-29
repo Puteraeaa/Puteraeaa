@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be polite to all, but intimate with few." — Thomas Jefferson"
+  ""I am who I am today because of the choices I made yesterday." — Eleanor Roosevelt"
 </em></p>
 
 ---
