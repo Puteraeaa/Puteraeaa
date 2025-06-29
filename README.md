@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?" — Eckhart Tolle"
+  ""As a man thinketh in his heart, so shall he be." — James Allen"
 </em></p>
 
 ---
