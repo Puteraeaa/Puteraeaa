@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer"
+  ""Poverty and hardship are created by false thinking." — Bodhidharma"
 </em></p>
 
 ---
