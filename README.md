@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your world is a living expression of how you are using and have used your mind." — Earl Nightingale"
+  ""Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in." — Robert Greene"
 </em></p>
 
 ---
