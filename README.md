@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want work well done, select a busy man; the other kind has no time." — Elbert Hubbard"
+  ""Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream." — Unknown"
 </em></p>
 
 ---
