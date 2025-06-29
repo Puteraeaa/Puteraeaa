@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy." — Ralph Marston"
+  ""Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?" — Eckhart Tolle"
 </em></p>
 
 ---
