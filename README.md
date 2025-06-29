@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Human behavior flows from three main sources: desire, emotion, and knowledge." — Plato"
+  ""Go as far as you can see and you will see further.  " — Zig Ziglar"
 </em></p>
 
 ---
