@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your life does not get better by chance, it gets better by change." — Jim Rohn"
+  ""You never know when a moment and a few sincere words can have an impact on a life.  " — Zig Ziglar"
 </em></p>
 
 ---
