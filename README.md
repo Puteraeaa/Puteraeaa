@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As a man thinketh in his heart, so shall he be." — James Allen"
+  ""Your world is a living expression of how you are using and have used your mind." — Earl Nightingale"
 </em></p>
 
 ---
