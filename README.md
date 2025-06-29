@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We would accomplish many more things if we did not think of them as impossible." — Vince Lombardi"
+  ""We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences " — Nikola Tesla"
 </em></p>
 
 ---
