@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." — Helen Keller"
+  ""Human behavior flows from three main sources: desire, emotion, and knowledge." — Plato"
 </em></p>
 
 ---
