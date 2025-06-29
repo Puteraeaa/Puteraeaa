@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim." — John D. Rockefeller"
+  ""We would accomplish many more things if we did not think of them as impossible." — Vince Lombardi"
 </em></p>
 
 ---
