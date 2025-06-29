@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves." — Brian Tracy"
+  ""Be - don't try to become " — Osho"
 </em></p>
 
 ---
