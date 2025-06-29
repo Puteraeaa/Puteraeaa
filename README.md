@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Treat every moment as your last. It is not preparation for something else." — Shunryu Suzuki"
+  ""Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim." — John D. Rockefeller"
 </em></p>
 
 ---
