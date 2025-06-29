@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is contagious. So is lack of confidence." — Vince Lombardi"
+  ""It is not titles that honour men, but men that honour titles." — Niccolo Machiavelli"
 </em></p>
 
 ---
