@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The key to immortality is first living a life worth remembering. " — Bruce Lee"
+  ""Treat every moment as your last. It is not preparation for something else." — Shunryu Suzuki"
 </em></p>
 
 ---
