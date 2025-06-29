@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Poverty and hardship are created by false thinking." — Bodhidharma"
+  ""Follow your heart, listen to your inner voice, stop caring about what others think." — Roy T. Bennett"
 </em></p>
 
 ---
