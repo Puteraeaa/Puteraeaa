@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in." — Robert Greene"
+  ""Be polite to all, but intimate with few." — Thomas Jefferson"
 </em></p>
 
 ---
