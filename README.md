@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a question and how we live it is our answer." — Gary Keller"
+  ""Mind is the creator of everything. You should therefore guide it to create only good." — Paramahansa Yogananda"
 </em></p>
 
 ---
