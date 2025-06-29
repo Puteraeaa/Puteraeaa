@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not fair to ask of others what you are not willing to do yourself." — Eleanor Roosevelt"
+  ""Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy." — Ralph Marston"
 </em></p>
 
 ---
