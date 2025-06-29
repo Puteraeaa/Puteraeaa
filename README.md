@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not uncommon for people to spend their whole life waiting to start living." — Eckhart Tolle"
+  ""It ain't where you start in life, it's where you end up, and what you did along the way." — Colin Powell"
 </em></p>
 
 ---
