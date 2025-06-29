@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not titles that honour men, but men that honour titles." — Niccolo Machiavelli"
+  ""We must create our own world or we will die from inaction." — Robert Greene"
 </em></p>
 
 ---
