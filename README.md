@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The hard path is often the right one. The river teaches more than the shore." — Maxime Lagace"
+  ""The biggest room in the world is the room for improvement." — Unknown"
 </em></p>
 
 ---
