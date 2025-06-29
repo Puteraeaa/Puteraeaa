@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who never made a mistake never tried anything new." — Albert Einstein"
+  ""It is not fair to ask of others what you are not willing to do yourself." — Eleanor Roosevelt"
 </em></p>
 
 ---
