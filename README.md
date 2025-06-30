@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Faith is taking the first step even when you don't see the whole staircase." — Martin Luther King, Jr."
+  ""The grass is greener where you water it." — Neil Barringham"
 </em></p>
 
 ---
