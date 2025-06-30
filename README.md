@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death is not an ending. It is a transformation." — Ming-Dao Deng"
+  ""Peaceful is the one who expects nothing." — Maxime Lagace"
 </em></p>
 
 ---
