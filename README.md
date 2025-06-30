@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may forget with whom you laughed, but you will never forget with whom you wept.  " — Kahlil Gibran"
+  ""The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs"
 </em></p>
 
 ---
