@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even though you are on the right track - you will get run over if you just sit there." — Will Rogers"
+  ""We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change." — Mark Manson"
 </em></p>
 
 ---
