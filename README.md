@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hope is a waking dream." — Aristotle"
+  ""The biggest adventure is what lies ahead." — J.R.R. Tolkien"
 </em></p>
 
 ---
