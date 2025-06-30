@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is what we make out of what we have, not what we are given, that separates one person from another." — Nelson Mandela"
+  ""Unless someone truly has the power to say no, they never truly have the power to say yes." — Dan Millman"
 </em></p>
 
 ---
