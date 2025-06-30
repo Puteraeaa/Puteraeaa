@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change." — Mark Manson"
+  ""Start each day with a positive thought and a grateful heart." — Roy T. Bennett"
 </em></p>
 
 ---
