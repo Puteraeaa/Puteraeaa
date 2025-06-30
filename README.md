@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams provide nourishment for the soul, just as a meal does for the body." — Paulo Coelho"
+  ""You may forget with whom you laughed, but you will never forget with whom you wept.  " — Kahlil Gibran"
 </em></p>
 
 ---
