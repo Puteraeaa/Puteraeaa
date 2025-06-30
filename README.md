@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I was angered, for I had no shoes. Then I met a man who had no feet. " — Chinese Proverb"
+  ""The golden opportunity you are seeking is within yourself." — Mary Engelbreit"
 </em></p>
 
 ---
