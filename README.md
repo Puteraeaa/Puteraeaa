@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is the progressive realization of a worthy goal or ideal." — Earl Nightingale"
+  ""A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy"
 </em></p>
 
 ---
