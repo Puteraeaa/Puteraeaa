@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Let not your mind run on what you lack as much as on what you have already." — Marcus Aurelius"
+  ""No man will make a great leader who wants to do it all himself or to get all the credit for doing it." — Andrew Carnegie"
 </em></p>
 
 ---
