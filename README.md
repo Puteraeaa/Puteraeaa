@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad." — Harry S. Truman"
+  ""The best way to understanding is a few good examples." — Isaac Newton"
 </em></p>
 
 ---
