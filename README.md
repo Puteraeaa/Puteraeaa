@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who possesses most must be most afraid of loss." — Leonardo da Vinci"
+  ""A journey of a thousand miles begins with a single step." — Lao Tzu"
 </em></p>
 
 ---
