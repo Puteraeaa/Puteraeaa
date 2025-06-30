@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be truly ignorant, be content with your own knowledge." — Zhuangzi"
+  ""There's more to life than being a passenger." — Amelia Earhart"
 </em></p>
 
 ---
