@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A journey of a thousand miles begins with a single step." — Lao Tzu"
+  ""To wish you were someone else is to waste the person you are." — Unknown"
 </em></p>
 
 ---
