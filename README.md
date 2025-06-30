@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Go for it now. The future is promised to no one." — Wayne Dyer"
+  ""New beginnings are disguised as painful endings." — Lao Tzu"
 </em></p>
 
 ---
