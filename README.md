@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy"
+  ""You can not live your life just based on what everyone else thinks." — Joyce Meyer"
 </em></p>
 
 ---
