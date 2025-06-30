@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Heal the past, live the present, dream the future." — Mary Engelbreit"
+  ""Go for it now. The future is promised to no one." — Wayne Dyer"
 </em></p>
 
 ---
