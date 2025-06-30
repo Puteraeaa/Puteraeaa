@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To wish you were someone else is to waste the person you are." — Unknown"
+  ""Dreams provide nourishment for the soul, just as a meal does for the body." — Paulo Coelho"
 </em></p>
 
 ---
