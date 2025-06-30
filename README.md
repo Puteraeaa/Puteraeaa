@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Start each day with a positive thought and a grateful heart." — Roy T. Bennett"
+  ""He who possesses most must be most afraid of loss." — Leonardo da Vinci"
 </em></p>
 
 ---
