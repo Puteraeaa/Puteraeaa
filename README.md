@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The key to success is failure." — Michael Jordan"
+  ""It's OK to have your eggs in one basket as long as you control what happens to that basket." — Elon Musk"
 </em></p>
 
 ---
