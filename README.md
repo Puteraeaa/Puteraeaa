@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The grass is greener where you water it." — Neil Barringham"
+  ""The key to success is failure." — Michael Jordan"
 </em></p>
 
 ---
