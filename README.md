@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People who avoid failure also avoid success." — Robert Kiyosaki"
+  ""To be truly ignorant, be content with your own knowledge." — Zhuangzi"
 </em></p>
 
 ---
