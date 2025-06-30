@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peaceful is the one who expects nothing." — Maxime Lagace"
+  ""Success is the progressive realization of a worthy goal or ideal." — Earl Nightingale"
 </em></p>
 
 ---
