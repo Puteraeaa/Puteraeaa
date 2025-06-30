@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There's more to life than being a passenger." — Amelia Earhart"
+  ""Hope is a waking dream." — Aristotle"
 </em></p>
 
 ---
