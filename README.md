@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs"
+  ""Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad." — Harry S. Truman"
 </em></p>
 
 ---
