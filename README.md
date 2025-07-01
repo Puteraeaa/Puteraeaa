@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Act as if what you do makes a difference. It does." — William James"
+  ""My instinct is always to seek out challenges as opposed to avoiding them." — Josh Waitzkin"
 </em></p>
 
 ---
