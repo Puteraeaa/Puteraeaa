@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rest in reason; move in passion." — Kahlil Gibran"
+  ""The world is a puzzle; no need to make sense out of it." — Socrates"
 </em></p>
 
 ---
