@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now." — Ralph Marston"
+  ""Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task." — William James"
 </em></p>
 
 ---
