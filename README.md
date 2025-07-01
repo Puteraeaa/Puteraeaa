@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To wish you were someone else is to waste the person you are." — Unknown"
+  ""Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " — Nikola Tesla"
 </em></p>
 
 ---
