@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Others have seen what is and asked why. I have seen what could be and asked why not" — Pablo Picasso"
+  ""It is better to learn late than never." — Publilius Syrus"
 </em></p>
 
 ---
