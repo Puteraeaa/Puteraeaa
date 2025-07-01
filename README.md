@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found." — Alexander Pope"
+  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
 </em></p>
 
 ---
