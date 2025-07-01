@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Much learning does not teach understanding." — Heraclitus"
+  ""Elegance does not consist in putting on a new dress." — Coco Chanel"
 </em></p>
 
 ---
