@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is like the sun. You can shut it out for a time, but it ain't going away." — Elvis Presley"
+  ""It is not fair to ask of others what you are not willing to do yourself." — Eleanor Roosevelt"
 </em></p>
 
 ---
