@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love the life you live, live the life you love." — Bob Marley"
+  ""You'll never find rainbows if you're looking down.  " — Charlie Chaplin"
 </em></p>
 
 ---
