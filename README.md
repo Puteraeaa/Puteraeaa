@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wherever you are is the entry point." — Kabir"
+  ""To find yourself, think for yourself." — Socrates"
 </em></p>
 
 ---
