@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness." — Steve Maraboli"
+  ""Wherever you are is the entry point." — Kabir"
 </em></p>
 
 ---
