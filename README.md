@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is the spiritual experience of living every minute with love, grace and gratitude." — Denis Waitley"
+  ""Act as if what you do makes a difference. It does." — William James"
 </em></p>
 
 ---
