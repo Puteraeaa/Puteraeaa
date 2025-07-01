@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If what you're doing is not your passion, you have nothing to lose." — Celestine Chua"
+  ""Others have seen what is and asked why. I have seen what could be and asked why not" — Pablo Picasso"
 </em></p>
 
 ---
