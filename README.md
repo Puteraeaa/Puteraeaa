@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Until you make the unconscious conscious, it will direct your life and you will call it fate." — Carl Jung"
+  ""When you rise in the morning, form a resolution to make the day a happy one for a fellow creature." — Sydney Smith"
 </em></p>
 
 ---
