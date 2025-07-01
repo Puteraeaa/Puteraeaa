@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always render more and better service than is expected of you, no matter what your task may be." — Og Mandino"
+  ""If what you're doing is not your passion, you have nothing to lose." — Celestine Chua"
 </em></p>
 
 ---
