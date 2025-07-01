@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My instinct is always to seek out challenges as opposed to avoiding them." — Josh Waitzkin"
+  ""Dreams provide nourishment for the soul, just as a meal does for the body." — Paulo Coelho"
 </em></p>
 
 ---
