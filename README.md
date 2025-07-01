@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task." — William James"
+  ""If I persist long enough I will win." — Og Mandino"
 </em></p>
 
 ---
