@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The golden opportunity you are seeking is within yourself." — Mary Engelbreit"
+  ""Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness." — Steve Maraboli"
 </em></p>
 
 ---
