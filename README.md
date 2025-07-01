@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you rise in the morning, form a resolution to make the day a happy one for a fellow creature." — Sydney Smith"
+  ""To wish you were someone else is to waste the person you are." — Unknown"
 </em></p>
 
 ---
