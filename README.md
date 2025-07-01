@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To the world you may be one person; but to one person you may be the world." — Dr. Seuss"
+  ""Always render more and better service than is expected of you, no matter what your task may be." — Og Mandino"
 </em></p>
 
 ---
