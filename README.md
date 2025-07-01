@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to learn late than never." — Publilius Syrus"
+  ""The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time." — Dan Millman"
 </em></p>
 
 ---
