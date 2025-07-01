@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change your thoughts and you change your world." — Norman Vincent Peale"
+  ""Much learning does not teach understanding." — Heraclitus"
 </em></p>
 
 ---
