@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The primary point of this existence is to live, and all living things move and grow." — Ming-Dao Deng"
+  ""To the world you may be one person; but to one person you may be the world." — Dr. Seuss"
 </em></p>
 
 ---
