@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King"
+  ""Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now." — Ralph Marston"
 </em></p>
 
 ---
