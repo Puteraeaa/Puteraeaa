@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Elegance does not consist in putting on a new dress." — Coco Chanel"
+  ""As soon as you trust yourself, you will know how to live." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
