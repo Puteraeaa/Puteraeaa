@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The world is a puzzle; no need to make sense out of it." — Socrates"
+  ""It is only depth of character that determines the profundity with which we face life." — Ming-Dao Deng"
 </em></p>
 
 ---
