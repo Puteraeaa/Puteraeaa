@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams provide nourishment for the soul, just as a meal does for the body." — Paulo Coelho"
+  ""I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King"
 </em></p>
 
 ---
