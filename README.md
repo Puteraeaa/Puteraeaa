@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To find yourself, think for yourself." — Socrates"
+  ""A flower falls, even though we love it; and a weed grows, even though we do not love it." — Dogen"
 </em></p>
 
 ---
