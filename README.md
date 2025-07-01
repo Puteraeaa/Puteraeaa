@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As soon as you trust yourself, you will know how to live." — Johann Wolfgang von Goethe"
+  ""Truth is like the sun. You can shut it out for a time, but it ain't going away." — Elvis Presley"
 </em></p>
 
 ---
