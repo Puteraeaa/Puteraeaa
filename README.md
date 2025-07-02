@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The joy of life comes from our encounters with new experiences." — Christopher McCandless"
+  ""The most important battle is one to conquer yourself." — Yanni"
 </em></p>
 
 ---
