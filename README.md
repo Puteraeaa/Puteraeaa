@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the End, we will remember not the words of our enemies, but the silence of our friends." — Martin Luther King, Jr."
+  ""True it is, we only hate those whom we do not know." — Andrew Carnegie"
 </em></p>
 
 ---
