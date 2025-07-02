@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Enthusiasm makes up for a host of deficiencies." — Barack Obama"
+  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
 </em></p>
 
 ---
