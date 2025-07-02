@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am always doing what I cannot do yet, in order to learn how to do it." — Vincent van Gogh"
+  ""It is better to light a single candle than to curse the darkness." — Eleanor Roosevelt"
 </em></p>
 
 ---
