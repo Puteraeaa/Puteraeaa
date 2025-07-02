@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every moment is a fresh beginning." — T.S. Eliot"
+  ""For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter." — Celestine Chua"
 </em></p>
 
 ---
