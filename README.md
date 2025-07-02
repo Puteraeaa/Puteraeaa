@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People are not disturbed by things, but by the views they take of them." — Epictetus"
+  ""If you're brave enough to say goodbye, life will reward you with a new hello." — Paulo Coelho"
 </em></p>
 
 ---
