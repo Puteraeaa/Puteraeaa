@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is an option here. If things are not failing, you are not innovating enough." — Elon Musk"
+  ""There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." — Denis Waitley"
 </em></p>
 
 ---
