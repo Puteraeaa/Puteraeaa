@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no truth. There is only perception." — Gustave Flaubert"
+  ""If we did all the things we are capable of, we would literally astound ourselves." — Thomas Edison"
 </em></p>
 
 ---
