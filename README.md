@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to know what God thinks about money just look at the people He gives it to." — Alexander Pope"
+  ""I am always doing what I cannot do yet, in order to learn how to do it." — Vincent van Gogh"
 </em></p>
 
 ---
