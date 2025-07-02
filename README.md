@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we did all the things we are capable of, we would literally astound ourselves." — Thomas Edison"
+  ""It's necessary to get the losers out of your life if you want to live your dream." — Les Brown"
 </em></p>
 
 ---
