@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The few who do are the envy of the many who only watch." — Jim Rohn"
+  ""Lust, anger and greed are the three gates to self-destructive hell." — Bhagavad Gita"
 </em></p>
 
 ---
