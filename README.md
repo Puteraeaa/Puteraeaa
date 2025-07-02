@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's the little things done consistently over time, straight from your heart, that have the greatest impact." — Unknown"
+  ""Time doesn't heal emotional pain, you need to learn how to let go." — Roy T. Bennett"
 </em></p>
 
 ---
