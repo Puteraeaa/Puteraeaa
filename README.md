@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Lust, anger and greed are the three gates to self-destructive hell." — Bhagavad Gita"
+  ""Failure is an option here. If things are not failing, you are not innovating enough." — Elon Musk"
 </em></p>
 
 ---
