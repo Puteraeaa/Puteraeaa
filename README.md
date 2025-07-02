@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most important battle is one to conquer yourself." — Yanni"
+  ""All animals except man know that the principal business of life is to enjoy it." — Samuel Butler"
 </em></p>
 
 ---
