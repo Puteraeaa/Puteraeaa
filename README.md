@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." — Colin Powell"
+  ""The future is not a gift. It is an achievement." — Robert F. Kennedy"
 </em></p>
 
 ---
