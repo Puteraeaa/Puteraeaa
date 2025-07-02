@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not take life too seriously. You will never get out of it alive." — Elbert Hubbard"
+  ""Life is ten percent what you experience and ninety percent how you respond to it." — Unknown"
 </em></p>
 
 ---
