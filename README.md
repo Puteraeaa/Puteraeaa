@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To arrive at the simplest truth requires years of contemplation." — Isaac Newton"
+  ""Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." — Colin Powell"
 </em></p>
 
 ---
