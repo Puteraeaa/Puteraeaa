@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's necessary to get the losers out of your life if you want to live your dream." — Les Brown"
+  ""In the End, we will remember not the words of our enemies, but the silence of our friends." — Martin Luther King, Jr."
 </em></p>
 
 ---
