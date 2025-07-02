@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter." — Celestine Chua"
+  ""When you rise in the morning, form a resolution to make the day a happy one for a fellow creature." — Sydney Smith"
 </em></p>
 
 ---
