@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time doesn't heal emotional pain, you need to learn how to let go." — Roy T. Bennett"
+  ""When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." — Peter A. Cohen"
 </em></p>
 
 ---
