@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams are for dreamers. Goals are for achievers." — Arnold Schwarzenegger"
+  ""To arrive at the simplest truth requires years of contemplation." — Isaac Newton"
 </em></p>
 
 ---
