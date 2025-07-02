@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowledge isn't power until it is applied." — Dale Carnegie"
+  ""Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task." — William James"
 </em></p>
 
 ---
