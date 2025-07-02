@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're brave enough to say goodbye, life will reward you with a new hello." — Paulo Coelho"
+  ""Do not take life too seriously. You will never get out of it alive." — Elbert Hubbard"
 </em></p>
 
 ---
