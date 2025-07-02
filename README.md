@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies." — Emily Dickinson"
+  ""The more we have the less we own." — Meister Eckhart"
 </em></p>
 
 ---
