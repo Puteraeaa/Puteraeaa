@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why fit in when you were born to stand out?" — Dr. Seuss"
+  ""The joy of life comes from our encounters with new experiences." — Christopher McCandless"
 </em></p>
 
 ---
