@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to light a single candle than to curse the darkness." — Eleanor Roosevelt"
+  ""We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies." — Emily Dickinson"
 </em></p>
 
 ---
