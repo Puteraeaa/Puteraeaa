@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is ten percent what you experience and ninety percent how you respond to it." — Unknown"
+  ""Enthusiasm makes up for a host of deficiencies." — Barack Obama"
 </em></p>
 
 ---
