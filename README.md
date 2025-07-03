@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is often safer to be in chains than to be free. " — Franz Kafka"
+  ""When you lose your desire for things that do not matter, you will be free." — Morihei Ueshiba"
 </em></p>
 
 ---
