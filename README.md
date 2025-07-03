@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may be disappointed if you fail, but you are doomed if you don't try. " — Beverly Sills"
+  ""We are all different. Don't judge, understand instead." — Roy T. Bennett"
 </em></p>
 
 ---
