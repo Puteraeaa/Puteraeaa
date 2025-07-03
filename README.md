@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to keep your memories, you first have to live them." — Bob Dylan"
+  ""There is little success where there is little laughter." — Andrew Carnegie"
 </em></p>
 
 ---
