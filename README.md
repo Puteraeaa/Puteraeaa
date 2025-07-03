@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is love and love is life." — Elvis Presley"
+  ""You may be disappointed if you fail, but you are doomed if you don't try. " — Beverly Sills"
 </em></p>
 
 ---
