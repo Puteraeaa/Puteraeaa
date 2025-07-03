@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Darkness is the absence of light." — Kamal Ravikant"
+  ""Life is love and love is life." — Elvis Presley"
 </em></p>
 
 ---
