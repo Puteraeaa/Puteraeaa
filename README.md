@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is little success where there is little laughter." — Andrew Carnegie"
+  ""It is often safer to be in chains than to be free. " — Franz Kafka"
 </em></p>
 
 ---
