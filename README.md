@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where focus goes, energy flows." — Tony Robbins"
+  ""Never regret your past. Rather, embrace it as the teacher that it is." — Robin Sharma"
 </em></p>
 
 ---
