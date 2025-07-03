@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is the art of drawing sufficient conclusions from insufficient premises." — Samuel Butler"
+  ""You never know when a moment and a few sincere words can have an impact on a life.  " — Zig Ziglar"
 </em></p>
 
 ---
