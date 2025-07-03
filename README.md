@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we all did the things we are capable of doing, we would literally astound ourselves." — Thomas Edison"
+  ""Darkness is the absence of light." — Kamal Ravikant"
 </em></p>
 
 ---
