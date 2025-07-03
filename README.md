@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists." — Spencer Johnson"
+  ""It is what we make out of what we have, not what we are given, that separates one person from another." — Nelson Mandela"
 </em></p>
 
 ---
