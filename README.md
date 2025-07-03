@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all different. Don't judge, understand instead." — Roy T. Bennett"
+  ""Where your talents and the needs of the world cross, there lies your vocation." — Aristotle"
 </em></p>
 
 ---
