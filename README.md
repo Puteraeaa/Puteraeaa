@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can have results or excuses, but not both." — Arnold Schwarzenegger"
+  ""Someday death will take us to another star." — Vincent van Gogh"
 </em></p>
 
 ---
