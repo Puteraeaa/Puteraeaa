@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Thoughts become things. If you see it in your mind, you will hold it in your hand." — Bob Proctor"
+  ""Leadership is solving problems" — Colin Powell"
 </em></p>
 
 ---
