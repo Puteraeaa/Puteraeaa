@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're really truthful with yourself, it's a wonderful guidance.  " — Charlie Chaplin"
+  ""A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." — Confucius"
 </em></p>
 
 ---
