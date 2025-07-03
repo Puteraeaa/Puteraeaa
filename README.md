@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do not change direction, you may end up where you are heading." — Lao Tzu"
+  ""Where focus goes, energy flows." — Tony Robbins"
 </em></p>
 
 ---
