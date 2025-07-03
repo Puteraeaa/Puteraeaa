@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
+  ""Generosity is giving more than you can, and pride is taking less than you need." — Kahlil Gibran"
 </em></p>
 
 ---
