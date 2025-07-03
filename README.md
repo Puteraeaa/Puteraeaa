@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hope means hoping when everything seems hopeless." — Gilbert Chesterton"
+  ""Do anything, but let it produce joy." — Walt Whitman"
 </em></p>
 
 ---
