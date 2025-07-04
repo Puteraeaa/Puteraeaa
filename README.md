@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not how much money you make, it's how much money you keep." — Robert Kiyosaki"
+  ""Don't be afraid to give up the good to go for the great." — John D. Rockefeller"
 </em></p>
 
 ---
