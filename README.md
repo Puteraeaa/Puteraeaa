@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it." — Josh Waitzkin"
+  ""They who have conquered doubt and fear have conquered failure." — James Allen"
 </em></p>
 
 ---
