@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every limit is a beginning as well as an ending." — George Eliot"
+  ""To be fully alive, fully human, and completely awake is to be continually thrown out of the nest." — Pema Chodron"
 </em></p>
 
 ---
