@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep your dreams, you never know when you might need them." — Carlos Ruiz Zafon"
+  ""Everything that is done in the world is done by hope." — Martin Luther"
 </em></p>
 
 ---
