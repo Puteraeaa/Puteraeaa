@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The energy of the mind is the essence of life." — Aristotle"
+  ""Some people find fault like there is a reward for it.  " — Zig Ziglar"
 </em></p>
 
 ---
