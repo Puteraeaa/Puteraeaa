@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""They who have conquered doubt and fear have conquered failure." — James Allen"
+  ""Do what you can, with what you have, where you are." — Theodore Roosevelt"
 </em></p>
 
 ---
