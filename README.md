@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every strike brings me closer to the next home run. " — Babe Ruth"
+  ""First say to yourself what you would be; and then do what you have to do." — Epictetus"
 </em></p>
 
 ---
