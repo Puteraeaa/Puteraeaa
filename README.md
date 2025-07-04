@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Talent is luck. The important thing in life is courage." — Woody Allen"
+  ""Keep your dreams, you never know when you might need them." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
