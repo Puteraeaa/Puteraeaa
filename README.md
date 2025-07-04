@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learning is a weightless treasure you can always carry easily." — Chinese Proverb"
+  ""You don't need a weatherman to know which way the wind blows." — Bob Dylan"
 </em></p>
 
 ---
