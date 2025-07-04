@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your worth consists in what you are and not in what you have." — Thomas Edison"
+  ""Every strike brings me closer to the next home run. " — Babe Ruth"
 </em></p>
 
 ---
