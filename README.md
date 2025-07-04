@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great minds discuss ideas. Average minds discuss events. Small minds discuss people." — Eleanor Roosevelt"
+  ""My guiding principle is this: Guilt is never to be doubted. " — Franz Kafka"
 </em></p>
 
 ---
