@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The less you talk about your shame, the more of it you have." — Mark Manson"
+  ""It's not how much we give but how much love we put into giving." — Mother Teresa"
 </em></p>
 
 ---
