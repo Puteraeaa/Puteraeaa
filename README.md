@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams." — Robert Greene"
+  ""Talent is luck. The important thing in life is courage." — Woody Allen"
 </em></p>
 
 ---
