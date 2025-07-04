@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen." — Wayne Dyer"
+  ""Success is getting what you want, happiness is wanting what you get." — W.P. Kinsella"
 </em></p>
 
 ---
