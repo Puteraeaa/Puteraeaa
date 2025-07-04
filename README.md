@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not how much we give but how much love we put into giving." — Mother Teresa"
+  ""To know your Enemy, you must become your Enemy." — Sun Tzu"
 </em></p>
 
 ---
