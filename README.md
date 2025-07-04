@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure will never overtake me if my determination to succeed is strong enough." — Og Mandino"
+  ""Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams." — Robert Greene"
 </em></p>
 
 ---
