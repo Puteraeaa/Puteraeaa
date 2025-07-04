@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Embrace the life you have and stop wishing that you could be someone else." — Joyce Meyer"
+  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
 </em></p>
 
 ---
