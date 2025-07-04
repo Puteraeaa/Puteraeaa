@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""First say to yourself what you would be; and then do what you have to do." — Epictetus"
+  ""Make no small plans for they have no power to stir the soul." — Niccolo Machiavelli"
 </em></p>
 
 ---
