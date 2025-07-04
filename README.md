@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You already have every characteristic necessary for success if you recognize, claim, develop and use them." — Zig Ziglar"
+  ""We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change." — Mark Manson"
 </em></p>
 
 ---
