@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make no small plans for they have no power to stir the soul." — Niccolo Machiavelli"
+  ""The less you talk about your shame, the more of it you have." — Mark Manson"
 </em></p>
 
 ---
