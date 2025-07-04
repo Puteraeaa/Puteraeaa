@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rewards and punishment is the lowest form of education." — Zhuangzi"
+  ""The energy of the mind is the essence of life." — Aristotle"
 </em></p>
 
 ---
