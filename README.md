@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is getting what you want, happiness is wanting what you get." — W.P. Kinsella"
+  ""In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes"
 </em></p>
 
 ---
