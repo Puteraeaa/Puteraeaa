@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember that sometimes not getting what you want is a wonderful stroke of luck." — Dalai Lama"
+  ""Great minds discuss ideas. Average minds discuss events. Small minds discuss people." — Eleanor Roosevelt"
 </em></p>
 
 ---
