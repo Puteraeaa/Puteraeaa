@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything that is done in the world is done by hope." — Martin Luther"
+  ""To live is to be willing to die over and over again." — Pema Chodron"
 </em></p>
 
 ---
