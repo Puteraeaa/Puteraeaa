@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some people find fault like there is a reward for it.  " — Zig Ziglar"
+  ""The most important single ingredient in the formula of success is knowing how to get along with people." — Theodore Roosevelt"
 </em></p>
 
 ---
