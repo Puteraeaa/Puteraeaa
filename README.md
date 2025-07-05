@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never let the fear of striking out keep you from playing the game." — Babe Ruth"
+  ""Be willing to be a beginner every single morning." — Meister Eckhart"
 </em></p>
 
 ---
