@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is the meaning and the purpose of life, the whole aim and end of human existence." — Aristotle"
+  ""There is no way to happiness - happiness is the way." — Thich Nhat Hanh"
 </em></p>
 
 ---
