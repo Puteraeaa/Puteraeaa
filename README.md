@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quality of your life is determined by the quality of your thoughts." — Unknown"
+  ""Over time, loneliness gets inside you and doesn't go away." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
