@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can't, you must. If you must, you can." — Tony Robbins"
+  ""I would rather be hated for who I am than loved for who I'm not.  " — Wayne Dyer"
 </em></p>
 
 ---
