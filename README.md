@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing good ever comes of violence." — Martin Luther"
+  ""By perseverance the snail reached the ark." — Charles Spurgeon"
 </em></p>
 
 ---
