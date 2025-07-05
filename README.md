@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may delay, but time will not." — Benjamin Franklin"
+  ""The only real mistake is the one from which we learn nothing. " — Henry Ford"
 </em></p>
 
 ---
