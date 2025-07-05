@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Until you change how you get things done, you'll never know what works best." — Roy T. Bennett"
+  ""When you've got nothing, you've got nothing to lose." — Bob Dylan"
 </em></p>
 
 ---
