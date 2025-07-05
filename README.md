@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Start each day with a positive thought and a grateful heart." — Roy T. Bennett"
+  ""You're never given a dream without also being given the power to make it true." — Richard Bach"
 </em></p>
 
 ---
