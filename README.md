@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
+  ""Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined." — Deepak Chopra"
 </em></p>
 
 ---
