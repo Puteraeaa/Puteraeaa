@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be willing to be a beginner every single morning." — Meister Eckhart"
+  ""Start each day with a positive thought and a grateful heart." — Roy T. Bennett"
 </em></p>
 
 ---
