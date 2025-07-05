@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nature does not hurry, yet everything is accomplished." — Lao Tzu"
+  ""Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." — Celestine Chua"
 </em></p>
 
 ---
