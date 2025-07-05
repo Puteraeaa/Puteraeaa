@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you pray for rain, be prepared to deal with some mud." — Mary Engelbreit"
+  ""Progress is impossible without change, and those who cannot change their minds cannot change anything." — George Bernard Shaw"
 </em></p>
 
 ---
