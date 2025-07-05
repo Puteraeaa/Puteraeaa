@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your problem isn't the problem. Your reaction is the problem." — Unknown"
+  ""Every day do something that will inch you closer to a better tomorrow." — Unknown"
 </em></p>
 
 ---
