@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The prettiest eyes have cried the most." — Unknown"
+  ""The more you know, the more you know you don't know." — Aristotle"
 </em></p>
 
 ---
