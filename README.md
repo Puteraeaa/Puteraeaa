@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You're never given a dream without also being given the power to make it true." — Richard Bach"
+  ""Happiness is the meaning and the purpose of life, the whole aim and end of human existence." — Aristotle"
 </em></p>
 
 ---
