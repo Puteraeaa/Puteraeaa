@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who possesses most must be most afraid of loss." — Leonardo da Vinci"
+  ""If you can't, you must. If you must, you can." — Tony Robbins"
 </em></p>
 
 ---
