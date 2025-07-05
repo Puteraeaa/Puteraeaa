@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A single dream is more powerful than a thousand realities." — J.R.R. Tolkien"
+  ""You may delay, but time will not." — Benjamin Franklin"
 </em></p>
 
 ---
