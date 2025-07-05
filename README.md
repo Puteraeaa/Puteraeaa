@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure means you've now learned another valuable lesson that pushes you one step closer to success." — Steve Harvey"
+  ""You can tell more about a person by what he says about others than you can by what others say about him." — Audrey Hepburn"
 </em></p>
 
 ---
