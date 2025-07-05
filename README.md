@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress is impossible without change, and those who cannot change their minds cannot change anything." — George Bernard Shaw"
+  ""At first dreams seem impossible, then improbable, then inevitable." — Christopher Reeve"
 </em></p>
 
 ---
