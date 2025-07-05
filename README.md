@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no significance in life without struggle." — Lolly Daskal"
+  ""Failure means you've now learned another valuable lesson that pushes you one step closer to success." — Steve Harvey"
 </em></p>
 
 ---
