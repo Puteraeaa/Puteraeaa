@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I would rather be hated for who I am than loved for who I'm not.  " — Wayne Dyer"
+  ""The most important thing is to enjoy your life, to be happy, it's all that matters." — Audrey Hepburn"
 </em></p>
 
 ---
