@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no way to happiness - happiness is the way." — Thich Nhat Hanh"
+  ""Great loves too must be endured." — Coco Chanel"
 </em></p>
 
 ---
