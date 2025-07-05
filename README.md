@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By perseverance the snail reached the ark." — Charles Spurgeon"
+  ""A single dream is more powerful than a thousand realities." — J.R.R. Tolkien"
 </em></p>
 
 ---
