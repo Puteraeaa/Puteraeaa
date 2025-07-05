@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can spend our whole lives escaping from the monsters of our minds." — Pema Chodron"
+  ""Never let the fear of striking out keep you from playing the game." — Babe Ruth"
 </em></p>
 
 ---
