@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""At first dreams seem impossible, then improbable, then inevitable." — Christopher Reeve"
+  ""Everything has beauty but not everyone sees it." — Confucius"
 </em></p>
 
 ---
