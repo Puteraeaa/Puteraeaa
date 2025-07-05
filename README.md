@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day do something that will inch you closer to a better tomorrow." — Unknown"
+  ""Change happens when the pain of holding on becomes greater than the fear of letting go." — Spencer Johnson"
 </em></p>
 
 ---
