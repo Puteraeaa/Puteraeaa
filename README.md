@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined." — Deepak Chopra"
+  ""Don't hate the player. Change the game." — Steve Harvey"
 </em></p>
 
 ---
