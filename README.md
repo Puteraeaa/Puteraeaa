@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great loves too must be endured." — Coco Chanel"
+  ""There is no significance in life without struggle." — Lolly Daskal"
 </em></p>
 
 ---
