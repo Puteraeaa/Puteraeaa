@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you know, the more you know you don't know." — Aristotle"
+  ""Be happy now, without reason - or you never will be at all." — Dan Millman"
 </em></p>
 
 ---
