@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't hate the player. Change the game." — Steve Harvey"
+  ""A bird does not sing because it has an answer. It sings because it has a song." — Chinese Proverb"
 </em></p>
 
 ---
