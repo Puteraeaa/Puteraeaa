@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you've got nothing, you've got nothing to lose." — Bob Dylan"
+  ""The quality of your life is determined by the quality of your thoughts." — Unknown"
 </em></p>
 
 ---
