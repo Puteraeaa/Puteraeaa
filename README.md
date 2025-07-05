@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be happy now, without reason - or you never will be at all." — Dan Millman"
+  ""No one has ever become poor by giving." — Anne Frank"
 </em></p>
 
 ---
