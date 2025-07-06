@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The score never interested me, only the game." — Mae West"
+  ""You don't earn loyalty in a day. You earn loyalty day-by-day." — Jeffrey Gitomer"
 </em></p>
 
 ---
