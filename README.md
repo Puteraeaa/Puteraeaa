@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Either write something worth reading or do something worth writing." — Benjamin Franklin"
+  ""You are what you believe yourself to be." — Paulo Coelho"
 </em></p>
 
 ---
