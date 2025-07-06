@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man should do his job so well that the living, the dead, and the unborn could do it no better." — Martin Luther King, Jr."
+  ""Meditate. It won't be fun but it will surface what you need to deal with." — Naval Ravikant"
 </em></p>
 
 ---
