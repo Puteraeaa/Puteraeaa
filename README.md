@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Either get busy living or get busy dying." — Stephen King"
+  ""Fear, uncertainty, and discomfort are your compasses toward growth." — Celestine Chua"
 </em></p>
 
 ---
