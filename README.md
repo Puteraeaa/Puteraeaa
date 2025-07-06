@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." — Celestine Chua"
+  ""It is easy to discover what another has discovered before." — Christopher Columbus"
 </em></p>
 
 ---
