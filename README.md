@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are what you believe yourself to be." — Paulo Coelho"
+  ""The score never interested me, only the game." — Mae West"
 </em></p>
 
 ---
