@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never feel shame for trying and failing, for he who has never failed is he who has never tried." — Og Mandino"
+  ""If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present." — Roy T. Bennett"
 </em></p>
 
 ---
