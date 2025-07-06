@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where you are right now doesn't have to determine where you'll end up." — Barack Obama"
+  ""To be able to forget means sanity." — Jack London"
 </em></p>
 
 ---
