@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rivers know this: there is no hurry. We shall get there some day." — A.A. Milne"
+  ""We must learn to live together as brothers or perish together as fools." — Martin Luther King, Jr."
 </em></p>
 
 ---
