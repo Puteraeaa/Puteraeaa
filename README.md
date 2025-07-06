@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." — Zig Ziglar"
+  ""Whenever you find yourself on the side of the majority, it is time to reform." — Mark Twain"
 </em></p>
 
 ---
