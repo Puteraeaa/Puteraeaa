@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." — Criss Jami"
+  ""Life is like a wheel. Sooner or later, it always comes around to where you started again." — Stephen King"
 </em></p>
 
 ---
