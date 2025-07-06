@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tomorrow is only found in the calendar of fools." — Og Mandino"
+  ""There is no such thing as a great talent without great willpower." — Honore de Balzac"
 </em></p>
 
 ---
