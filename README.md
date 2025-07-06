@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." — Sathya Sai Baba"
+  ""Fear is your worst enemy. Risk is your best friend." — Gurbaksh Chahal"
 </em></p>
 
 ---
