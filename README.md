@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present." — Roy T. Bennett"
+  ""Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love." — Morihei Ueshiba"
 </em></p>
 
 ---
