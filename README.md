@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself." — Robert Kiyosaki"
+  ""A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." — Winston Churchill"
 </em></p>
 
 ---
