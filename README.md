@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where does a thought go when it's forgotten?" — Sigmund Freud"
+  ""To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." — Criss Jami"
 </em></p>
 
 ---
