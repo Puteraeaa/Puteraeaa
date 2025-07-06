@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like a wheel. Sooner or later, it always comes around to where you started again." — Stephen King"
+  ""People rarely succeed unless they have fun in what they are doing." — Dale Carnegie"
 </em></p>
 
 ---
