@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear is your worst enemy. Risk is your best friend." — Gurbaksh Chahal"
+  ""Avoiding danger is no safer in the long run than exposure." — Helen Keller"
 </em></p>
 
 ---
