@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do what you can, with what you have, where you are." — Theodore Roosevelt"
+  ""Tomorrow is only found in the calendar of fools." — Og Mandino"
 </em></p>
 
 ---
