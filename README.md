@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our life isn't how much we can take out, but how much we can put in.  " — Estee Lauder"
+  ""Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." — Sathya Sai Baba"
 </em></p>
 
 ---
