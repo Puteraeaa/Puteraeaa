@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear, uncertainty, and discomfort are your compasses toward growth." — Celestine Chua"
+  ""A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." — Winston Churchill"
 </em></p>
 
 ---
