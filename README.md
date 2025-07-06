@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no such thing as a great talent without great willpower." — Honore de Balzac"
+  ""The trouble with most of us is that we'd rather be ruined by praise than saved by criticism." — Norman Vincent Peale"
 </em></p>
 
 ---
