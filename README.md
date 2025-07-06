@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wisdom is doing now what you are going to be happy with later on." — Joyce Meyer"
+  ""Never feel shame for trying and failing, for he who has never failed is he who has never tried." — Og Mandino"
 </em></p>
 
 ---
