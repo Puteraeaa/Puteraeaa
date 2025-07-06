@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whenever you find yourself on the side of the majority, it is time to reform." — Mark Twain"
+  ""Either write something worth reading or do something worth writing." — Benjamin Franklin"
 </em></p>
 
 ---
