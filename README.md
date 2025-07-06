@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Meditate. It won't be fun but it will surface what you need to deal with." — Naval Ravikant"
+  ""FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." — Zig Ziglar"
 </em></p>
 
 ---
