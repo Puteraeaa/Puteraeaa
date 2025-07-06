@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is easy to discover what another has discovered before." — Christopher Columbus"
+  ""Wisdom is doing now what you are going to be happy with later on." — Joyce Meyer"
 </em></p>
 
 ---
