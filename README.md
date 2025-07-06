@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is not a goal...it's a by-product of a life well lived." — Eleanor Roosevelt"
+  ""Where does a thought go when it's forgotten?" — Sigmund Freud"
 </em></p>
 
 ---
