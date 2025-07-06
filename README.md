@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't earn loyalty in a day. You earn loyalty day-by-day." — Jeffrey Gitomer"
+  ""Our life isn't how much we can take out, but how much we can put in.  " — Estee Lauder"
 </em></p>
 
 ---
