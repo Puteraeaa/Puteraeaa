@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be able to forget means sanity." — Jack London"
+  ""Either get busy living or get busy dying." — Stephen King"
 </em></p>
 
 ---
