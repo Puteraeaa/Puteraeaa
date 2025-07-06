@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must learn to live together as brothers or perish together as fools." — Martin Luther King, Jr."
+  ""Where you are right now doesn't have to determine where you'll end up." — Barack Obama"
 </em></p>
 
 ---
