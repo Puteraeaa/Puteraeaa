@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." — Benjamin Franklin"
+  ""Play your part in life, but never forget that it is only a role." — Paramahansa Yogananda"
 </em></p>
 
 ---
