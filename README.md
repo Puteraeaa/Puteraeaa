@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As you love yourself, life loves you back." — Kamal Ravikant"
+  ""Happiness is not a goal...it's a by-product of a life well lived." — Eleanor Roosevelt"
 </em></p>
 
 ---
