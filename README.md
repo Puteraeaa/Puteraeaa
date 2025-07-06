@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The trouble with most of us is that we'd rather be ruined by praise than saved by criticism." — Norman Vincent Peale"
+  ""Genius is the ability to act rightly without precedent - the power to do the right thing the first time." — Elbert Hubbard"
 </em></p>
 
 ---
