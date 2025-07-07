@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is getting what you want. Happiness is wanting what you get." — Andrew Carnegie"
+  ""Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is." — Nicolas Chamfort"
 </em></p>
 
 ---
