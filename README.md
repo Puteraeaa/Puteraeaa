@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A hut full of laughter is richer than a palace full of sadness." — Zen Proverb"
+  ""Be where your enemy is not." — Sun Tzu"
 </em></p>
 
 ---
