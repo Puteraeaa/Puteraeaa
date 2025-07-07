@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Become the kind of leader that people would follow voluntarily, even if you had no title or position." — Brian Tracy"
+  ""Be fascinated instead of frustrated." — Jim Rohn"
 </em></p>
 
 ---
