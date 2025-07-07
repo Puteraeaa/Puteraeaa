@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What would life be if we had no courage to attempt anything? " — Vincent van Gogh"
+  ""Most of us will do anything to avoid facing ourselves." — Lolly Daskal"
 </em></p>
 
 ---
