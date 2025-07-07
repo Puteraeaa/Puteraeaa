@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness." — Eckhart Tolle"
+  ""Rivers know this: there is no hurry. We shall get there some day." — A.A. Milne"
 </em></p>
 
 ---
