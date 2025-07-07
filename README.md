@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness can be found, even in the darkest of times, if one only remembers to turn on the light." — Albus Dumbledore"
+  ""You don't need to be better than anyone else, you just need to be better than you used to be." — Wayne Dyer"
 </em></p>
 
 ---
