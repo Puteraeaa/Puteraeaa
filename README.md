@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not the knowing that is difficult, but the doing. " — Chinese Proverb"
+  ""Success is getting what you want. Happiness is wanting what you get." — Andrew Carnegie"
 </em></p>
 
 ---
