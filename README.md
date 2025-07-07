@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing external to you has any power over you." — Ralph Waldo Emerson"
+  ""As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt." — Jack London"
 </em></p>
 
 ---
