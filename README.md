@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When we allow negative messages to fester in our head, they take on a life of their own." — Lolly Daskal"
+  ""The two most important days in your life are the day you are born and the day you find out why." — Mark Twain"
 </em></p>
 
 ---
