@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Lying can never save us from another lie." — Vaclav Havel"
+  ""Think and wonder, wonder and think." — Dr. Seuss"
 </em></p>
 
 ---
