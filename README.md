@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is." — Nicolas Chamfort"
+  ""Act the way you want to be and soon you'll be the way you act." — Les Brown"
 </em></p>
 
 ---
