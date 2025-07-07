@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rivers know this: there is no hurry. We shall get there some day." — A.A. Milne"
+  ""Humans and prosperity never endure side by side for long." — Herodotus"
 </em></p>
 
 ---
