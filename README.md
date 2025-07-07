@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Act the way you want to be and soon you'll be the way you act." — Les Brown"
+  ""To do two things at once is to do neither." — Publilius Syrus"
 </em></p>
 
 ---
