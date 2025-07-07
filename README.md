@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Small men think they are small; great men never know they are great. " — Chinese Proverb"
+  ""I hear and I forget. I see and I remember. I do and I understand. " — Confucius"
 </em></p>
 
 ---
