@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Creative people are often found either disagreeable or intimidating by mediocrities." — Criss Jami"
+  ""It is not the knowing that is difficult, but the doing. " — Chinese Proverb"
 </em></p>
 
 ---
