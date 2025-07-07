@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We build too many walls and not enough bridges." — Isaac Newton"
+  ""Small men think they are small; great men never know they are great. " — Chinese Proverb"
 </em></p>
 
 ---
