@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't need to be better than anyone else, you just need to be better than you used to be." — Wayne Dyer"
+  ""Never regret your past. Rather, embrace it as the teacher that it is." — Robin Sharma"
 </em></p>
 
 ---
