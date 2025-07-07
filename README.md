@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be where your enemy is not." — Sun Tzu"
+  ""The biggest adventure you can ever take is to live the life of your dreams. " — Oprah Winfrey"
 </em></p>
 
 ---
