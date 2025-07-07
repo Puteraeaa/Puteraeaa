@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I do not exist to impress the world. I exist to live my life in a way that will make me happy." — Richard Bach"
+  ""Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness." — Eckhart Tolle"
 </em></p>
 
 ---
