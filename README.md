@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are always complaining that our days are few, and acting as though there would be no end of them.  " — Seneca"
+  ""Everything is in your own heart." — Thich Nhat Hanh"
 </em></p>
 
 ---
