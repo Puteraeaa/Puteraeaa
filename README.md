@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream." — Unknown"
+  ""He who laughs at himself never runs out of things to laugh at." — Epictetus"
 </em></p>
 
 ---
