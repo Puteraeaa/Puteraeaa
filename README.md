@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else." — Les Brown"
+  ""Nothing external to you has any power over you." — Ralph Waldo Emerson"
 </em></p>
 
 ---
