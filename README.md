@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Experience is simply the name we give our mistakes. " — Oscar Wilde"
+  ""Nature is pleased with simplicity. And nature is no dummy." — Isaac Newton"
 </em></p>
 
 ---
