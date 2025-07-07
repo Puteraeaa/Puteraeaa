@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Think and wonder, wonder and think." — Dr. Seuss"
+  ""Happiness can be found, even in the darkest of times, if one only remembers to turn on the light." — Albus Dumbledore"
 </em></p>
 
 ---
