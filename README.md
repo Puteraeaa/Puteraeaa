@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most of us will do anything to avoid facing ourselves." — Lolly Daskal"
+  ""A hut full of laughter is richer than a palace full of sadness." — Zen Proverb"
 </em></p>
 
 ---
