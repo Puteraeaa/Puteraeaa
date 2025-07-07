@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To do two things at once is to do neither." — Publilius Syrus"
+  ""What would life be if we had no courage to attempt anything? " — Vincent van Gogh"
 </em></p>
 
 ---
