@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who laughs at himself never runs out of things to laugh at." — Epictetus"
+  ""You have the ability, now apply yourself." — Benjamin Mays"
 </em></p>
 
 ---
