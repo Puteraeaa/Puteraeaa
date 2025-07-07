@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I hear and I forget. I see and I remember. I do and I understand. " — Confucius"
+  ""Heart is what separates the good from the great." — Michael Jordan"
 </em></p>
 
 ---
