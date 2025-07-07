@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Humans and prosperity never endure side by side for long." — Herodotus"
+  ""Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else." — Les Brown"
 </em></p>
 
 ---
