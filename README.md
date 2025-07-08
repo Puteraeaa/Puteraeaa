@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want peace, you won't get it with violence." — John Lennon"
+  ""It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future." — Nicolas Chamfort"
 </em></p>
 
 ---
