@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't look for meaning in the words. Listen to the silences." — Samuel Beckett"
+  ""Honesty is the first chapter in the book of wisdom." — Thomas Jefferson"
 </em></p>
 
 ---
