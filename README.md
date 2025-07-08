@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The sun is new each day." — Heraclitus"
+  ""Nothing is easier than fault finding." — Og Mandino"
 </em></p>
 
 ---
