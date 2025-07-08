@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Associate with people who are likely to improve you.  " — Seneca"
+  ""If you truly love Nature, you will find beauty everywhere. " — Vincent van Gogh"
 </em></p>
 
 ---
