@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wise learn many things from their enemies." — Aristophanes"
+  ""Associate with people who are likely to improve you.  " — Seneca"
 </em></p>
 
 ---
