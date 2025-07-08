@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The pen is the tongue of the mind. " — Miguel de Cervantes"
+  ""A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy"
 </em></p>
 
 ---
