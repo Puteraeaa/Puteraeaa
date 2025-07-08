@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love your enemies, for they tell you your faults." — Benjamin Franklin"
+  ""It's OK to have your eggs in one basket as long as you control what happens to that basket." — Elon Musk"
 </em></p>
 
 ---
