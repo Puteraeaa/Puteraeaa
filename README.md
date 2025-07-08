@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Play your part in life, but never forget that it is only a role." — Paramahansa Yogananda"
+  ""Everything is in your own heart." — Thich Nhat Hanh"
 </em></p>
 
 ---
