@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you truly love Nature, you will find beauty everywhere. " — Vincent van Gogh"
+  ""Obstacles are those frightful things you see when you take your eyes off your goal." — Henry Ford"
 </em></p>
 
 ---
