@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Forgive yourself for your faults and your mistakes and move on." — Les Brown"
+  ""There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen." — Wayne Dyer"
 </em></p>
 
 ---
