@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's OK to have your eggs in one basket as long as you control what happens to that basket." — Elon Musk"
+  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
 </em></p>
 
 ---
