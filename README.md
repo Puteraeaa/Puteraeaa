@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wherever you are, it's the place you need to be." — Maxime Lagace"
+  ""Everything has beauty but not everyone sees it." — Confucius"
 </em></p>
 
 ---
