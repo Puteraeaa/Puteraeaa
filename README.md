@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. " — Charles Swindoll"
+  ""Play your part in life, but never forget that it is only a role." — Paramahansa Yogananda"
 </em></p>
 
 ---
