@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
+  ""Do not believe that you will reach your destination without leaving the shore. " — Chinese Proverb"
 </em></p>
 
 ---
