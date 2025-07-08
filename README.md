@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen." — Wayne Dyer"
+  ""Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  " — Wayne Dyer"
 </em></p>
 
 ---
