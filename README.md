@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett"
+  ""Forgive yourself for your faults and your mistakes and move on." — Les Brown"
 </em></p>
 
 ---
