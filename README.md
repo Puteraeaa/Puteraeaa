@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
+  ""Sometimes a change of perspective is all it takes to see the light." — Dan Brown"
 </em></p>
 
 ---
