@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are never too old to set another goal or to dream a new dream." — Les Brown"
+  ""He will win who knows when to fight and when not to fight." — Sun Tzu"
 </em></p>
 
 ---
