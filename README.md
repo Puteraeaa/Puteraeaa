@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not believe that you will reach your destination without leaving the shore. " — Chinese Proverb"
+  ""The sun is new each day." — Heraclitus"
 </em></p>
 
 ---
