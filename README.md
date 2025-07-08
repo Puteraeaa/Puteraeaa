@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may think I'm small, but I have a universe inside my mind." — Yoko Ono"
+  ""Don't look for meaning in the words. Listen to the silences." — Samuel Beckett"
 </em></p>
 
 ---
