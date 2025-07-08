@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A thing must be loved before it is lovable." — Gilbert Chesterton"
+  ""Challenge yourself to find the good and beautiful thing inside of everyone." — Mark Manson"
 </em></p>
 
 ---
