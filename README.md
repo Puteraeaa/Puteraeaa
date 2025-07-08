@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He will win who knows when to fight and when not to fight." — Sun Tzu"
+  ""If you want to be successful, you have to jump, there's no way around it." — Steve Harvey"
 </em></p>
 
 ---
