@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future." — Nicolas Chamfort"
+  ""Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand." — Colin Powell"
 </em></p>
 
 ---
