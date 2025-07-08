@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to fail in originality than to succeed in imitation." — Herman Melville"
+  ""You are never too old to set another goal or to dream a new dream." — Les Brown"
 </em></p>
 
 ---
