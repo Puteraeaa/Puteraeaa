@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Obstacles are those frightful things you see when you take your eyes off your goal." — Henry Ford"
+  ""A thing must be loved before it is lovable." — Gilbert Chesterton"
 </em></p>
 
 ---
