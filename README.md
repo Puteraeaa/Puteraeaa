@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — Unknown"
+  ""Choose to be optimistic, it feels better." — Dalai Lama"
 </em></p>
 
 ---
