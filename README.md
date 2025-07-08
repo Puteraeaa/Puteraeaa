@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  " — Wayne Dyer"
+  ""Wherever you are, it's the place you need to be." — Maxime Lagace"
 </em></p>
 
 ---
