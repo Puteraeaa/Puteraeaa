@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to be successful, you have to jump, there's no way around it." — Steve Harvey"
+  ""You may think I'm small, but I have a universe inside my mind." — Yoko Ono"
 </em></p>
 
 ---
