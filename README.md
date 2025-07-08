@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The real measure of your wealth is how much you'd be worth if you lost all your money." — Unknown"
+  ""Goodness is the only investment that never fails." — Henry David Thoreau"
 </em></p>
 
 ---
