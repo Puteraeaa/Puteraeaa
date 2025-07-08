@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Start each day with a positive thought and a grateful heart." — Roy T. Bennett"
+  ""The real measure of your wealth is how much you'd be worth if you lost all your money." — Unknown"
 </em></p>
 
 ---
