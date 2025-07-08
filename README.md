@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truly rich men are the ones who have health, loved ones and a work they love." — Maxime Lagace"
+  ""When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. " — Charles Swindoll"
 </em></p>
 
 ---
