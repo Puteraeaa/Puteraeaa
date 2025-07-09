@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Normal is the average of deviance." — Rita Mae Brown"
+  ""Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." — Carl Jung"
 </em></p>
 
 ---
