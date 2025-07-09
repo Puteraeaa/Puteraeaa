@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Good judgment comes from experience, and experience comes from bad judgment." — Rita Mae Brown"
+  ""Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." — Henry David Thoreau"
 </em></p>
 
 ---
