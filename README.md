@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be of use to the world is the only way to be happy." — Hans Christian Andersen"
+  ""What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!" — Charles Darwin"
 </em></p>
 
 ---
