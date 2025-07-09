@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want something you've never had you must be willing to do something you've never done." — Thomas Jefferson"
+  ""Success is good at any age, but the sooner you find it, the longer you will enjoy it." — Napoleon Hill"
 </em></p>
 
 ---
