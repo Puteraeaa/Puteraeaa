@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive." — Anne Wilson Schaef"
+  ""Don't let someone elses. opinion become your reality." — Les Brown"
 </em></p>
 
 ---
