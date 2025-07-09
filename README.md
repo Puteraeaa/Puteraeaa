@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always try to be a little kinder than necessary." — James Matthew Barrie"
+  ""Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  " — Jack Kerouac"
 </em></p>
 
 ---
