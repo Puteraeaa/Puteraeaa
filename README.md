@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius"
+  ""We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — Bhagavad Gita"
 </em></p>
 
 ---
