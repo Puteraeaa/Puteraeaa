@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown"
+  ""What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson"
 </em></p>
 
 ---
