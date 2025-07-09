@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Selfishness and greed, individual or national, cause most of our troubles." — Harry S. Truman"
+  ""First say to yourself what you would be; and then do what you have to do." — Epictetus"
 </em></p>
 
 ---
