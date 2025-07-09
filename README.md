@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only limits in your life are those that you set yourself." — Celestine Chua"
+  ""Good judgment comes from experience, and experience comes from bad judgment." — Rita Mae Brown"
 </em></p>
 
 ---
