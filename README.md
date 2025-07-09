@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are the only real obstacle in your path to a fulfilling life." — Les Brown"
+  ""Normal is the average of deviance." — Rita Mae Brown"
 </em></p>
 
 ---
