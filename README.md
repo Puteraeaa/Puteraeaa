@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett"
+  ""If you want others to be happy, practice compassion. If you want to be happy, practice compassion." — Dalai Lama"
 </em></p>
 
 ---
