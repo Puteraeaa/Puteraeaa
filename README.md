@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""First say to yourself what you would be; and then do what you have to do." — Epictetus"
+  ""Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better." — Benjamin Mays"
 </em></p>
 
 ---
