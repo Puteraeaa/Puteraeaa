@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is good at any age, but the sooner you find it, the longer you will enjoy it." — Napoleon Hill"
+  ""A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett"
 </em></p>
 
 ---
