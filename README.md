@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A scientific man ought to have no wishes, no affections, - a mere heart of stone." — Charles Darwin"
+  ""In the practice of tolerance, one's enemy is the best teacher." — Dalai Lama"
 </em></p>
 
 ---
