@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every man desires to live long, but no man wishes to be old." — Jonathan Swift"
+  ""Trying to define yourself is like trying to bite your own teeth." — Zen Proverb"
 </em></p>
 
 ---
