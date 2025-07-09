@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trying to define yourself is like trying to bite your own teeth." — Zen Proverb"
+  ""If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." — T.S. Eliot"
 </em></p>
 
 ---
