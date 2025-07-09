@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett"
+  ""A scientific man ought to have no wishes, no affections, - a mere heart of stone." — Charles Darwin"
 </em></p>
 
 ---
