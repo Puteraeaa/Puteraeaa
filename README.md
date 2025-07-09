@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." — Henry David Thoreau"
+  ""Selfishness and greed, individual or national, cause most of our troubles." — Harry S. Truman"
 </em></p>
 
 ---
