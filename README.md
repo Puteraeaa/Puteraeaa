@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your spirit is the true shield." — Morihei Ueshiba"
+  ""Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive." — Anne Wilson Schaef"
 </em></p>
 
 ---
