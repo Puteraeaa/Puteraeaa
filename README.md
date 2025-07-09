@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make your mind your own business." — Jack Butcher"
+  ""Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford"
 </em></p>
 
 ---
