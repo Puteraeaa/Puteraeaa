@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We forge the chains we wear in life." — Charles Dickens"
+  ""If you want something you've never had you must be willing to do something you've never done." — Thomas Jefferson"
 </em></p>
 
 ---
