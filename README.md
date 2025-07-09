@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy"
+  ""In the practice of tolerance, one's enemy is the best teacher." — Dalai Lama"
 </em></p>
 
 ---
