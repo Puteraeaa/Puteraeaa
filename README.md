@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." — Carl Jung"
+  ""It's not how much we give but how much love we put into giving." — Mother Teresa"
 </em></p>
 
 ---
