@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the practice of tolerance, one's enemy is the best teacher." — Dalai Lama"
+  ""Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius"
 </em></p>
 
 ---
