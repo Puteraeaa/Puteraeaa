@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you extend kindness to yourself, the more it will become your automatic response to others." — Wayne Dyer"
+  ""Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt." — Honore de Balzac"
 </em></p>
 
 ---
