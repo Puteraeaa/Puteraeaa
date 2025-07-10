@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated." — Celestine Chua"
+  ""Only when you can be extremely pliable and soft can you be extremely hard and strong." — Zen Proverb"
 </em></p>
 
 ---
