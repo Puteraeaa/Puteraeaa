@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only lost cause is one we give up on before we enter the struggle." — Vaclav Havel"
+  ""Never settle for the crumbs of life." — Og Mandino"
 </em></p>
 
 ---
