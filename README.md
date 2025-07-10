@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only when you can be extremely pliable and soft can you be extremely hard and strong." — Zen Proverb"
+  ""Whatever your heart clings to and confides in, that is really your God." — Martin Luther"
 </em></p>
 
 ---
