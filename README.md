@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The two most powerful warriors are patience and time." — Leo Tolstoy"
+  ""We create the world and ourselves;" — Ming-Dao Deng"
 </em></p>
 
 ---
