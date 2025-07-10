@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ladder of success is best climbed by stepping on the rungs of opportunity." — Ayn Rand"
+  ""Find the game where you can win, and then commit your life to playing it; and play to win." — Robert Kiyosaki"
 </em></p>
 
 ---
