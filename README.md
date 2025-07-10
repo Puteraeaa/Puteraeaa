@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I learned the value of hard work by working hard. " — Margaret Mead"
+  ""Do not ignore the passion that burns in you. Spend time to discover your gift." — Steve Harvey"
 </em></p>
 
 ---
