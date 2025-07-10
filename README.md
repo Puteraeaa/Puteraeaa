@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wheresoever you go, go with all your heart." — Confucius"
+  ""If you can't imagine it, you can't have it." — Toni Morrison"
 </em></p>
 
 ---
