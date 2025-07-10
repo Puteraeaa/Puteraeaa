@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Man is made by his belief. As he believes, so he is." — Bhagavad Gita"
+  ""Do not stop thinking of life as an adventure." — Eleanor Roosevelt"
 </em></p>
 
 ---
