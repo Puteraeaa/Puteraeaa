@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like underwear, should be changed twice a day.  " — Ray Bradbury"
+  ""The two most powerful warriors are patience and time." — Leo Tolstoy"
 </em></p>
 
 ---
