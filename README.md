@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac"
+  ""Wheresoever you go, go with all your heart." — Confucius"
 </em></p>
 
 ---
