@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Once a decision was made, I didn't worry about it afterward." — Harry S. Truman"
+  ""The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac"
 </em></p>
 
 ---
