@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt." — Honore de Balzac"
+  ""The only lost cause is one we give up on before we enter the struggle." — Vaclav Havel"
 </em></p>
 
 ---
