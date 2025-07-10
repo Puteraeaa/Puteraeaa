@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What's right is what's left if you do everything else wrong." — Robin Williams"
+  ""Whenever you find yourself on the side of the majority, it is time to reform." — Mark Twain"
 </em></p>
 
 ---
