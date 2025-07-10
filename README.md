@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." — Charles Dickens"
+  ""Man is made by his belief. As he believes, so he is." — Bhagavad Gita"
 </em></p>
 
 ---
