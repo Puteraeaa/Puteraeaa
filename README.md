@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Youth has no age." — Pablo Picasso"
+  ""You can't tell big dreams to small minded people." — Steve Harvey"
 </em></p>
 
 ---
