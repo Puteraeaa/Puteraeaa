@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not ignore the passion that burns in you. Spend time to discover your gift." — Steve Harvey"
+  ""The more you extend kindness to yourself, the more it will become your automatic response to others." — Wayne Dyer"
 </em></p>
 
 ---
