@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon"
+  ""The energy of the mind is the essence of life." — Aristotle"
 </em></p>
 
 ---
