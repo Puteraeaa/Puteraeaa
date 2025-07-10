@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd." — Chinese Proverb"
+  ""I skate to where the puck is going to be, not where it has been." — Wayne Gretzky"
 </em></p>
 
 ---
