@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never settle for the crumbs of life." — Og Mandino"
+  ""This is such a short and precious life that it's really important that you don't spend it being unhappy." — Naval Ravikant"
 </em></p>
 
 ---
