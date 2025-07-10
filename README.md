@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A journey of a thousand miles begins with a single step." — Lao Tzu"
+  ""Words have no power to impress the mind without the exquisite horror of their reality." — Edgar Allan Poe"
 </em></p>
 
 ---
