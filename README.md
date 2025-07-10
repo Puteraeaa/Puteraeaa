@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""This is such a short and precious life that it's really important that you don't spend it being unhappy." — Naval Ravikant"
+  ""No man will make a great leader who wants to do it all himself or to get all the credit for doing it." — Andrew Carnegie"
 </em></p>
 
 ---
