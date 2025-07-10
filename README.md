@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We create the world and ourselves;" — Ming-Dao Deng"
+  ""Life is about choice. You can choose to be a victim or anything else you like to be." — Celestine Chua"
 </em></p>
 
 ---
