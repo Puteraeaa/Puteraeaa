@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Find the game where you can win, and then commit your life to playing it; and play to win." — Robert Kiyosaki"
+  ""Youth has no age." — Pablo Picasso"
 </em></p>
 
 ---
