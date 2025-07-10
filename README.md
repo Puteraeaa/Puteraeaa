@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man will make a great leader who wants to do it all himself or to get all the credit for doing it." — Andrew Carnegie"
+  ""Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." — Charles Dickens"
 </em></p>
 
 ---
