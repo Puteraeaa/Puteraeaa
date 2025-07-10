@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is about choice. You can choose to be a victim or anything else you like to be." — Celestine Chua"
+  ""A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd." — Chinese Proverb"
 </em></p>
 
 ---
