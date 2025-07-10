@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not all readers are leaders, but all leaders are readers." — Harry S. Truman"
+  ""I learned the value of hard work by working hard. " — Margaret Mead"
 </em></p>
 
 ---
