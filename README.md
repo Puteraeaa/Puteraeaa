@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perfection is not attainable, but if we chase perfection we can catch excellence." — Vince Lombardi"
+  ""Not all readers are leaders, but all leaders are readers." — Harry S. Truman"
 </em></p>
 
 ---
