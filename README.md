@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on." — Steve Maraboli"
+  ""Once a decision was made, I didn't worry about it afterward." — Harry S. Truman"
 </em></p>
 
 ---
