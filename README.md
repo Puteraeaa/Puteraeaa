@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't tell big dreams to small minded people." — Steve Harvey"
+  ""It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on." — Steve Maraboli"
 </em></p>
 
 ---
