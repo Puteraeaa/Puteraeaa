@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We need a backbone, not a wishbone." — Joyce Meyer"
+  ""Help others achieve their dreams and you will achieve yours." — Les Brown"
 </em></p>
 
 ---
