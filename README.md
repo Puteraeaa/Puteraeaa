@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the first signs of the beginning of understanding is the wish to die. " — Franz Kafka"
+  ""To bear trials with a calm mind robs misfortune of its strength and burden." — Seneca"
 </em></p>
 
 ---
