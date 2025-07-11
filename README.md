@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new." — Og Mandino"
+  ""Before anything else, preparation is the key to success." — Alexander Graham Bell"
 </em></p>
 
 ---
