@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is nothing like looking if you want to find something." — J.R.R. Tolkien"
+  ""Freedom from desire leads to inner peace." — Lao Tzu"
 </em></p>
 
 ---
