@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Better a diamond with a flaw than a pebble without one." — Chinese Proverb"
+  ""Anything you may hold firmly in your imagination can be yours." — William James"
 </em></p>
 
 ---
