@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot find peace avoiding life." — Virginia Woolf"
+  ""All cruelty springs from weakness.  " — Seneca"
 </em></p>
 
 ---
