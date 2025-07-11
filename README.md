@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make failure your teacher, not your undertaker.  " — Zig Ziglar"
+  ""You can calculate the worth of a man by the number of his enemies." — Gustave Flaubert"
 </em></p>
 
 ---
