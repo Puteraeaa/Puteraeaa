@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One day, in retrospect, the years of struggle will strike you as the most beautiful." — Sigmund Freud"
+  ""A strong man overcomes an obstacle, a wise man goes the whole way." — Zen Proverb"
 </em></p>
 
 ---
