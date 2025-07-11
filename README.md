@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who are enlightened never stop forging themselves." — Morihei Ueshiba"
+  ""A path is made by walking on it." — Zhuangzi"
 </em></p>
 
 ---
