@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I skate to where the puck is going to be, not where it has been." — Wayne Gretzky"
+  ""I'm not afraid of death, but I'm in no hurry to die." — Stephen Hawking"
 </em></p>
 
 ---
