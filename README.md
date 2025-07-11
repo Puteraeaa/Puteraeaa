@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I'm not afraid of death, but I'm in no hurry to die." — Stephen Hawking"
+  ""Make failure your teacher, not your undertaker.  " — Zig Ziglar"
 </em></p>
 
 ---
