@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Respect was invented to cover the empty place where love should be." — Leo Tolstoy"
+  ""Anyone telling you it's pointless to share your perspective is sharing their perspective." — Jack Butcher"
 </em></p>
 
 ---
