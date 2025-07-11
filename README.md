@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A strong man overcomes an obstacle, a wise man goes the whole way." — Zen Proverb"
+  ""Better a diamond with a flaw than a pebble without one." — Chinese Proverb"
 </em></p>
 
 ---
