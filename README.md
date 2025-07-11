@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never argue with ignorance. It only leads to frustration." — Unknown"
+  ""One day, in retrospect, the years of struggle will strike you as the most beautiful." — Sigmund Freud"
 </em></p>
 
 ---
