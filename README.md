@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Help others achieve their dreams and you will achieve yours." — Les Brown"
+  ""Those who are enlightened never stop forging themselves." — Morihei Ueshiba"
 </em></p>
 
 ---
