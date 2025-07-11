@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom from desire leads to inner peace." — Lao Tzu"
+  ""Creativity is the greatest rebellion in existence." — Osho"
 </em></p>
 
 ---
