@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All cruelty springs from weakness.  " — Seneca"
+  ""In the midst of chaos, there is also opportunity." — Sun Tzu"
 </em></p>
 
 ---
