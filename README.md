@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Motivation gets you going and habit gets you there.  " — Zig Ziglar"
+  ""It is amazing what you can accomplish if you do not care who gets the credit." — Harry S. Truman"
 </em></p>
 
 ---
