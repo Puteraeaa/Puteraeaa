@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is amazing what you can accomplish if you do not care who gets the credit." — Harry S. Truman"
+  ""Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new." — Og Mandino"
 </em></p>
 
 ---
