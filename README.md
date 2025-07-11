@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before anything else, preparation is the key to success." — Alexander Graham Bell"
+  ""Never argue with ignorance. It only leads to frustration." — Unknown"
 </em></p>
 
 ---
