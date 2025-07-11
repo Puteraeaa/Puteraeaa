@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot teach a crab to walk straight." — Aristophanes"
+  ""The only place success comes before work is in the dictionary." — Vince Lombardi"
 </em></p>
 
 ---
