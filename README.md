@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunity is missed by most people because it is dressed in overalls and looks like work." — Thomas Edison"
+  ""By perseverance the snail reached the ark." — Charles Spurgeon"
 </em></p>
 
 ---
