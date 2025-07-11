@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Turn your face to the sun, as flowers know how to do." — Ming-Dao Deng"
+  ""There is nothing like looking if you want to find something." — J.R.R. Tolkien"
 </em></p>
 
 ---
