@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A path is made by walking on it." — Zhuangzi"
+  ""Respect was invented to cover the empty place where love should be." — Leo Tolstoy"
 </em></p>
 
 ---
