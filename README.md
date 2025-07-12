@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Imagination is more important than knowledge." — Albert Einstein"
+  ""A scientific man ought to have no wishes, no affections, - a mere heart of stone." — Charles Darwin"
 </em></p>
 
 ---
