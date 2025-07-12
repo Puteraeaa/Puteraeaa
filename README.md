@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream." — Unknown"
+  ""A lie can travel half way around the world while the truth is putting on its shoes." — Mark Twain"
 </em></p>
 
 ---
