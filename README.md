@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A lie can travel half way around the world while the truth is putting on its shoes." — Mark Twain"
+  ""A man who dares to waste one hour of time has not discovered the value of life." — Charles Darwin"
 </em></p>
 
 ---
