@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The soul should always stand ajar, ready to welcome the ecstatic experience." — Emily Dickinson"
+  ""You must find the place inside yourself where nothing is impossible." — Les Brown"
 </em></p>
 
 ---
