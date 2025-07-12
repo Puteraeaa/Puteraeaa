@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""From morning till night, we should never rely on a single thing." — Huang Po"
+  ""Talk sense to a fool and he calls you foolish." — Euripides"
 </em></p>
 
 ---
