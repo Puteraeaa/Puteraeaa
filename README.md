@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." — Ralph Waldo Emerson"
+  ""He who is untrue to his own cause cannot command the respect of others." — Albert Einstein"
 </em></p>
 
 ---
