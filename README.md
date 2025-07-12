@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on." — Criss Jami"
+  ""Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new." — Og Mandino"
 </em></p>
 
 ---
