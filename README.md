@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you've got nothing, you've got nothing to lose." — Bob Dylan"
+  ""Longevity is a fleeting moment that lasts forever." — Vidal Sassoon"
 </em></p>
 
 ---
