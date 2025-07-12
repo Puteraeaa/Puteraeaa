@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest miracle is to be alive." — Thich Nhat Hanh"
+  ""Man invented language to satisfy his deep need to complain." — Lily Tomlin"
 </em></p>
 
 ---
