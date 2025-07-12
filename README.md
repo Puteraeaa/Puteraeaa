@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not what you've got; it's what you do that makes the difference." — Celestine Chua"
+  ""The person who is his own master cannot tolerate another boss. " — Chinese Proverb"
 </em></p>
 
 ---
