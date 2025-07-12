@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A scientific man ought to have no wishes, no affections, - a mere heart of stone." — Charles Darwin"
+  ""The soul should always stand ajar, ready to welcome the ecstatic experience." — Emily Dickinson"
 </em></p>
 
 ---
