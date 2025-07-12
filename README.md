@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's better to stand by someone's side than by yourself." — Jack London"
+  ""The four P's to success are pressure, persistence, perseverance, and prayer." — Steve Harvey"
 </em></p>
 
 ---
