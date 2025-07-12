@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts"
+  ""Life is from the inside out. When you shift on the inside, life shifts on the outside." — Kamal Ravikant"
 </em></p>
 
 ---
