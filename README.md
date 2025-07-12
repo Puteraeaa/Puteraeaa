@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being wrong opens us up to the possibility of change." — Mark Manson"
+  ""Your greatest asset is your earning ability. Your greatest resource is your time." — Brian Tracy"
 </em></p>
 
 ---
