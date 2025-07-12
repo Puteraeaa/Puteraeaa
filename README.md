@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't program yourself, life will program you." — Les Brown"
+  ""Being wrong opens us up to the possibility of change." — Mark Manson"
 </em></p>
 
 ---
