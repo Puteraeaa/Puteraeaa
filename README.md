@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new." — Og Mandino"
+  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
 </em></p>
 
 ---
