@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
+  ""The greatest miracle is to be alive." — Thich Nhat Hanh"
 </em></p>
 
 ---
