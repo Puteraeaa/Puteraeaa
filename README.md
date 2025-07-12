@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Talk sense to a fool and he calls you foolish." — Euripides"
+  ""When you've got nothing, you've got nothing to lose." — Bob Dylan"
 </em></p>
 
 ---
