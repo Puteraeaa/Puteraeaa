@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In all chaos there is a cosmos, in all disorder a secret order." — Carl Jung"
+  ""From morning till night, we should never rely on a single thing." — Huang Po"
 </em></p>
 
 ---
