@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who is his own master cannot tolerate another boss. " — Chinese Proverb"
+  ""Genius is the ability to act rightly without precedent - the power to do the right thing the first time." — Elbert Hubbard"
 </em></p>
 
 ---
