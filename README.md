@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Longevity is a fleeting moment that lasts forever." — Vidal Sassoon"
+  ""Life is growth. If we stop growing, technically and spiritually, we are as good as dead." — Morihei Ueshiba"
 </em></p>
 
 ---
