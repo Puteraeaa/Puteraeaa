@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wisest men follow their own direction." — Euripides"
+  ""If they wrote it to make money, don't read it." — Naval Ravikant"
 </em></p>
 
 ---
