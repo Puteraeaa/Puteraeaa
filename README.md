@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True knowledge exists in knowing that you know nothing." — Socrates"
+  ""A journey of a thousand miles must begin with a single step." — Lao Tzu"
 </em></p>
 
 ---
