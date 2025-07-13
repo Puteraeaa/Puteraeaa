@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As a matter of fact is an expression that precedes many an expression that isn't." — Laurence J. Peter"
+  ""If a thing is worth doing, it is worth doing badly." — Gilbert Chesterton"
 </em></p>
 
 ---
