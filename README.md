@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Coming together is a beginning, staying together is progress, and working together is success. " — Henry Ford"
+  ""Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound." — James Allen"
 </em></p>
 
 ---
