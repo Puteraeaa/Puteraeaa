@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who can, does." — George Bernard Shaw"
+  ""Always seek out the seed of triumph in every adversity." — Og Mandino"
 </em></p>
 
 ---
