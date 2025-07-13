@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wheels of justice grind slow but grind fine." — Sun Tzu"
+  ""To escape from the world means that one's mind is not concerned with the opinions of the world." — Dogen"
 </em></p>
 
 ---
