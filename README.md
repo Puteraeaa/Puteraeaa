@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Observe things as they are and don't pay attention to other people." — Huang Po"
+  ""It is better to change an opinion than to persist in a wrong one." — Socrates"
 </em></p>
 
 ---
