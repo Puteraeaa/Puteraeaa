@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most courageous act is still to think for yourself. Aloud." — Coco Chanel"
+  ""True knowledge exists in knowing that you know nothing." — Socrates"
 </em></p>
 
 ---
