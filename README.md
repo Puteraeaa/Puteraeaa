@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to change an opinion than to persist in a wrong one." — Socrates"
+  ""If you always do what you've always done, you'll always get what you've always got. " — Henry Ford"
 </em></p>
 
 ---
