@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If a thing is worth doing, it is worth doing badly." — Gilbert Chesterton"
+  ""In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing." — Theodore Roosevelt"
 </em></p>
 
 ---
