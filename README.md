@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The giving of love is an education in itself." — Eleanor Roosevelt"
+  ""He who can, does." — George Bernard Shaw"
 </em></p>
 
 ---
