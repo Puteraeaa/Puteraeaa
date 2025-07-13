@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only thing new in the world is the history you do not know." — Harry S. Truman"
+  ""To seek greatness is the only righteous vengeance." — Criss Jami"
 </em></p>
 
 ---
