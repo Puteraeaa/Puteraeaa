@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is stumbling from failure to failure with no loss of enthusiasm." — Winston Churchill"
+  ""As a matter of fact is an expression that precedes many an expression that isn't." — Laurence J. Peter"
 </em></p>
 
 ---
