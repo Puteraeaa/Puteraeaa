@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" — Seneca"
+  ""Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " — Steve Jobs"
 </em></p>
 
 ---
