@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The key to success is to focus our conscious mind on things we desire not things we fear. " — Brian Tracy"
+  ""If you spend too much time thinking about a thing, you'll never get it done. " — Bruce Lee"
 </em></p>
 
 ---
