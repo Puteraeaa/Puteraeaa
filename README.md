@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you always do what you've always done, you'll always get what you've always got. " — Henry Ford"
+  ""You can do two things at once, but you can't focus effectively on two things at once." — Gary Keller"
 </em></p>
 
 ---
