@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The nearer a man comes to a calm mind, the closer he is to strength." — Marcus Aurelius"
+  ""What people need and what they want may be very different." — Elbert Hubbard"
 </em></p>
 
 ---
