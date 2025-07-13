@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him." — James Allen"
+  ""I have not failed. I've just found 10,000 ways that won't work." — Thomas Edison"
 </em></p>
 
 ---
