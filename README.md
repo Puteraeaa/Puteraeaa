@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A clear conscience is the sure sign of a bad memory." — Mark Twain"
+  ""The most courageous act is still to think for yourself. Aloud." — Coco Chanel"
 </em></p>
 
 ---
