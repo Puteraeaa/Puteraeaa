@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If ever you feel like an animal among men, be a lion." — Criss Jami"
+  ""The key to success is to focus our conscious mind on things we desire not things we fear. " — Brian Tracy"
 </em></p>
 
 ---
