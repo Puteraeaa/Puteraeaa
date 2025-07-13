@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A journey of a thousand miles must begin with a single step." — Lao Tzu"
+  ""Wheels of justice grind slow but grind fine." — Sun Tzu"
 </em></p>
 
 ---
