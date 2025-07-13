@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you spend too much time thinking about a thing, you'll never get it done. " — Bruce Lee"
+  ""You are not only responsible for what you say, but also for what you do not say. " — Martin Luther"
 </em></p>
 
 ---
