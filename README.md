@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of us learn from other people's mistakes and the rest of us have to be other people.  " — Zig Ziglar"
+  ""You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" — Seneca"
 </em></p>
 
 ---
