@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino"
+  ""Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." — Samuel Butler"
 </em></p>
 
 ---
