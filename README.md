@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be - don't try to become " — Osho"
+  ""It's much better to do good in a way that no one knows anything about it." — Leo Tolstoy"
 </em></p>
 
 ---
