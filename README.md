@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace." — Ming-Dao Deng"
+  ""Everything that irritates us about others." — Carl Jung"
 </em></p>
 
 ---
