@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Becoming a great leader doesn't mean being perfect. it means living with your imperfections." — Lolly Daskal"
+  ""Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself." — Robert Kiyosaki"
 </em></p>
 
 ---
