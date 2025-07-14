@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself." — Robert Kiyosaki"
+  ""Trying to define yourself is like trying to bite your own teeth." — Zen Proverb"
 </em></p>
 
 ---
