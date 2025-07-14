@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be a good animal, true to your instincts." — D. H. Lawrence"
+  ""Being wrong opens us up to the possibility of change." — Mark Manson"
 </em></p>
 
 ---
