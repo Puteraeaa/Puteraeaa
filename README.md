@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself." — Robert Kiyosaki"
+  ""Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino"
 </em></p>
 
 ---
