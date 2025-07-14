@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ponder and deliberate before you make a move." — Sun Tzu"
+  ""The Art of Peace begins with you." — Morihei Ueshiba"
 </em></p>
 
 ---
