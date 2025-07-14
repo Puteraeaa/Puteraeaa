@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be thankful for everything that happens in your life; it's all an experience." — Roy T. Bennett"
+  ""Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself." — Robert Kiyosaki"
 </em></p>
 
 ---
