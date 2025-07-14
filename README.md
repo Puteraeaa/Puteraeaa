@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The Art of Peace begins with you." — Morihei Ueshiba"
+  ""Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty." — Theodore Roosevelt"
 </em></p>
 
 ---
