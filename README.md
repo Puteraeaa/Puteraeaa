@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything that irritates us about others." — Carl Jung"
+  ""Courage is fear that has said its prayers and decided to go forward anyway." — Joyce Meyer"
 </em></p>
 
 ---
