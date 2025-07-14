@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is stumbling from failure to failure with no loss of enthusiasm." — Winston Churchill"
+  ""Perseverance and spirit have done wonders in all ages. " — George Washington"
 </em></p>
 
 ---
