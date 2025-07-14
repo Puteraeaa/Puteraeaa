@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's much better to do good in a way that no one knows anything about it." — Leo Tolstoy"
+  ""The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace." — Ming-Dao Deng"
 </em></p>
 
 ---
