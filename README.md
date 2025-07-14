@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Correct what you can. Learn from what you can't." — Toni Morrison"
+  ""Everyone you meet is fighting a battle you know nothing about. Be kind. Always." — Robin Williams"
 </em></p>
 
 ---
