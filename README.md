@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't wish it were easier, wish you were better." — Jim Rohn"
+  ""Becoming a great leader doesn't mean being perfect. it means living with your imperfections." — Lolly Daskal"
 </em></p>
 
 ---
