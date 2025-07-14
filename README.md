@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The purpose of life is the life of purpose." — Robin Sharma"
+  ""To do two things at once is to do neither." — Publilius Syrus"
 </em></p>
 
 ---
