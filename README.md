@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " — Denis Waitley"
+  ""The way to love anything is to realize that it may be lost." — Gilbert Chesterton"
 </em></p>
 
 ---
