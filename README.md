@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The way to love anything is to realize that it may be lost." — Gilbert Chesterton"
+  ""Be - don't try to become " — Osho"
 </em></p>
 
 ---
