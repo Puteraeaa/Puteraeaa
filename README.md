@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What we dwell on is who we become." — Oprah Winfrey"
+  ""Before preparing to improve the world, first look around your own home three times. " — Chinese Proverb"
 </em></p>
 
 ---
