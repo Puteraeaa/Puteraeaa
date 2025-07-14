@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By words the mind is winged." — Aristophanes"
+  ""Correct what you can. Learn from what you can't." — Toni Morrison"
 </em></p>
 
 ---
