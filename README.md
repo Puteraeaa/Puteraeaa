@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'" — Brian Tracy"
+  ""Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " — Denis Waitley"
 </em></p>
 
 ---
