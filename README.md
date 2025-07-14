@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." — Samuel Butler"
+  ""A man is but a product of his thoughts. What he thinks he becomes." — Mahatma Gandhi"
 </em></p>
 
 ---
