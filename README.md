@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trying to define yourself is like trying to bite your own teeth." — Zen Proverb"
+  ""The purpose of life is the life of purpose." — Robin Sharma"
 </em></p>
 
 ---
