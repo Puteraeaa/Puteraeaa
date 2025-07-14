@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man is but a product of his thoughts. What he thinks he becomes." — Mahatma Gandhi"
+  ""Here and now...breathe and relax...in battle and in life." — Dan Millman"
 </em></p>
 
 ---
