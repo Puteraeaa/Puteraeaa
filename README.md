@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The past has no power over the present moment. " — Eckhart Tolle"
+  ""By words the mind is winged." — Aristophanes"
 </em></p>
 
 ---
