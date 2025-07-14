@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The foolish reject what they see, not what they think; the wise reject what they think, not what they see." — Huang Po"
+  ""Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves." — Adi Da Samraj"
 </em></p>
 
 ---
