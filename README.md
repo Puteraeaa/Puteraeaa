@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Courage is fear that has said its prayers and decided to go forward anyway." — Joyce Meyer"
+  ""You get in life what you have the courage to ask for." — Oprah Winfrey"
 </em></p>
 
 ---
