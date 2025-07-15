@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The secret of life is to fall seven times and to get up eight times." — Paulo Coelho"
+  ""My guiding principle is this: Guilt is never to be doubted. " — Franz Kafka"
 </em></p>
 
 ---
