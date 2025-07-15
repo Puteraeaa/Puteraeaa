@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The power to make and break habits and learning how to do that is really important." — Naval Ravikant"
+  ""You cannot find peace by avoiding life." — Virginia Woolf"
 </em></p>
 
 ---
