@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is the art of drawing sufficient conclusions from insufficient premises." — Samuel Butler"
+  ""You are the sky. Everything else - it's just the weather." — Pema Chodron"
 </em></p>
 
 ---
