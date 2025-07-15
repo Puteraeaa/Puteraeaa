@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time flies whether you are having fun or not." — Mary Engelbreit"
+  ""The impossible can always be broken down into possibilities." — Unknown"
 </em></p>
 
 ---
