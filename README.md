@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to disappoint people with the truth than to appease them with a lie." — Simon Sinek"
+  ""Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." — Paulo Coelho"
 </em></p>
 
 ---
