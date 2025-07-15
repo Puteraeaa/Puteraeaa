@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Inspire yourself to be great. Being good isn't good enough." — Gurbaksh Chahal"
+  ""A day without laughter is a day wasted." — Charlie Chaplin"
 </em></p>
 
 ---
