@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore"
+  ""You get paid in direct proportion to the difficulty of problems you solve." — Elon Musk"
 </em></p>
 
 ---
