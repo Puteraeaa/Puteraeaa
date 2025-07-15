@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is an essence of when you are fearless, you become more creative." — Gurbaksh Chahal"
+  ""Winners don't Quit. That's why they Win." — Unknown"
 </em></p>
 
 ---
