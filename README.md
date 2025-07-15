@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
+  ""The wise warrior avoids the battle." — Sun Tzu"
 </em></p>
 
 ---
