@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wrong does not cease to be wrong because the majority share in it." — Leo Tolstoy"
+  ""There is nothing more frightful than ignorance in action." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
