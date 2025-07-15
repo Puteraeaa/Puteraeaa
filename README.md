@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A day without laughter is a day wasted." — Charlie Chaplin"
+  ""No kind action ever stops with itself. One kind action leads to another. Good example is followed." — Amelia Earhart"
 </em></p>
 
 ---
