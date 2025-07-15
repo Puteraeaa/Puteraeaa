@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford"
+  ""It takes a very long time to become young." — Pablo Picasso"
 </em></p>
 
 ---
