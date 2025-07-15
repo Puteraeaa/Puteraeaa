@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy"
+  ""The power to make and break habits and learning how to do that is really important." — Naval Ravikant"
 </em></p>
 
 ---
