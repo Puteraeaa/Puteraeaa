@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The impossible can always be broken down into possibilities." — Unknown"
+  ""Wrong does not cease to be wrong because the majority share in it." — Leo Tolstoy"
 </em></p>
 
 ---
