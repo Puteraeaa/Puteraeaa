@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius"
+  ""Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford"
 </em></p>
 
 ---
