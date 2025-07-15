@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No kind action ever stops with itself. One kind action leads to another. Good example is followed." — Amelia Earhart"
+  ""The secret of life is to fall seven times and to get up eight times." — Paulo Coelho"
 </em></p>
 
 ---
