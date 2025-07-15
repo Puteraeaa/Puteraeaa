@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always try to be a little kinder than necessary." — James Matthew Barrie"
+  ""You can never get enough of what you don't need to make you happy." — Eric Hoffer"
 </em></p>
 
 ---
