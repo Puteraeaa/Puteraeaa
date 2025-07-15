@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton"
+  ""Life is the art of drawing sufficient conclusions from insufficient premises." — Samuel Butler"
 </em></p>
 
 ---
