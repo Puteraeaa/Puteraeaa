@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is not to be pursued, it is to be attracted by the person you become." — Jim Rohn"
+  ""Use your smile to change the world but don't let the world change your smile." — Unknown"
 </em></p>
 
 ---
