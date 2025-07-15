@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wise warrior avoids the battle." — Sun Tzu"
+  ""Why change? Everyone has his own style. When you have found it, you should stick to it." — Audrey Hepburn"
 </em></p>
 
 ---
