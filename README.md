@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Use your smile to change the world but don't let the world change your smile." — Unknown"
+  ""When you change what you believe, you change what you do." — Spencer Johnson"
 </em></p>
 
 ---
