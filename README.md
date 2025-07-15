@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It takes a very long time to become young." — Pablo Picasso"
+  ""Time flies whether you are having fun or not." — Mary Engelbreit"
 </em></p>
 
 ---
