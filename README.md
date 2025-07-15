@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Reading should be a pleasure, not a chore." — Joan Rivers"
+  ""Discipline is the mark of intelligent living." — Sathya Sai Baba"
 </em></p>
 
 ---
