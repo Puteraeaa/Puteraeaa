@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live and act within the limit of your knowledge and keep expanding it to the limit of your life." — Ayn Rand"
+  ""Failure is feedback. Learn from it and move on." — Jack Butcher"
 </em></p>
 
 ---
