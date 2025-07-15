@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you change what you believe, you change what you do." — Spencer Johnson"
+  ""Inspire yourself to be great. Being good isn't good enough." — Gurbaksh Chahal"
 </em></p>
 
 ---
