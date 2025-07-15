@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is feedback. Learn from it and move on." — Jack Butcher"
+  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
 </em></p>
 
 ---
