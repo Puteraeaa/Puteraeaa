@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why change? Everyone has his own style. When you have found it, you should stick to it." — Audrey Hepburn"
+  ""It is better to disappoint people with the truth than to appease them with a lie." — Simon Sinek"
 </em></p>
 
 ---
