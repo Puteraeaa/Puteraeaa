@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't criticize what you can't understand. " — Bob Dylan"
+  ""The best way to predict the future is to create it." — Abraham Lincoln"
 </em></p>
 
 ---
