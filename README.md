@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learning never exhausts the mind. " — Leonardo da Vinci"
+  ""Everybody has talent, but ability takes hard work." — Michael Jordan"
 </em></p>
 
 ---
