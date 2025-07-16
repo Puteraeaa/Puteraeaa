@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear not the path of Truth for the lack of People walking on it." — Robert F. Kennedy"
+  ""Every failure brings with it the seed of an equivalent success." — Napoleon Hill"
 </em></p>
 
 ---
