@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best mind-altering drug is the truth." — Lily Tomlin"
+  ""Life is 10% what happens to you and 90% how you react to it. " — Charles Swindoll"
 </em></p>
 
 ---
