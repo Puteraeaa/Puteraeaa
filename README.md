@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace if possible, truth at all costs." — Martin Luther"
+  ""The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso"
 </em></p>
 
 ---
