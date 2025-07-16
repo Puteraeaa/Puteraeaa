@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Any idea, plan, or purpose may be placed in the mind through repetition of thought." — Napoleon Hill"
+  ""Avoiding danger is no safer in the long run than exposure." — Helen Keller"
 </em></p>
 
 ---
