@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The birth of the mind is the death of the senses." — Dan Millman"
+  ""Change is hardest at the beginning, messiest in the middle and best at the end." — Robin Sharma"
 </em></p>
 
 ---
