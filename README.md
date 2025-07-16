@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every failure brings with it the seed of an equivalent success." — Napoleon Hill"
+  ""Passion is energy. Feel the power that comes from focusing on what excites you. " — Oprah Winfrey"
 </em></p>
 
 ---
