@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By the practice of meditation, you will find that you are carrying within your heart a portable paradise." — Paramahansa Yogananda"
+  ""Life is a constant series of opportunities." — Ming-Dao Deng"
 </em></p>
 
 ---
