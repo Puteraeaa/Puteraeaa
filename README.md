@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." — Denis Waitley"
+  ""A wise man can learn more from a foolish question than a fool can learn from a wise answer.  " — Bruce Lee"
 </em></p>
 
 ---
