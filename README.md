@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly." — Steve Maraboli"
+  ""By the practice of meditation, you will find that you are carrying within your heart a portable paradise." — Paramahansa Yogananda"
 </em></p>
 
 ---
