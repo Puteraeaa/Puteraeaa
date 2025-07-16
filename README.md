@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only limits in your life are those that you set yourself." — Celestine Chua"
+  ""The real measure of your wealth is how much you'd be worth if you lost all your money." — Unknown"
 </em></p>
 
 ---
