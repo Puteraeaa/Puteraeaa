@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The glow of one warm thought is to me worth more than money." — Thomas Jefferson"
+  ""If you are lucky enough to find love, remember it is there and don't throw it away." — Stephen Hawking"
 </em></p>
 
 ---
