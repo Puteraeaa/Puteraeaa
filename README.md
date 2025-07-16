@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best way to predict the future is to create it." — Abraham Lincoln"
+  ""Every man gotta right to decide his own destiny." — Bob Marley"
 </em></p>
 
 ---
