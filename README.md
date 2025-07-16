@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The essence of the Way is detachment." — Bodhidharma"
+  ""The best mind-altering drug is the truth." — Lily Tomlin"
 </em></p>
 
 ---
