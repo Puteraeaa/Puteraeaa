@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are lucky enough to find love, remember it is there and don't throw it away." — Stephen Hawking"
+  ""Imagination is the beginning of creation." — George Bernard Shaw"
 </em></p>
 
 ---
