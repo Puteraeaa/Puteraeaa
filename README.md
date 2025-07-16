@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Unless you're ashamed of yourself now and then, you're not honest." — William Faulkner"
+  ""Any idea, plan, or purpose may be placed in the mind through repetition of thought." — Napoleon Hill"
 </em></p>
 
 ---
