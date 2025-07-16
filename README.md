@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever your heart clings to and confides in, that is really your God." — Martin Luther"
+  ""Don't learn to do, but learn in doing." — Samuel Butler"
 </em></p>
 
 ---
