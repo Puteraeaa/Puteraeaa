@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't learn to do, but learn in doing." — Samuel Butler"
+  ""Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  " — Wayne Dyer"
 </em></p>
 
 ---
