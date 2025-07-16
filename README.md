@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am thankful to all who said no to me. It is because of them that I'm doing it myself." — Albert Einstein"
+  ""Unless you're ashamed of yourself now and then, you're not honest." — William Faulkner"
 </em></p>
 
 ---
