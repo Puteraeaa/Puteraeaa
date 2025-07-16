@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is 10% what happens to you and 90% how you react to it. " — Charles Swindoll"
+  ""Success comes to those who become success conscious." — Napoleon Hill"
 </em></p>
 
 ---
