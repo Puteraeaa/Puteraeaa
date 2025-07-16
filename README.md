@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change is hardest at the beginning, messiest in the middle and best at the end." — Robin Sharma"
+  ""Nothing can survive without food. Everything we consume acts either to heal us or to poison us." — Thich Nhat Hanh"
 </em></p>
 
 ---
