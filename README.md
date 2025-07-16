@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Avoiding danger is no safer in the long run than exposure." — Helen Keller"
+  ""It's not the men in your life that matters, it's the life in your men." — Mae West"
 </em></p>
 
 ---
