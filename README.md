@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a constant series of opportunities." — Ming-Dao Deng"
+  ""Learning never exhausts the mind. " — Leonardo da Vinci"
 </em></p>
 
 ---
