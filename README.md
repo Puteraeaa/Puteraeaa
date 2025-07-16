@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not the men in your life that matters, it's the life in your men." — Mae West"
+  ""Peace if possible, truth at all costs." — Martin Luther"
 </em></p>
 
 ---
