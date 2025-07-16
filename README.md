@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every man gotta right to decide his own destiny." — Bob Marley"
+  ""If you try, you might get exactly what you want. If you don't, you don't." — Unknown"
 </em></p>
 
 ---
