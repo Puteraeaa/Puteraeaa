@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A journey of a thousand miles must begin with a single step." — Lao Tzu"
+  ""The two most powerful warriors are patience and time." — Leo Tolstoy"
 </em></p>
 
 ---
