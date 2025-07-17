@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never whine, never complain, never try to justify yourself." — Robert Greene"
+  ""Each path to knowledge involves different rules and these rules are not interchangeable." — Barack Obama"
 </em></p>
 
 ---
