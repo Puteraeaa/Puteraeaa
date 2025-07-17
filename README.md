@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Little by little, one travels far." — J.R.R. Tolkien"
+  ""Change yourself and you have done your part in changing the world." — Paramahansa Yogananda"
 </em></p>
 
 ---
