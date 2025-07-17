@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you try, you might get exactly what you want. If you don't, you don't." — Unknown"
+  ""The important thing is not what one is born with but what use one makes of that equipment." — Alfred Adler"
 </em></p>
 
 ---
