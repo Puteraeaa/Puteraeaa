@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Well done is better than well said." — Benjamin Franklin"
+  ""Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything." — Sydney Smith"
 </em></p>
 
 ---
