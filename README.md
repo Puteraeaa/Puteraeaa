@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The difference between treason and patriotism is only a matter of dates." — Alexandre Dumas"
+  ""The thing about smart people is that they seem like crazy people to dumb people." — Stephen Hawking"
 </em></p>
 
 ---
