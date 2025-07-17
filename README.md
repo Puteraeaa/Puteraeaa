@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your life does not get better by chance, it gets better by change." — Jim Rohn"
+  ""Happiness is not the absence of problems, it's the ability to deal with them." — Steve Maraboli"
 </em></p>
 
 ---
