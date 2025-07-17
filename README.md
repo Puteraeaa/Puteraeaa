@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you lose your desire for things that do not matter, you will be free." — Morihei Ueshiba"
+  ""Never whine, never complain, never try to justify yourself." — Robert Greene"
 </em></p>
 
 ---
