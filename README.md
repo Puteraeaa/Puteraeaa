@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just try to be the best you can be; never cease trying to be the best you can be. That's in your power." — John Wooden"
+  ""It doesn't matter where you are coming from. All that matters is where you are going. " — Brian Tracy"
 </em></p>
 
 ---
