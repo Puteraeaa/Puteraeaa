@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wisest men follow their own direction." — Euripides"
+  ""When you lose your desire for things that do not matter, you will be free." — Morihei Ueshiba"
 </em></p>
 
 ---
