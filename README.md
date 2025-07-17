@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Force has no place where there is need of skill. " — Herodotus"
+  ""It's easier to lose than to win.  " — Wayne Gretzky"
 </em></p>
 
 ---
