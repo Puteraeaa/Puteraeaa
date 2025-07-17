@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The important thing is not what one is born with but what use one makes of that equipment." — Alfred Adler"
+  ""Your life does not get better by chance, it gets better by change." — Jim Rohn"
 </em></p>
 
 ---
