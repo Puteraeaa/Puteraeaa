@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything." — Sydney Smith"
+  ""The difference between treason and patriotism is only a matter of dates." — Alexandre Dumas"
 </em></p>
 
 ---
