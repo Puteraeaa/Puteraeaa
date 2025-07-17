@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your dream has to be bigger than your fear." — Steve Harvey"
+  ""Humans and prosperity never endure side by side for long." — Herodotus"
 </em></p>
 
 ---
