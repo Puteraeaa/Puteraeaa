@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each path to knowledge involves different rules and these rules are not interchangeable." — Barack Obama"
+  ""If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you." — Paramahansa Yogananda"
 </em></p>
 
 ---
