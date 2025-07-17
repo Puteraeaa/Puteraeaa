@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life's too mysterious to take too serious." — Mary Engelbreit"
+  ""There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
