@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It doesn't matter where you are coming from. All that matters is where you are going. " — Brian Tracy"
+  ""The more something scares you, the more you should do it." — Mark Manson"
 </em></p>
 
 ---
