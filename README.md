@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Humans and prosperity never endure side by side for long." — Herodotus"
+  ""Acknowledging the good that you already have in your life is the foundation for all abundance." — Eckhart Tolle"
 </em></p>
 
 ---
