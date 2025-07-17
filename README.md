@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more something scares you, the more you should do it." — Mark Manson"
+  ""Simple words, repeated daily, can change your life." — Maxime Lagace"
 </em></p>
 
 ---
