@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every saint has a past, and every sinner has a future." — Oscar Wilde"
+  ""Your happiness is what truly matters most. Do what you have to do in order to be happy." — Brian Tracy"
 </em></p>
 
 ---
