@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds." — Barack Obama"
+  ""There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
