@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change yourself and you have done your part in changing the world." — Paramahansa Yogananda"
+  ""Prefer to be defeated in the presence of the wise than to excel among fools." — Dogen"
 </em></p>
 
 ---
