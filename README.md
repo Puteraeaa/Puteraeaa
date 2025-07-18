@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking." — Johann Wolfgang von Goethe"
+  ""To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength." — Criss Jami"
 </em></p>
 
 ---
