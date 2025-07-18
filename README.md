@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What people say, what people do, and what they say they do are entirely different things. " — Margaret Mead"
+  ""Do it with passion, or not at all." — Rosa Nouchette Carey"
 </em></p>
 
 ---
