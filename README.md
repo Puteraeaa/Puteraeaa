@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength." — Criss Jami"
+  ""Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." — Richard Bach"
 </em></p>
 
 ---
