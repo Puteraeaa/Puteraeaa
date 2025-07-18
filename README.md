@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do it with passion, or not at all." — Rosa Nouchette Carey"
+  ""See what you're doing wrong, laugh at it, change and do better." — Spencer Johnson"
 </em></p>
 
 ---
