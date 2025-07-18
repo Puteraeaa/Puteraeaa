@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be royal in your own fashion: act like a king to be treated like one." — Robert Greene"
+  ""There is no way to happiness - happiness is the way." — Thich Nhat Hanh"
 </em></p>
 
 ---
