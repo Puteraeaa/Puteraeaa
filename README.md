@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your happiness is what truly matters most. Do what you have to do in order to be happy." — Brian Tracy"
+  ""Wisdom is the oneness of mind that guides and permeates all things." — Heraclitus"
 </em></p>
 
 ---
