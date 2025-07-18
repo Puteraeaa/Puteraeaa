@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is exact correspondence with reality. " — Paramahansa Yogananda"
+  ""The measure of wisdom is how calm you are when facing any given situation." — Naval Ravikant"
 </em></p>
 
 ---
