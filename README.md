@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be curious, not judgmental." — Walt Whitman"
+  ""Fear is stupid. So are regrets." — Marilyn Monroe"
 </em></p>
 
 ---
