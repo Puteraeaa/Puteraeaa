@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Good entrepreneurs don't fail because they stay at it." — Naval Ravikant"
+  ""Just do what must be done. This may not be happiness but it is greatness." — George Bernard Shaw"
 </em></p>
 
 ---
