@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no way to happiness - happiness is the way." — Thich Nhat Hanh"
+  ""Better the cottage where one is merry than the palace where one weeps." — Chinese Proverb"
 </em></p>
 
 ---
