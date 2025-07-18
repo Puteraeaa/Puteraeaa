@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." — Thomas Jefferson"
+  ""An intelligent person hires people who are more intelligent than he is." — Robert Kiyosaki"
 </em></p>
 
 ---
