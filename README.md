@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Adults are just children who earn money." — Kenneth Branagh"
+  ""Be royal in your own fashion: act like a king to be treated like one." — Robert Greene"
 </em></p>
 
 ---
