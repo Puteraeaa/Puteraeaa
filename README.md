@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Well done is better than well said." — Benjamin Franklin"
+  ""Quality is not an act, it is a habit." — Aristotle"
 </em></p>
 
 ---
