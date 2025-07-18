@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Cleverness is not wisdom." — Euripides"
+  ""The first rule of business; treat others like they want to treat you." — Charles Dickens"
 </em></p>
 
 ---
