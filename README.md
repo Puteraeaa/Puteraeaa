@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""See what you're doing wrong, laugh at it, change and do better." — Spencer Johnson"
+  ""Adults are just children who earn money." — Kenneth Branagh"
 </em></p>
 
 ---
