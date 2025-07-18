@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The measure of wisdom is how calm you are when facing any given situation." — Naval Ravikant"
+  ""The secret of life isn't what happens to you, but what you do with what happens to you." — Norman Vincent Peale"
 </em></p>
 
 ---
