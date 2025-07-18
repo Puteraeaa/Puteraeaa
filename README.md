@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we are not able to smile, then the world will not have peace." — Thich Nhat Hanh"
+  ""To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
