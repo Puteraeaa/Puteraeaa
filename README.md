@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The secret of life isn't what happens to you, but what you do with what happens to you." — Norman Vincent Peale"
+  ""You can put lipstick on a pig. It's still a pig." — Barack Obama"
 </em></p>
 
 ---
