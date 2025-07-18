@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The hard path is often the right one. The river teaches more than the shore." — Maxime Lagace"
+  ""In matters of style, swim with the current; in matters of principle, stand like a rock." — Thomas Jefferson"
 </em></p>
 
 ---
