@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba"
+  ""Success does not consist in never making mistakes but in never making the same one a second time." — George Bernard Shaw"
 </em></p>
 
 ---
