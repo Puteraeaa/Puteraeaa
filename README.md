@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hardly anybody recognizes the most significant moments of their life at the time they happen." — W.P. Kinsella"
+  ""Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." — Thomas Jefferson"
 </em></p>
 
 ---
