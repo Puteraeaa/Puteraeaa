@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Better the cottage where one is merry than the palace where one weeps." — Chinese Proverb"
+  ""Get mad, then get over it." — Colin Powell"
 </em></p>
 
 ---
