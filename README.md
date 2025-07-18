@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never stand begging for that which you have the power to earn." — Miguel de Cervantes"
+  ""There is no greater agony than bearing an untold story inside you." — Maya Angelou"
 </em></p>
 
 ---
