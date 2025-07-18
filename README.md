@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear is stupid. So are regrets." — Marilyn Monroe"
+  ""Hardly anybody recognizes the most significant moments of their life at the time they happen." — W.P. Kinsella"
 </em></p>
 
 ---
