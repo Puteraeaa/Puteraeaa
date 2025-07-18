@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""An intelligent person hires people who are more intelligent than he is." — Robert Kiyosaki"
+  ""Self-knowledge is the beginning of self-correction." — Norman Vincent Peale"
 </em></p>
 
 ---
