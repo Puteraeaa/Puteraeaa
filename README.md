@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I will not walk backward in life." — J.R.R. Tolkien"
+  ""The big thing is to make a winning effort. I'm not obsessed with wins." — Morgan Wootten"
 </em></p>
 
 ---
