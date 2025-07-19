@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything you've ever wanted is on the other side of fear." — George Addair"
+  ""As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt." — Jack London"
 </em></p>
 
 ---
