@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt." — Jack London"
+  ""Blessed is he who expects nothing, for he shall never be disappointed." — Alexander Pope"
 </em></p>
 
 ---
