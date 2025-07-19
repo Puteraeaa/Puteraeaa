@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A minute's success pays the failure of years." — Robert Browning"
+  ""We are willing to believe anything other than the truth." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
