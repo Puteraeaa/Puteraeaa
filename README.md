@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am always doing that which I can not do, in order that I may learn how to do it." — Pablo Picasso"
+  ""The older you get, the more you understand how your conscience works." — Criss Jami"
 </em></p>
 
 ---
