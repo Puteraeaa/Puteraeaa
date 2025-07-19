@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Choose to be optimistic, it feels better." — Dalai Lama"
+  ""Each of us is a unique strand in the intricate web of life and here to make a contribution." — Deepak Chopra"
 </em></p>
 
 ---
