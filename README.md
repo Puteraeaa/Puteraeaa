@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most difficult times for many of us are the ones we give ourselves." — Pema Chodron"
+  ""You can not live your life just based on what everyone else thinks." — Joyce Meyer"
 </em></p>
 
 ---
