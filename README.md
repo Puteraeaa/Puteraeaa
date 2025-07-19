@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A mountain never yields to the wind no matter how strong it is." — Zen Proverb"
+  ""In order to control myself I must first accept myself by going with and not against my nature." — Bruce Lee"
 </em></p>
 
 ---
