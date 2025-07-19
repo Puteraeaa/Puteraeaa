@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The older you get, the more you understand how your conscience works." — Criss Jami"
+  ""Whether you think you can or think you can't – you are right." — Henry Ford"
 </em></p>
 
 ---
