@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything that is made beautiful and fair and lovely is made for the eye of one who sees." — Rumi"
+  ""By words the mind is winged." — Aristophanes"
 </em></p>
 
 ---
