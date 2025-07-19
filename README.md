@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are willing to believe anything other than the truth." — Carlos Ruiz Zafon"
+  ""Out of your vulnerabilities will come your strength." — Sigmund Freud"
 </em></p>
 
 ---
