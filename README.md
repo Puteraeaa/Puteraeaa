@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By words the mind is winged." — Aristophanes"
+  ""Everyone wants to go to Heaven, but no one wants to die." — Robert Kiyosaki"
 </em></p>
 
 ---
