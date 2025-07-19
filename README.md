@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Simplicity is the glory of expression." — Walt Whitman"
+  ""A minute's success pays the failure of years." — Robert Browning"
 </em></p>
 
 ---
