@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace if possible, truth at all costs." — Martin Luther"
+  ""Victory is always possible for the person who refuses to stop fighting." — Napoleon Hill"
 </em></p>
 
 ---
