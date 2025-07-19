@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not how long, but how well you have lived is the main thing." — Seneca"
+  ""Everything you've ever wanted is on the other side of fear." — George Addair"
 </em></p>
 
 ---
