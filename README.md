@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." — Mark Twain"
+  ""Simplicity is the glory of expression." — Walt Whitman"
 </em></p>
 
 ---
