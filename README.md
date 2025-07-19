@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to light a single candle than to curse the darkness." — Eleanor Roosevelt"
+  ""In order to carry a positive action, we must develop here a positive vision." — Dalai Lama"
 </em></p>
 
 ---
