@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can not live your life just based on what everyone else thinks." — Joyce Meyer"
+  ""The Only Thing That Is Constant Is Change" — Heraclitus"
 </em></p>
 
 ---
