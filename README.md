@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Empty yourself of everything - let the mind become still." — Lao Tzu"
+  ""Remember that sometimes not getting what you want is a wonderful stroke of luck." — Dalai Lama"
 </em></p>
 
 ---
