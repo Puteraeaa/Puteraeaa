@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The Only Thing That Is Constant Is Change" — Heraclitus"
+  ""The mind is the limit." — Arnold Schwarzenegger"
 </em></p>
 
 ---
