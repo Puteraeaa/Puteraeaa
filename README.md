@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." — Richard Bach"
+  ""Choose to be optimistic, it feels better." — Dalai Lama"
 </em></p>
 
 ---
