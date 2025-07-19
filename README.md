@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Victory is always possible for the person who refuses to stop fighting." — Napoleon Hill"
+  ""A life without a cause is a life without effect." — Paulo Coelho"
 </em></p>
 
 ---
