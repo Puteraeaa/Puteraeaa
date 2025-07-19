@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Art is the signature of civilizations. " — Beverly Sills"
+  ""Everything that is made beautiful and fair and lovely is made for the eye of one who sees." — Rumi"
 </em></p>
 
 ---
