@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The biggest adventure you can ever take is to live the life of your dreams. " — Oprah Winfrey"
+  ""Not how long, but how well you have lived is the main thing." — Seneca"
 </em></p>
 
 ---
