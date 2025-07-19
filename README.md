@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The mind is the limit." — Arnold Schwarzenegger"
+  ""Empty yourself of everything - let the mind become still." — Lao Tzu"
 </em></p>
 
 ---
