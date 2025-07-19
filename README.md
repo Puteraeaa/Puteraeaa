@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain." — Josh Waitzkin"
+  ""Ability is a poor man's wealth." — John Wooden"
 </em></p>
 
 ---
