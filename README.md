@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — Eckhart Tolle"
+  ""Art is the signature of civilizations. " — Beverly Sills"
 </em></p>
 
 ---
