@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whether you think you can or think you can't – you are right." — Henry Ford"
+  ""A mountain never yields to the wind no matter how strong it is." — Zen Proverb"
 </em></p>
 
 ---
