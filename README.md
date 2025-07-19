@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone wants to go to Heaven, but no one wants to die." — Robert Kiyosaki"
+  ""It is better to light a single candle than to curse the darkness." — Eleanor Roosevelt"
 </em></p>
 
 ---
