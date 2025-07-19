@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is a great teacher. If you're open to it every mistake has a lesson to offer." — Oprah Winfrey"
+  ""No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain." — Josh Waitzkin"
 </em></p>
 
 ---
