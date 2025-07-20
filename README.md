@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." — Kamal Ravikant"
+  ""Success is never final; failure is never fatal." — Conrad Hilton"
 </em></p>
 
 ---
