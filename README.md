@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin." — Charles Darwin"
+  ""All know that the drop merges into the ocean, but few know that the ocean merges into the drop." — Kabir"
 </em></p>
 
 ---
