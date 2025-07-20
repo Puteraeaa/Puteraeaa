@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There's no coming to consciousness without pain" — Carl Jung"
+  ""If it entertains you now but will bore you someday, it's a distraction. Keep looking." — Naval Ravikant"
 </em></p>
 
 ---
