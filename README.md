@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is ours to be spent, not to be saved. " — D. H. Lawrence"
+  ""The weak can never forgive. Forgiveness is the attribute of the strong." — Mahatma Gandhi"
 </em></p>
 
 ---
