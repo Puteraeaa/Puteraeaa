@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All know that the drop merges into the ocean, but few know that the ocean merges into the drop." — Kabir"
+  ""You cannot find peace by avoiding life." — Virginia Woolf"
 </em></p>
 
 ---
