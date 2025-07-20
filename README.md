@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot find peace by avoiding life." — Virginia Woolf"
+  ""I don't walk away from things that I think are unfinished." — Arnold Schwarzenegger"
 </em></p>
 
 ---
