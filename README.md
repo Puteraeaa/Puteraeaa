@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order to carry a positive action, we must develop here a positive vision." — Dalai Lama"
+  ""You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." — Zig Ziglar"
 </em></p>
 
 ---
