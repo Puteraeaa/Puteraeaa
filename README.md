@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung"
+  ""Go confidently in the direction of your dreams. Live the life you've imagined." — Arnold Schwarzenegger"
 </em></p>
 
 ---
