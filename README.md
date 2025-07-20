@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be angry is to revenge the faults of others on ourselves." — Alexander Pope"
+  ""If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin." — Charles Darwin"
 </em></p>
 
 ---
