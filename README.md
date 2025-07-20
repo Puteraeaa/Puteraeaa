@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear is your worst enemy. Risk is your best friend." — Gurbaksh Chahal"
+  ""You don't know who is important to you until you actually lose them." — Mahatma Gandhi"
 </em></p>
 
 ---
