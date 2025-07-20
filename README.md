@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your world is a living expression of how you are using and have used your mind." — Earl Nightingale"
+  ""Fear is a natural reaction to moving closer to the truth." — Pema Chodron"
 </em></p>
 
 ---
