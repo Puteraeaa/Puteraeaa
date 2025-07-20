@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I don't walk away from things that I think are unfinished." — Arnold Schwarzenegger"
+  ""A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles." — Christopher Reeve"
 </em></p>
 
 ---
