@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can't feed a hundred people, then feed just one." — Mother Teresa"
+  ""Life is ours to be spent, not to be saved. " — D. H. Lawrence"
 </em></p>
 
 ---
