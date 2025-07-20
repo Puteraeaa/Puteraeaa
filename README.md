@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If the grass is greener on the other side, maybe that's because you're not taking good care of your grass." — Unknown"
+  ""There's no coming to consciousness without pain" — Carl Jung"
 </em></p>
 
 ---
