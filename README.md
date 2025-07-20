@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I persist long enough I will win." — Og Mandino"
+  ""If you can't feed a hundred people, then feed just one." — Mother Teresa"
 </em></p>
 
 ---
