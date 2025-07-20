@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to fail in originality than to succeed in imitation." — Herman Melville"
+  ""I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King"
 </em></p>
 
 ---
