@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King"
+  ""No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung"
 </em></p>
 
 ---
