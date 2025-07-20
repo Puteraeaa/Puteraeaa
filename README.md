@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is useless to attempt to reason a man out of a thing he was never reasoned into." — Jonathan Swift"
+  ""If the grass is greener on the other side, maybe that's because you're not taking good care of your grass." — Unknown"
 </em></p>
 
 ---
