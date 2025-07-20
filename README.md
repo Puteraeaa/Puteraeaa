@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't know who is important to you until you actually lose them." — Mahatma Gandhi"
+  ""Sorrow is how we learn to love." — Rita Mae Brown"
 </em></p>
 
 ---
