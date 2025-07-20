@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be polite to all, but intimate with few." — Thomas Jefferson"
+  ""There are no mistakes in life, only lessons." — Robin Sharma"
 </em></p>
 
 ---
