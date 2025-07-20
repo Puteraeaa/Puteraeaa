@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like a beautiful melody, only the lyrics are messed up." — Hans Christian Andersen"
+  ""Your world is a living expression of how you are using and have used your mind." — Earl Nightingale"
 </em></p>
 
 ---
