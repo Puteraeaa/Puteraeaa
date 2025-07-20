@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Go confidently in the direction of your dreams. Live the life you've imagined." — Arnold Schwarzenegger"
+  ""It is useless to attempt to reason a man out of a thing he was never reasoned into." — Jonathan Swift"
 </em></p>
 
 ---
