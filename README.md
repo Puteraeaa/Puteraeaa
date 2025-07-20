@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only normal people are the ones you don't know very well." — Alfred Adler"
+  ""Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." — Thomas Edison"
 </em></p>
 
 ---
