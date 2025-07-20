@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you judge another, you do not define them, you define yourself" — Wayne Dyer"
+  ""It is better to fail in originality than to succeed in imitation." — Herman Melville"
 </em></p>
 
 ---
