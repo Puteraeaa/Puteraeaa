@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no secrets to success. It is the result of preparation, hard work, and learning from failure." — Colin Powell"
+  ""Life is like a beautiful melody, only the lyrics are messed up." — Hans Christian Andersen"
 </em></p>
 
 ---
