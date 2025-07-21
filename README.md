@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." — Unknown"
+  ""Strive for excellence, not perfection, because we don't live in a perfect world." — Joyce Meyer"
 </em></p>
 
 ---
