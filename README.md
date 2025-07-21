@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""So we beat on, boats against the current, borne back ceaselessly into the past." — F. Scott Fitzgerald"
+  ""Life is like underwear, should be changed twice a day.  " — Ray Bradbury"
 </em></p>
 
 ---
