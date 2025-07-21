@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not regret the past. Look to the future." — Soyen Shaku"
+  ""We should not look back unless it is to derive useful lessons from past errors." — George Washington"
 </em></p>
 
 ---
