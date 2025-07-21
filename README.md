@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By words the mind is winged." — Aristophanes"
+  ""So we beat on, boats against the current, borne back ceaselessly into the past." — F. Scott Fitzgerald"
 </em></p>
 
 ---
