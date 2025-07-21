@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I know of only one duty, and that is to love." — George Bernard Shaw"
+  ""If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." — Unknown"
 </em></p>
 
 ---
