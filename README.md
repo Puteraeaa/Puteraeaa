@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A leader leads by example, not by force." — Sun Tzu"
+  ""The world is a puzzle; no need to make sense out of it." — Socrates"
 </em></p>
 
 ---
