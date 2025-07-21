@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes, the only way to evolve is to open ourselves fully." — Kamal Ravikant"
+  ""By words the mind is winged." — Aristophanes"
 </em></p>
 
 ---
