@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One small positive thought can change your whole day." — Zig Ziglar"
+  ""Sometimes, the only way to evolve is to open ourselves fully." — Kamal Ravikant"
 </em></p>
 
 ---
