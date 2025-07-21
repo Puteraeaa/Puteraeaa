@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Old age is like everything else. To make a success of it, you've got to start young." — Theodore Roosevelt"
+  ""A leader leads by example, not by force." — Sun Tzu"
 </em></p>
 
 ---
