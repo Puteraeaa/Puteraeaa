@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Strive for excellence, not perfection, because we don't live in a perfect world." — Joyce Meyer"
+  ""If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose." — Celestine Chua"
 </em></p>
 
 ---
