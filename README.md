@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A needle is not sharp at both ends. " — Chinese Proverb"
+  ""If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated." — Celestine Chua"
 </em></p>
 
 ---
