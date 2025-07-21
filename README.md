@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is ten percent what you experience and ninety percent how you respond to it." — Unknown"
+  ""Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." — Thich Nhat Hanh"
 </em></p>
 
 ---
