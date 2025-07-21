@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The world is a puzzle; no need to make sense out of it." — Socrates"
+  ""Don't talk about what you have done or what you are going to do." — Thomas Jefferson"
 </em></p>
 
 ---
