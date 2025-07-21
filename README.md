@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life and the simple beauty of it is too good to pass up." — Christopher McCandless"
+  ""Life is ten percent what you experience and ninety percent how you respond to it." — Unknown"
 </em></p>
 
 ---
