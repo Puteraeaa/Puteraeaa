@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am not proud, but I am happy; and happiness blinds, I think, more than pride." — Alexandre Dumas"
+  ""The road to success is always under construction." — Steve Harvey"
 </em></p>
 
 ---
