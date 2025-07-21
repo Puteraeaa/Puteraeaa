@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The road to success is always under construction." — Steve Harvey"
+  ""I know of only one duty, and that is to love." — George Bernard Shaw"
 </em></p>
 
 ---
