@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe that life is worth living and your belief will help create the fact." — William James"
+  ""Old age is like everything else. To make a success of it, you've got to start young." — Theodore Roosevelt"
 </em></p>
 
 ---
