@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi"
+  ""To handle yourself, use your head; to handle others, use your heart." — Eleanor Roosevelt"
 </em></p>
 
 ---
