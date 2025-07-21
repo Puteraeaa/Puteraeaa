@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose." — Celestine Chua"
+  ""May you live all the days of your life." — Jonathan Swift"
 </em></p>
 
 ---
