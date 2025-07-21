@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Kindness is a language which the deaf can hear and the blind can see." — Mark Twain"
+  ""For every minute you are angry you lose sixty seconds of happiness." — Ralph Waldo Emerson"
 </em></p>
 
 ---
