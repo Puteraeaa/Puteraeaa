@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is from the inside out. When you shift on the inside, life shifts on the outside." — Kamal Ravikant"
+  ""It is the greatest of all mistakes to do nothing because you can only do little; do something." — Sydney Smith"
 </em></p>
 
 ---
