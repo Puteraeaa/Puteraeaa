@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To handle yourself, use your head; to handle others, use your heart." — Eleanor Roosevelt"
+  ""A goal is a dream with a deadline." — Napoleon Hill"
 </em></p>
 
 ---
