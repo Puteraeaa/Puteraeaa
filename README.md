@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Growth comes at the point of resistance." — Josh Waitzkin"
+  ""A needle is not sharp at both ends. " — Chinese Proverb"
 </em></p>
 
 ---
