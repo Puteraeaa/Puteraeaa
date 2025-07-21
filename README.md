@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." — Thich Nhat Hanh"
+  ""Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi"
 </em></p>
 
 ---
