@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't talk about what you have done or what you are going to do." — Thomas Jefferson"
+  ""Great acts are made up of small deeds." — Lao Tzu"
 </em></p>
 
 ---
