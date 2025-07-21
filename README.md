@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is what you have before you understand the problem." — Woody Allen"
+  ""Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right." — Albus Dumbledore"
 </em></p>
 
 ---
