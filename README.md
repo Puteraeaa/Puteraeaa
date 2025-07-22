@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every strike brings me closer to the next home run. " — Babe Ruth"
+  ""It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone." — Kahlil Gibran"
 </em></p>
 
 ---
