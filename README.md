@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw"
+  ""Self-knowledge is the beginning of self-correction." — Norman Vincent Peale"
 </em></p>
 
 ---
