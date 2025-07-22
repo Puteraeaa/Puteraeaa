@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Concentrated power has always been the enemy of liberty." — Ronald Reagan"
+  ""We have a choice everyday regarding the attitude we will embrace for that day." — Charles Swindoll"
 </em></p>
 
 ---
