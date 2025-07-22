@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right." — Albus Dumbledore"
+  ""There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. " — Orison Swett Marden"
 </em></p>
 
 ---
