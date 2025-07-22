@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more something scares you, the more you should do it." — Mark Manson"
+  ""He who hesitates is a damned fool." — Mae West"
 </em></p>
 
 ---
