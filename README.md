@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone sees what you appear to be, few experience what you really are." — Niccolo Machiavelli"
+  ""Concentrated power has always been the enemy of liberty." — Ronald Reagan"
 </em></p>
 
 ---
