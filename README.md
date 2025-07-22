@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every strike brings me closer to the next home run. " — Babe Ruth"
+  ""Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it." — Gary Keller"
 </em></p>
 
 ---
