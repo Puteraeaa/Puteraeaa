@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A warrior does not give up what he loves, he finds the love in what he does." — Dan Millman"
+  ""Respect is earned by effort not age, all things age without effort." — C. Sean McGee"
 </em></p>
 
 ---
