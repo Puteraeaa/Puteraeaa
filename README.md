@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyday you can take a tiny step in the right direction." — Unknown"
+  ""No one has ever become poor by giving." — Anne Frank"
 </em></p>
 
 ---
