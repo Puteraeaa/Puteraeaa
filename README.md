@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never let your memories be greater than your dreams." — Doug Ivester"
+  ""Fashion fades, only style remains the same." — Coco Chanel"
 </em></p>
 
 ---
