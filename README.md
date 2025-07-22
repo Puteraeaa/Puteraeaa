@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Judge your success by what you had to give up in order to get it." — Dalai Lama"
+  ""Never let your memories be greater than your dreams." — Doug Ivester"
 </em></p>
 
 ---
