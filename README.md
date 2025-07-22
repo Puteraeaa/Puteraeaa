@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Music is like creating an emotional painting. The sounds are the colors." — Yanni"
+  ""Convinced myself, I seek not to convince." — Edgar Allan Poe"
 </em></p>
 
 ---
