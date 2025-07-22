@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We have a choice everyday regarding the attitude we will embrace for that day." — Charles Swindoll"
+  ""A warrior does not give up what he loves, he finds the love in what he does." — Dan Millman"
 </em></p>
 
 ---
