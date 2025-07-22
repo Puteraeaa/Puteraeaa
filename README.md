@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Find your Light; They can't love you if they can't see you." — Bette Midler"
+  ""Death smiles at us all. All we can do is smile back." — Marcus Aurelius"
 </em></p>
 
 ---
