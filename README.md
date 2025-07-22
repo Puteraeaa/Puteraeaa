@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction." — Criss Jami"
+  ""Never close your lips to those whom you have already opened your heart." — Charles Dickens"
 </em></p>
 
 ---
