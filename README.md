@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To live outside the law, you must be honest. " — Bob Dylan"
+  ""Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw"
 </em></p>
 
 ---
