@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. " — Orison Swett Marden"
+  ""Every strike brings me closer to the next home run. " — Babe Ruth"
 </em></p>
 
 ---
