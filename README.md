@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never close your lips to those whom you have already opened your heart." — Charles Dickens"
+  ""The more something scares you, the more you should do it." — Mark Manson"
 </em></p>
 
 ---
