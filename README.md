@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Changing minds is harder than finding people who already agree." — Jack Butcher"
+  ""Surround yourself with only people who are going to lift you higher. " — Oprah Winfrey"
 </em></p>
 
 ---
