@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Heart is what separates the good from the great." — Michael Jordan"
+  ""To live outside the law, you must be honest. " — Bob Dylan"
 </em></p>
 
 ---
