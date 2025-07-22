@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death smiles at us all. All we can do is smile back." — Marcus Aurelius"
+  ""Music is like creating an emotional painting. The sounds are the colors." — Yanni"
 </em></p>
 
 ---
