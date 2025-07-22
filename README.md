@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Respect is earned by effort not age, all things age without effort." — C. Sean McGee"
+  ""Little minds have little worries, big minds have no time for worries." — Ralph Waldo Emerson"
 </em></p>
 
 ---
