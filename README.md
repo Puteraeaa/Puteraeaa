@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best way to predict the future is to create it." — Abraham Lincoln"
+  ""Kind words can be short and easy to speak, but their echoes are truly endless." — Mother Teresa"
 </em></p>
 
 ---
