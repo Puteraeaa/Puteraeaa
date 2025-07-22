@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fashion fades, only style remains the same." — Coco Chanel"
+  ""Everyone sees what you appear to be, few experience what you really are." — Niccolo Machiavelli"
 </em></p>
 
 ---
