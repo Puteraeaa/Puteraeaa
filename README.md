@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're afraid - don't do it, - if you're doing it - don't be afraid! " — Genghis Khan"
+  ""Every strike brings me closer to the next home run. " — Babe Ruth"
 </em></p>
 
 ---
