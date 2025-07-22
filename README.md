@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All great truths begin as blasphemies." — George Bernard Shaw"
+  ""Judge your success by what you had to give up in order to get it." — Dalai Lama"
 </em></p>
 
 ---
