@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one has ever become poor by giving." — Anne Frank"
+  ""Heart is what separates the good from the great." — Michael Jordan"
 </em></p>
 
 ---
