@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln"
+  ""No great discovery was ever made without a bold guess. " — Isaac Newton"
 </em></p>
 
 ---
