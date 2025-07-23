@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The measure of who we are is what we do with what we have." — Vince Lombardi"
+  ""Being wrong opens us up to the possibility of change." — Mark Manson"
 </em></p>
 
 ---
