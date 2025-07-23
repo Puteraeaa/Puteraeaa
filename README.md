@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I never dwell on what happened. You can't change it. Move forward." — Joan Rivers"
+  ""Cherish forever what makes you unique, cuz you're really a yawn if it goes." — Bette Midler"
 </em></p>
 
 ---
