@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We run to win, not just to be in the race.  " — Vince Lombardi"
+  ""I never dwell on what happened. You can't change it. Move forward." — Joan Rivers"
 </em></p>
 
 ---
