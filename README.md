@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being wrong opens us up to the possibility of change." — Mark Manson"
+  ""I hear and I forget. I see and I remember. I do and I understand. " — Confucius"
 </em></p>
 
 ---
