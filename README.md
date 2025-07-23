@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death and life have their determined appointments; riches and honors depend upon heaven. " — Confucius"
+  ""Much learning does not teach understanding." — Heraclitus"
 </em></p>
 
 ---
