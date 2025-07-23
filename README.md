@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I hear and I forget. I see and I remember. I do and I understand. " — Confucius"
+  ""Most people achieved their greatest success one step beyond what looked like their greatest failure." — Brian Tracy"
 </em></p>
 
 ---
