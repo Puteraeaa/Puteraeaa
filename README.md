@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't settle, and don't struggle." — Naval Ravikant"
+  ""Faith means believing the unbelievable." — Gilbert Chesterton"
 </em></p>
 
 ---
