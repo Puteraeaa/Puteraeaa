@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may be disappointed if you fail, but you are doomed if you don't try." — Beverly Sills"
+  ""The measure of who we are is what we do with what we have." — Vince Lombardi"
 </em></p>
 
 ---
