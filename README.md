@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men go to far greater lengths to avoid what they fear than to obtain what they desire." — Dan Brown"
+  ""The more you praise and celebrate your life, the more there is in life to celebrate. " — Oprah Winfrey"
 </em></p>
 
 ---
