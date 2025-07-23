@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't be afraid to stand for what you believe in, even if that means standing alone." — Unknown"
+  ""We run to win, not just to be in the race.  " — Vince Lombardi"
 </em></p>
 
 ---
