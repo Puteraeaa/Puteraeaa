@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never lose hope. Storms make people stronger and never last forever." — Roy T. Bennett"
+  ""Life becomes easier and more beautiful when we can see the good in other people." — Roy T. Bennett"
 </em></p>
 
 ---
