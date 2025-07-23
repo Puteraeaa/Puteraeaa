@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you praise and celebrate your life, the more there is in life to celebrate. " — Oprah Winfrey"
+  ""Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha"
 </em></p>
 
 ---
