@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." — Thomas Edison"
+  ""To the world you may be one person; but to one person you may be the world." — Dr. Seuss"
 </em></p>
 
 ---
