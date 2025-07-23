@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — Unknown"
+  ""Great ones are willing to get burned time and again as they sharpen their swords in the fire." — Josh Waitzkin"
 </em></p>
 
 ---
