@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rich people have small TVs and big libraries, and poor people have small libraries and big TVs." — Zig Ziglar"
+  ""Don't settle, and don't struggle." — Naval Ravikant"
 </em></p>
 
 ---
