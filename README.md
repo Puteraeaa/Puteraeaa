@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Meditate. It won't be fun but it will surface what you need to deal with." — Naval Ravikant"
+  ""The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom." — James Allen"
 </em></p>
 
 ---
