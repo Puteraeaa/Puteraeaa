@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great ones are willing to get burned time and again as they sharpen their swords in the fire." — Josh Waitzkin"
+  ""Abundance of knowledge does not teach men to be wise." — Heraclitus"
 </em></p>
 
 ---
