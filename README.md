@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results." — James Allen"
+  ""That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln"
 </em></p>
 
 ---
