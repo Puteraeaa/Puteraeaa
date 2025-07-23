@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Difficulties strengthen the mind, as labor does the body.  " — Seneca"
+  ""Life is essentially an endless series of problems. The solution to one problem is merely the creation of another." — Mark Manson"
 </em></p>
 
 ---
