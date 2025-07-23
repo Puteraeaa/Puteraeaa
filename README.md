@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Abundance of knowledge does not teach men to be wise." — Heraclitus"
+  ""Just throw away all thoughts of imaginary things, and stand firm in that which you are." — Kabir"
 </em></p>
 
 ---
