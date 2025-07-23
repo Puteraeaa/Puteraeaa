@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life becomes easier and more beautiful when we can see the good in other people." — Roy T. Bennett"
+  ""Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." — Helen Keller"
 </em></p>
 
 ---
