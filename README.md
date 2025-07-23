@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha"
+  ""You may forget with whom you laughed, but you will never forget with whom you wept.  " — Kahlil Gibran"
 </em></p>
 
 ---
