@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Faith means believing the unbelievable." — Gilbert Chesterton"
+  ""You talk when you cease to be at peace with your thoughts." — Kahlil Gibran"
 </em></p>
 
 ---
