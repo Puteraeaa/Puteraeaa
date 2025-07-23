@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Obstacles are those frightful things you see when you take your eyes off your goal." — Henry Ford"
+  ""Men go to far greater lengths to avoid what they fear than to obtain what they desire." — Dan Brown"
 </em></p>
 
 ---
