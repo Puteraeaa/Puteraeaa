@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just throw away all thoughts of imaginary things, and stand firm in that which you are." — Kabir"
+  ""Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results." — James Allen"
 </em></p>
 
 ---
