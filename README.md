@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Much learning does not teach understanding." — Heraclitus"
+  ""Excellence is not an exception, it is a prevailing attitude." — Colin Powell"
 </em></p>
 
 ---
