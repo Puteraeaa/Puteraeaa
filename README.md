@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more I want to get something done, the less I call it work." — Richard Bach"
+  ""Success is never final; failure is never fatal." — Conrad Hilton"
 </em></p>
 
 ---
