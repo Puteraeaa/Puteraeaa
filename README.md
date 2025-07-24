@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not fight with pigs - you will be smeared in mud but the pig will like it." — George Bernard Shaw"
+  ""One is never afraid of the unknown; one is afraid of the known coming to an end." — Jiddu Krishnamurti"
 </em></p>
 
 ---
