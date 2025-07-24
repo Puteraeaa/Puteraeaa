@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Better to have, and not need, than to need, and not have." — Franz Kafka"
+  ""Sadness is but a wall between two gardens." — Kahlil Gibran"
 </em></p>
 
 ---
