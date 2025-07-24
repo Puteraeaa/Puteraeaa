@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace is letting it be. Letting life flow, letting emotions flow through you." — Kamal Ravikant"
+  ""Dreams are the royal road to the unconscious. " — Sigmund Freud"
 </em></p>
 
 ---
