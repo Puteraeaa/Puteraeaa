@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like riding a bicycle. To keep your balance you must keep moving." — Albert Einstein"
+  ""The more I want to get something done, the less I call it work." — Richard Bach"
 </em></p>
 
 ---
