@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make your stand today. On this spot. On this day." — Ming-Dao Deng"
+  ""Peace is not the absence of conflict, but the ability to cope with it." — Unknown"
 </em></p>
 
 ---
