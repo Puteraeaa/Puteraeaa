@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If no one ever broke the rules, then we'd never advance." — Simon Sinek"
+  ""Failure is a great teacher. If you're open to it every mistake has a lesson to offer." — Oprah Winfrey"
 </em></p>
 
 ---
