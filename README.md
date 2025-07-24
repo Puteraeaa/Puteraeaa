@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all like the bright moon, we still have our darker side.  " — Kahlil Gibran"
+  ""It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way." — Alan Watts"
 </em></p>
 
 ---
