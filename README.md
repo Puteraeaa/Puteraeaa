@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For every minute you are angry you lose sixty seconds of happiness." — Ralph Waldo Emerson"
+  ""The road to success is always under construction." — Steve Harvey"
 </em></p>
 
 ---
