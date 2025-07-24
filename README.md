@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What one does is what counts. Not what one had the intention of doing." — Pablo Picasso"
+  ""Trusting our intuition often saves us from disaster. " — Anne Wilson Schaef"
 </em></p>
 
 ---
