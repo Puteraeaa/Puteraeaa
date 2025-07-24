@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is a great teacher. If you're open to it every mistake has a lesson to offer." — Oprah Winfrey"
+  ""Don't seek, don't search, don't ask, don't knock, don't demand - relax." — Osho"
 </em></p>
 
 ---
