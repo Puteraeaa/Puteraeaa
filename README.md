@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Obstacles don't block the path, they are the path." — Zen Proverb"
+  ""Make your stand today. On this spot. On this day." — Ming-Dao Deng"
 </em></p>
 
 ---
