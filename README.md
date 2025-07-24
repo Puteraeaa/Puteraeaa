@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who is not contented with what he has, would not be contented with what he would like to have." — Socrates"
+  ""It will never rain roses: when we want to have more roses, we must plant more roses." — George Eliot"
 </em></p>
 
 ---
