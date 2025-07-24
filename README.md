@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way." — Alan Watts"
+  ""Life is like riding a bicycle. To keep your balance you must keep moving." — Albert Einstein"
 </em></p>
 
 ---
