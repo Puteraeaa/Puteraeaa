@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order for you to be the BEST you can be for others, first you must be BEST for yourself." — Jeffrey Gitomer"
+  ""For every minute you are angry you lose sixty seconds of happiness." — Ralph Waldo Emerson"
 </em></p>
 
 ---
