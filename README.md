@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams are the royal road to the unconscious. " — Sigmund Freud"
+  ""The great use of life is to spend it for something that will outlast it." — William James"
 </em></p>
 
 ---
