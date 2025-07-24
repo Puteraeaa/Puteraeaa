@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." — Harry S. Truman"
+  ""It is the mark of an educated mind to be able to entertain a thought without accepting it." — Aristotle"
 </em></p>
 
 ---
