@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By words the mind is winged." — Aristophanes"
+  ""If no one ever broke the rules, then we'd never advance." — Simon Sinek"
 </em></p>
 
 ---
