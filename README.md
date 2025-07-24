@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why do you stay in prison when the door is so wide open?" — Rumi"
+  ""When you love someone, you love the person as they are, and not as you'd like them to be." — Leo Tolstoy"
 </em></p>
 
 ---
