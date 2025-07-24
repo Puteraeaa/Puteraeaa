@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The thing about smart people is that they seem like crazy people to dumb people." — Stephen Hawking"
+  ""He who is not contented with what he has, would not be contented with what he would like to have." — Socrates"
 </em></p>
 
 ---
