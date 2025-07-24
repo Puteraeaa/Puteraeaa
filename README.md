@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trusting our intuition often saves us from disaster. " — Anne Wilson Schaef"
+  ""The thing about smart people is that they seem like crazy people to dumb people." — Stephen Hawking"
 </em></p>
 
 ---
