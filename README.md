@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligence is the ability to adapt to change." — Stephen Hawking"
+  ""The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way." — Robert Kiyosaki"
 </em></p>
 
 ---
