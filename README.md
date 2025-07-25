@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy." — Norman Vincent Peale"
+  ""Difficulties strengthen the mind, as labor does the body.  " — Seneca"
 </em></p>
 
 ---
