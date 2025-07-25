@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba"
+  ""One small positive thought can change your whole day." — Zig Ziglar"
 </em></p>
 
 ---
