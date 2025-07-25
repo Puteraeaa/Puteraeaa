@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The world would go on even without you. Don't take yourself so seriously." — Norman Vincent Peale"
+  ""Muddy water is best cleared by leaving it alone." — Alan Watts"
 </em></p>
 
 ---
