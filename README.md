@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I hear and I forget. I see and I remember. I do and I understand. " — Confucius"
+  ""The scariest monsters are the ones that lurk within our souls." — Edgar Allan Poe"
 </em></p>
 
 ---
