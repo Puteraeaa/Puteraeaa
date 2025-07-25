@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The harder you work, the harder it is to surrender." — Vince Lombardi"
+  ""Once a decision was made, I didn't worry about it afterward." — Harry S. Truman"
 </em></p>
 
 ---
