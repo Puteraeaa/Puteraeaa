@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is about doing the right thing, not about doing everything right." — Gary Keller"
+  ""A real friend is one who walks in when the rest of the world walks out." — Unknown"
 </em></p>
 
 ---
