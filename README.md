@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Friendship is like money, easier made than kept." — Samuel Butler"
+  ""Do not fear failure but rather fear not trying." — Roy T. Bennett"
 </em></p>
 
 ---
