@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The scariest monsters are the ones that lurk within our souls." — Edgar Allan Poe"
+  ""Friendship is like money, easier made than kept." — Samuel Butler"
 </em></p>
 
 ---
