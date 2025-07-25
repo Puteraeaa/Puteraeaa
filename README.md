@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua"
+  ""The world would go on even without you. Don't take yourself so seriously." — Norman Vincent Peale"
 </em></p>
 
 ---
