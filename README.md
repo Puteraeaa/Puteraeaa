@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One small positive thought can change your whole day." — Zig Ziglar"
+  ""The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " — St. Jerome"
 </em></p>
 
 ---
