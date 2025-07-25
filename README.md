@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A real friend is one who walks in when the rest of the world walks out." — Unknown"
+  ""If you're not failing every now and again, it's a sign you're not doing anything very innovative." — Woody Allen"
 </em></p>
 
 ---
