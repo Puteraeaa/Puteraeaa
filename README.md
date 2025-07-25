@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso"
+  ""Everything is created twice, first in the mind and then in reality." — Robin Sharma"
 </em></p>
 
 ---
