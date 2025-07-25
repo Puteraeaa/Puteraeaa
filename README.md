@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Poetry is written with tears, fiction with blood, and history with invisible ink." — Carlos Ruiz Zafon"
+  ""Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso"
 </em></p>
 
 ---
