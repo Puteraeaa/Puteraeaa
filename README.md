@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most people get ahead during the time that others waste." — Henry Ford"
+  ""Those who cannot change their minds cannot change anything." — George Bernard Shaw"
 </em></p>
 
 ---
