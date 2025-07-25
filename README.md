@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time is more valuable than money. You can get more money, but you cannot get more time." — Jim Rohn"
+  ""When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. " — Henry Ford"
 </em></p>
 
 ---
