@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""At the center of your being you have the answer; you know who you are and you know what you want." — Lao Tzu"
+  ""In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes"
 </em></p>
 
 ---
