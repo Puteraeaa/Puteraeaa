@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything is created twice, first in the mind and then in reality." — Robin Sharma"
+  ""You have as much laughter as you have faith." — Martin Luther"
 </em></p>
 
 ---
