@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you want something in life, you just gotta reach out and grab it." — Christopher McCandless"
+  ""Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua"
 </em></p>
 
 ---
