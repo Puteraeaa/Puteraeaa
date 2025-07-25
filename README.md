@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If it is not right, do not do it, if it is not true, do not say it." — Marcus Aurelius"
+  ""The harder you work, the harder it is to surrender." — Vince Lombardi"
 </em></p>
 
 ---
