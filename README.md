@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of us learn from other people's mistakes and the rest of us have to be other people.  " — Zig Ziglar"
+  ""Time is more valuable than money. You can get more money, but you cannot get more time." — Jim Rohn"
 </em></p>
 
 ---
