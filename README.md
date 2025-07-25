@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes"
+  ""Some of us learn from other people's mistakes and the rest of us have to be other people.  " — Zig Ziglar"
 </em></p>
 
 ---
