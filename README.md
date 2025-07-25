@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wiser you get, the less you care to look like a fool." — Maxime Lagace"
+  ""Write to help yourself, publish to help others." — Jack Butcher"
 </em></p>
 
 ---
