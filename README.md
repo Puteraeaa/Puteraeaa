@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. " — Henry Ford"
+  ""When you want something in life, you just gotta reach out and grab it." — Christopher McCandless"
 </em></p>
 
 ---
