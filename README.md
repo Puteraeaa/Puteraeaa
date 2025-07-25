@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are unable to find the truth right where you are, where else do you expect to find it?" — Dogen"
+  ""Most people get ahead during the time that others waste." — Henry Ford"
 </em></p>
 
 ---
