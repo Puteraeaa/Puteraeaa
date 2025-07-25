@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Light a candle instead of cursing the darkness." — Eleanor Roosevelt"
+  ""The wiser you get, the less you care to look like a fool." — Maxime Lagace"
 </em></p>
 
 ---
