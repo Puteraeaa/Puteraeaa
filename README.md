@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." — Elbert Hubbard"
+  ""If you are unable to find the truth right where you are, where else do you expect to find it?" — Dogen"
 </em></p>
 
 ---
