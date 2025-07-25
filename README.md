@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is achieved and maintained by those who try and keep trying. " — W. Clement Stone"
+  ""We will act consistently with our view of who we truly are, whether that view is accurate or not." — Tony Robbins"
 </em></p>
 
 ---
