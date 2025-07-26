@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first man gets the oyster, the second man gets the shell." — Andrew Carnegie"
+  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
 </em></p>
 
 ---
