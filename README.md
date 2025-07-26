@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed." — Mark Twain"
+  ""Wishing to be friends is quick work, but friendship is a slow ripening fruit." — Aristotle"
 </em></p>
 
 ---
