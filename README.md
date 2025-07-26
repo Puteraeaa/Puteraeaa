@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My mind seems to have become a kind of machine for grinding general laws out of large collections of facts." — Charles Darwin"
+  ""Discipline yourself, and others won't need to." — John Wooden"
 </em></p>
 
 ---
