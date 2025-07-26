@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. " — Paramahansa Yogananda"
+  ""The first man gets the oyster, the second man gets the shell." — Andrew Carnegie"
 </em></p>
 
 ---
