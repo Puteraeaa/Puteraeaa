@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Children are our greatest natural resource." — Herbert Hoover"
+  ""The dream is free, but the hustle is sold separately." — Steve Harvey"
 </em></p>
 
 ---
