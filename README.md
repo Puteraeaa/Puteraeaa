@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
+  ""The more acquaintances you have, the less you know them." — Chinese Proverb"
 </em></p>
 
 ---
