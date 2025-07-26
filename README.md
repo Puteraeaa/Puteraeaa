@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We know nothing of tomorrow, our business is to be good and happy today." — Sydney Smith"
+  ""My mind seems to have become a kind of machine for grinding general laws out of large collections of facts." — Charles Darwin"
 </em></p>
 
 ---
