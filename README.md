@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Know the rules well, so you can break them effectively." — Dalai Lama"
+  ""Our greatest glory is not in never falling but in rising every time we fall." — Confucius"
 </em></p>
 
 ---
