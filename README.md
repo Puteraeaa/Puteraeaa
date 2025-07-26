@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more acquaintances you have, the less you know them." — Chinese Proverb"
+  ""A very little key will open a very heavy door." — Charles Dickens"
 </em></p>
 
 ---
