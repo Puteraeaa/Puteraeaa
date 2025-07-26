@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's your outlook on life that counts." — Betty White"
+  ""Children are our greatest natural resource." — Herbert Hoover"
 </em></p>
 
 ---
