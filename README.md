@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never close your lips to those whom you have already opened your heart." — Charles Dickens"
+  ""Waste not fresh tears over old griefs." — Euripides"
 </em></p>
 
 ---
