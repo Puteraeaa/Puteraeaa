@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A very little key will open a very heavy door." — Charles Dickens"
+  ""Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. " — Paramahansa Yogananda"
 </em></p>
 
 ---
