@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wishing to be friends is quick work, but friendship is a slow ripening fruit." — Aristotle"
+  ""We know nothing of tomorrow, our business is to be good and happy today." — Sydney Smith"
 </em></p>
 
 ---
