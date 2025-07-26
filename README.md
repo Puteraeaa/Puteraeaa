@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience is bitter, but its fruit is sweet." — Aristotle"
+  ""There are no secrets to success. It is the result of preparation, hard work, and learning from failure." — Colin Powell"
 </em></p>
 
 ---
