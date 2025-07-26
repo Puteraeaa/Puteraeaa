@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not all readers are leaders, but all leaders are readers." — Harry S. Truman"
+  ""Ask no questions, and you'll be told no lies." — Charles Dickens"
 </em></p>
 
 ---
