@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Waste not fresh tears over old griefs." — Euripides"
+  ""Patience is bitter, but its fruit is sweet." — Aristotle"
 </em></p>
 
 ---
