@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
+  ""The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." — Albus Dumbledore"
 </em></p>
 
 ---
