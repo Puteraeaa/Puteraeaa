@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Amateurs sit and wait for inspiration, the rest of us just get up and got to work." — Stephen King"
+  ""Be as fluid as water, do not give your enemies anything solid to attack." — Robert Greene"
 </em></p>
 
 ---
