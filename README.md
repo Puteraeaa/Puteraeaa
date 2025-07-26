@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our greatest glory is not in never falling but in rising every time we fall." — Confucius"
+  ""Don't let the past steal your present." — Cherralea Morgen"
 </em></p>
 
 ---
