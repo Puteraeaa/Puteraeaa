@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first man gets the oyster, the second man gets the shell." — Andrew Carnegie"
+  ""Never close your lips to those whom you have already opened your heart." — Charles Dickens"
 </em></p>
 
 ---
