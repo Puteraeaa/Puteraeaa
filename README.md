@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." — Albus Dumbledore"
+  ""We know nothing of tomorrow, our business is to be good and happy today." — Sydney Smith"
 </em></p>
 
 ---
