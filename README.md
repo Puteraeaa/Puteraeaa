@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino"
+  ""Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." — Kahlil Gibran"
 </em></p>
 
 ---
