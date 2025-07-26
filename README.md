@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no secrets to success. It is the result of preparation, hard work, and learning from failure." — Colin Powell"
+  ""Thoughts become things. If you see it in your mind, you will hold it in your hand." — Bob Proctor"
 </em></p>
 
 ---
