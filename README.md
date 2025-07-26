@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the past steal your present." — Cherralea Morgen"
+  ""Where we fall are the stepping-stones for our journey." — Lolly Daskal"
 </em></p>
 
 ---
