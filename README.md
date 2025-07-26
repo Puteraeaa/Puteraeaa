@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wrong turns are as important as right turns. More important, sometimes." — Richard Bach"
+  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
 </em></p>
 
 ---
