@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You're never given a dream without also being given the power to make it true." — Richard Bach"
+  ""You can't build a reputation on what you are going to do. " — Henry Ford"
 </em></p>
 
 ---
