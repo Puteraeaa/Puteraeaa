@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing important is learned; it is simply remembered." — Carlos Ruiz Zafon"
+  ""If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed." — Mark Twain"
 </em></p>
 
 ---
