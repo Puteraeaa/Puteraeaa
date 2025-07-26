@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have as much laughter as you have faith." — Martin Luther"
+  ""Not all readers are leaders, but all leaders are readers." — Harry S. Truman"
 </em></p>
 
 ---
