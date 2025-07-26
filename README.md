@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ask no questions, and you'll be told no lies." — Charles Dickens"
+  ""Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino"
 </em></p>
 
 ---
