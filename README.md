@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you." — Jeffrey Gitomer"
+  ""Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie"
 </em></p>
 
 ---
