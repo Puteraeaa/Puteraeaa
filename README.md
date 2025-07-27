@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All you need is passion. If you have a passion for something, you'll create the talent." — Yanni"
+  ""It's not whether you get knocked down, its whether you get back up." — Vince Lombardi"
 </em></p>
 
 ---
