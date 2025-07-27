@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We know nothing of tomorrow, our business is to be good and happy today." — Sydney Smith"
+  ""If it entertains you now but will bore you someday, it's a distraction. Keep looking." — Naval Ravikant"
 </em></p>
 
 ---
