@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more I want to get something done, the less I call it work." — Richard Bach"
+  ""Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort." — Steve Harvey"
 </em></p>
 
 ---
