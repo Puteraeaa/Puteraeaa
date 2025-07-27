@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is consistency of thinking about what is possible and how to make it possible." — John Eliot"
+  ""To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb"
 </em></p>
 
 ---
