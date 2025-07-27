@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Empty your mind, be formless, shapeless, like water." — Bruce Lee"
+  ""All you need is passion. If you have a passion for something, you'll create the talent." — Yanni"
 </em></p>
 
 ---
