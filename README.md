@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your next step is simple. You are the first domino." — Gary Keller"
+  ""Facts are the enemy of truth. " — Miguel de Cervantes"
 </em></p>
 
 ---
