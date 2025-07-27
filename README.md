@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whether you have a problem in your life or not depends upon your own attitude, your own understanding." — Shunryu Suzuki"
+  ""If you see yourself as prosperous, you will be." — Robert Collier"
 </em></p>
 
 ---
