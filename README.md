@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie"
+  ""Today you are you, that is truer than true. There is no one alive who is you-er than you." — Dr. Seuss"
 </em></p>
 
 ---
