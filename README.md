@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freeing oneself from words is liberation. " — Bodhidharma"
+  ""If I can stop one heart from breaking, I shall not live in vain." — Emily Dickinson"
 </em></p>
 
 ---
