@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you see yourself as prosperous, you will be." — Robert Collier"
+  ""Embody what you teach, and teach only what you have embodied." — Dan Millman"
 </em></p>
 
 ---
