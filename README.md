@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions." — Criss Jami"
+  ""Before you can see the Light, you have to deal with the darkness." — Dan Millman"
 </em></p>
 
 ---
