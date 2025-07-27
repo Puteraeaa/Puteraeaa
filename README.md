@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't be afraid to give up the good to go for the great." — John D. Rockefeller"
+  ""Whether you have a problem in your life or not depends upon your own attitude, your own understanding." — Shunryu Suzuki"
 </em></p>
 
 ---
