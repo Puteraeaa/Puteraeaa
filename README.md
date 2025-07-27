@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you are content to be simply yourself and don't compare or compete, everybody will respect you. " — Lao Tzu"
+  ""Don't cry because it's over. Smile because it happened." — Dr. Seuss"
 </em></p>
 
 ---
