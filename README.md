@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb"
+  ""Don't be afraid to give up the good to go for the great." — John D. Rockefeller"
 </em></p>
 
 ---
