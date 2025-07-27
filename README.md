@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you consider things like the stars, our affairs don't seem to matter very much, do they?" — Virginia Woolf"
+  ""Confidence is consistency of thinking about what is possible and how to make it possible." — John Eliot"
 </em></p>
 
 ---
