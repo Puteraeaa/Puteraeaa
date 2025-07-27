@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today you are you, that is truer than true. There is no one alive who is you-er than you." — Dr. Seuss"
+  ""Give a girl the right shoes, and she can conquer the world." — Bette Midler"
 </em></p>
 
 ---
