@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To become what you are not, behave as you do not." — T.S. Eliot"
+  ""When you consider things like the stars, our affairs don't seem to matter very much, do they?" — Virginia Woolf"
 </em></p>
 
 ---
