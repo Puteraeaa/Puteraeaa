@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I'd rather welcome change than cling to the past." — Robert Kiyosaki"
+  ""Empty your mind, be formless, shapeless, like water." — Bruce Lee"
 </em></p>
 
 ---
