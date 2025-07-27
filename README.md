@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort." — Steve Harvey"
+  ""Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions." — Criss Jami"
 </em></p>
 
 ---
