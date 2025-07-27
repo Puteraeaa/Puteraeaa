@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There exists only the present instant; a Now which always and without end is itself new." — Meister Eckhart"
+  ""In the middle of chaos lies opportunity.  " — Bruce Lee"
 </em></p>
 
 ---
