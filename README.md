@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The important thing is not what one is born with but what use one makes of that equipment." — Alfred Adler"
+  ""The more I want to get something done, the less I call it work." — Richard Bach"
 </em></p>
 
 ---
