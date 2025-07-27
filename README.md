@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant"
+  ""Fear does not have any special power unless you empower it by submitting to it." — Les Brown"
 </em></p>
 
 ---
