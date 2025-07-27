@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before you can see the Light, you have to deal with the darkness." — Dan Millman"
+  ""By seeking and blundering we learn." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
