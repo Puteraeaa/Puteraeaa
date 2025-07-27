@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perfection is not attainable, but if we chase perfection we can catch excellence." — Vince Lombardi"
+  ""There exists only the present instant; a Now which always and without end is itself new." — Meister Eckhart"
 </em></p>
 
 ---
