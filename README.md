@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The great use of life is to spend it for something that will outlast it." — William James"
+  ""I dream my painting and I paint my dream." — Vincent van Gogh"
 </em></p>
 
 ---
