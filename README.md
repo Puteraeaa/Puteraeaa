@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Beauty is not in the face; beauty is a light in the heart." — Kahlil Gibran"
+  ""Each path to knowledge involves different rules and these rules are not interchangeable." — Barack Obama"
 </em></p>
 
 ---
