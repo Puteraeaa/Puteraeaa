@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you always do what you've always done, you'll always get what you've always got. " — Henry Ford"
+  ""Every time we liberate a woman, we liberate a man. " — Margaret Mead"
 </em></p>
 
 ---
