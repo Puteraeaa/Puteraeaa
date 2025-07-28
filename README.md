@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are patient in one moment of anger, you will escape a hundred days of sorrow. " — Chinese Proverb"
+  ""As you think, you travel, and as you love, you attract." — James Allen"
 </em></p>
 
 ---
