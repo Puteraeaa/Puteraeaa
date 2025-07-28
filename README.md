@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." — Alexander Graham Bell"
+  ""Anything becomes interesting if you look at it long enough.." — Gustave Flaubert"
 </em></p>
 
 ---
