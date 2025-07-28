@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination." — Elbert Hubbard"
+  ""If you don't know where you're going, you will probably end up somewhere else." — Laurence J. Peter"
 </em></p>
 
 ---
