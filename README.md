@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each path to knowledge involves different rules and these rules are not interchangeable." — Barack Obama"
+  ""If you always do what you've always done, you'll always get what you've always got. " — Henry Ford"
 </em></p>
 
 ---
