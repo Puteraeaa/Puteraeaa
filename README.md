@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." — Richard Bach"
+  ""Don't set your own goals by what other people make important." — Lolly Daskal"
 </em></p>
 
 ---
