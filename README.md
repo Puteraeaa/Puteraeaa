@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can avoid reality, but you cannot avoid the consequences of avoiding reality." — Ayn Rand"
+  ""Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po"
 </em></p>
 
 ---
