@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are the average of the five people you spend most time with." — Jim Rohn"
+  ""Some people find fault like there is a reward for it.  " — Zig Ziglar"
 </em></p>
 
 ---
