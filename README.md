@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it." — Gurbaksh Chahal"
+  ""The question isn't who is going to let me; it's who is going to stop me." — Ayn Rand"
 </em></p>
 
 ---
