@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Outstanding people have one thing in common: an absolute sense of mission.  " — Zig Ziglar"
+  ""If you don't find the time, if you don't do the work, you don't get the results." — Arnold Schwarzenegger"
 </em></p>
 
 ---
