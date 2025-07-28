@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't set your own goals by what other people make important." — Lolly Daskal"
+  ""The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination." — Elbert Hubbard"
 </em></p>
 
 ---
