@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." — Amelia Earhart"
+  ""It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it." — Gurbaksh Chahal"
 </em></p>
 
 ---
