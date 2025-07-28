@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All problems are illusions of the mind." — Eckhart Tolle"
+  ""Your heart is the size of an ocean. Go find yourself in its hidden depths." — Rumi"
 </em></p>
 
 ---
