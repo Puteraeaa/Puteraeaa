@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way." — Kamal Ravikant"
+  ""If you can see it in your mind, you can hold it in your mind." — Steve Harvey"
 </em></p>
 
 ---
