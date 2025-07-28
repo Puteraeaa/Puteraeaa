@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anything becomes interesting if you look at it long enough.." — Gustave Flaubert"
+  ""Progress is limited by your ability to change your mind." — Jack Butcher"
 </em></p>
 
 ---
