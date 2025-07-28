@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po"
+  ""All problems are illusions of the mind." — Eckhart Tolle"
 </em></p>
 
 ---
