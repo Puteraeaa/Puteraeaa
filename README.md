@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All problems are illusions of the mind." — Eckhart Tolle"
+  ""The future is no more uncertain than the present." — Walt Whitman"
 </em></p>
 
 ---
