@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't find the time, if you don't do the work, you don't get the results." — Arnold Schwarzenegger"
+  ""Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." — Ralph Marston"
 </em></p>
 
 ---
