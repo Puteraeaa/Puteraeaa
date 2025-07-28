@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The question isn't who is going to let me; it's who is going to stop me." — Ayn Rand"
+  ""If you are patient in one moment of anger, you will escape a hundred days of sorrow. " — Chinese Proverb"
 </em></p>
 
 ---
