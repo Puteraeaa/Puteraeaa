@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No great mind has ever existed without a touch of madness." — Aristotle"
+  ""A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." — Amelia Earhart"
 </em></p>
 
 ---
