@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time stays long enough for anyone who will use it." — Leonardo da Vinci"
+  ""Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." — Alexander Graham Bell"
 </em></p>
 
 ---
