@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What's the point in being smart enough to read, if everything you read makes you dumb?" — C. Sean McGee"
+  ""The only way out is through." — Robert Frost"
 </em></p>
 
 ---
