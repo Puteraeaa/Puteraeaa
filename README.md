@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every failure brings with it the seed of an equivalent success." — Napoleon Hill"
+  ""No great mind has ever existed without a touch of madness." — Aristotle"
 </em></p>
 
 ---
