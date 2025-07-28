@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress is limited by your ability to change your mind." — Jack Butcher"
+  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
 </em></p>
 
 ---
