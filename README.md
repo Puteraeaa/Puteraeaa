@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." — Lao Tzu"
+  ""There are two kinds of perfect people: those who are dead, and those who have not been born yet." — Chinese Proverb"
 </em></p>
 
 ---
