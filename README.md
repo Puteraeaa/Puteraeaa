@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The soul is neither born, and nor does it die." — Bhagavad Gita"
+  ""Sometimes you have to shut your eyes, so you can see the real beauty." — Kilian Jornet"
 </em></p>
 
 ---
