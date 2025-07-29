@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be in harmony with the wholeness of things is not to have anxiety over imperfections." — Dogen"
+  ""Nature is pleased with simplicity. And nature is no dummy." — Isaac Newton"
 </em></p>
 
 ---
