@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The less you try to impress, the more peaceful you can be." — Maxime Lagace"
+  ""Memory is the scribe of the soul." — Aristotle"
 </em></p>
 
 ---
