@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You just can't beat the person who never gives up. " — Babe Ruth"
+  ""Cherish forever what makes you unique, cuz you're really a yawn if it goes." — Bette Midler"
 </em></p>
 
 ---
