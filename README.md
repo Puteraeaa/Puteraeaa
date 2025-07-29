@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life happens in the river, not the shore." — Maxime Lagace"
+  ""Fool me once, shame on you; fool me twice, shame on me. " — Chinese Proverb"
 </em></p>
 
 ---
