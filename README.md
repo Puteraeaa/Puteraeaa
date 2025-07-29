@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes you have to shut your eyes, so you can see the real beauty." — Kilian Jornet"
+  ""The less you try to impress, the more peaceful you can be." — Maxime Lagace"
 </em></p>
 
 ---
