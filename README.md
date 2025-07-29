@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before anything else, preparation is the key to success." — Alexander Graham Bell"
+  ""The nearer a man comes to a calm mind, the closer he is to strength." — Marcus Aurelius"
 </em></p>
 
 ---
