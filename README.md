@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want." — Tony Robbins"
+  ""You just can't beat the person who never gives up. " — Babe Ruth"
 </em></p>
 
 ---
