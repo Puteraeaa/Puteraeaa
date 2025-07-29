@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Aim for the moon. If you miss, you may hit a star." — W. Clement Stone"
+  ""To be in harmony with the wholeness of things is not to have anxiety over imperfections." — Dogen"
 </em></p>
 
 ---
