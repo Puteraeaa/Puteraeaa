@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Cherish forever what makes you unique, cuz you're really a yawn if it goes." — Bette Midler"
+  ""Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT." — Deepak Chopra"
 </em></p>
 
 ---
