@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar"
+  ""Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." — Lao Tzu"
 </em></p>
 
 ---
