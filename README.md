@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life has no limitations except the ones you make." — Les Brown"
+  ""Success is about doing the right thing, not about doing everything right." — Gary Keller"
 </em></p>
 
 ---
