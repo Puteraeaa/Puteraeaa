@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never let the things you can't do stop you from doing what you can." — Ronald Reagan"
+  ""Life has no limitations except the ones you make." — Les Brown"
 </em></p>
 
 ---
