@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be thankful for everything that happens in your life; it's all an experience." — Roy T. Bennett"
+  ""Do one thing every day that scares you." — Eleanor Roosevelt"
 </em></p>
 
 ---
