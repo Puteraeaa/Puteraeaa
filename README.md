@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life and the simple beauty of it is too good to pass up." — Christopher McCandless"
+  ""We have no more right to consume happiness without producing it than to consume wealth without producing it." — George Bernard Shaw"
 </em></p>
 
 ---
