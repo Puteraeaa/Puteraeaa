@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must not sit down and wait for miracles. Up and be going!" — John Eliot"
+  ""The opportunity of defeating the enemy is provided by the enemy himself." — Sun Tzu"
 </em></p>
 
 ---
