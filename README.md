@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fool me once, shame on you; fool me twice, shame on me. " — Chinese Proverb"
+  ""It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore"
 </em></p>
 
 ---
