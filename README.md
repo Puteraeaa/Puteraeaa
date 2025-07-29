@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do one thing every day that scares you." — Eleanor Roosevelt"
+  ""In order to control myself I must first accept myself by going with and not against my nature." — Bruce Lee"
 </em></p>
 
 ---
