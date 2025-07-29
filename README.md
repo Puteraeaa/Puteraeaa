@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The nearer a man comes to a calm mind, the closer he is to strength." — Marcus Aurelius"
+  ""Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar"
 </em></p>
 
 ---
