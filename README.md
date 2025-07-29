@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For the things we have to learn before we can do them, we learn by doing them." — Aristotle"
+  ""We must not sit down and wait for miracles. Up and be going!" — John Eliot"
 </em></p>
 
 ---
