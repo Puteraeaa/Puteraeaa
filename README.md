@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True knowledge exists in knowing that you know nothing." — Socrates"
+  ""The soul is neither born, and nor does it die." — Bhagavad Gita"
 </em></p>
 
 ---
