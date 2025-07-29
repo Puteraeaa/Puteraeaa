@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only way out is through." — Robert Frost"
+  ""We will act consistently with our view of who we truly are, whether that view is accurate or not." — Tony Robbins"
 </em></p>
 
 ---
