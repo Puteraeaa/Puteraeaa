@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The opportunity of defeating the enemy is provided by the enemy himself." — Sun Tzu"
+  ""Life and the simple beauty of it is too good to pass up." — Christopher McCandless"
 </em></p>
 
 ---
