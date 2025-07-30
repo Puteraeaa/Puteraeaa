@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." — Naval Ravikant"
+  ""Loving thoughts and actions are clearly beneficial for our physical and mental health." — Dalai Lama"
 </em></p>
 
 ---
