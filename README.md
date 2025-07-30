@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For changes to be of any true value, they've got to be lasting and consistent." — Tony Robbins"
+  ""A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett"
 </em></p>
 
 ---
