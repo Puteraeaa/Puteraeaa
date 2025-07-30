@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be true to yourself, help others, make each day your masterpiece" — John Wooden"
+  ""Wise people, even though all laws were abolished, would still lead the same life." — Aristophanes"
 </em></p>
 
 ---
