@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When it is dark enough, you can see the stars." — Ralph Waldo Emerson"
+  ""Closing your eyes and listening to silence is self-care." — Maxime Lagace"
 </em></p>
 
 ---
