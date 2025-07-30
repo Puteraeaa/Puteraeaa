@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " — Denis Waitley"
+  ""When it is dark enough, you can see the stars." — Ralph Waldo Emerson"
 </em></p>
 
 ---
