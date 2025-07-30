@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I alone cannot change the world, but I can cast a stone across the waters to create many ripples." — Mother Teresa"
+  ""For changes to be of any true value, they've got to be lasting and consistent." — Tony Robbins"
 </em></p>
 
 ---
