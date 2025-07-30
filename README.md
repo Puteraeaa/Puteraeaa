@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man should do his job so well that the living, the dead, and the unborn could do it no better." — Martin Luther King, Jr."
+  ""If there's a definition of freedom, I think it's this: living life on your terms." — Kamal Ravikant"
 </em></p>
 
 ---
