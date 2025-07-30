@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins"
+  ""The chief enemy of creativity is good sense." — Pablo Picasso"
 </em></p>
 
 ---
