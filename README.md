@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We would accomplish many more things if we did not think of them as impossible." — Vince Lombardi"
+  ""I alone cannot change the world, but I can cast a stone across the waters to create many ripples." — Mother Teresa"
 </em></p>
 
 ---
