@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Here and now...breathe and relax...in battle and in life." — Dan Millman"
+  ""Happiness cannot be traveled to, owned, earned, worn or consumed." — Denis Waitley"
 </em></p>
 
 ---
