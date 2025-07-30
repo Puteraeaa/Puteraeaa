@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If there's a definition of freedom, I think it's this: living life on your terms." — Kamal Ravikant"
+  ""In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes"
 </em></p>
 
 ---
