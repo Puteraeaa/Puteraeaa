@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Obstacles are those frightful things you see when you take your eyes off your goals." — Sydney Smith"
+  ""When the world pushes you to your knees, you're in the perfect position to pray." — Rumi"
 </em></p>
 
 ---
