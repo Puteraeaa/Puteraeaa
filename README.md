@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When we allow negative messages to fester in our head, they take on a life of their own." — Lolly Daskal"
+  ""Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win." — Stephen King"
 </em></p>
 
 ---
