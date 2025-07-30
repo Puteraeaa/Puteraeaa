@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Loving thoughts and actions are clearly beneficial for our physical and mental health." — Dalai Lama"
+  ""When we allow negative messages to fester in our head, they take on a life of their own." — Lolly Daskal"
 </em></p>
 
 ---
