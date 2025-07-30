@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron"
+  ""Your next step is simple. You are the first domino." — Gary Keller"
 </em></p>
 
 ---
