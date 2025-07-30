@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT." — Deepak Chopra"
+  ""Don't worry about being successful, but work toward being significant and the success will naturally follow." — Oprah Winfrey"
 </em></p>
 
 ---
