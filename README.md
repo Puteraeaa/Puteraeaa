@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  " — Jack Kerouac"
+  ""Here and now...breathe and relax...in battle and in life." — Dan Millman"
 </em></p>
 
 ---
