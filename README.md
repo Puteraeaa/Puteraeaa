@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wise people, even though all laws were abolished, would still lead the same life." — Aristophanes"
+  ""Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron"
 </em></p>
 
 ---
