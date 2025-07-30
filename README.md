@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Adventure is not outside man; it is within." — George Eliot"
+  ""Unhappiness enters through a door that has been left open." — Zen Proverb"
 </em></p>
 
 ---
