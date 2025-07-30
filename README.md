@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett"
+  ""Life must be a constant education; one must learn everything, from speaking to dying." — Gustave Flaubert"
 </em></p>
 
 ---
