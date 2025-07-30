@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes"
+  ""It's easy to be a critic, but being a doer requires effort, risk, and change.  " — Wayne Dyer"
 </em></p>
 
 ---
