@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness cannot be traveled to, owned, earned, worn or consumed." — Denis Waitley"
+  ""Obstacles are those frightful things you see when you take your eyes off your goals." — Sydney Smith"
 </em></p>
 
 ---
