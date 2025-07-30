@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win." — Stephen King"
+  ""Either you run the day or the day runs you." — Jim Rohn"
 </em></p>
 
 ---
