@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life must be a constant education; one must learn everything, from speaking to dying." — Gustave Flaubert"
+  ""Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know." — Colin Powell"
 </em></p>
 
 ---
