@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men trust their ears less than their eyes." — Herodotus"
+  ""If you are ever the smartest person in the room, you are in the wrong room." — C. Sean McGee"
 </em></p>
 
 ---
