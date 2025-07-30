@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's easy to be a critic, but being a doer requires effort, risk, and change.  " — Wayne Dyer"
+  ""Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know." — Colin Powell"
 </em></p>
 
 ---
