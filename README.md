@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be happy in the moment, that's enough. Each moment is all we need, not more." — Mother Teresa"
+  ""Men trust their ears less than their eyes." — Herodotus"
 </em></p>
 
 ---
