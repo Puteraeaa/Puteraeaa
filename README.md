@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The biggest challenge after success is shutting up about it." — Criss Jami"
+  ""Repetition does not transform a lie into a truth." — Franklin D. Roosevelt"
 </em></p>
 
 ---
