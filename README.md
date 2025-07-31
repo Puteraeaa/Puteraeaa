@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Faith means believing the unbelievable." — Gilbert Chesterton"
+  ""There are no limitations to the mind except those we acknowledge..." — Napoleon Hill"
 </em></p>
 
 ---
