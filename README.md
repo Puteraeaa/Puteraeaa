@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have a brain and mind of your own. Use it, and reach your own decisions." — Napoleon Hill"
+  ""Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford"
 </em></p>
 
 ---
