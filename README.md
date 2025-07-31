@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowing is not enough, we must apply. Willing is not enough, we must do.  " — Bruce Lee"
+  ""You have a brain and mind of your own. Use it, and reach your own decisions." — Napoleon Hill"
 </em></p>
 
 ---
