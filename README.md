@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Things do not have meaning. We assign meaning to everything." — Tony Robbins"
+  ""The road to success is always under construction.." — Lily Tomlin"
 </em></p>
 
 ---
