@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""An investment in knowledge pays the best interest." — Benjamin Franklin"
+  ""The divine is not something high above us. It is in heaven, it is in earth, it is inside us." — Morihei Ueshiba"
 </em></p>
 
 ---
