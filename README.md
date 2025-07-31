@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What the eye doesn't see and the mind doesn't know, doesn't exist." — D. H. Lawrence"
+  ""You need to be doing fewer things for more effect instead of doing more things with side effects." — Gary Keller"
 </em></p>
 
 ---
