@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The prettiest eyes have cried the most." — Unknown"
+  ""To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
