@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is startling to realize how much unbelief is necessary to make belief possible." — Eric Hoffer"
+  ""He is richest who is content with the least, for content is the wealth of nature." — Socrates"
 </em></p>
 
 ---
