@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some." — Charles Dickens"
+  ""An investment in knowledge pays the best interest." — Benjamin Franklin"
 </em></p>
 
 ---
