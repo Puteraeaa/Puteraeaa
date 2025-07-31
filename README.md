@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can calculate the worth of a man by the number of his enemies." — Gustave Flaubert"
+  ""A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view." — Alfred Adler"
 </em></p>
 
 ---
