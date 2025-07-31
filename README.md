@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The power of man has grown in every sphere, except over himself." — Winston Churchill"
+  ""Getting lost along your path is a part of finding the path you are meant to be on." — Robin Sharma"
 </em></p>
 
 ---
