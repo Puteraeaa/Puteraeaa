@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever." — Aristophanes"
+  ""Nothing is more real than nothing." — Samuel Beckett"
 </em></p>
 
 ---
