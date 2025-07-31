@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is simply the opportunity to begin again, this time more intelligently." — Henry Ford"
+  ""The more you are motivated by Love, The more Fearless & Free your action will be." — Dalai Lama"
 </em></p>
 
 ---
