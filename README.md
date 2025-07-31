@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You need to be doing fewer things for more effect instead of doing more things with side effects." — Gary Keller"
+  ""Thinking is the hardest work there is. That is why so few people engage in it." — Robert Kiyosaki"
 </em></p>
 
 ---
