@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view." — Alfred Adler"
+  ""I am thankful to all those who said no. It's because of them, I did it myself.  " — Wayne Dyer"
 </em></p>
 
 ---
