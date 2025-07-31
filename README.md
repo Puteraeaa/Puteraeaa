@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am thankful to all those who said no. It's because of them, I did it myself.  " — Wayne Dyer"
+  ""Things do not have meaning. We assign meaning to everything." — Tony Robbins"
 </em></p>
 
 ---
