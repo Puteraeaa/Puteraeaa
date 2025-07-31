@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Repetition does not transform a lie into a truth." — Franklin D. Roosevelt"
+  ""The prettiest eyes have cried the most." — Unknown"
 </em></p>
 
 ---
