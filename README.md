@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Thinking is the hardest work there is. That is why so few people engage in it." — Robert Kiyosaki"
+  ""Faith means believing the unbelievable." — Gilbert Chesterton"
 </em></p>
 
 ---
