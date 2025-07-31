@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" — Seneca"
+  ""It is startling to realize how much unbelief is necessary to make belief possible." — Eric Hoffer"
 </em></p>
 
 ---
