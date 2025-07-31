@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Passion is energy. Feel the power that comes from focusing on what excites you. " — Oprah Winfrey"
+  ""Believe and you're halfway there." — Harry S. Truman"
 </em></p>
 
 ---
