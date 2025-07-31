@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not use life to give life to death. Do not use death to bring death to life." — Zhuangzi"
+  ""The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts"
 </em></p>
 
 ---
