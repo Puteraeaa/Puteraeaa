@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." — Steve Maraboli"
+  ""It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins"
 </em></p>
 
 ---
