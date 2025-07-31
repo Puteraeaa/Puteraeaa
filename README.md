@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What would life be if we had no courage to attempt anything? " — Vincent van Gogh"
+  ""Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever." — Aristophanes"
 </em></p>
 
 ---
