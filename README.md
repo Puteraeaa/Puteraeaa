@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is in your moments of decision that your destiny is shaped." — Tony Robbins"
+  ""Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." — Steve Maraboli"
 </em></p>
 
 ---
