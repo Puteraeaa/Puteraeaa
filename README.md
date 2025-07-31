@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I succeeded by saying what everyone else is thinking." — Joan Rivers"
+  ""The merit of all things lies in their difficulty." — Alexandre Dumas"
 </em></p>
 
 ---
