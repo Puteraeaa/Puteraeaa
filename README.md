@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you are motivated by Love, The more Fearless & Free your action will be." — Dalai Lama"
+  ""The biggest challenge after success is shutting up about it." — Criss Jami"
 </em></p>
 
 ---
