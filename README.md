@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The divine is not something high above us. It is in heaven, it is in earth, it is inside us." — Morihei Ueshiba"
+  ""Do not use life to give life to death. Do not use death to bring death to life." — Zhuangzi"
 </em></p>
 
 ---
