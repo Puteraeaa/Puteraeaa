@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Enjoy every minute of life. Never second-guess life." — Michael Jordan"
+  ""The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves." — Brian Tracy"
 </em></p>
 
 ---
