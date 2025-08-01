@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The merit of all things lies in their difficulty." — Alexandre Dumas"
+  ""Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more." — Steve Harvey"
 </em></p>
 
 ---
