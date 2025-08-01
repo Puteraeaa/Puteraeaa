@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Information changes your mind. Action changes your circumstances." — Jack Butcher"
+  ""To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb"
 </em></p>
 
 ---
