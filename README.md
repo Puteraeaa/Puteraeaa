@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine." — Brian Tracy"
+  ""Life is a journey, not a destination." — Dan Millman"
 </em></p>
 
 ---
