@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to learn late than never." — Publilius Syrus"
+  ""To perceive is to suffer." — Aristotle"
 </em></p>
 
 ---
