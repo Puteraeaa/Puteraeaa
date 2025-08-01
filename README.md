@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change will not come if we wait for some other person, or if we wait for some other time." — Barack Obama"
+  ""Every experience is a lesson. Every loss is a gain." — Sathya Sai Baba"
 </em></p>
 
 ---
