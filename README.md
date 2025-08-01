@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't know where you're going, you will probably end up somewhere else." — Laurence J. Peter"
+  ""Poverty and hardship are created by false thinking." — Bodhidharma"
 </em></p>
 
 ---
