@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no differences but differences of degree between different degrees of difference and no difference." — William James"
+  ""Most of us will do anything to avoid facing ourselves." — Lolly Daskal"
 </em></p>
 
 ---
