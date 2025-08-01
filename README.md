@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom itself demands discomfort." — Mark Manson"
+  ""A person is only by the thoughts that he chooses." — James Allen"
 </em></p>
 
 ---
