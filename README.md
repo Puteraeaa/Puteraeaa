@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind." — F. Scott Fitzgerald"
+  ""An intelligent person hires people who are more intelligent than he is." — Robert Kiyosaki"
 </em></p>
 
 ---
