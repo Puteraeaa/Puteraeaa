@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not why the addiction but why the pain." — Gabor Mate"
+  ""Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving." — Yanni"
 </em></p>
 
 ---
