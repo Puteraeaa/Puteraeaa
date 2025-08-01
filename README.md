@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb"
+  ""Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success." — Robert Kiyosaki"
 </em></p>
 
 ---
