@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most of us will do anything to avoid facing ourselves." — Lolly Daskal"
+  ""Human beings believe just as they breathe - in order to survive." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
