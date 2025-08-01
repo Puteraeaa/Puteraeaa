@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not whether you get knocked down, its whether you get back up." — Vince Lombardi"
+  ""To create more positive results in your life, replace 'if only' with 'next time'." — Celestine Chua"
 </em></p>
 
 ---
