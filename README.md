@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more." — Steve Harvey"
+  ""Change will not come if we wait for some other person, or if we wait for some other time." — Barack Obama"
 </em></p>
 
 ---
