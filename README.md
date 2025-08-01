@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If someone betrays you once, it's their fault; if they betray you twice, it's your fault." — Eleanor Roosevelt"
+  ""It is better to learn late than never." — Publilius Syrus"
 </em></p>
 
 ---
