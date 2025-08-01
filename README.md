@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can change our lives. We can do, have, and be exactly what we wish." — Tony Robbins"
+  ""Help others achieve their dreams and you will achieve yours." — Les Brown"
 </em></p>
 
 ---
