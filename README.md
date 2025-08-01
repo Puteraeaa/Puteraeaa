@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Human beings believe just as they breathe - in order to survive." — Carlos Ruiz Zafon"
+  ""People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine." — Brian Tracy"
 </em></p>
 
 ---
