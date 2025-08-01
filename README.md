@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a journey, not a destination." — Dan Millman"
+  ""We can change our lives. We can do, have, and be exactly what we wish." — Tony Robbins"
 </em></p>
 
 ---
