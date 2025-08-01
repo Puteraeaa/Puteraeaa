@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""An intelligent person hires people who are more intelligent than he is." — Robert Kiyosaki"
+  ""Heal the past, live the present, dream the future." — Mary Engelbreit"
 </em></p>
 
 ---
