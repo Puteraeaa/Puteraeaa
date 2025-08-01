@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may delay, but time will not." — Benjamin Franklin"
+  ""The score never interested me, only the game." — Mae West"
 </em></p>
 
 ---
