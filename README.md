@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Poverty and hardship are created by false thinking." — Bodhidharma"
+  ""It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." — Roy T. Bennett"
 </em></p>
 
 ---
