@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." — Roy T. Bennett"
+  ""Enjoy every minute of life. Never second-guess life." — Michael Jordan"
 </em></p>
 
 ---
