@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A person is only by the thoughts that he chooses." — James Allen"
+  ""If someone betrays you once, it's their fault; if they betray you twice, it's your fault." — Eleanor Roosevelt"
 </em></p>
 
 ---
