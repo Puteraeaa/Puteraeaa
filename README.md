@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For things to change, you have to change." — Jim Rohn"
+  ""It's the unknown we fear when we look upon death and darkness, nothing more." — Albus Dumbledore"
 </em></p>
 
 ---
