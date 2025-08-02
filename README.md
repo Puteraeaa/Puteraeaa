@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami"
+  ""The difference between impossible and possible is a willing heart." — Lolly Daskal"
 </em></p>
 
 ---
