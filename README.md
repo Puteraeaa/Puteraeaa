@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." — Martin Luther King, Jr."
+  ""If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success." — Mark Manson"
 </em></p>
 
 ---
