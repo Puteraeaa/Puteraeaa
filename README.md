@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To succeed takes more than the desire to win. It also takes the acceptance that we could fail." — Simon Sinek"
+  ""We forge the chains we wear in life." — Charles Dickens"
 </em></p>
 
 ---
