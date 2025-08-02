@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life moves on and so should we." — Spencer Johnson"
+  ""Rewards and punishment is the lowest form of education." — Zhuangzi"
 </em></p>
 
 ---
