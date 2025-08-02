@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some men see things as they are and ask why. Others dream things that never were and ask why not." — George Bernard Shaw"
+  ""For things to change, you have to change." — Jim Rohn"
 </em></p>
 
 ---
