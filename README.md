@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It does not do to dwell on dreams and forget to live, remember that." — Albus Dumbledore"
+  ""People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love." — Dr. Seuss"
 </em></p>
 
 ---
