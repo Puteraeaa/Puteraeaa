@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be happy in the moment, that's enough. Each moment is all we need, not more." — Mother Teresa"
+  ""Confidence is what you have before you understand the problem." — Woody Allen"
 </em></p>
 
 ---
