@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose." — Celestine Chua"
+  ""If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." — Martin Luther King, Jr."
 </em></p>
 
 ---
