@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear, uncertainty, and discomfort are your compasses toward growth." — Celestine Chua"
+  ""Peaceful is the one who expects nothing." — Maxime Lagace"
 </em></p>
 
 ---
