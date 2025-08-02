@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." — Zig Ziglar"
+  ""The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." — Josh Waitzkin"
 </em></p>
 
 ---
