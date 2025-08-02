@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Many people will walk in and out of your life, but only true friends will leave footprints in your heart." — Eleanor Roosevelt"
+  ""Love is the expression of one's values." — Ayn Rand"
 </em></p>
 
 ---
