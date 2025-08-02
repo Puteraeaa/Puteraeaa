@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't want anything. Then you get everything." — Seungsahn"
+  ""Fear, uncertainty, and discomfort are your compasses toward growth." — Celestine Chua"
 </em></p>
 
 ---
