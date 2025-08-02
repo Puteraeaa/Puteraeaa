@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress is limited by your ability to change your mind." — Jack Butcher"
+  ""When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar"
 </em></p>
 
 ---
