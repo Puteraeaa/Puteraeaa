@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rewards and punishment is the lowest form of education." — Zhuangzi"
+  ""Motivation gets you going and habit gets you there.  " — Zig Ziglar"
 </em></p>
 
 ---
