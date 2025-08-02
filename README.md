@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A scientific man ought to have no wishes, no affections, - a mere heart of stone." — Charles Darwin"
+  ""Be happy in the moment, that's enough. Each moment is all we need, not more." — Mother Teresa"
 </em></p>
 
 ---
