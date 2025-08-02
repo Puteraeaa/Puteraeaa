@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man can get rich himself unless he enriches others." — Earl Nightingale"
+  ""If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." — Mark Twain"
 </em></p>
 
 ---
