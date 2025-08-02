@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others." — Dalai Lama"
+  ""All that a man achieves and all that he fails to achieve is the direct result of his own thoughts." — James Allen"
 </em></p>
 
 ---
