@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The difference between impossible and possible is a willing heart." — Lolly Daskal"
+  ""Be yourself; everyone else is already taken." — Oscar Wilde"
 </em></p>
 
 ---
