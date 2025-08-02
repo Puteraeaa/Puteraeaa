@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are what you believe in. You become that which you believe you can become." — Bhagavad Gita"
+  ""When you are content to be simply yourself and don't compare or compete, everybody will respect you. " — Lao Tzu"
 </em></p>
 
 ---
