@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." — Mark Twain"
+  ""When you win, say nothing, when you lose say less." — Wayne Gretzky"
 </em></p>
 
 ---
