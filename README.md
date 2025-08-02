@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be yourself; everyone else is already taken." — Oscar Wilde"
+  ""It does not do to dwell on dreams and forget to live, remember that." — Albus Dumbledore"
 </em></p>
 
 ---
