@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar"
+  ""FOCUS - Follow One Course Until Successful" — Robert Kiyosaki"
 </em></p>
 
 ---
