@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you win, say nothing, when you lose say less." — Wayne Gretzky"
+  ""Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami"
 </em></p>
 
 ---
