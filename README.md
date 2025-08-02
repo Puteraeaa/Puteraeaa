@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love is the expression of one's values." — Ayn Rand"
+  ""It still holds true that man is most uniquely human when he turns obstacles into opportunities." — Eric Hoffer"
 </em></p>
 
 ---
