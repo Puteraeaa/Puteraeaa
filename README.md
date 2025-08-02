@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All that a man achieves and all that he fails to achieve is the direct result of his own thoughts." — James Allen"
+  ""Rather than love, than money, than fame, give me truth." — Henry David Thoreau"
 </em></p>
 
 ---
