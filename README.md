@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All problems are illusions of the mind." — Eckhart Tolle"
+  ""If we did all the things we are capable of, we would literally astound ourselves." — Thomas Edison"
 </em></p>
 
 ---
