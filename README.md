@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My sun sets to rise again." — Robert Browning"
+  ""Pain doesn't last. And when it's gone, we have something to show for it. Growth." — Kamal Ravikant"
 </em></p>
 
 ---
