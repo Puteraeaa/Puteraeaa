@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all in the gutter, but some of us are looking at the stars. " — Oscar Wilde"
+  ""Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." — Lao Tzu"
 </em></p>
 
 ---
