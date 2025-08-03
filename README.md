@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't Let Yesterday Take Up Too Much Of Today." — Will Rogers"
+  ""It is safer to search in the maze than to remain in a cheeseless situation." — Spencer Johnson"
 </em></p>
 
 ---
