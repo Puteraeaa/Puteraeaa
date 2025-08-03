@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we did all the things we are capable of, we would literally astound ourselves." — Thomas Edison"
+  ""Sometimes success isn't about making the right decision, it's more about making some decision." — Robin Sharma"
 </em></p>
 
 ---
