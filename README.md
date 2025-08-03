@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do anything, but let it produce joy." — Walt Whitman"
+  ""All men who have achieved great things have been great dreamers. " — Orison Swett Marden"
 </em></p>
 
 ---
