@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I love myself I love you. If I love you I love myself." — Rumi"
+  ""You drown not by falling into a river, but by staying submerged in it." — Paulo Coelho"
 </em></p>
 
 ---
