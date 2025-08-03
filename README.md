@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peaceful is the one who expects nothing." — Maxime Lagace"
+  ""In nature there is no alienation. Everything belongs." — Ming-Dao Deng"
 </em></p>
 
 ---
