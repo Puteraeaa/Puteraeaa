@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All men who have achieved great things have been great dreamers. " — Orison Swett Marden"
+  ""Don't Let Yesterday Take Up Too Much Of Today." — Will Rogers"
 </em></p>
 
 ---
