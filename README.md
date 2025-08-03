@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man becomes rich unless he enriches others." — Andrew Carnegie"
+  ""Integrity is the ability to stand by an idea." — Ayn Rand"
 </em></p>
 
 ---
