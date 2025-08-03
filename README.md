@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Instead of being intimidated by the limitations, be inspired to find new ways around them." — Ralph Marston"
+  ""Men are disturbed not by things, but by the view which they take of them." — Epictetus"
 </em></p>
 
 ---
