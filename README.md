@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Generosity is giving more than you can, and pride is taking less than you need." — Kahlil Gibran"
+  ""Turn your face to the sun, as flowers know how to do." — Ming-Dao Deng"
 </em></p>
 
 ---
