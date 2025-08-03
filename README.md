@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In nature there is no alienation. Everything belongs." — Ming-Dao Deng"
+  ""You'll see it when you believe it. " — Wayne Dyer"
 </em></p>
 
 ---
