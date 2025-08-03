@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You become a worrier by practicing worry. You become free of worry by practicing the opposite." — Norman Vincent Peale"
+  ""My sun sets to rise again." — Robert Browning"
 </em></p>
 
 ---
