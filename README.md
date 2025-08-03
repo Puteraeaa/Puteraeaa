@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""So long as we are being remembered, we remain alive." — Carlos Ruiz Zafon"
+  ""Do every act of your life as if it were your last." — Marcus Aurelius"
 </em></p>
 
 ---
