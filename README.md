@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Pain doesn't last. And when it's gone, we have something to show for it. Growth." — Kamal Ravikant"
+  ""Great minds are always feared by lesser minds." — Dan Brown"
 </em></p>
 
 ---
