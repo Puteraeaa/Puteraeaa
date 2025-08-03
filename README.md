@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We need never be ashamed of our tears." — Charles Dickens"
+  ""So long as we are being remembered, we remain alive." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
