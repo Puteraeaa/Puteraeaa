@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men are disturbed not by things, but by the view which they take of them." — Epictetus"
+  ""We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world." — Gabor Mate"
 </em></p>
 
 ---
