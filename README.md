@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You'll see it when you believe it. " — Wayne Dyer"
+  ""You become a worrier by practicing worry. You become free of worry by practicing the opposite." — Norman Vincent Peale"
 </em></p>
 
 ---
