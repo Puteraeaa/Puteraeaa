@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Turn your face to the sun, as flowers know how to do." — Ming-Dao Deng"
+  ""Great things are not accomplished by those who yield to trends and fads and popular opinion." — Jack Kerouac"
 </em></p>
 
 ---
