@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Would you rather learn to deal with the truth now than be forced to do so later on?" — Celestine Chua"
+  ""All problems are illusions of the mind." — Eckhart Tolle"
 </em></p>
 
 ---
