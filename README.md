@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Mind is the creator of everything. You should therefore guide it to create only good." — Paramahansa Yogananda"
+  ""The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind." — F. Scott Fitzgerald"
 </em></p>
 
 ---
