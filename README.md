@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remember that the best relationship is one in which your love for each other exceeds your need for each other." — Dalai Lama"
+  ""Paths are made by walking." — Franz Kafka"
 </em></p>
 
 ---
