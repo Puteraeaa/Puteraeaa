@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great minds are always feared by lesser minds." — Dan Brown"
+  ""We need never be ashamed of our tears." — Charles Dickens"
 </em></p>
 
 ---
