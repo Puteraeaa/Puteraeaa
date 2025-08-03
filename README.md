@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Integrity is the ability to stand by an idea." — Ayn Rand"
+  ""Do anything, but let it produce joy." — Walt Whitman"
 </em></p>
 
 ---
