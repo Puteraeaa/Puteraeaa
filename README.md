@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perpetual optimism is a force multiplier." — Colin Powell"
+  ""You will succeed because most people are lazy." — Shahir Zag"
 </em></p>
 
 ---
