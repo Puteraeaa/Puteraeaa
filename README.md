@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do every act of your life as if it were your last." — Marcus Aurelius"
+  ""No man becomes rich unless he enriches others." — Andrew Carnegie"
 </em></p>
 
 ---
