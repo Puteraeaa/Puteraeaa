@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." — Lao Tzu"
+  ""If I love myself I love you. If I love you I love myself." — Rumi"
 </em></p>
 
 ---
