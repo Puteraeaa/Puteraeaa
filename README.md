@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes success isn't about making the right decision, it's more about making some decision." — Robin Sharma"
+  ""Generosity is giving more than you can, and pride is taking less than you need." — Kahlil Gibran"
 </em></p>
 
 ---
