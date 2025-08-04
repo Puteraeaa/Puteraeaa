@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not all those who wander are lost." — J.R.R. Tolkien"
+  ""A clever person turns great troubles into little ones, and little ones into none at all. " — Chinese Proverb"
 </em></p>
 
 ---
