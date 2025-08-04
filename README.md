@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The moment you stop to think about whether you love someone, you've already stopped loving that person forever." — Carlos Ruiz Zafon"
+  ""The ego wants to go fast. The soul needs to go slow." — Maxime Lagace"
 </em></p>
 
 ---
