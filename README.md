@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You play the hand you're dealt. I think the game's worthwhile.  " — Christopher Reeve"
+  ""Don't stumble over something that's behind you." — Steve Harvey"
 </em></p>
 
 ---
