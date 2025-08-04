@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ego wants to go fast. The soul needs to go slow." — Maxime Lagace"
+  ""Do not look for approval except for the consciousness of doing your best." — Andrew Carnegie"
 </em></p>
 
 ---
