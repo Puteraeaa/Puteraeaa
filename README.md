@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I love myself I love you. If I love you I love myself." — Rumi"
+  ""Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates"
 </em></p>
 
 ---
