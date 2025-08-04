@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great things are not accomplished by those who yield to trends and fads and popular opinion." — Jack Kerouac"
+  ""Trust is the foundation of great leadership." — Lolly Daskal"
 </em></p>
 
 ---
