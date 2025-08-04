@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always turn a negative situation into a positive situation." — Michael Jordan"
+  ""Without the rain there would be no rainbow." — Gilbert Chesterton"
 </em></p>
 
 ---
