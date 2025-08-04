@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We become what we believe." — Lolly Daskal"
+  ""Perseverance and spirit have done wonders in all ages. " — George Washington"
 </em></p>
 
 ---
