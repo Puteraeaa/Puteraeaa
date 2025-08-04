@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The source of a true smile is an awakened mind." — Thich Nhat Hanh"
+  ""Intense love does not measure, it just gives." — Mother Teresa"
 </em></p>
 
 ---
