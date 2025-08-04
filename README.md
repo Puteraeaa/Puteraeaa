@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear is stupid. So are regrets." — Marilyn Monroe"
+  ""I have never in my life learned anything from any man who agreed with me." — Dudley Field Malone"
 </em></p>
 
 ---
