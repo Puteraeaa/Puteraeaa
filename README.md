@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I have never in my life learned anything from any man who agreed with me." — Dudley Field Malone"
+  ""In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." — Spencer Johnson"
 </em></p>
 
 ---
