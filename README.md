@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." — Spencer Johnson"
+  ""The moment you stop to think about whether you love someone, you've already stopped loving that person forever." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
