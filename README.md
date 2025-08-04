@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most important things are the hardest to say." — Stephen King"
+  ""Poetry is written with tears, fiction with blood, and history with invisible ink." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
