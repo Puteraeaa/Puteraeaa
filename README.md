@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are more people who wish to be loved than there are who are willing to love. " — Nicolas Chamfort"
+  ""The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." — Mark Twain"
 </em></p>
 
 ---
