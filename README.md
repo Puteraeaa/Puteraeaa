@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perseverance and spirit have done wonders in all ages. " — George Washington"
+  ""Our view of the world is truly shaped by what we decide to hear." — William James"
 </em></p>
 
 ---
