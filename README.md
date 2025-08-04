@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trust is built and maintained by many small actions over time." — Lolly Daskal"
+  ""Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time." — Og Mandino"
 </em></p>
 
 ---
