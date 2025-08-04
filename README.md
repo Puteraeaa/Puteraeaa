@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intense love does not measure, it just gives." — Mother Teresa"
+  ""Not all those who wander are lost." — J.R.R. Tolkien"
 </em></p>
 
 ---
