@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time." — Og Mandino"
+  ""Always turn a negative situation into a positive situation." — Michael Jordan"
 </em></p>
 
 ---
