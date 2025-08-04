@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Poetry is written with tears, fiction with blood, and history with invisible ink." — Carlos Ruiz Zafon"
+  ""Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine." — Roy T. Bennett"
 </em></p>
 
 ---
