@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not look for approval except for the consciousness of doing your best." — Andrew Carnegie"
+  ""Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind." — Theodore Roosevelt"
 </em></p>
 
 ---
