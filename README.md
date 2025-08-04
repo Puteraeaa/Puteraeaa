@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A clever person turns great troubles into little ones, and little ones into none at all. " — Chinese Proverb"
+  ""There are more people who wish to be loved than there are who are willing to love. " — Nicolas Chamfort"
 </em></p>
 
 ---
