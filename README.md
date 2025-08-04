@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever you decide to do, make sure it makes you happy." — Paulo Coelho"
+  ""When you change what you believe, you change what you do." — Spencer Johnson"
 </em></p>
 
 ---
