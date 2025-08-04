@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To plant a garden is to believe in tomorrow.  " — Audrey Hepburn"
+  ""Good luck is opportunity meeting preparedness." — Deepak Chopra"
 </em></p>
 
 ---
