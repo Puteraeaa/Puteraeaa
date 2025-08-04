@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trust is the foundation of great leadership." — Lolly Daskal"
+  ""Successful people appreciate where they have come from, but they don't let their past set the tone for their future." — Steve Harvey"
 </em></p>
 
 ---
