@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You will have bad times, but they will always wake you up to the stuff you weren't paying attention to." — Robin Williams"
+  ""Wheresoever you go, go with all your heart." — Confucius"
 </em></p>
 
 ---
