@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind." — Theodore Roosevelt"
+  ""Whatever you decide to do, make sure it makes you happy." — Paulo Coelho"
 </em></p>
 
 ---
