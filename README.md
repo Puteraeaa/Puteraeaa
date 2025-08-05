@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no sadder sight than a young pessimist." — Mark Twain"
+  ""All great truths begin as blasphemies." — George Bernard Shaw"
 </em></p>
 
 ---
