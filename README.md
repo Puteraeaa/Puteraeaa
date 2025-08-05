@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future is not a gift. It is an achievement." — Robert F. Kennedy"
+  ""Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner." — Arnold Schwarzenegger"
 </em></p>
 
 ---
