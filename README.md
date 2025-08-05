@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""How you think is as important as as what you think." — Unknown"
+  ""When people are free to do as they please, they usually imitate each other." — Eric Hoffer"
 </em></p>
 
 ---
