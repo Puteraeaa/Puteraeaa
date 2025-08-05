@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't try to be young. Just open your mind. Stay interested in stuff." — Betty White"
+  ""We have a duty to maintain the light of consciousness to make sure it continues into the future." — Elon Musk"
 </em></p>
 
 ---
