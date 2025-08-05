@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The roots of education are bitter, but the fruit is sweet." — Aristotle"
+  ""FOCUS - Follow One Course Until Successful" — Robert Kiyosaki"
 </em></p>
 
 ---
