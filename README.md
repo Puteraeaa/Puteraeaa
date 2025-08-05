@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do what you can, with what you have, where you are." — Theodore Roosevelt"
+  ""Don't try to be young. Just open your mind. Stay interested in stuff." — Betty White"
 </em></p>
 
 ---
