@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is feedback. Learn from it and move on." — Jack Butcher"
+  ""The future is not a gift. It is an achievement." — Robert F. Kennedy"
 </em></p>
 
 ---
