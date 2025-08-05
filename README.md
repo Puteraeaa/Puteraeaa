@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life must be a constant education; one must learn everything, from speaking to dying." — Gustave Flaubert"
+  ""Throw your heart over the fence and the rest will follow" — Norman Vincent Peale"
 </em></p>
 
 ---
