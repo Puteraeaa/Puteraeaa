@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Embody what you teach, and teach only what you have embodied." — Dan Millman"
+  ""The roots of education are bitter, but the fruit is sweet." — Aristotle"
 </em></p>
 
 ---
