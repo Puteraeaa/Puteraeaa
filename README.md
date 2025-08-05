@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner." — Arnold Schwarzenegger"
+  ""Living life in style also means living a life of balance." — Jim Rohn"
 </em></p>
 
 ---
