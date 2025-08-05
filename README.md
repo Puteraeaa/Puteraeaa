@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't learn to do, but learn in doing." — Samuel Butler"
+  ""Failure is feedback. Learn from it and move on." — Jack Butcher"
 </em></p>
 
 ---
