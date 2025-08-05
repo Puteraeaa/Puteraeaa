@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All great truths begin as blasphemies." — George Bernard Shaw"
+  ""Don't learn to do, but learn in doing." — Samuel Butler"
 </em></p>
 
 ---
