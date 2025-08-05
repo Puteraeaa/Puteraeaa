@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""FOCUS - Follow One Course Until Successful" — Robert Kiyosaki"
+  ""You can only be afraid of what you think you know." — Jiddu Krishnamurti"
 </em></p>
 
 ---
