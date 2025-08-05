@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is particularly hard if you divide it into small jobs. " — Henry Ford"
+  ""To affect the quality of the day, that is the highest of arts." — Henry David Thoreau"
 </em></p>
 
 ---
