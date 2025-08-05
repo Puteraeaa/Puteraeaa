@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I can pay the bills, I'm happy." — Morgan Wootten"
+  ""A tiger doesn't lose sleep over the opinion of sheep." — Shahir Zag"
 </em></p>
 
 ---
