@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." — Ronald Reagan"
+  ""The first rule of business; treat others like they want to treat you." — Charles Dickens"
 </em></p>
 
 ---
