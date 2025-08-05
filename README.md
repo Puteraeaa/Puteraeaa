@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all in the gutter, but some of us are looking at the stars. " — Oscar Wilde"
+  ""Life is and will ever remain an equation incapable of solution, but it contains certain known factors. " — Nikola Tesla"
 </em></p>
 
 ---
