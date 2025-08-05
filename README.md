@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man is literally what he thinks." — James Allen"
+  ""We are all in the gutter, but some of us are looking at the stars. " — Oscar Wilde"
 </em></p>
 
 ---
