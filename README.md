@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first rule of business; treat others like they want to treat you." — Charles Dickens"
+  ""I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." — Nelson Mandela"
 </em></p>
 
 ---
