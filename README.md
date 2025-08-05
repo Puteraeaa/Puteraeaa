@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We have a duty to maintain the light of consciousness to make sure it continues into the future." — Elon Musk"
+  ""Don't give up on your dreams, or your dreams will give up on you." — John Wooden"
 </em></p>
 
 ---
