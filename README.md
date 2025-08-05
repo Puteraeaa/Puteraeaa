@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Difficult and meaningful will always bring more satisfaction than easy and meaningless." — Maxime Lagace"
+  ""If I can pay the bills, I'm happy." — Morgan Wootten"
 </em></p>
 
 ---
