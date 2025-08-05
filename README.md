@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When people are free to do as they please, they usually imitate each other." — Eric Hoffer"
+  ""A man is literally what he thinks." — James Allen"
 </em></p>
 
 ---
