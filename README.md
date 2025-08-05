@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throw your heart over the fence and the rest will follow" — Norman Vincent Peale"
+  ""Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." — Ronald Reagan"
 </em></p>
 
 ---
