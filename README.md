@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can only be afraid of what you think you know." — Jiddu Krishnamurti"
+  ""Difficult and meaningful will always bring more satisfaction than easy and meaningless." — Maxime Lagace"
 </em></p>
 
 ---
