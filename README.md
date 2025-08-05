@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I can stop one heart from breaking, I shall not live in vain." — Emily Dickinson"
+  ""Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. " — Miguel de Cervantes"
 </em></p>
 
 ---
