@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Living life in style also means living a life of balance." — Jim Rohn"
+  ""Thinking is difficult, that's why most people judge." — Carl Jung"
 </em></p>
 
 ---
