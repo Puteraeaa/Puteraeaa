@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Deliberately seek the company of people who influence you to think and act on building the life you desire." — Napoleon Hill"
+  ""Follow the man who seeks the truth; run from the man who has found it." — Vaclav Havel"
 </em></p>
 
 ---
