@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Without the rain there would be no rainbow." — Gilbert Chesterton"
+  ""How you think is as important as as what you think." — Unknown"
 </em></p>
 
 ---
