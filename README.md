@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is going from failure to failure without losing your enthusiasm" — Winston Churchill"
+  ""Deliberately seek the company of people who influence you to think and act on building the life you desire." — Napoleon Hill"
 </em></p>
 
 ---
