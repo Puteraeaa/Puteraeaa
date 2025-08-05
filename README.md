@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is and will ever remain an equation incapable of solution, but it contains certain known factors. " — Nikola Tesla"
+  ""If I can stop one heart from breaking, I shall not live in vain." — Emily Dickinson"
 </em></p>
 
 ---
