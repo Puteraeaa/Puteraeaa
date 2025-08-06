@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day is an opportunity to a make a new happy ending." — Jonathan Swift"
+  ""The heart wants what it wants. There's no logic. " — Woody Allen"
 </em></p>
 
 ---
