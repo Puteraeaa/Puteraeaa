@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Smell the cheese often so you know when it is getting old." — Spencer Johnson"
+  ""Some of your greatest lessons come from your darkest moments." — Roger Lee"
 </em></p>
 
 ---
