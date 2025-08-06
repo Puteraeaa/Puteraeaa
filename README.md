@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We never know the love of a parent till we become parents ourselves." — Henry Ward Beecher"
+  ""Do not bite at the bait of pleasure, till you know there is no hook beneath it." — Thomas Jefferson"
 </em></p>
 
 ---
