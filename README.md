@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not bite at the bait of pleasure, till you know there is no hook beneath it." — Thomas Jefferson"
+  ""The more you are grateful for what you have the more you will have to be grateful for.  " — Zig Ziglar"
 </em></p>
 
 ---
