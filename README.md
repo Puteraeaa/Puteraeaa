@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every moment of happiness requires a great amount of Ignorance" — Honore de Balzac"
+  ""It is during our darkest moments that we must focus to see the light." — Aristotle"
 </em></p>
 
 ---
