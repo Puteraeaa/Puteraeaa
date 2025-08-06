@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The heart wants what it wants. There's no logic. " — Woody Allen"
+  ""No matter what happens in life, never lose sight of who you are." — Yanni"
 </em></p>
 
 ---
