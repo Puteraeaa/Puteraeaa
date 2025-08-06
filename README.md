@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest deception men suffer is from their own opinions." — Leonardo da Vinci"
+  ""Love never keeps a man from pursuing his destiny." — Paulo Coelho"
 </em></p>
 
 ---
