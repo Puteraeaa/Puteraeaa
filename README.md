@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The biggest challenge after success is shutting up about it." — Criss Jami"
+  ""A wise man will be master of his mind, a fool will be its slave." — Publilius Syrus"
 </em></p>
 
 ---
