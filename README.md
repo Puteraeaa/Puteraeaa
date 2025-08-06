@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No great discovery was ever made without a bold guess. " — Isaac Newton"
+  ""Each day provides it's own gifts." — Marcus Aurelius"
 </em></p>
 
 ---
