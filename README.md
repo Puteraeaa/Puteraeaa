@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never give up work. Work gives you meaning and purpose and life is empty without it." — Stephen Hawking"
+  ""He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." — Epictetus"
 </em></p>
 
 ---
