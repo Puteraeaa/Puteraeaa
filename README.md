@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Normality is a paved road: It's comfortable to walk, but no flowers grow on it." — Vincent van Gogh"
+  ""There is an essence of when you are fearless, you become more creative." — Gurbaksh Chahal"
 </em></p>
 
 ---
