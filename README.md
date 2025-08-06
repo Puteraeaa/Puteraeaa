@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you are grateful for what you have the more you will have to be grateful for.  " — Zig Ziglar"
+  ""The majority of what you want will come from the minority of what you do." — Gary Keller"
 </em></p>
 
 ---
