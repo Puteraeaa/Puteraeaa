@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love is the energy of life." — Robert Browning"
+  ""The biggest challenge after success is shutting up about it." — Criss Jami"
 </em></p>
 
 ---
