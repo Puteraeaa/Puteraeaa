@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing can survive without food. Everything we consume acts either to heal us or to poison us." — Thich Nhat Hanh"
+  ""Normality is a paved road: It's comfortable to walk, but no flowers grow on it." — Vincent van Gogh"
 </em></p>
 
 ---
