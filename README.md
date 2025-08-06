@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Cultivate the merry heart, develop the happiness habit, and life will become a continual feast." — Norman Vincent Peale"
+  ""I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." — D. H. Lawrence"
 </em></p>
 
 ---
