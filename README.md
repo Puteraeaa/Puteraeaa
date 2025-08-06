@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter what happens in life, never lose sight of who you are." — Yanni"
+  ""The greatest deception men suffer is from their own opinions." — Leonardo da Vinci"
 </em></p>
 
 ---
