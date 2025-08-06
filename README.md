@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy"
+  ""Cultivate the merry heart, develop the happiness habit, and life will become a continual feast." — Norman Vincent Peale"
 </em></p>
 
 ---
