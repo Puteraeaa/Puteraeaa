@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each day provides it's own gifts." — Marcus Aurelius"
+  ""Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates"
 </em></p>
 
 ---
