@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To affect the quality of the day, that is the highest of arts." — Henry David Thoreau"
+  ""Anyone telling you it's pointless to share your perspective is sharing their perspective." — Jack Butcher"
 </em></p>
 
 ---
