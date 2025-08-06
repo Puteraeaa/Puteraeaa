@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The majority of what you want will come from the minority of what you do." — Gary Keller"
+  ""No great discovery was ever made without a bold guess. " — Isaac Newton"
 </em></p>
 
 ---
