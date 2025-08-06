@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." — D. H. Lawrence"
+  ""Nothing you do is going to matter that much in the long run. Don't take yourself so seriously." — Naval Ravikant"
 </em></p>
 
 ---
