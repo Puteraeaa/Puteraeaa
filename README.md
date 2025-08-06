@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I begin with an idea and then it becomes something else." — Pablo Picasso"
+  ""Love is the energy of life." — Robert Browning"
 </em></p>
 
 ---
