@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't like something, change it. If you can't change it, change your attitude." — Maya Angelou"
+  ""Every moment of happiness requires a great amount of Ignorance" — Honore de Balzac"
 </em></p>
 
 ---
