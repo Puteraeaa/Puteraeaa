@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing you do is going to matter that much in the long run. Don't take yourself so seriously." — Naval Ravikant"
+  ""Every traveler has a home of his own, and he learns to appreciate it the more from his wandering." — Charles Dickens"
 </em></p>
 
 ---
