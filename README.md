@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it." — Robert Frost"
+  ""Smell the cheese often so you know when it is getting old." — Spencer Johnson"
 </em></p>
 
 ---
