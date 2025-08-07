@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Have the fearless attitude of a hero and the loving heart of a child." — Soyen Shaku"
+  ""Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose." — Simon Sinek"
 </em></p>
 
 ---
