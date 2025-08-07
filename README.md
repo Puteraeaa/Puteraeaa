@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intense love does not measure, it just gives." — Mother Teresa"
+  ""Do not take life too seriously. You will never get out of it alive." — Elbert Hubbard"
 </em></p>
 
 ---
