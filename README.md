@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Find your Light; They can't love you if they can't see you." — Bette Midler"
+  ""The best fighter is never angry." — Lao Tzu"
 </em></p>
 
 ---
