@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you are tough on yourself, life is going to be infinitely easier on you.  " — Zig Ziglar"
+  ""Because a thing seems difficult for you, do not think it impossible." — Marcus Aurelius"
 </em></p>
 
 ---
