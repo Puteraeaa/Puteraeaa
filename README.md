@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." — Celestine Chua"
+  ""The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt"
 </em></p>
 
 ---
