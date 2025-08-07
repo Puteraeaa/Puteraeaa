@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't need to be better than anyone else, you just need to be better than you used to be." — Wayne Dyer"
+  ""Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." — Celestine Chua"
 </em></p>
 
 ---
