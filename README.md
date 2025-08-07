@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Exceptional thinkers ignore their critics and go about their business making history." — John Eliot"
+  ""Your purpose will be clear only when you listen to your heart." — Lolly Daskal"
 </em></p>
 
 ---
