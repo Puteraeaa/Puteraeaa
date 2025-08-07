@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can not live your life just based on what everyone else thinks." — Joyce Meyer"
+  ""No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung"
 </em></p>
 
 ---
