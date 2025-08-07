@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only he who has no use for the empire is fit to be entrusted with it." — Zhuangzi"
+  ""There are three classes of people: those who see. Those who see when they are shown. Those who do not see." — Leonardo da Vinci"
 </em></p>
 
 ---
