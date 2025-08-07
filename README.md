@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wise men speak because they have something to say; Fools because they have to say something." — Plato"
+  ""When you are tough on yourself, life is going to be infinitely easier on you.  " — Zig Ziglar"
 </em></p>
 
 ---
