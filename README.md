@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It matters not what someone is born, but what they grow to be." — Albus Dumbledore"
+  ""Success is never final; failure is never fatal." — Conrad Hilton"
 </em></p>
 
 ---
