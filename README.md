@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your purpose will be clear only when you listen to your heart." — Lolly Daskal"
+  ""You don't need to be better than anyone else, you just need to be better than you used to be." — Wayne Dyer"
 </em></p>
 
 ---
