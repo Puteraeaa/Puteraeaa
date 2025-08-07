@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A wise man will be master of his mind, a fool will be its slave." — Publilius Syrus"
+  ""You can not live your life just based on what everyone else thinks." — Joyce Meyer"
 </em></p>
 
 ---
