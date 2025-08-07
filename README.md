@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt"
+  ""To become what you are not, behave as you do not." — T.S. Eliot"
 </em></p>
 
 ---
