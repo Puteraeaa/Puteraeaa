@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best fighter is never angry." — Lao Tzu"
+  ""Wise men speak because they have something to say; Fools because they have to say something." — Plato"
 </em></p>
 
 ---
