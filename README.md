@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose." — Simon Sinek"
+  ""Forgive those who have hurt you." — Les Brown"
 </em></p>
 
 ---
