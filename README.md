@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The power of human thought grows exponentially with the number of minds that share that thought." — Dan Brown"
+  ""Charms strike the sight, but merit wins the soul." — Alexander Pope"
 </em></p>
 
 ---
