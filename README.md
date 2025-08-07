@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To become what you are not, behave as you do not." — T.S. Eliot"
+  ""You are not one person, but three: The one you think you are; The one others think you are; The one you really are." — Sathya Sai Baba"
 </em></p>
 
 ---
