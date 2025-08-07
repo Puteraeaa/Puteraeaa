@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Pursue what catches your heart, not what catches your eyes." — Roy T. Bennett"
+  ""It matters not what someone is born, but what they grow to be." — Albus Dumbledore"
 </em></p>
 
 ---
