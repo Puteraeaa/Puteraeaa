@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." — Kamal Ravikant"
+  ""Pursue what catches your heart, not what catches your eyes." — Roy T. Bennett"
 </em></p>
 
 ---
