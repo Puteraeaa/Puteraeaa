@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is never final; failure is never fatal." — Conrad Hilton"
+  ""Every drop in the ocean counts. " — Yoko Ono"
 </em></p>
 
 ---
