@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are three classes of people: those who see. Those who see when they are shown. Those who do not see." — Leonardo da Vinci"
+  ""It is often safer to be in chains than to be free. " — Franz Kafka"
 </em></p>
 
 ---
