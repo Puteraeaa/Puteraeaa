@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every drop in the ocean counts. " — Yoko Ono"
+  ""The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." — Confucius"
 </em></p>
 
 ---
