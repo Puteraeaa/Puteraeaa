@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot teach a crab to walk straight." — Aristophanes"
+  ""Exceptional thinkers ignore their critics and go about their business making history." — John Eliot"
 </em></p>
 
 ---
