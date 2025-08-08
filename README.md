@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The way to change others' minds is with affection, and not anger." — Dalai Lama"
+  ""Wisdom is doing now what you are going to be happy with later on." — Joyce Meyer"
 </em></p>
 
 ---
