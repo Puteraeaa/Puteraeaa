@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Disobedience is the true foundation of liberty. The obedient must be slaves." — Henry David Thoreau"
+  ""The attempt to escape from pain, is what creates more pain." — Gabor Mate"
 </em></p>
 
 ---
