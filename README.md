@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be patient and calm; no one can catch fish in anger." — Herbert Hoover"
+  ""A dream doesn't become reality through magic it takes sweat, determination and hard work." — Colin Powell"
 </em></p>
 
 ---
