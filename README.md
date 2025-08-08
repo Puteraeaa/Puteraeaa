@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda"
+  ""Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." — Celestine Chua"
 </em></p>
 
 ---
