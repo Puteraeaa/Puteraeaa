@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fiction is the truth inside the lie." — Stephen King"
+  ""Wrong turns are as important as right turns. More important, sometimes." — Richard Bach"
 </em></p>
 
 ---
