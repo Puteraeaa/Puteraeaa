@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It doesn't matter where you are coming from. All that matters is where you are going. " — Brian Tracy"
+  ""Most people spend more time and energy going around problems than in trying to solve them. " — Henry Ford"
 </em></p>
 
 ---
