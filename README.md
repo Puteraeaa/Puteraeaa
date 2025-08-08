@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who possesses most must be most afraid of loss." — Leonardo da Vinci"
+  ""A man that flies from his fear may find that he has only taken a short cut to meet it." — J.R.R. Tolkien"
 </em></p>
 
 ---
