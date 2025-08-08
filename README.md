@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All our dreams can come true, if we have the courage to pursue them." — Walt Disney"
+  ""Men do not attract which they want but that which they are." — James Allen"
 </em></p>
 
 ---
