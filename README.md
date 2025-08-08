@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you change what you believe, you change what you do." — Spencer Johnson"
+  ""The way to change others' minds is with affection, and not anger." — Dalai Lama"
 </em></p>
 
 ---
