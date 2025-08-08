@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A dream doesn't become reality through magic it takes sweat, determination and hard work." — Colin Powell"
+  ""It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future." — Nicolas Chamfort"
 </em></p>
 
 ---
