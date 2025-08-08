@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you're at the end of your rope, tie a knot and hold on." — Theodore Roosevelt"
+  ""When you have a dream, you've got to grab it and never let go." — Carol Burnett"
 </em></p>
 
 ---
