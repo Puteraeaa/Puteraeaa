@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never allow a person to tell you no who doesn't have the power to say yes." — Eleanor Roosevelt"
+  ""Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda"
 </em></p>
 
 ---
