@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man that flies from his fear may find that he has only taken a short cut to meet it." — J.R.R. Tolkien"
+  ""Alone we can do so little; together we can do so much." — Helen Keller"
 </em></p>
 
 ---
