@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress comes to those who train and train; reliance on secret techniques will get you nowhere." — Morihei Ueshiba"
+  ""So long as we are being remembered, we remain alive." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
