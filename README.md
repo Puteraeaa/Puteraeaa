@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." — Celestine Chua"
+  ""Progress comes to those who train and train; reliance on secret techniques will get you nowhere." — Morihei Ueshiba"
 </em></p>
 
 ---
