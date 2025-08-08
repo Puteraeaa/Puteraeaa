@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no greater agony than bearing an untold story inside you." — Maya Angelou"
+  ""Trust thyself: every heart vibrates to that iron string." — Ralph Waldo Emerson"
 </em></p>
 
 ---
