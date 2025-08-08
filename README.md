@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I didn't get there by wishing for it or hoping for it, but by working for it." — Estee Lauder"
+  ""When you're at the end of your rope, tie a knot and hold on." — Theodore Roosevelt"
 </em></p>
 
 ---
