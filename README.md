@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you have a dream, you've got to grab it and never let go." — Carol Burnett"
+  ""When you change what you believe, you change what you do." — Spencer Johnson"
 </em></p>
 
 ---
