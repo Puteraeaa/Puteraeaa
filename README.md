@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future depends on what you do today. " — Mahatma Gandhi"
+  ""May you live all the days of your life." — Jonathan Swift"
 </em></p>
 
 ---
