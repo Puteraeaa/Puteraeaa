@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Progress lies not in enhancing what is, but in advancing toward what will be." — Kahlil Gibran"
+  ""Good luck is opportunity meeting preparedness." — Deepak Chopra"
 </em></p>
 
 ---
