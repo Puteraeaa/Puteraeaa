@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""May you live all the days of your life." — Jonathan Swift"
+  ""Progress lies not in enhancing what is, but in advancing toward what will be." — Kahlil Gibran"
 </em></p>
 
 ---
