@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men do not attract which they want but that which they are." — James Allen"
+  ""Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy"
 </em></p>
 
 ---
