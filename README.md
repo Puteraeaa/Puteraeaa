@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's always to soon to quit!" — Norman Vincent Peale"
+  ""Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away." — John Lennon"
 </em></p>
 
 ---
