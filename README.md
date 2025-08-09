@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If a man knows not to which port he sails, no wind is favorable.  " — Seneca"
+  ""Everything you can imagine is real." — Pablo Picasso"
 </em></p>
 
 ---
