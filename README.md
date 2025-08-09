@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a journey, not a destination." — Dan Millman"
+  ""Never whine, never complain, never try to justify yourself." — Robert Greene"
 </em></p>
 
 ---
