@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of us learn from other people's mistakes and the rest of us have to be other people.  " — Zig Ziglar"
+  ""Becoming a great leader doesn't mean being perfect. it means living with your imperfections." — Lolly Daskal"
 </em></p>
 
 ---
