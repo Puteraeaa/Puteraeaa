@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never whine, never complain, never try to justify yourself." — Robert Greene"
+  ""Everything you've ever wanted is on the other side of fear." — George Addair"
 </em></p>
 
 ---
