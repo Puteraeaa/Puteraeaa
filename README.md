@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Productize your perspective." — Jack Butcher"
+  ""Nothing can dim the light which shines from within." — Maya Angelou"
 </em></p>
 
 ---
