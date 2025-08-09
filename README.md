@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You gain strength, courage and confidence by every experience in which you really stop to look fear in the face." — Eleanor Roosevelt"
+  ""Your happiness is what truly matters most. Do what you have to do in order to be happy." — Brian Tracy"
 </em></p>
 
 ---
