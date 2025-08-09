@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To judge a man by his weakest link or deed is like judging the power of the ocean by one wave." — Elvis Presley"
+  ""We will act consistently with our view of who we truly are, whether that view is accurate or not." — Tony Robbins"
 </em></p>
 
 ---
