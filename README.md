@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Greatness comes from living with purpose and passion." — Ralph Marston"
+  ""You gain strength, courage and confidence by every experience in which you really stop to look fear in the face." — Eleanor Roosevelt"
 </em></p>
 
 ---
