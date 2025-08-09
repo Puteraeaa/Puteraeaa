@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't let your failures define you. You have to let your failures teach you." — Barack Obama"
+  ""To judge a man by his weakest link or deed is like judging the power of the ocean by one wave." — Elvis Presley"
 </em></p>
 
 ---
