@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The key to immortality is first living a life worth remembering. " — Bruce Lee"
+  ""Don't talk about what you have done or what you are going to do." — Thomas Jefferson"
 </em></p>
 
 ---
