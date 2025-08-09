@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is getting what you want... Happiness is wanting what you get." — Dale Carnegie"
+  ""All our dreams can come true, if we have the courage to pursue them." — Walt Disney"
 </em></p>
 
 ---
