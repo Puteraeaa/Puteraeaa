@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain." — Kabir"
+  ""Some people feel the rain. Others just get wet. " — Bob Dylan"
 </em></p>
 
 ---
