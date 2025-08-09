@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people." — Roy T. Bennett"
+  ""It's always to soon to quit!" — Norman Vincent Peale"
 </em></p>
 
 ---
