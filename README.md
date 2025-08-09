@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Becoming a great leader doesn't mean being perfect. it means living with your imperfections." — Lolly Daskal"
+  ""Obstacles don't block the path, they are the path." — Zen Proverb"
 </em></p>
 
 ---
