@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some people feel the rain. Others just get wet. " — Bob Dylan"
+  ""Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people." — Roy T. Bennett"
 </em></p>
 
 ---
