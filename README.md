@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything you've ever wanted is on the other side of fear." — George Addair"
+  ""The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer"
 </em></p>
 
 ---
