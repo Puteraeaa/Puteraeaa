@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety." — Sathya Sai Baba"
+  ""Truth is not something outside to be discovered, it is something inside to be realized." — Osho"
 </em></p>
 
 ---
