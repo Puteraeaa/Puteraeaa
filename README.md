@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your happiness is what truly matters most. Do what you have to do in order to be happy." — Brian Tracy"
+  ""Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett"
 </em></p>
 
 ---
