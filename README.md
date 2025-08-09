@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We will act consistently with our view of who we truly are, whether that view is accurate or not." — Tony Robbins"
+  ""Men go to far greater lengths to avoid what they fear than to obtain what they desire." — Dan Brown"
 </em></p>
 
 ---
