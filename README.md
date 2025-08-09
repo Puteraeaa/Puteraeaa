@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The essence of the Way is detachment." — Bodhidharma"
+  ""To achieve, you need thought. You have to know what you are doing and that's real power." — Ayn Rand"
 </em></p>
 
 ---
