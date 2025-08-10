@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything has its beauty, but not everyone sees it. " — Confucius"
+  ""The single biggest problem in communication is the illusion that it has taken place." — George Bernard Shaw"
 </em></p>
 
 ---
