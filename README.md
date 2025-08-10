@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton"
+  ""Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." — Earl Nightingale"
 </em></p>
 
 ---
