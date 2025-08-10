@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The single biggest problem in communication is the illusion that it has taken place." — George Bernard Shaw"
+  ""Cultivate the merry heart, develop the happiness habit, and life will become a continual feast." — Norman Vincent Peale"
 </em></p>
 
 ---
