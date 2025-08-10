@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to be looked over than overlooked." — Mae West"
+  ""If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton"
 </em></p>
 
 ---
