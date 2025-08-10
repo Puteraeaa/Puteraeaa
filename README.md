@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man who dares to waste one hour of time has not discovered the value of life." — Charles Darwin"
+  ""If you don't break your ropes while you're alive, do you think ghosts will do it after?" — Kabir"
 </em></p>
 
 ---
