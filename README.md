@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot teach a crab to walk straight." — Aristophanes"
+  ""Allow motion to equal emotion." — Elbert Hubbard"
 </em></p>
 
 ---
