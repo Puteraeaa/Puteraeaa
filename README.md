@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By words the mind is winged." — Aristophanes"
+  ""Don't shortchange yourself when it comes to investing in your own better future." — Jim Rohn"
 </em></p>
 
 ---
