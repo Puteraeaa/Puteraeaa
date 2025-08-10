@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't shortchange yourself when it comes to investing in your own better future." — Jim Rohn"
+  ""The opportunity of defeating the enemy is provided by the enemy himself." — Sun Tzu"
 </em></p>
 
 ---
