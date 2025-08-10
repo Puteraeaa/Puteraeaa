@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True prayer has no set form." — Morihei Ueshiba"
+  ""To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb"
 </em></p>
 
 ---
