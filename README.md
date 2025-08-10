@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truth is not for all men, but for those who seek it." — Ayn Rand"
+  ""Any game becomes important when you know and love the players." — W.P. Kinsella"
 </em></p>
 
 ---
