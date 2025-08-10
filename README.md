@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't break your ropes while you're alive, do you think ghosts will do it after?" — Kabir"
+  ""It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it." — Gurbaksh Chahal"
 </em></p>
 
 ---
