@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Any game becomes important when you know and love the players." — W.P. Kinsella"
+  ""A good teacher opens the door for you, but you must enter the room by yourself." — Zen Proverb"
 </em></p>
 
 ---
