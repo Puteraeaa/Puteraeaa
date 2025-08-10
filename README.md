@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quality of your life is determined by the quality of questions you ask." — Tony Robbins"
+  ""The biggest adventure you can ever take is to live the life of your dreams. " — Oprah Winfrey"
 </em></p>
 
 ---
