@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb"
+  ""The truth is not for all men, but for those who seek it." — Ayn Rand"
 </em></p>
 
 ---
