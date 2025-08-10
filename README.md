@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Comedy = tragedy + time." — Carol Burnett"
+  ""By seeking and blundering we learn." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
