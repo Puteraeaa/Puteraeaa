@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." — Earl Nightingale"
+  ""The most important thing is to enjoy your life, to be happy, it's all that matters." — Audrey Hepburn"
 </em></p>
 
 ---
