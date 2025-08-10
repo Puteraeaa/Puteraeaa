@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Allow motion to equal emotion." — Elbert Hubbard"
+  ""Everyone you admire was once a beginner." — Jack Butcher"
 </em></p>
 
 ---
