@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is not something outside to be discovered, it is something inside to be realized." — Osho"
+  ""Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho"
 </em></p>
 
 ---
