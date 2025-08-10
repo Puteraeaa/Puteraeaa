@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." — James Allen"
+  ""Those who cannot change their minds cannot change anything." — George Bernard Shaw"
 </em></p>
 
 ---
