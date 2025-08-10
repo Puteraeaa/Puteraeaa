@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just do what must be done. This may not be happiness but it is greatness." — George Bernard Shaw"
+  ""You can not live your life just based on what everyone else thinks." — Joyce Meyer"
 </em></p>
 
 ---
