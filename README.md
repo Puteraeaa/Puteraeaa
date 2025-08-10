@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The opportunity of defeating the enemy is provided by the enemy himself." — Sun Tzu"
+  ""Every day do something that will inch you closer to a better tomorrow." — Unknown"
 </em></p>
 
 ---
