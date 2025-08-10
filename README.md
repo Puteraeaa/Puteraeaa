@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone you admire was once a beginner." — Jack Butcher"
+  ""Comedy = tragedy + time." — Carol Burnett"
 </em></p>
 
 ---
