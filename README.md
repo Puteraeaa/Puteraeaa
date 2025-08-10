@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By seeking and blundering we learn." — Johann Wolfgang von Goethe"
+  ""You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." — James Allen"
 </em></p>
 
 ---
