@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility." — Sigmund Freud"
+  ""Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer." — J.R.R. Tolkien"
 </em></p>
 
 ---
