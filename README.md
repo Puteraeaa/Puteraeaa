@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were." — Kahlil Gibran"
+  ""Know the rules well, so you can break them effectively." — Dalai Lama"
 </em></p>
 
 ---
