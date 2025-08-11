@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life should be touched, not strangled.  " — Ray Bradbury"
+  ""The temptation to give up is strongest just before victory." — Zen Proverb"
 </em></p>
 
 ---
