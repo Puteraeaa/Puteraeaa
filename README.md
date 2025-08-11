@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer." — J.R.R. Tolkien"
+  ""The most wasted day of all is that on which we have not laughed." — Nicolas Chamfort"
 </em></p>
 
 ---
