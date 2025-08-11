@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If it entertains you now but will bore you someday, it's a distraction. Keep looking." — Naval Ravikant"
+  ""Take away love and our earth is a tomb." — Robert Browning"
 </em></p>
 
 ---
