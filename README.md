@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only by acceptance of the past, can you alter it." — T.S. Eliot"
+  ""We must have strong minds, ready to accept facts as they are." — Harry S. Truman"
 </em></p>
 
 ---
