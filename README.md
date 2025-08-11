@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death is not sad; the sad thing is that most people don't really live at all." — Dan Millman"
+  ""Every act of creation is first an act of destruction." — Pablo Picasso"
 </em></p>
 
 ---
