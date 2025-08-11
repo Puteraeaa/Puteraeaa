@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most wasted day of all is that on which we have not laughed." — Nicolas Chamfort"
+  ""The smallest of actions is always better than the noblest of intentions." — Robin Sharma"
 </em></p>
 
 ---
