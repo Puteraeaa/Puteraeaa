@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The smallest of actions is always better than the noblest of intentions." — Robin Sharma"
+  ""If it entertains you now but will bore you someday, it's a distraction. Keep looking." — Naval Ravikant"
 </em></p>
 
 ---
