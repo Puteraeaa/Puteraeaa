@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve"
+  ""Numbing the pain for a while will make it worse when you finally feel it." — Albus Dumbledore"
 </em></p>
 
 ---
