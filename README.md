@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a question and how we live it is our answer." — Gary Keller"
+  ""A very little key will open a very heavy door." — Charles Dickens"
 </em></p>
 
 ---
