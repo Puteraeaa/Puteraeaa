@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If the only prayer you ever say in your entire life is thank you, it will be enough." — Meister Eckhart"
+  ""Life is a question and how we live it is our answer." — Gary Keller"
 </em></p>
 
 ---
