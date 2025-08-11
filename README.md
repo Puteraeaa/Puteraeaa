@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not enough to win a war; it is more important to organize the peace." — Aristotle"
+  ""The traveler sees what he sees. The tourist sees what he has come to see." — Gilbert Chesterton"
 </em></p>
 
 ---
