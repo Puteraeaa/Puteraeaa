@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't make things happen then things will happen to you." — Robert Collier"
+  ""Every artist dips his brush in his own soul, and paints his own nature into his pictures." — Henry Ward Beecher"
 </em></p>
 
 ---
