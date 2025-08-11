@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Know the rules well, so you can break them effectively." — Dalai Lama"
+  ""When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." — Peter A. Cohen"
 </em></p>
 
 ---
