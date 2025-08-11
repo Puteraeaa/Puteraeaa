@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no shortcuts to any place worth going. " — Beverly Sills"
+  ""Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve"
 </em></p>
 
 ---
