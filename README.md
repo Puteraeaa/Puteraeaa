@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Many people spend more time looking at their failures than focusing on their successes." — Lolly Daskal"
+  ""A diamond is a piece of charcoal that handled stress exceptionally well." — Unknown"
 </em></p>
 
 ---
