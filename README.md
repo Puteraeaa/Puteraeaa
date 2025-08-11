@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We cannot change anything unless we accept it." — Carl Jung"
+  ""Always forgive your enemies - nothing annoys them so much. " — Oscar Wilde"
 </em></p>
 
 ---
