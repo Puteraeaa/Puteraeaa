@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every act of creation is first an act of destruction." — Pablo Picasso"
+  ""If the only prayer you ever say in your entire life is thank you, it will be enough." — Meister Eckhart"
 </em></p>
 
 ---
