@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The significance of life is living." — Jiddu Krishnamurti"
+  ""You Create Your Own Present By What You Give Your Attention To Today." — Spencer Johnson"
 </em></p>
 
 ---
