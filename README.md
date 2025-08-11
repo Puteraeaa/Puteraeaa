@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The chief enemy of creativity is good sense." — Pablo Picasso"
+  ""If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were." — Kahlil Gibran"
 </em></p>
 
 ---
