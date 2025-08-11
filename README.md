@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The traveler sees what he sees. The tourist sees what he has come to see." — Gilbert Chesterton"
+  ""If there's a definition of freedom, I think it's this: living life on your terms." — Kamal Ravikant"
 </em></p>
 
 ---
