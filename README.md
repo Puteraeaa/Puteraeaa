@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The temptation to give up is strongest just before victory." — Zen Proverb"
+  ""If you don't make things happen then things will happen to you." — Robert Collier"
 </em></p>
 
 ---
