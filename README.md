@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who cannot be a good follower cannot be a good leader." — Aristotle"
+  ""Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility." — Sigmund Freud"
 </em></p>
 
 ---
