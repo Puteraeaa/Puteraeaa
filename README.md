@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you do today can improve all your tomorrows." — Ralph Marston"
+  ""What would you do if you weren't afraid?" — Spencer Johnson"
 </em></p>
 
 ---
