@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Numbing the pain for a while will make it worse when you finally feel it." — Albus Dumbledore"
+  ""It is not enough to win a war; it is more important to organize the peace." — Aristotle"
 </em></p>
 
 ---
