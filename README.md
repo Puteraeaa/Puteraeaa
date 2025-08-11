@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every artist dips his brush in his own soul, and paints his own nature into his pictures." — Henry Ward Beecher"
+  ""Only by acceptance of the past, can you alter it." — T.S. Eliot"
 </em></p>
 
 ---
