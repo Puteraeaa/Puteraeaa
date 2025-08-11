@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Take away love and our earth is a tomb." — Robert Browning"
+  ""The significance of life is living." — Jiddu Krishnamurti"
 </em></p>
 
 ---
