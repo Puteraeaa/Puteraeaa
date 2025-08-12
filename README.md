@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Conscience is a dog that does not stop us from passing but that we cannot prevent from barking." — Nicolas Chamfort"
+  ""Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability." — John Wooden"
 </em></p>
 
 ---
