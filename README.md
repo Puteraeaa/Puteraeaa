@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The friend is the man who knows all about you, and still likes you." — Elbert Hubbard"
+  ""We have to live life with a sense of urgency so not a minute is wasted." — Les Brown"
 </em></p>
 
 ---
