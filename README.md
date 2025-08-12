@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We have to live life with a sense of urgency so not a minute is wasted." — Les Brown"
+  ""If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results." — Tony Robbins"
 </em></p>
 
 ---
