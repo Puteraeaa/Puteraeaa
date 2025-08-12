@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change is never easy, but always possible." — Barack Obama"
+  ""There is no fear for one whose mind is not filled with desires." — Buddha"
 </em></p>
 
 ---
