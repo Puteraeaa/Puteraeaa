@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Things may come to those who wait, but only the things left by those who hustle." — Abraham Lincoln"
+  ""There are no mistakes in life, only lessons." — Robin Sharma"
 </em></p>
 
 ---
