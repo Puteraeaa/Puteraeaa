@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be not afraid of growing slowly, be afraid only of standing still. " — Chinese Proverb"
+  ""If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable." — Maxime Lagace"
 </em></p>
 
 ---
