@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What do we live for, if it is not to make life less difficult for each other?" — George Eliot"
+  ""The most creative act you will ever undertake is the act of creating yourself." — Deepak Chopra"
 </em></p>
 
 ---
