@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Genius is patience." — Isaac Newton"
+  ""Change is never easy, but always possible." — Barack Obama"
 </em></p>
 
 ---
