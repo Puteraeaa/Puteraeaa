@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who cheats the earth will be cheated by the earth." — Chinese Proverb"
+  ""Things may come to those who wait, but only the things left by those who hustle." — Abraham Lincoln"
 </em></p>
 
 ---
