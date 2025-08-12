@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most creative act you will ever undertake is the act of creating yourself." — Deepak Chopra"
+  ""Happiness is pretty simple: someone to love, something to do, something to look forward to." — Rita Mae Brown"
 </em></p>
 
 ---
