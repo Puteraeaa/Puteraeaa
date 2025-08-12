@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be where your enemy is not." — Sun Tzu"
+  ""Success is never final, failure is never fatal. It's courage that counts." — John Wooden"
 </em></p>
 
 ---
