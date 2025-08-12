@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A very little key will open a very heavy door." — Charles Dickens"
+  ""Either you run the day or the day runs you." — Jim Rohn"
 </em></p>
 
 ---
