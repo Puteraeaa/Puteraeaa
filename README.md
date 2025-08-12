@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no mistakes in life, only lessons." — Robin Sharma"
+  ""Work is always an antidote to depression." — Eleanor Roosevelt"
 </em></p>
 
 ---
