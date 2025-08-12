@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do it with passion, or not at all." — Rosa Nouchette Carey"
+  ""It's the little things done consistently over time, straight from your heart, that have the greatest impact." — Unknown"
 </em></p>
 
 ---
