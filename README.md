@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can often change your circumstances by changing your attitude." — Eleanor Roosevelt"
+  ""One of the advantages of being disorganized is that one is always having surprising discoveries." — A.A. Milne"
 </em></p>
 
 ---
