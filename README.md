@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no fear for one whose mind is not filled with desires." — Buddha"
+  ""Teachers open the door. You enter by yourself. " — Chinese Proverb"
 </em></p>
 
 ---
