@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People seldom do what they believe in. They do what is convenient, then repent." — Bob Dylan"
+  ""Sometimes adversity is what you need to face in order to become successful." — Zig Ziglar"
 </em></p>
 
 ---
