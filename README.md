@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Work is always an antidote to depression." — Eleanor Roosevelt"
+  ""Imagination is the true magic carpet." — Norman Vincent Peale"
 </em></p>
 
 ---
