@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes adversity is what you need to face in order to become successful." — Zig Ziglar"
+  ""The friend is the man who knows all about you, and still likes you." — Elbert Hubbard"
 </em></p>
 
 ---
