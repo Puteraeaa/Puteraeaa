@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't like something change it. If you can't change it, change your attitude about it. Don't complain." — Maya Angelou"
+  ""He suffers more than necessary, who suffers before it is necessary.  " — Seneca"
 </em></p>
 
 ---
