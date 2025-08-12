@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything eaten is killed. Every meal is a sacrifice." — Adi Da Samraj"
+  ""Freedom from desire leads to inner peace." — Lao Tzu"
 </em></p>
 
 ---
