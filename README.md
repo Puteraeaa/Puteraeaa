@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom from desire leads to inner peace." — Lao Tzu"
+  ""People seldom do what they believe in. They do what is convenient, then repent." — Bob Dylan"
 </em></p>
 
 ---
