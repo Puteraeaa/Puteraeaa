@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." — Zig Ziglar"
+  ""Be not afraid of growing slowly, be afraid only of standing still. " — Chinese Proverb"
 </em></p>
 
 ---
