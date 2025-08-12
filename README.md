@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability." — John Wooden"
+  ""Humans and prosperity never endure side by side for long." — Herodotus"
 </em></p>
 
 ---
