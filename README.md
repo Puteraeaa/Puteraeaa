@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change happens when the pain of holding on becomes greater than the fear of letting go." — Spencer Johnson"
+  ""The more I want to get something done, the less I call it work." — Richard Bach"
 </em></p>
 
 ---
