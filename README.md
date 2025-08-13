@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever satisfies the soul is truth." — Walt Whitman"
+  ""One loyal friend is worth ten thousand relatives." — Euripides"
 </em></p>
 
 ---
