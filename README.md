@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey." — Roy T. Bennett"
+  ""The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting." — Zig Ziglar"
 </em></p>
 
 ---
