@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Teachers open the door. You enter by yourself. " — Chinese Proverb"
+  ""Imagination is the beginning of creation." — George Bernard Shaw"
 </em></p>
 
 ---
