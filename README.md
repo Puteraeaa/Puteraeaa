@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is what you make it. Always has been, always will be." — Eleanor Roosevelt"
+  ""Change happens when the pain of holding on becomes greater than the fear of letting go." — Spencer Johnson"
 </em></p>
 
 ---
