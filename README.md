@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to." — Carlos Ruiz Zafon"
+  ""Trying to define yourself is like trying to bite your own teeth." — Alan Watts"
 </em></p>
 
 ---
