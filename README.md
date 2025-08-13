@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change is inevitable but personal growth is a choice." — Bob Proctor"
+  ""If you are ever the smartest person in the room, you are in the wrong room." — C. Sean McGee"
 </em></p>
 
 ---
