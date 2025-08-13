@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trying to define yourself is like trying to bite your own teeth." — Alan Watts"
+  ""Relax. Nothing is under control." — Adi Da Samraj"
 </em></p>
 
 ---
