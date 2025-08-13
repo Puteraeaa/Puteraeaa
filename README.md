@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting." — Zig Ziglar"
+  ""Being a good example is the best form of service." — Sathya Sai Baba"
 </em></p>
 
 ---
