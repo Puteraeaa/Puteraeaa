@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can't help everyone, but everyone can help someone." — Ronald Reagan"
+  ""Be a master of change rather than a victim of change." — Brian Tracy"
 </em></p>
 
 ---
