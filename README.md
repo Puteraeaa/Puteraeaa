@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being a good example is the best form of service." — Sathya Sai Baba"
+  ""When you stop questioning, you stop learning." — Lolly Daskal"
 </em></p>
 
 ---
