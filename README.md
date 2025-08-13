@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The four P's to success are pressure, persistence, perseverance, and prayer." — Steve Harvey"
+  ""We all give up great expectations along the way." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
