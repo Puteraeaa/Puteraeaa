@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do something worth remembering." — Elvis Presley"
+  ""Do not be so open-minded that your brains fall out." — Gilbert Chesterton"
 </em></p>
 
 ---
