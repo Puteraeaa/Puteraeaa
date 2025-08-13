@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I do not seek. I find." — Pablo Picasso"
+  ""The eye with which I see God is the same eye with which God sees me." — Meister Eckhart"
 </em></p>
 
 ---
