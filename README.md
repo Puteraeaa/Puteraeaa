@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may be disappointed if you fail, but you are doomed if you don't try. " — Beverly Sills"
+  ""An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind." — Ayn Rand"
 </em></p>
 
 ---
