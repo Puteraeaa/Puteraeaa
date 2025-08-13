@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you stop questioning, you stop learning." — Lolly Daskal"
+  ""Choose a job you love, and you will never have to work a day in your life. " — Confucius"
 </em></p>
 
 ---
