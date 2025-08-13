@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We all give up great expectations along the way." — Carlos Ruiz Zafon"
+  ""I do not seek. I find." — Pablo Picasso"
 </em></p>
 
 ---
