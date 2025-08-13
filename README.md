@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can see it in your mind, you can hold it in your mind." — Steve Harvey"
+  ""We can't help everyone, but everyone can help someone." — Ronald Reagan"
 </em></p>
 
 ---
