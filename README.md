@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is like most opinions - best unexpressed." — Kenneth Branagh"
+  ""Life is what you make it. Always has been, always will be." — Eleanor Roosevelt"
 </em></p>
 
 ---
