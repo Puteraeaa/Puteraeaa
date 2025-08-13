@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To do two things at once is to do neither." — Publilius Syrus"
+  ""A dead thing can go with the stream, but only a living thing can go against it." — Gilbert Chesterton"
 </em></p>
 
 ---
