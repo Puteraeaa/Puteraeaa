@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more I want to get something done, the less I call it work." — Richard Bach"
+  ""To do two things at once is to do neither." — Publilius Syrus"
 </em></p>
 
 ---
