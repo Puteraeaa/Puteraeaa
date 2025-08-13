@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Heroes don't need to talk about what they did." — W.P. Kinsella"
+  ""The fear of death is more to be feared, than death itself." — Publilius Syrus"
 </em></p>
 
 ---
