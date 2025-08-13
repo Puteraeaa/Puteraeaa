@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A dead thing can go with the stream, but only a living thing can go against it." — Gilbert Chesterton"
+  ""Whatever satisfies the soul is truth." — Walt Whitman"
 </em></p>
 
 ---
