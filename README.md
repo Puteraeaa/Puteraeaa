@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Imagination is the beginning of creation." — George Bernard Shaw"
+  ""It is during our darkest moments that we must focus to see the light." — Aristotle"
 </em></p>
 
 ---
