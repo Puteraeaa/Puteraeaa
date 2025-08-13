@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Relax. Nothing is under control." — Adi Da Samraj"
+  ""Heroes don't need to talk about what they did." — W.P. Kinsella"
 </em></p>
 
 ---
