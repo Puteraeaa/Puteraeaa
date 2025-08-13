@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be a master of change rather than a victim of change." — Brian Tracy"
+  ""Start the day with love, spend the day with love, fill the day with love and end the day with love." — Sathya Sai Baba"
 </em></p>
 
 ---
