@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka"
+  ""Everyone thinks of changing the world, but no one thinks of changing himself." — Leo Tolstoy"
 </em></p>
 
 ---
