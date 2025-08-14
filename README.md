@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Silence is a source of great strength." — Lao Tzu"
+  ""I believe that one of life's greatest risks is never daring to risk." — Oprah Winfrey"
 </em></p>
 
 ---
