@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't know who is important to you until you actually lose them." — Mahatma Gandhi"
+  ""Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  " — Jack Kerouac"
 </em></p>
 
 ---
