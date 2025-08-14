@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't let your failures define you. You have to let your failures teach you." — Barack Obama"
+  ""Anything you may hold firmly in your imagination can be yours." — William James"
 </em></p>
 
 ---
