@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua"
+  ""Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." — Ralph Marston"
 </em></p>
 
 ---
