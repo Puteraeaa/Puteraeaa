@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change happens when the pain of holding on becomes greater than the fear of letting go." — Spencer Johnson"
+  ""We can spend our whole lives escaping from the monsters of our minds." — Pema Chodron"
 </em></p>
 
 ---
