@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more perfect a person is on the outside, the more demons they have on the inside." — Sigmund Freud"
+  ""Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted." — Robert Collier"
 </em></p>
 
 ---
