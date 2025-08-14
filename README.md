@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can avoid reality, but you cannot avoid the consequences of avoiding reality." — Ayn Rand"
+  ""Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." — Wayne Gretzky"
 </em></p>
 
 ---
