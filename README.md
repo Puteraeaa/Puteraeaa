@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Courage is the price that life exacts for granting peace." — Amelia Earhart"
+  ""The more perfect a person is on the outside, the more demons they have on the inside." — Sigmund Freud"
 </em></p>
 
 ---
