@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When angry count to ten before you speak. If very angry, count to one hundred." — Thomas Jefferson"
+  ""Riches don't make a man rich, they only make him busier." — Christopher Columbus"
 </em></p>
 
 ---
