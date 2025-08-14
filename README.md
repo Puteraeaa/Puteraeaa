@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man sees in the world what he carries in his heart." — Johann Wolfgang von Goethe"
+  ""Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho"
 </em></p>
 
 ---
