@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is what happens to you while you're busy making other plans." — John Lennon"
+  ""You don't know who is important to you until you actually lose them." — Mahatma Gandhi"
 </em></p>
 
 ---
