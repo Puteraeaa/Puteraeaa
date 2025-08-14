@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." — Ralph Marston"
+  ""Change happens when the pain of holding on becomes greater than the fear of letting go." — Spencer Johnson"
 </em></p>
 
 ---
