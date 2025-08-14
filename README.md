@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound." — James Allen"
+  ""Courage is the price that life exacts for granting peace." — Amelia Earhart"
 </em></p>
 
 ---
