@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can spend our whole lives escaping from the monsters of our minds." — Pema Chodron"
+  ""You know you are on the road to success if you would do your job and not be paid for it." — Oprah Winfrey"
 </em></p>
 
 ---
