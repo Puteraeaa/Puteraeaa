@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." — Sun Tzu"
+  ""Embody what you teach, and teach only what you have embodied." — Dan Millman"
 </em></p>
 
 ---
