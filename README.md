@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  " — Jack Kerouac"
+  ""A man sees in the world what he carries in his heart." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
