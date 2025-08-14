@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anything you may hold firmly in your imagination can be yours." — William James"
+  ""You're never too old for anything." — Betty White"
 </em></p>
 
 ---
