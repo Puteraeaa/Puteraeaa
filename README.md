@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It doesn't matter how slow you go, as long as you don't stop." — Confucius"
+  ""Life is what happens to you while you're busy making other plans." — John Lennon"
 </em></p>
 
 ---
