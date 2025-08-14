@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Forget safety. Live where you fear to live." — Rumi"
+  ""The first man gets the oyster, the second man gets the shell." — Andrew Carnegie"
 </em></p>
 
 ---
