@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone thinks of changing the world, but no one thinks of changing himself." — Leo Tolstoy"
+  ""When angry count to ten before you speak. If very angry, count to one hundred." — Thomas Jefferson"
 </em></p>
 
 ---
