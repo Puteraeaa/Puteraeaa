@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The grass is greener where you water it." — Neil Barringham"
+  ""It doesn't matter how slow you go, as long as you don't stop." — Confucius"
 </em></p>
 
 ---
