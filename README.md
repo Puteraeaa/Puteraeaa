@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first man gets the oyster, the second man gets the shell." — Andrew Carnegie"
+  ""If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated." — Celestine Chua"
 </em></p>
 
 ---
