@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Riches don't make a man rich, they only make him busier." — Christopher Columbus"
+  ""You don't know who is important to you until you actually lose them." — Mahatma Gandhi"
 </em></p>
 
 ---
