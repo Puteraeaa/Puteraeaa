@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't know who is important to you until you actually lose them." — Mahatma Gandhi"
+  ""A rational person can find peace by cultivating indifference to things outside of their control." — Naval Ravikant"
 </em></p>
 
 ---
