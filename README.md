@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." — Kamal Ravikant"
+  ""Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua"
 </em></p>
 
 ---
