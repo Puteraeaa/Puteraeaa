@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I believe that one of life's greatest risks is never daring to risk." — Oprah Winfrey"
+  ""Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." — Kamal Ravikant"
 </em></p>
 
 ---
