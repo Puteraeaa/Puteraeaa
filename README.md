@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only place success comes before work is in the dictionary." — Vince Lombardi"
+  ""Silence is a source of great strength." — Lao Tzu"
 </em></p>
 
 ---
