@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always remember that you are absolutely unique. Just like everyone else. " — Margaret Mead"
+  ""If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present." — Lao Tzu"
 </em></p>
 
 ---
