@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The giving of love is an education in itself." — Eleanor Roosevelt"
+  ""When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." — Norman Vincent Peale"
 </em></p>
 
 ---
