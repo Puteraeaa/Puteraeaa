@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are as many opinions as there are experts." — Franklin D. Roosevelt"
+  ""Trust in dreams, for in them is the hidden gate to eternity.  " — Kahlil Gibran"
 </em></p>
 
 ---
