@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." — Norman Vincent Peale"
+  ""Each time we don't say what we wanna say, we're dying." — Yoko Ono"
 </em></p>
 
 ---
