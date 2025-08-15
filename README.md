@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are far from the enemy, make him believe you are near." — Sun Tzu"
+  ""Success is a poor teacher." — Robert Kiyosaki"
 </em></p>
 
 ---
