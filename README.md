@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A wise person should have money in their head, but not in their heart." — Jonathan Swift"
+  ""There is an essence of when you are fearless, you become more creative." — Gurbaksh Chahal"
 </em></p>
 
 ---
