@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A zen master's life is one continuous mistake." — Dogen"
+  ""Everyone is a moon, and has a dark side which he never shows to anybody." — Mark Twain"
 </em></p>
 
 ---
