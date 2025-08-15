@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who cannot control his words shows that he cannot control himself." — Robert Greene"
+  ""Closing your eyes and listening to silence is self-care." — Maxime Lagace"
 </em></p>
 
 ---
