@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Closing your eyes and listening to silence is self-care." — Maxime Lagace"
+  ""You can't wait for inspiration. You have to go after it with a club. " — Jack London"
 </em></p>
 
 ---
