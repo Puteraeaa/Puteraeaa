@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your past does not equal your future." — Tony Robbins"
+  ""If you are far from the enemy, make him believe you are near." — Sun Tzu"
 </em></p>
 
 ---
