@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""TEAMWORK: the fuel that allows common people attain uncommon results." — Andrew Carnegie"
+  ""It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime." — Steve Maraboli"
 </em></p>
 
 ---
