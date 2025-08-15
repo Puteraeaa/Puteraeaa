@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place." — Bhagavad Gita"
+  ""Fiction is the truth inside the lie." — Stephen King"
 </em></p>
 
 ---
