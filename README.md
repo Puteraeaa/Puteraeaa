@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If light is in your heart, you will find your way home.  " — Rumi"
+  ""Your past does not equal your future." — Tony Robbins"
 </em></p>
 
 ---
