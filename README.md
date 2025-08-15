@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Arise, slay thy enemies, enjoy a prosperous kingdom." — Bhagavad Gita"
+  ""The goal is not to be perfect by the end, the goal is to be better today." — Simon Sinek"
 </em></p>
 
 ---
