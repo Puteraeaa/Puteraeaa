@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only thing more frustrating than slanderers is those foolish enough to listen to them." — Criss Jami"
+  ""A wise person should have money in their head, but not in their heart." — Jonathan Swift"
 </em></p>
 
 ---
