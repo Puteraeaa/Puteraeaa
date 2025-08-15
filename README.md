@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All has not been said and never will be." — Samuel Beckett"
+  ""Just throw away all thoughts of imaginary things, and stand firm in that which you are." — Kabir"
 </em></p>
 
 ---
