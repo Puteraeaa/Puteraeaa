@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fiction is the truth inside the lie." — Stephen King"
+  ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." — Andrew Carnegie"
 </em></p>
 
 ---
