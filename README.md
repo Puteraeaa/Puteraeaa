@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The goal is not to be perfect by the end, the goal is to be better today." — Simon Sinek"
+  ""It's not how much money you make, it's how much money you keep." — Robert Kiyosaki"
 </em></p>
 
 ---
