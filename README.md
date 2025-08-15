@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each time we don't say what we wanna say, we're dying." — Yoko Ono"
+  ""When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place." — Bhagavad Gita"
 </em></p>
 
 ---
