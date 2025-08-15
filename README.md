@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
+  ""If light is in your heart, you will find your way home.  " — Rumi"
 </em></p>
 
 ---
