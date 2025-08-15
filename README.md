@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man is more cheated than the selfish man." — Henry Ward Beecher"
+  ""Success comes from knowing that you did your best to become the best that you are capable of becoming." — John Wooden"
 </em></p>
 
 ---
