@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." — Andrew Carnegie"
+  ""The only thing more frustrating than slanderers is those foolish enough to listen to them." — Criss Jami"
 </em></p>
 
 ---
