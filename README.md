@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is really simple, but men insist on making it complicated. " — Confucius"
+  ""The giving of love is an education in itself." — Eleanor Roosevelt"
 </em></p>
 
 ---
