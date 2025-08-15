@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is a poor teacher." — Robert Kiyosaki"
+  ""Be brave enough to suck at something new." — Unknown"
 </em></p>
 
 ---
