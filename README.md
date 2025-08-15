@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not how much money you make, it's how much money you keep." — Robert Kiyosaki"
+  ""Well done is better than well said." — Benjamin Franklin"
 </em></p>
 
 ---
