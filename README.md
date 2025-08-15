@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't wait for inspiration. You have to go after it with a club. " — Jack London"
+  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
 </em></p>
 
 ---
