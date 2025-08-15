@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be brave enough to suck at something new." — Unknown"
+  ""No man is more cheated than the selfish man." — Henry Ward Beecher"
 </em></p>
 
 ---
