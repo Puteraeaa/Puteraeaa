@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't need to be better than anyone else, you just need to be better than you used to be." — Wayne Dyer"
+  ""When you've got nothing, you've got nothing to lose." — Bob Dylan"
 </em></p>
 
 ---
