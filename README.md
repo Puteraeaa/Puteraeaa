@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be polite to all, but intimate with few." — Thomas Jefferson"
+  ""Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. " — Lao Tzu"
 </em></p>
 
 ---
