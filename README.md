@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no excuse for not trying." — Barack Obama"
+  ""We cannot always do great things in life, but we can do small things with great love." — Dan Millman"
 </em></p>
 
 ---
