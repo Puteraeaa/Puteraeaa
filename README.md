@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Logic is like the sword - those who appeal to it shall perish by it." — Samuel Butler"
+  ""Be polite to all, but intimate with few." — Thomas Jefferson"
 </em></p>
 
 ---
