@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Debt is the slavery of the free." — Publilius Syrus"
+  ""She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa"
 </em></p>
 
 ---
