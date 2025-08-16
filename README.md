@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world." — Gabor Mate"
+  ""Logic is like the sword - those who appeal to it shall perish by it." — Samuel Butler"
 </em></p>
 
 ---
