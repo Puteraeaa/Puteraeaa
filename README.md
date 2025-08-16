@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Care about what other people think and you will always be their prisoner." — Lao Tzu"
+  ""A change is brought about because ordinary people do extraordinary things." — Barack Obama"
 </em></p>
 
 ---
