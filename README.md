@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you become is far more important than what you get." — Jim Rohn"
+  ""Even if you're sure you can win, be careful that you can live with what you lose." — Gary Keller"
 </em></p>
 
 ---
