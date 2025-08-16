@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even if you're sure you can win, be careful that you can live with what you lose." — Gary Keller"
+  ""Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy." — Roy T. Bennett"
 </em></p>
 
 ---
