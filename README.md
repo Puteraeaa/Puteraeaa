@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness cannot be traveled to, owned, earned, worn or consumed." — Denis Waitley"
+  ""The difference between winning and losing is most often not quitting." — Walt Disney"
 </em></p>
 
 ---
