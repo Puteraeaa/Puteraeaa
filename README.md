@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more reasons you have for achieving your goal, the more determined you will become." — Brian Tracy"
+  ""There is no limit to the amount of good you can do if you don't care who gets the credit." — Ronald Reagan"
 </em></p>
 
 ---
