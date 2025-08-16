@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He that can have patience can have what he will." — Benjamin Franklin"
+  ""The more reasons you have for achieving your goal, the more determined you will become." — Brian Tracy"
 </em></p>
 
 ---
