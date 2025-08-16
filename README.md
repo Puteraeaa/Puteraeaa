@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You came empty handed, and you will leave empty handed." — Bhagavad Gita"
+  ""Some of us learn from other people's mistakes and the rest of us have to be other people.  " — Zig Ziglar"
 </em></p>
 
 ---
