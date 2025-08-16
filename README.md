@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe." — Nikola Tesla"
+  ""If you can handle rejection, you'll learn to get everything you want." — Tony Robbins"
 </em></p>
 
 ---
