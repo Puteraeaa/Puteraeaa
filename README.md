@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I skate to where the puck is going to be, not where it has been." — Wayne Gretzky"
+  ""Life is too short to waste your time on people who don't respect, appreciate, and value you." — Roy T. Bennett"
 </em></p>
 
 ---
