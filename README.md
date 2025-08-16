@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles." — Christopher Reeve"
+  ""True prayer has no set form." — Morihei Ueshiba"
 </em></p>
 
 ---
