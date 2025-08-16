@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa"
+  ""Winning isn't everything, but wanting to win is." — Vince Lombardi"
 </em></p>
 
 ---
