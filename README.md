@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Luck is a matter of preparation meeting opportunity." — Oprah Winfrey"
+  ""He that can have patience can have what he will." — Benjamin Franklin"
 </em></p>
 
 ---
