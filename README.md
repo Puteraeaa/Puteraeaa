@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy." — Roy T. Bennett"
+  ""There is no excuse for not trying." — Barack Obama"
 </em></p>
 
 ---
