@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of us learn from other people's mistakes and the rest of us have to be other people.  " — Zig Ziglar"
+  ""The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
