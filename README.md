@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you've got nothing, you've got nothing to lose." — Bob Dylan"
+  ""Identify your problems, but give your power and energy to solutions." — Tony Robbins"
 </em></p>
 
 ---
