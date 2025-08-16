@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When one does not have what one wants, one must want what one has." — Sigmund Freud"
+  ""When you want something in life, you just gotta reach out and grab it." — Christopher McCandless"
 </em></p>
 
 ---
