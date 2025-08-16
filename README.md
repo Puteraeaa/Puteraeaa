@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We cannot always do great things in life, but we can do small things with great love." — Dan Millman"
+  ""Debt is the slavery of the free." — Publilius Syrus"
 </em></p>
 
 ---
