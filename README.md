@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is too short to waste your time on people who don't respect, appreciate, and value you." — Roy T. Bennett"
+  ""You don't need to be better than anyone else, you just need to be better than you used to be." — Wayne Dyer"
 </em></p>
 
 ---
