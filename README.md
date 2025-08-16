@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you want something in life, you just gotta reach out and grab it." — Christopher McCandless"
+  ""Winners are not people who never fail, but people who never quit." — Arnold Schwarzenegger"
 </em></p>
 
 ---
