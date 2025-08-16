@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich." — Carlos Ruiz Zafon"
+  ""I skate to where the puck is going to be, not where it has been." — Wayne Gretzky"
 </em></p>
 
 ---
