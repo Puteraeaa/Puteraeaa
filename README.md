@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Winning isn't everything, but wanting to win is." — Vince Lombardi"
+  ""You came empty handed, and you will leave empty handed." — Bhagavad Gita"
 </em></p>
 
 ---
