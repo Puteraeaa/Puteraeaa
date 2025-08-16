@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter how tall the mountain is, it cannot block the sun." — Chinese Proverb"
+  ""Life may be full of pain but that's not an excuse to give up." — Arnold Schwarzenegger"
 </em></p>
 
 ---
