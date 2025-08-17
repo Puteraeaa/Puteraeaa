@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not how much we give but how much love we put into giving." — Mother Teresa"
+  ""Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." — James Matthew Barrie"
 </em></p>
 
 ---
