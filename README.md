@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. " — Paramahansa Yogananda"
+  ""The only difference between success and failure is the ability to take action." — Alexander Graham Bell"
 </em></p>
 
 ---
