@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the oldest human needs is having someone to wonder where you are when you don't come home at night. " — Margaret Mead"
+  ""We must cultivate our garden. " — Voltaire"
 </em></p>
 
 ---
