@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To affect the quality of the day, that is the highest of arts." — Henry David Thoreau"
+  ""How you think is as important as as what you think." — Unknown"
 </em></p>
 
 ---
