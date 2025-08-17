@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Expect the best of yourself, and then do what is necessary to make it a reality." — Ralph Marston"
+  ""Don't wish it were easier, wish you were better." — Jim Rohn"
 </em></p>
 
 ---
