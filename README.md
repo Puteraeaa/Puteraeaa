@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No great discovery was ever made without a bold guess. " — Isaac Newton"
+  ""Do what you feel in your heart to be right - for you'll be criticized anyway." — Eleanor Roosevelt"
 </em></p>
 
 ---
