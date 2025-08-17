@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop being a prisoner of your past. Become the architect of your future." — Robin Sharma"
+  ""No great discovery was ever made without a bold guess. " — Isaac Newton"
 </em></p>
 
 ---
