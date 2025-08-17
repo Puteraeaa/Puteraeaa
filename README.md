@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Too many of us are not living our dreams because we are living our fears." — Les Brown"
+  ""Stop being a prisoner of your past. Become the architect of your future." — Robin Sharma"
 </em></p>
 
 ---
