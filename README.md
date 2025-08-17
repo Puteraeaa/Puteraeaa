@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligence is the ability to adapt to change." — Stephen Hawking"
+  ""Discipline yourself, and others won't need to." — John Wooden"
 </em></p>
 
 ---
