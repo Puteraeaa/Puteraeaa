@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your vision will become clear only when you can look into your own heart." — Lolly Daskal"
+  ""The score never interested me, only the game." — Mae West"
 </em></p>
 
 ---
