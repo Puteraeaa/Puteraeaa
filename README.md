@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Attitude, not aptitude, determines altitude.  " — Zig Ziglar"
+  ""Get mad, then get over it." — Colin Powell"
 </em></p>
 
 ---
