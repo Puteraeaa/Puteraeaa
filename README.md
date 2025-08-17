@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Inspire yourself to be great. Being good isn't good enough." — Gurbaksh Chahal"
+  ""Over time, loneliness gets inside you and doesn't go away." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
