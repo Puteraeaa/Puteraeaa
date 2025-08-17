@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." — Zen Proverb"
+  ""The future doesn't belong to the faint-hearted; it belongs to the brave." — Ronald Reagan"
 </em></p>
 
 ---
