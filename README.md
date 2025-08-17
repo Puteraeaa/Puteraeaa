@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have to keep breaking your heart until it opens." — Rumi"
+  ""Your vision will become clear only when you can look into your own heart." — Lolly Daskal"
 </em></p>
 
 ---
