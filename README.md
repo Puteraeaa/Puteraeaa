@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must cultivate our garden. " — Voltaire"
+  ""When things go wrong, don't go with them." — Elvis Presley"
 </em></p>
 
 ---
