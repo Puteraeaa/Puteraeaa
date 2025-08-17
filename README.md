@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When things go wrong, don't go with them." — Elvis Presley"
+  ""Saying nothing sometimes says the most." — Emily Dickinson"
 </em></p>
 
 ---
