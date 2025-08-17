@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have to keep breaking your heart until it opens." — Rumi"
+  ""Words are the clothing of our thoughts." — Jonathan Swift"
 </em></p>
 
 ---
