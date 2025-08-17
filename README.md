@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." — Sonia Ricotti"
+  ""It's not how much we give but how much love we put into giving." — Mother Teresa"
 </em></p>
 
 ---
