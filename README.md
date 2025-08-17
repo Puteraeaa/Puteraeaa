@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more acquaintances you have, the less you know them." — Chinese Proverb"
+  ""Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. " — Paramahansa Yogananda"
 </em></p>
 
 ---
