@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't wish it were easier, wish you were better." — Jim Rohn"
+  ""You have to keep breaking your heart until it opens." — Rumi"
 </em></p>
 
 ---
