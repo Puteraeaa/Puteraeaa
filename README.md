@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The goal of an artist is to create the definitive work that cannot be surpassed." — George Bernard Shaw"
+  ""To affect the quality of the day, that is the highest of arts." — Henry David Thoreau"
 </em></p>
 
 ---
