@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only difference between success and failure is the ability to take action." — Alexander Graham Bell"
+  ""Expect the best of yourself, and then do what is necessary to make it a reality." — Ralph Marston"
 </em></p>
 
 ---
