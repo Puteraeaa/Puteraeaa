@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do what you feel in your heart to be right - for you'll be criticized anyway." — Eleanor Roosevelt"
+  ""Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." — Sonia Ricotti"
 </em></p>
 
 ---
