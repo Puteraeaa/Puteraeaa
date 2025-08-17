@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." — James Matthew Barrie"
+  ""Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." — Zen Proverb"
 </em></p>
 
 ---
