@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed." — Deepak Chopra"
+  ""When you've got nothing, you've got nothing to lose." — Bob Dylan"
 </em></p>
 
 ---
