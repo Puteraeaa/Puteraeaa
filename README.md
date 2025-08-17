@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Get mad, then get over it." — Colin Powell"
+  ""Intelligence is the ability to adapt to change." — Stephen Hawking"
 </em></p>
 
 ---
