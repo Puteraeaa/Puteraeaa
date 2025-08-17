@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Winners are not people who never fail, but people who never quit." — Arnold Schwarzenegger"
+  ""You have to keep breaking your heart until it opens." — Rumi"
 </em></p>
 
 ---
