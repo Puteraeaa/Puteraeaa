@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Over time, loneliness gets inside you and doesn't go away." — Carlos Ruiz Zafon"
+  ""Too many of us are not living our dreams because we are living our fears." — Les Brown"
 </em></p>
 
 ---
