@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." — Kamal Ravikant"
+  ""The more acquaintances you have, the less you know them." — Chinese Proverb"
 </em></p>
 
 ---
