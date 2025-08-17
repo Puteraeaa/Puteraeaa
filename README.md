@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The score never interested me, only the game." — Mae West"
+  ""Take care of your cents: dollars will take care of themselves." — Thomas Jefferson"
 </em></p>
 
 ---
