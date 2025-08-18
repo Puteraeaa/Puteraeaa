@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day passes whether you participate or not." — Ming-Dao Deng"
+  ""If your mind is empty, it is always ready for anything, it is open to everything." — Shunryu Suzuki"
 </em></p>
 
 ---
