@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso"
+  ""In the practice of tolerance, one's enemy is the best teacher." — Dalai Lama"
 </em></p>
 
 ---
