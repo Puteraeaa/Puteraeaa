@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only defense against the world is a thorough knowledge of it." — John Locke"
+  ""It is in changing that we find purpose." — Heraclitus"
 </em></p>
 
 ---
