@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I put my heart and soul into my work, and I have lost my mind in the process." — Vincent van Gogh"
+  ""Anyone telling you it's pointless to share your perspective is sharing their perspective." — Jack Butcher"
 </em></p>
 
 ---
