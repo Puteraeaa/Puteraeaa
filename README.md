@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What do we live for if not to make life less difficult for each other?" — T.S. Eliot"
+  ""The prettiest eyes have cried the most." — Unknown"
 </em></p>
 
 ---
