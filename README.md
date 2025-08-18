@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If your mind is empty, it is always ready for anything, it is open to everything." — Shunryu Suzuki"
+  ""It is well known that those who do not trust themselves never trust others." — Alfred Adler"
 </em></p>
 
 ---
