@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The prettiest eyes have cried the most." — Unknown"
+  ""The quality of your life is determined by the quality of questions you ask." — Tony Robbins"
 </em></p>
 
 ---
