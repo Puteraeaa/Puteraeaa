@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it." — Josh Waitzkin"
+  ""The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso"
 </em></p>
 
 ---
