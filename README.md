@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's always to soon to quit!" — Norman Vincent Peale"
+  ""Growth comes at the point of resistance." — Josh Waitzkin"
 </em></p>
 
 ---
