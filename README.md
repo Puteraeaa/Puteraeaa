@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are the average of the five people you spend the most time with." — Jim Rohn"
+  ""If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose." — Celestine Chua"
 </em></p>
 
 ---
