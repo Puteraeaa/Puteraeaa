@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is too short to waste your time on people who don't respect, appreciate, and value you." — Roy T. Bennett"
+  ""Never give up work. Work gives you meaning and purpose and life is empty without it." — Stephen Hawking"
 </em></p>
 
 ---
