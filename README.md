@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One always begins to forgive a place as soon as it's left behind." — Charles Dickens"
+  ""Make your life a mission - not an intermission." — Unknown"
 </em></p>
 
 ---
