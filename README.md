@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly." — Marcus Aurelius"
+  ""All we have to decide is what to do with the time that is given to us." — J.R.R. Tolkien"
 </em></p>
 
 ---
