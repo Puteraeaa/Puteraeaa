@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose." — Celestine Chua"
+  ""Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking." — Steve Jobs"
 </em></p>
 
 ---
