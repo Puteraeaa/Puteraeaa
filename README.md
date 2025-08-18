@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience expands your options. If you insist on immediate gratification, your choices are severely limited." — Ralph Marston"
+  ""When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it." — Josh Waitzkin"
 </em></p>
 
 ---
