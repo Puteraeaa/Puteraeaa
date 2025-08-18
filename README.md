@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We should not look back unless it is to derive useful lessons from past errors." — George Washington"
+  ""You are the only real obstacle in your path to a fulfilling life." — Les Brown"
 </em></p>
 
 ---
