@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make your life a mission - not an intermission." — Unknown"
+  ""The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
