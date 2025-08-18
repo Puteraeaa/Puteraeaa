@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking." — Steve Jobs"
+  ""I put my heart and soul into my work, and I have lost my mind in the process." — Vincent van Gogh"
 </em></p>
 
 ---
