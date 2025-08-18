@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dream big and dare to fail." — Norman Vaughan"
+  ""Little by little, one travels far." — J.R.R. Tolkien"
 </em></p>
 
 ---
