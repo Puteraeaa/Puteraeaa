@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich." — Carlos Ruiz Zafon"
+  ""We must cultivate our garden. " — Voltaire"
 </em></p>
 
 ---
