@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe you can and you're halfway there." — Theodore Roosevelt"
+  ""For the things we have to learn before we can do them, we learn by doing them." — Aristotle"
 </em></p>
 
 ---
