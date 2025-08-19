@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why live an ordinary life, when you can live an extraordinary one." — Tony Robbins"
+  ""Don't let the noise of others opinions drown out your inner voice." — Steve Jobs"
 </em></p>
 
 ---
