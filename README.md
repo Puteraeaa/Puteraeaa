@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Looking after my health today gives me a better hope for tomorrow. " — Anne Wilson Schaef"
+  ""A gentleman accepts the responsibility of his actions and bears the burden of their consequences." — William Faulkner"
 </em></p>
 
 ---
