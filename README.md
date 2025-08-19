@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It doesn't matter where you are coming from. All that matters is where you are going. " — Brian Tracy"
+  ""Why live an ordinary life, when you can live an extraordinary one." — Tony Robbins"
 </em></p>
 
 ---
