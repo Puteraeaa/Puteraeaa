@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is liking yourself, liking what you do, and liking how you do it." — Maya Angelou"
+  ""Peace begins with a smile." — Mother Teresa"
 </em></p>
 
 ---
