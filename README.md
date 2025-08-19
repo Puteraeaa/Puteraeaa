@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some people feel the rain. Others just get wet. " — Bob Dylan"
+  ""A tiger doesn't lose sleep over the opinion of sheep." — Shahir Zag"
 </em></p>
 
 ---
