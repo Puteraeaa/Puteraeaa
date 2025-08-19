@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway." — Earl Nightingale"
+  ""Some people feel the rain. Others just get wet. " — Bob Dylan"
 </em></p>
 
 ---
