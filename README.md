@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do Something. If it works, do more of it. If it doesn't, do something else." — Franklin D. Roosevelt"
+  ""I have lived with several Zen masters -- all of them cats." — Eckhart Tolle"
 </em></p>
 
 ---
