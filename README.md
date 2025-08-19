@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Alone we can do so little; together we can do so much." — Helen Keller"
+  ""Knowing yourself is the beginning of all wisdom." — Aristotle"
 </em></p>
 
 ---
