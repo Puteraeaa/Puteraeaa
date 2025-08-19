@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being wrong brings the opportunity for growth." — Mark Manson"
+  ""Life is about not knowing and then doing something anyway." — Mark Manson"
 </em></p>
 
 ---
