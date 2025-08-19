@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Choose to be optimistic, it feels better." — Dalai Lama"
+  ""Growth is in a series of mistakes. That's the only way you learn." — Steve Harvey"
 </em></p>
 
 ---
