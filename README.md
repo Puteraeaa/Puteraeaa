@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the noise of others opinions drown out your inner voice." — Steve Jobs"
+  ""Believe you can and you're halfway there." — Theodore Roosevelt"
 </em></p>
 
 ---
