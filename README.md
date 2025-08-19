@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I have lived with several Zen masters -- all of them cats." — Eckhart Tolle"
+  ""Fear, uncertainty, and discomfort are your compasses toward growth." — Celestine Chua"
 </em></p>
 
 ---
