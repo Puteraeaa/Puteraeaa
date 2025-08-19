@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're really truthful with yourself, it's a wonderful guidance.  " — Charlie Chaplin"
+  ""Care about what other people think and you will always be their prisoner." — Lao Tzu"
 </em></p>
 
 ---
