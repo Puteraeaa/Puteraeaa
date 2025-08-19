@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A gentleman accepts the responsibility of his actions and bears the burden of their consequences." — William Faulkner"
+  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
 </em></p>
 
 ---
