@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best mind-altering drug is the truth." — Lily Tomlin"
+  ""Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway." — Earl Nightingale"
 </em></p>
 
 ---
