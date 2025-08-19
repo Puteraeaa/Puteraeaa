@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is passion that makes man live; wisdom makes one only last." — Nicolas Chamfort"
+  ""Either write something worth reading or do something worth writing." — Benjamin Franklin"
 </em></p>
 
 ---
