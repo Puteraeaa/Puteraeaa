@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do not push the boundaries, you will never know where they are." — T.S. Eliot"
+  ""Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win." — Stephen King"
 </em></p>
 
 ---
