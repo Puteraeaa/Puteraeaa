@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life has the name of life, but in reality it is death." — Heraclitus"
+  ""Light a candle instead of cursing the darkness." — Eleanor Roosevelt"
 </em></p>
 
 ---
