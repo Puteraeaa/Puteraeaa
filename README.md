@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Light a candle instead of cursing the darkness." — Eleanor Roosevelt"
+  ""Looking after my health today gives me a better hope for tomorrow. " — Anne Wilson Schaef"
 </em></p>
 
 ---
