@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The cost of leadership is self-interest." — Simon Sinek"
+  ""Life has the name of life, but in reality it is death." — Heraclitus"
 </em></p>
 
 ---
