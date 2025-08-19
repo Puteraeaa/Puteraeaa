@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There's no coming to consciousness without pain" — Carl Jung"
+  ""If you're really truthful with yourself, it's a wonderful guidance.  " — Charlie Chaplin"
 </em></p>
 
 ---
