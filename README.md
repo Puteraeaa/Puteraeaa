@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you take responsibility for yourself you will develop a hunger to accomplish your dream." — Les Brown"
+  ""We can know only that we know nothing. And that is the highest degree of human wisdom." — Leo Tolstoy"
 </em></p>
 
 ---
