@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't listen to the person who has the answers; listen to the person who has the questions." — Albert Einstein"
+  ""If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return." — Deepak Chopra"
 </em></p>
 
 ---
