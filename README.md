@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Patience expands your options. If you insist on immediate gratification, your choices are severely limited." — Ralph Marston"
+  ""Leaders think and talk about solutions. Followers think and talk about the problems." — Brian Tracy"
 </em></p>
 
 ---
