@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who knows, does not speak. He who speaks, does not know." — Lao Tzu"
+  ""A clever person turns great troubles into little ones, and little ones into none at all. " — Chinese Proverb"
 </em></p>
 
 ---
