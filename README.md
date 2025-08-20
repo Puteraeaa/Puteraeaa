@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always try to be a little kinder than necessary." — James Matthew Barrie"
+  ""If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." — Unknown"
 </em></p>
 
 ---
