@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is difficult to free fools from the chains they revere. " — Voltaire"
+  ""You will not do incredible things without an incredible dream." — John Eliot"
 </em></p>
 
 ---
