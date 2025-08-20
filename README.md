@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best way to not feel hopeless is to get up and do something." — Barack Obama"
+  ""All I can do is be me, whoever that is." — Bob Dylan"
 </em></p>
 
 ---
