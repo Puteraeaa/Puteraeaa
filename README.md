@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your heart is the size of an ocean. Go find yourself in its hidden depths." — Rumi"
+  ""You'll never find rainbows if you're looking down.  " — Charlie Chaplin"
 </em></p>
 
 ---
