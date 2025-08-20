@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The source of a true smile is an awakened mind." — Thich Nhat Hanh"
+  ""I am not the outcome. I am never the result. I am only the effort." — Kamal Ravikant"
 </em></p>
 
 ---
