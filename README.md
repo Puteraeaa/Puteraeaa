@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're not making mistakes, then you're not doing anything." — John Wooden"
+  ""Music is like creating an emotional painting. The sounds are the colors." — Yanni"
 </em></p>
 
 ---
