@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wheresoever you go, go with all your heart." — Confucius"
+  ""The best way to not feel hopeless is to get up and do something." — Barack Obama"
 </em></p>
 
 ---
