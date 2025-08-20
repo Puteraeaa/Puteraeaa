@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no ordinary moments." — Dan Millman"
+  ""Patience expands your options. If you insist on immediate gratification, your choices are severely limited." — Ralph Marston"
 </em></p>
 
 ---
