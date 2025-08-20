@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I believe that one of life's greatest risks is never daring to risk." — Oprah Winfrey"
+  ""We build too many walls and not enough bridges." — Isaac Newton"
 </em></p>
 
 ---
