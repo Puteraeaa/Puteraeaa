@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All I can do is be me, whoever that is." — Bob Dylan"
+  ""There are no ordinary moments." — Dan Millman"
 </em></p>
 
 ---
