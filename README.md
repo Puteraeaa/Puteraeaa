@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As soon as you truly commit to making something happen, the 'how' will reveal itself." — Tony Robbins"
+  ""All power is from within and therefore under our control." — Robert Collier"
 </em></p>
 
 ---
