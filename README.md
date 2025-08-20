@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want something you've never had you must be willing to do something you've never done." — Thomas Jefferson"
+  ""One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power." — Tony Robbins"
 </em></p>
 
 ---
