@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." — Unknown"
+  ""The source of a true smile is an awakened mind." — Thich Nhat Hanh"
 </em></p>
 
 ---
