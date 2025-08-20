@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others." — Audrey Hepburn"
+  ""No man will make a great leader who wants to do it all himself or to get all the credit for doing it." — Andrew Carnegie"
 </em></p>
 
 ---
