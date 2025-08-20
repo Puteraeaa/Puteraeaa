@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may delay, but time will not." — Benjamin Franklin"
+  ""Live life as though nobody is watching, and express yourself as though everyone is listening." — Nelson Mandela"
 </em></p>
 
 ---
