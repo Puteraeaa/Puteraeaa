@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You will not do incredible things without an incredible dream." — John Eliot"
+  ""Wheresoever you go, go with all your heart." — Confucius"
 </em></p>
 
 ---
