@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live life as though nobody is watching, and express yourself as though everyone is listening." — Nelson Mandela"
+  ""Always try to be a little kinder than necessary." — James Matthew Barrie"
 </em></p>
 
 ---
