@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let what you cannot do interfere with what you can do." — John Wooden"
+  ""As you think, you travel, and as you love, you attract." — James Allen"
 </em></p>
 
 ---
