@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All power is from within and therefore under our control." — Robert Collier"
+  ""When you believe in a thing, believe in it all the way, implicitly and unquestionable." — Walt Disney"
 </em></p>
 
 ---
