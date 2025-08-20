@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power." — Tony Robbins"
+  ""Patience expands your options. If you insist on immediate gratification, your choices are severely limited." — Ralph Marston"
 </em></p>
 
 ---
