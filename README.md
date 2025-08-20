@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am not the outcome. I am never the result. I am only the effort." — Kamal Ravikant"
+  ""Don't let what you cannot do interfere with what you can do." — John Wooden"
 </em></p>
 
 ---
