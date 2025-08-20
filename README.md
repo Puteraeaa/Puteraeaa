@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never close your lips to those whom you have already opened your heart." — Charles Dickens"
+  ""He who knows, does not speak. He who speaks, does not know." — Lao Tzu"
 </em></p>
 
 ---
