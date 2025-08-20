@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A clever person turns great troubles into little ones, and little ones into none at all. " — Chinese Proverb"
+  ""If you're not making mistakes, then you're not doing anything." — John Wooden"
 </em></p>
 
 ---
