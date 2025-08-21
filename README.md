@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The impossible can always be broken down into possibilities." — Unknown"
+  ""Life is a balance of holding on and letting go." — Rumi"
 </em></p>
 
 ---
