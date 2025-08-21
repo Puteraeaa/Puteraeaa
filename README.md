@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fool me once, shame on you; fool me twice, shame on me. " — Chinese Proverb"
+  ""Invisible things are the only realities." — Edgar Allan Poe"
 </em></p>
 
 ---
