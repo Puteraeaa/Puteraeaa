@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's the little things done consistently over time, straight from your heart, that have the greatest impact." — Unknown"
+  ""You must find the place inside yourself where nothing is impossible." — Deepak Chopra"
 </em></p>
 
 ---
