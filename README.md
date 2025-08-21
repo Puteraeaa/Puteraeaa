@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Better to light a candle than to curse the darkness. " — Chinese Proverb"
+  ""No man is more cheated than the selfish man." — Henry Ward Beecher"
 </em></p>
 
 ---
