@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!" — Tony Robbins"
+  ""We can either add to our character each day, or we can fritter away our energies in distractions." — Ming-Dao Deng"
 </em></p>
 
 ---
