@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is literally true that you can succeed best and quickest by helping others succeed." — Napoleon Hill"
+  ""To be fully alive is to feel that everything is possible." — Eric Hoffer"
 </em></p>
 
 ---
