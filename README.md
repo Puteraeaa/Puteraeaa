@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confuse them with your silence and amaze them with your actions." — Unknown"
+  ""The worst part of success is trying to find someone who is happy for you." — Bette Midler"
 </em></p>
 
 ---
