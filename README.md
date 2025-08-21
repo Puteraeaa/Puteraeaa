@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My definition of success is control." — Kenneth Branagh"
+  ""No man is happy unless he believes he is." — Publilius Syrus"
 </em></p>
 
 ---
