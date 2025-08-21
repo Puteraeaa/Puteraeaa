@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man is happy unless he believes he is." — Publilius Syrus"
+  ""It is not the knowing that is difficult, but the doing. " — Chinese Proverb"
 </em></p>
 
 ---
