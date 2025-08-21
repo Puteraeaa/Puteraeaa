@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make peace with your inner turmoil." — Unknown"
+  ""Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!" — Tony Robbins"
 </em></p>
 
 ---
