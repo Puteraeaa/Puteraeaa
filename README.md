@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not wait for leaders; do it alone, person to person." — Mother Teresa"
+  ""Trust in dreams, for in them is the hidden gate to eternity.  " — Kahlil Gibran"
 </em></p>
 
 ---
