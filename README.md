@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man is more cheated than the selfish man." — Henry Ward Beecher"
+  ""Confuse them with your silence and amaze them with your actions." — Unknown"
 </em></p>
 
 ---
