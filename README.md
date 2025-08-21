@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am not what happened to me, I am what I choose to become." — Carl Jung"
+  ""Choose a job you love, and you will never have to work a day in your life. " — Confucius"
 </em></p>
 
 ---
