@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Respect is earned by effort not age, all things age without effort." — C. Sean McGee"
+  ""I am always doing what I cannot do yet, in order to learn how to do it." — Vincent van Gogh"
 </em></p>
 
 ---
