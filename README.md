@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You will face many defeats in life, but never let yourself be defeated." — Maya Angelou"
+  ""Success on the outside means nothing unless you also have success within." — Robin Sharma"
 </em></p>
 
 ---
