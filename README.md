@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great things are not done by impulse, but by a series of small things brought together." — Vincent van Gogh"
+  ""Your neighbor is the man who needs you." — Elbert Hubbard"
 </em></p>
 
 ---
