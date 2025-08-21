@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do what is right, not what is easy, nor what is popular." — Roy T. Bennett"
+  ""It's the little things done consistently over time, straight from your heart, that have the greatest impact." — Unknown"
 </em></p>
 
 ---
