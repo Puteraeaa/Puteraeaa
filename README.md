@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Choose a job you love, and you will never have to work a day in your life. " — Confucius"
+  ""Do what is right, not what is easy, nor what is popular." — Roy T. Bennett"
 </em></p>
 
 ---
