@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The scariest monsters are the ones that lurk within our souls." — Edgar Allan Poe"
+  ""Make each day your masterpiece." — John Wooden"
 </em></p>
 
 ---
