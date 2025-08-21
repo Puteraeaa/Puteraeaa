@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your neighbor is the man who needs you." — Elbert Hubbard"
+  ""The scariest monsters are the ones that lurk within our souls." — Edgar Allan Poe"
 </em></p>
 
 ---
