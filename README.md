@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Invisible things are the only realities." — Edgar Allan Poe"
+  ""The more you take responsibility for your past and present, the more you are able to create the future you seek." — Celestine Chua"
 </em></p>
 
 ---
