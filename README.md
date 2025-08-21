@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a balance of holding on and letting go." — Rumi"
+  ""Make peace with your inner turmoil." — Unknown"
 </em></p>
 
 ---
