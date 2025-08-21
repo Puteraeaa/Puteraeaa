@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To some degree, you control your life by controlling your time." — Conrad Hilton"
+  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
 </em></p>
 
 ---
