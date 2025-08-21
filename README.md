@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success on the outside means nothing unless you also have success within." — Robin Sharma"
+  ""To some degree, you control your life by controlling your time." — Conrad Hilton"
 </em></p>
 
 ---
