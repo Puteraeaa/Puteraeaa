@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can either add to our character each day, or we can fritter away our energies in distractions." — Ming-Dao Deng"
+  ""Fool me once, shame on you; fool me twice, shame on me. " — Chinese Proverb"
 </em></p>
 
 ---
