@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Faith is taking the first step even when you don't see the whole staircase." — Martin Luther King, Jr."
+  ""It is literally true that you can succeed best and quickest by helping others succeed." — Napoleon Hill"
 </em></p>
 
 ---
