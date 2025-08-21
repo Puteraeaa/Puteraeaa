@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you take responsibility for your past and present, the more you are able to create the future you seek." — Celestine Chua"
+  ""I try more and more to be myself, caring relatively little whether people approve or disapprove." — Vincent van Gogh"
 </em></p>
 
 ---
