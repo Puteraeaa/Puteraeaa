@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
+  ""I am not what happened to me, I am what I choose to become." — Carl Jung"
 </em></p>
 
 ---
