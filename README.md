@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The real meditation is how you live your life." — Jon Kabat-Zinn"
+  ""The impossible can always be broken down into possibilities." — Unknown"
 </em></p>
 
 ---
