@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One must be poor to know the luxury of giving." — George Eliot"
+  ""Because of your smile, you make life more beautiful." — Thich Nhat Hanh"
 </em></p>
 
 ---
