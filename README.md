@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Yesterday is gone. Tomorrow has not yet come. We have only today." — Mother Teresa"
+  ""Dreams have only one owner at a time. That's why dreamers are lonely." — William Faulkner"
 </em></p>
 
 ---
