@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale"
+  ""The whole of life, from the moment you are born to the moment you die, is a process of learning." — Jiddu Krishnamurti"
 </em></p>
 
 ---
