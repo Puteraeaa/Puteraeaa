@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The eye with which I see God is the same eye with which God sees me." — Meister Eckhart"
+  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
 </em></p>
 
 ---
