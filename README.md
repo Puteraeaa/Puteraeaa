@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you run you stand a chance of losing, but if you don't run you've already lost." — Barack Obama"
+  ""Yesterday is gone. Tomorrow has not yet come. We have only today." — Mother Teresa"
 </em></p>
 
 ---
