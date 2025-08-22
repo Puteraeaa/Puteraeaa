@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is contagious. So is lack of confidence." — Vince Lombardi"
+  ""Keep your friends close, and your enemies closer." — Sun Tzu"
 </em></p>
 
 ---
