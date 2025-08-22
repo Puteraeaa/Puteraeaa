@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe nothing you hear, and only one half that you see." — Edgar Allan Poe"
+  ""Fear can hold you prisoner. Hope can set you free." — Stephen King"
 </em></p>
 
 ---
