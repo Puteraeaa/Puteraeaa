@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The world doesn't owe you anything. It was here first." — Mark Twain"
+  ""The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." — George Bernard Shaw"
 </em></p>
 
 ---
