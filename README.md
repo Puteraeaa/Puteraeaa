@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Imagination means nothing without doing.  " — Charlie Chaplin"
+  ""Nothing is hopeless; we must hope for everything." — Euripides"
 </em></p>
 
 ---
