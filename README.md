@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder"
+  ""People have the illusion that all over the world, all the time, all kinds of fantastic things are happening." — David Brinkley"
 </em></p>
 
 ---
