@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." — George Bernard Shaw"
+  ""The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." — Josh Waitzkin"
 </em></p>
 
 ---
