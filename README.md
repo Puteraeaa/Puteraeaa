@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""But better die than live mechanically a life that is a repetition of repetitions." — D. H. Lawrence"
+  ""Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time." — Jon Kabat-Zinn"
 </em></p>
 
 ---
