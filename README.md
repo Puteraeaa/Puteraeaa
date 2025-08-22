@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What are we doing here, that is the question." — Samuel Beckett"
+  ""We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences " — Nikola Tesla"
 </em></p>
 
 ---
