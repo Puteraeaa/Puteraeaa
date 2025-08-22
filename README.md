@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return." — Deepak Chopra"
+  ""Life should be touched, not strangled.  " — Ray Bradbury"
 </em></p>
 
 ---
