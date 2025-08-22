@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trust in dreams, for in them is the hidden gate to eternity.  " — Kahlil Gibran"
+  ""We will now discuss in a little more detail the Struggle for Existence." — Charles Darwin"
 </em></p>
 
 ---
