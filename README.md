@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What we dwell on is who we become." — Oprah Winfrey"
+  ""Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale"
 </em></p>
 
 ---
