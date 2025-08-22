@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learn from the rejection and turn it into an opportunity!" — Mary Engelbreit"
+  ""But better die than live mechanically a life that is a repetition of repetitions." — D. H. Lawrence"
 </em></p>
 
 ---
