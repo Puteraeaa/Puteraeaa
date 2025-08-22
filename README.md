@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fashion fades, only style remains the same." — Coco Chanel"
+  ""Believe nothing you hear, and only one half that you see." — Edgar Allan Poe"
 </em></p>
 
 ---
