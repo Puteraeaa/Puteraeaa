@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams have only one owner at a time. That's why dreamers are lonely." — William Faulkner"
+  ""Manifest plainness, embrace simplicity, reduce selfishness, have few desires." — Lao Tzu"
 </em></p>
 
 ---
