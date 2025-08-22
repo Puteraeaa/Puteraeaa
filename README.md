@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Because of your smile, you make life more beautiful." — Thich Nhat Hanh"
+  ""Without the confidence, nothing can be accomplished." — Sathya Sai Baba"
 </em></p>
 
 ---
