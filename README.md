@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep your friends close, and your enemies closer." — Sun Tzu"
+  ""It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime." — Steve Maraboli"
 </em></p>
 
 ---
