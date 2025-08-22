@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Here and now...breathe and relax...in battle and in life." — Dan Millman"
+  ""Better late than never." — Spencer Johnson"
 </em></p>
 
 ---
