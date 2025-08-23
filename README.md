@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All our dreams can come true, if we have the courage to pursue them." — Walt Disney"
+  ""If we know how to adapt, we end up being superior." — Ming-Dao Deng"
 </em></p>
 
 ---
