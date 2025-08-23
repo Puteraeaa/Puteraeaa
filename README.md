@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend." — Zen Proverb"
+  ""The future will be shaped by those willing to commit their minds and their bodies to the task." — Robert F. Kennedy"
 </em></p>
 
 ---
