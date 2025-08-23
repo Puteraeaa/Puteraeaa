@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perplexity is the beginning of knowledge." — Kahlil Gibran"
+  ""Successful people ask better questions, and as a result, they get better answers." — Tony Robbins"
 </em></p>
 
 ---
