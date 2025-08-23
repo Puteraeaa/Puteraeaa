@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people ask better questions, and as a result, they get better answers." — Tony Robbins"
+  ""Everyone must choose one of two pains: The pain of discipline or the pain of regret." — Jim Rohn"
 </em></p>
 
 ---
