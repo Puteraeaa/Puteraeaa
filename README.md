@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more something scares you, the more you should do it." — Mark Manson"
+  ""You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" — Seneca"
 </em></p>
 
 ---
