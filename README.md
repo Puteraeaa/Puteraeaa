@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't need a weatherman to know which way the wind blows." — Bob Dylan"
+  ""Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend." — Zen Proverb"
 </em></p>
 
 ---
