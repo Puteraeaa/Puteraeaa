@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Circumstances rule men; men do not rule circumstances. " — Herodotus"
+  ""Those who look for the bad in people will surely find it." — Abraham Lincoln"
 </em></p>
 
 ---
