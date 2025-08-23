@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie"
+  ""Circumstances rule men; men do not rule circumstances. " — Herodotus"
 </em></p>
 
 ---
