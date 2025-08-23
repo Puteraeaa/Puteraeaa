@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams have only one owner at a time. That's why dreamers are lonely." — William Faulkner"
+  ""If you're waiting until you feel talented enough to make it, you'll never make it." — Criss Jami"
 </em></p>
 
 ---
