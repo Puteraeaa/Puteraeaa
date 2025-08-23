@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give so much away people insist on paying you." — Jack Butcher"
+  ""Fear not the path of Truth for the lack of People walking on it." — Robert F. Kennedy"
 </em></p>
 
 ---
