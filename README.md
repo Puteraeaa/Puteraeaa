@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Without the confidence, nothing can be accomplished." — Sathya Sai Baba"
+  ""To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." — Criss Jami"
 </em></p>
 
 ---
