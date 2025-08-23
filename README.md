@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone must choose one of two pains: The pain of discipline or the pain of regret." — Jim Rohn"
+  ""Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie"
 </em></p>
 
 ---
