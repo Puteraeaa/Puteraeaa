@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board." — D. H. Lawrence"
+  ""Small men think they are small; great men never know they are great. " — Chinese Proverb"
 </em></p>
 
 ---
