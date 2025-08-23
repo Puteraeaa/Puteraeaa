@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All leaders are readers." — Jim Rohn"
+  ""Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." — Ronald Reagan"
 </em></p>
 
 ---
