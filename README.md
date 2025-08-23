@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're waiting until you feel talented enough to make it, you'll never make it." — Criss Jami"
+  ""Do not fight with pigs - you will be smeared in mud but the pig will like it." — George Bernard Shaw"
 </em></p>
 
 ---
