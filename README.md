@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future will be shaped by those willing to commit their minds and their bodies to the task." — Robert F. Kennedy"
+  ""If you are ever the smartest person in the room, you are in the wrong room." — C. Sean McGee"
 </em></p>
 
 ---
