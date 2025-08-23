@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Preoccupied with a single leaf you won't see the tree." — Unknown"
+  ""Attitude, not aptitude, determines altitude.  " — Zig Ziglar"
 </em></p>
 
 ---
