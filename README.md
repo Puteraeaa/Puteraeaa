@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." — Ronald Reagan"
+  ""All know that the drop merges into the ocean, but few know that the ocean merges into the drop." — Kabir"
 </em></p>
 
 ---
