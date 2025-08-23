@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men go to far greater lengths to avoid what they fear than to obtain what they desire." — Dan Brown"
+  ""Abundance of knowledge does not teach men to be wise." — Heraclitus"
 </em></p>
 
 ---
