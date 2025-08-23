@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I never said it would be easy, I only said it would be worth it." — Mae West"
+  ""What one does is what counts. Not what one had the intention of doing." — Pablo Picasso"
 </em></p>
 
 ---
