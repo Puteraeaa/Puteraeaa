@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I admire those who do good and expect nothing in return." — Roy T. Bennett"
+  ""At the end of the day, let there be no excuses, no explanations, no regrets." — Steve Maraboli"
 </em></p>
 
 ---
