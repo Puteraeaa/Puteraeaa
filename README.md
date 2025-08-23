@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All know that the drop merges into the ocean, but few know that the ocean merges into the drop." — Kabir"
+  ""You don't need a weatherman to know which way the wind blows." — Bob Dylan"
 </em></p>
 
 ---
