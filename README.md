@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we know how to adapt, we end up being superior." — Ming-Dao Deng"
+  ""Preoccupied with a single leaf you won't see the tree." — Unknown"
 </em></p>
 
 ---
