@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What one does is what counts. Not what one had the intention of doing." — Pablo Picasso"
+  ""Don't gain the world and lose your soul. Wisdom is better than silver and gold." — Bob Marley"
 </em></p>
 
 ---
