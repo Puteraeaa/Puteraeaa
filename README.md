@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peaceful is the one who expects nothing." — Maxime Lagace"
+  ""Stop being a prisoner of your past. Become the architect of your future." — Robin Sharma"
 </em></p>
 
 ---
