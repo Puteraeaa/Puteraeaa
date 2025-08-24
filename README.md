@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only way out is through." — Robert Frost"
+  ""The world doesn't always give you want, but it often gives you what you need." — Naval Ravikant"
 </em></p>
 
 ---
