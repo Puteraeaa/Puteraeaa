@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." — Bhagavad Gita"
+  ""Greatest success comes just one step beyond the point at which defeat overtakes you." — Unknown"
 </em></p>
 
 ---
