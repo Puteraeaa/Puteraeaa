@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." — Helen Keller"
+  ""Life is a process. We are a process. The universe is a process." — Anne Wilson Schaef"
 </em></p>
 
 ---
