@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King"
+  ""People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." — Franklin D. Roosevelt"
 </em></p>
 
 ---
