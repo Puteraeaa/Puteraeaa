@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To lead an orchestra, you must turn your back on the crowd." — Aristotle"
+  ""I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King"
 </em></p>
 
 ---
