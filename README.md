@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A clear conscience never fears midnight knocking." — Chinese Proverb"
+  ""Don't let making a living prevent you from making a life." — John Wooden"
 </em></p>
 
 ---
