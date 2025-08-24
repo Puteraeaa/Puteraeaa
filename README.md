@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest gift that you can give to others is the gift of unconditional love and acceptance. " — Brian Tracy"
+  ""One small positive thought can change your whole day." — Zig Ziglar"
 </em></p>
 
 ---
