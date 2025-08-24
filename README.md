@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The older you get, the more you understand how your conscience works." — Criss Jami"
+  ""The greatest gift that you can give to others is the gift of unconditional love and acceptance. " — Brian Tracy"
 </em></p>
 
 ---
