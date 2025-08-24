@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never stand begging for that which you have the power to earn." — Miguel de Cervantes"
+  ""Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you." — Jeffrey Gitomer"
 </em></p>
 
 ---
