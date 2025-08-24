@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's better to stand by someone's side than by yourself." — Jack London"
+  ""Intelligence is the ability to adapt to change." — Stephen Hawking"
 </em></p>
 
 ---
