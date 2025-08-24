@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Greatest success comes just one step beyond the point at which defeat overtakes you." — Unknown"
+  ""People who say it cannot be done should not interrupt those who are doing it." — George Bernard Shaw"
 </em></p>
 
 ---
