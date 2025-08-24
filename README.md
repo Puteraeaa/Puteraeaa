@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wise learn many things from their enemies." — Aristophanes"
+  ""The way to get started is to quit talking and begin doing." — Walt Disney"
 </em></p>
 
 ---
