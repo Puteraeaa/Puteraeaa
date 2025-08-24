@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb"
+  ""A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd." — Chinese Proverb"
 </em></p>
 
 ---
