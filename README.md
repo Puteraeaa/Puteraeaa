@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People who say it cannot be done should not interrupt those who are doing it." — George Bernard Shaw"
+  ""The mind is the limit." — Arnold Schwarzenegger"
 </em></p>
 
 ---
