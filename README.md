@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One is never afraid of the unknown; one is afraid of the known coming to an end." — Jiddu Krishnamurti"
+  ""The wise learn many things from their enemies." — Aristophanes"
 </em></p>
 
 ---
