@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is easier than fault finding." — Og Mandino"
+  ""Change is hard at first, messy in the middle and gorgeous at the end." — Robin Sharma"
 </em></p>
 
 ---
