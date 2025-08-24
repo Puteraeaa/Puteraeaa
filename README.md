@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you." — Jeffrey Gitomer"
+  ""The older you get, the more you understand how your conscience works." — Criss Jami"
 </em></p>
 
 ---
