@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace if possible, truth at all costs." — Martin Luther"
+  ""It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love." — John Lennon"
 </em></p>
 
 ---
