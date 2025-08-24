@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give me six hours to chop down a tree and I will spend the first four sharpening the axe." — Abraham Lincoln"
+  ""Obstacles are those frightful things you see when you take your eyes off your goal." — Henry Ford"
 </em></p>
 
 ---
