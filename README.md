@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop being a prisoner of your past. Become the architect of your future." — Robin Sharma"
+  ""When you rise in the morning, form a resolution to make the day a happy one for a fellow creature." — Sydney Smith"
 </em></p>
 
 ---
