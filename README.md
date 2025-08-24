@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd." — Chinese Proverb"
+  ""Give me six hours to chop down a tree and I will spend the first four sharpening the axe." — Abraham Lincoln"
 </em></p>
 
 ---
