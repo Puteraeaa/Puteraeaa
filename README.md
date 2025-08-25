@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Character is the result of two things: mental attitude and the way we spend our time." — Elbert Hubbard"
+  ""You purchase pain with all that joy can give and die of nothing but a rage to live." — Alexander Pope"
 </em></p>
 
 ---
