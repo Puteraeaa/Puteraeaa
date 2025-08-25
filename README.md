@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only when one allows themself the right to die, do they then give yourself the permission to live." — C. Sean McGee"
+  ""Sometimes, the only way to evolve is to open ourselves fully." — Kamal Ravikant"
 </em></p>
 
 ---
