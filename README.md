@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're walking down the right path and you're willing to keep walking, eventually you'll make progress." — Barack Obama"
+  ""It's OK to have your eggs in one basket as long as you control what happens to that basket." — Elon Musk"
 </em></p>
 
 ---
