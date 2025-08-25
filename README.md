@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perpetual optimism is a force multiplier." — Colin Powell"
+  ""No one is useless in this world who lightens the burdens of another." — Charles Dickens"
 </em></p>
 
 ---
