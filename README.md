@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Insanity: doing the same thing over and over again and expecting different results." — Albert Einstein"
+  ""We forge the chains we wear in life." — Charles Dickens"
 </em></p>
 
 ---
