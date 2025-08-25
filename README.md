@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tragedy is a tool for the living to gain wisdom, not a guide by which to live." — Robert F. Kennedy"
+  ""What would life be if we had no courage to attempt anything? " — Vincent van Gogh"
 </em></p>
 
 ---
