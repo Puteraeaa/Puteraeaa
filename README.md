@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." — Sonia Ricotti"
+  ""The most important single ingredient in the formula of success is knowing how to get along with people." — Theodore Roosevelt"
 </em></p>
 
 ---
