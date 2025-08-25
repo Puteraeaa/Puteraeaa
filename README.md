@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most important thing is to enjoy your life, to be happy, it's all that matters." — Audrey Hepburn"
+  ""The greatest gift that you can give to others is the gift of unconditional love and acceptance. " — Brian Tracy"
 </em></p>
 
 ---
