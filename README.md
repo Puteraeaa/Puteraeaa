@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one is useless in this world who lightens the burdens of another." — Charles Dickens"
+  ""In order to be walked over, you have to be lying down." — Celestine Chua"
 </em></p>
 
 ---
