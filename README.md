@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In order to be walked over, you have to be lying down." — Celestine Chua"
+  ""Within every desire is the mechanics of its fulfillment." — Deepak Chopra"
 </em></p>
 
 ---
