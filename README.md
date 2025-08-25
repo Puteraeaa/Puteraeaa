@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
+  ""Insanity: doing the same thing over and over again and expecting different results." — Albert Einstein"
 </em></p>
 
 ---
