@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You purchase pain with all that joy can give and die of nothing but a rage to live." — Alexander Pope"
+  ""Find your Light; They can't love you if they can't see you." — Bette Midler"
 </em></p>
 
 ---
