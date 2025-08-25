@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We don't stop playing because we grow old; we grow old because we stop playing." — George Bernard Shaw"
+  ""I never said it would be easy, I only said it would be worth it." — Mae West"
 </em></p>
 
 ---
