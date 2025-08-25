@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you quit once it becomes a habit." — Michael Jordan"
+  ""Perpetual optimism is a force multiplier." — Colin Powell"
 </em></p>
 
 ---
