@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you like yourself, the less you are like anyone else, which makes you unique." — Walt Disney"
+  ""The older you get, the better you get. Unless you're a banana." — Betty White"
 </em></p>
 
 ---
