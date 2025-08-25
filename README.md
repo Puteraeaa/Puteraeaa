@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like playing the violin in public and learning the instrument as one goes on." — Samuel Butler"
+  ""Tragedy is a tool for the living to gain wisdom, not a guide by which to live." — Robert F. Kennedy"
 </em></p>
 
 ---
