@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be brave. Take risks. Nothing can substitute experience." — Paulo Coelho"
+  ""We don't stop playing because we grow old; we grow old because we stop playing." — George Bernard Shaw"
 </em></p>
 
 ---
