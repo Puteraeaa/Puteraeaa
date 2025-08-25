@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to be successful, you have to jump, there's no way around it." — Steve Harvey"
+  ""Follow your heart, listen to your inner voice, stop caring about what others think." — Roy T. Bennett"
 </em></p>
 
 ---
