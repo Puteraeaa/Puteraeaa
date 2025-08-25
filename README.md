@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Follow your heart, listen to your inner voice, stop caring about what others think." — Roy T. Bennett"
+  ""Be brave. Take risks. Nothing can substitute experience." — Paulo Coelho"
 </em></p>
 
 ---
