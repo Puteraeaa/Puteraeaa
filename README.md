@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb"
+  ""Life is like playing the violin in public and learning the instrument as one goes on." — Samuel Butler"
 </em></p>
 
 ---
