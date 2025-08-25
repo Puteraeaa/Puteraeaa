@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change happens when the pain of holding on becomes greater than the fear of letting go." — Spencer Johnson"
+  ""Character is the result of two things: mental attitude and the way we spend our time." — Elbert Hubbard"
 </em></p>
 
 ---
