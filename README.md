@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who violates another's honor loses his own." — Publilius Syrus"
+  ""The more you like yourself, the less you are like anyone else, which makes you unique." — Walt Disney"
 </em></p>
 
 ---
