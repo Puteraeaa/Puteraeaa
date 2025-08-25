@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest gift that you can give to others is the gift of unconditional love and acceptance. " — Brian Tracy"
+  ""The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb"
 </em></p>
 
 ---
