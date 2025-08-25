@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes, the only way to evolve is to open ourselves fully." — Kamal Ravikant"
+  ""You can easily judge the character of a man by how he treats those who can do nothing for him." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
