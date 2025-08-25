@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A very little key will open a very heavy door." — Charles Dickens"
+  ""If you quit once it becomes a habit." — Michael Jordan"
 </em></p>
 
 ---
