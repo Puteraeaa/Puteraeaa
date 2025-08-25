@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What would life be if we had no courage to attempt anything? " — Vincent van Gogh"
+  ""The art of being happy lies in the power of extracting happiness from common things." — Henry Ward Beecher"
 </em></p>
 
 ---
