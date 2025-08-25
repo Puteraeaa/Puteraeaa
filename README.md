@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we know how to adapt, we end up being superior." — Ming-Dao Deng"
+  ""When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." — Sonia Ricotti"
 </em></p>
 
 ---
