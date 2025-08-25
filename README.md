@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The older you get, the better you get. Unless you're a banana." — Betty White"
+  ""Only when one allows themself the right to die, do they then give yourself the permission to live." — C. Sean McGee"
 </em></p>
 
 ---
