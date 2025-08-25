@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most important single ingredient in the formula of success is knowing how to get along with people." — Theodore Roosevelt"
+  ""Art is the signature of civilizations. " — Beverly Sills"
 </em></p>
 
 ---
