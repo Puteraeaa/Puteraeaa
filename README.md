@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Art is the signature of civilizations. " — Beverly Sills"
+  ""May you find grace as you surrender to life. May you find happiness, as you stop seeking it." — Dan Millman"
 </em></p>
 
 ---
