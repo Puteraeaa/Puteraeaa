@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." — Herbert Hoover"
+  ""You can only be afraid of what you think you know." — Jiddu Krishnamurti"
 </em></p>
 
 ---
