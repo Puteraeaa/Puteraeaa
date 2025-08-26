@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The price of inaction is far greater than the cost of making a mistake." — Meister Eckhart"
+  ""You need to be doing fewer things for more effect instead of doing more things with side effects." — Gary Keller"
 </em></p>
 
 ---
