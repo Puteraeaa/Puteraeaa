@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only difference between success and failure is the ability to take action." — Alexander Graham Bell"
+  ""While some of us act without thinking, too many of us think without acting." — Dan Millman"
 </em></p>
 
 ---
