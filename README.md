@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Adults are just children who earn money." — Kenneth Branagh"
+  ""Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." — Herbert Hoover"
 </em></p>
 
 ---
