@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If I can laugh, I can live." — Christopher Reeve"
+  ""The difference between treason and patriotism is only a matter of dates." — Alexandre Dumas"
 </em></p>
 
 ---
