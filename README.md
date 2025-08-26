@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Within every desire is the mechanics of its fulfillment." — Deepak Chopra"
+  ""Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami"
 </em></p>
 
 ---
