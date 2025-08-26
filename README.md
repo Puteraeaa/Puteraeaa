@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind." — Ayn Rand"
+  ""The greatest gift that you can give to others is the gift of unconditional love and acceptance. " — Brian Tracy"
 </em></p>
 
 ---
