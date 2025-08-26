@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The sun shines upon good and bad alike." — Hans Christian Andersen"
+  ""Truth is the offspring of silence and meditation." — Isaac Newton"
 </em></p>
 
 ---
