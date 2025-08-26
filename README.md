@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for." — Gurbaksh Chahal"
+  ""Art is the signature of civilizations. " — Beverly Sills"
 </em></p>
 
 ---
