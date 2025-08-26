@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The difference between treason and patriotism is only a matter of dates." — Alexandre Dumas"
+  ""The health of nations is more important than the wealth of nations." — Will Rogers"
 </em></p>
 
 ---
