@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Walk towards the sunshine, and the shadows will fall behind you." — Mary Engelbreit"
+  ""Don't let the noise of others' opinions drown out your own inner voice." — Steve Jobs"
 </em></p>
 
 ---
