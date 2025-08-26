@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime." — Lao Tzu"
+  ""Follow your heart, listen to your inner voice, stop caring about what others think." — Roy T. Bennett"
 </em></p>
 
 ---
