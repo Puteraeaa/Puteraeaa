@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Know the rules well, so you can break them effectively." — Dalai Lama"
+  ""The price of inaction is far greater than the cost of making a mistake." — Meister Eckhart"
 </em></p>
 
 ---
