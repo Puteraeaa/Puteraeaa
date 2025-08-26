@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""May you find grace as you surrender to life. May you find happiness, as you stop seeking it." — Dan Millman"
+  ""It's easier to lose than to win.  " — Wayne Gretzky"
 </em></p>
 
 ---
