@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To love means loving the unlovable." — Gilbert Chesterton"
+  ""The only difference between success and failure is the ability to take action." — Alexander Graham Bell"
 </em></p>
 
 ---
