@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change begets change. Nothing propagates so fast." — Charles Dickens"
+  ""Success is often achieved by those who don't know that failure is inevitable." — Coco Chanel"
 </em></p>
 
 ---
