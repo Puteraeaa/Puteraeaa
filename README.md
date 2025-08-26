@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is simply what our feelings do to us." — Honore de Balzac"
+  ""Yesterday is but today's memory, tomorrow is today's dream." — Kahlil Gibran"
 </em></p>
 
 ---
