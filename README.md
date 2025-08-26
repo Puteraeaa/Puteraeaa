@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You need to be doing fewer things for more effect instead of doing more things with side effects." — Gary Keller"
+  ""Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for." — Gurbaksh Chahal"
 </em></p>
 
 ---
