@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you genuinely want something, don't wait for it - teach yourself." — Gurbaksh Chahal"
+  ""Adults are just children who earn money." — Kenneth Branagh"
 </em></p>
 
 ---
