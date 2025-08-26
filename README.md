@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami"
+  ""The reward of suffering is experience." — Harry S. Truman"
 </em></p>
 
 ---
