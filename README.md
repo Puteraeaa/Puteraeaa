@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Choose to be optimistic, it feels better." — Dalai Lama"
+  ""Luck is what happens when preparation meets opportunity.  " — Seneca"
 </em></p>
 
 ---
