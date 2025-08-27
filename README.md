@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided." — Tony Robbins"
+  ""Don't let the fear of losing be greater than the excitement of winning." — Robert Kiyosaki"
 </em></p>
 
 ---
