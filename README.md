@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." — Paramahansa Yogananda"
+  ""Age is a very high price to pay for maturity." — William James"
 </em></p>
 
 ---
