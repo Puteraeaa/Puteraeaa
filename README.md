@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the fear of losing be greater than the excitement of winning." — Robert Kiyosaki"
+  ""Love the life you live, live the life you love." — Bob Marley"
 </em></p>
 
 ---
