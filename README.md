@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love the life you live, live the life you love." — Bob Marley"
+  ""The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso"
 </em></p>
 
 ---
