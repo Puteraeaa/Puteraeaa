@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Smile, breathe and go slowly." — Thich Nhat Hanh"
+  ""To accomplish big things, I am convinced you must first dream big dreams." — Conrad Hilton"
 </em></p>
 
 ---
