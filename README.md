@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Investing in yourself is the best investment you will ever make." — Robin Sharma"
+  ""Doubt is an uncomfortable condition, but certainty is a ridiculous one." — Voltaire"
 </em></p>
 
 ---
