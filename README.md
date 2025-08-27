@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It matters not what someone is born, but what they grow to be." — Albus Dumbledore"
+  ""Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." — Eckhart Tolle"
 </em></p>
 
 ---
