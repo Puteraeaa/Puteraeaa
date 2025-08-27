@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only put off until tomorrow what you are willing to die having left undone." — Pablo Picasso"
+  ""Prefer to be defeated in the presence of the wise than to excel among fools." — Dogen"
 </em></p>
 
 ---
