@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anyone who reads a book with a sense of obligation does not understand the art of reading." — Lin Yutang"
+  ""Investing in yourself is the best investment you will ever make." — Robin Sharma"
 </em></p>
 
 ---
