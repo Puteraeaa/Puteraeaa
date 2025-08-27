@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where there's life, there's hope." — Stephen Hawking"
+  ""One of the most difficult things is not to change society - but to change yourself." — Nelson Mandela"
 </em></p>
 
 ---
