@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the most difficult things is not to change society - but to change yourself." — Nelson Mandela"
+  ""The secret of life is to fall seven times and to get up eight times." — Paulo Coelho"
 </em></p>
 
 ---
