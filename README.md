@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Belief creates the actual fact." — William James"
+  ""Where there's life, there's hope." — Stephen Hawking"
 </em></p>
 
 ---
