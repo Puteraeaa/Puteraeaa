@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We don't stop playing because we grow old; we grow old because we stop playing." — George Bernard Shaw"
+  ""Belief creates the actual fact." — William James"
 </em></p>
 
 ---
