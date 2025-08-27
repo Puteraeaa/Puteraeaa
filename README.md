@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be where your enemy is not." — Sun Tzu"
+  ""When something comes from within, when it is a part of you, you have no choice but to live it, to express it." — Kamal Ravikant"
 </em></p>
 
 ---
