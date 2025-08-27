@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality." — Brian Tracy"
+  ""Be where your enemy is not." — Sun Tzu"
 </em></p>
 
 ---
