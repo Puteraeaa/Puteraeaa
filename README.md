@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To know your Enemy, you must become your Enemy." — Sun Tzu"
+  ""Only put off until tomorrow what you are willing to die having left undone." — Pablo Picasso"
 </em></p>
 
 ---
