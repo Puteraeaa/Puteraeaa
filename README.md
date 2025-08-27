@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To accomplish big things, I am convinced you must first dream big dreams." — Conrad Hilton"
+  ""Make your life a mission - not an intermission." — Unknown"
 </em></p>
 
 ---
