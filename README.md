@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're afraid - don't do it, - if you're doing it - don't be afraid! " — Genghis Khan"
+  ""I was angered, for I had no shoes. Then I met a man who had no feet. " — Chinese Proverb"
 </em></p>
 
 ---
