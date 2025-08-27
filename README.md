@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You have to keep breaking your heart until it opens." — Rumi"
+  ""If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." — Paramahansa Yogananda"
 </em></p>
 
 ---
