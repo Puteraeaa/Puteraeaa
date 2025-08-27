@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." — Eckhart Tolle"
+  ""We don't stop playing because we grow old; we grow old because we stop playing." — George Bernard Shaw"
 </em></p>
 
 ---
