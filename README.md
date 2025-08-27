@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great ones are willing to get burned time and again as they sharpen their swords in the fire." — Josh Waitzkin"
+  ""Choose to be optimistic, it feels better." — Dalai Lama"
 </em></p>
 
 ---
