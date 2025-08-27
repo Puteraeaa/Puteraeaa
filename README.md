@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Doubt is an uncomfortable condition, but certainty is a ridiculous one." — Voltaire"
+  ""Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment." — Dan Millman"
 </em></p>
 
 ---
