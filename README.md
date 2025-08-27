@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Prefer to be defeated in the presence of the wise than to excel among fools." — Dogen"
+  ""The clock indicates the moment...but what does eternity indicate?" — Walt Whitman"
 </em></p>
 
 ---
