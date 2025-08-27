@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who knows how to wait need make no concessions." — Sigmund Freud"
+  ""Life is the dancer and you are the dance." — Eckhart Tolle"
 </em></p>
 
 ---
