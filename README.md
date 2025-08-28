@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quieter you become, the more you are able to hear." — Rumi"
+  ""Follow your heart, listen to your inner voice, stop caring about what others think." — Roy T. Bennett"
 </em></p>
 
 ---
