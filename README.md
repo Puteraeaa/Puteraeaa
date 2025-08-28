@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunity is missed by most people because it is dressed in overalls and looks like work." — Thomas Edison"
+  ""Unhappiness enters through a door that has been left open." — Zen Proverb"
 </em></p>
 
 ---
