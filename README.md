@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""New opinions are always suspected, and usually opposed, without any other reason but because they are not common." — John Locke"
+  ""If it entertains you now but will bore you someday, it's a distraction. Keep looking." — Naval Ravikant"
 </em></p>
 
 ---
