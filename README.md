@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""First learn the meaning of what you say, and then speak." — Epictetus"
+  ""I would rather die on my feet than live on my knees." — Euripides"
 </em></p>
 
 ---
