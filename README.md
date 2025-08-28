@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The educated differ from the uneducated as much as the living differ from the dead." — Aristotle"
+  ""New opinions are always suspected, and usually opposed, without any other reason but because they are not common." — John Locke"
 </em></p>
 
 ---
