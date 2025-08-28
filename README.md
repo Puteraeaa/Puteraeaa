@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing you do is going to matter that much in the long run. Don't take yourself so seriously." — Naval Ravikant"
+  ""Not all readers are leaders, but all leaders are readers." — Harry S. Truman"
 </em></p>
 
 ---
