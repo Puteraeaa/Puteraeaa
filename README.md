@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who permits himself to tell a lie once, finds it much easier to do it the second time." — Thomas Jefferson"
+  ""If you do not conquer self, you will be conquered by self." — Napoleon Hill"
 </em></p>
 
 ---
