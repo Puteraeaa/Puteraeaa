@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why fit in when you were born to stand out?" — Dr. Seuss"
+  ""You are the average of the five people you spend most time with." — Jim Rohn"
 </em></p>
 
 ---
