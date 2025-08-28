@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You talk when you cease to be at peace with your thoughts." — Kahlil Gibran"
+  ""Don't let them drag you down by rumors. Just go with what you believe in." — Michael Jordan"
 </em></p>
 
 ---
