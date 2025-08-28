@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Open your mind before your mouth." — Aristophanes"
+  ""When you are content to be simply yourself and don't compare or compete, everybody will respect you. " — Lao Tzu"
 </em></p>
 
 ---
