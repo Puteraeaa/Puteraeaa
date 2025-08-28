@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more something scares you, the more you should do it." — Mark Manson"
+  ""Actions are the seeds of fate. Deeds grow into destiny." — Harry S. Truman"
 </em></p>
 
 ---
