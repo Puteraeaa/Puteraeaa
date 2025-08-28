@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let them drag you down by rumors. Just go with what you believe in." — Michael Jordan"
+  ""When you change what you believe, you change what you do." — Spencer Johnson"
 </em></p>
 
 ---
