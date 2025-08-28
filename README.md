@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep away from people who try to belittle your ambitions." — Mark Twain"
+  ""Big people don't make people feel small." — Robin Sharma"
 </em></p>
 
 ---
