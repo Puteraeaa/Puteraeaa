@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is not meant to be easy my child, but take courage: it can be delightful." — George Bernard Shaw"
+  ""It is those who concentrate on but one thing at a time who advance in this world." — Gary Keller"
 </em></p>
 
 ---
