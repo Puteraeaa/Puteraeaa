@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A little impatience will spoil great plans." — Chinese Proverb"
+  ""Nothing you do is going to matter that much in the long run. Don't take yourself so seriously." — Naval Ravikant"
 </em></p>
 
 ---
