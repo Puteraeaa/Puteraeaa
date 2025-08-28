@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your past does not equal your future." — Tony Robbins"
+  ""First learn the meaning of what you say, and then speak." — Epictetus"
 </em></p>
 
 ---
