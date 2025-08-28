@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates"
+  ""I have lived with several Zen masters -- all of them cats." — Eckhart Tolle"
 </em></p>
 
 ---
