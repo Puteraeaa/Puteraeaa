@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do not conquer self, you will be conquered by self." — Napoleon Hill"
+  ""The more something scares you, the more you should do it." — Mark Manson"
 </em></p>
 
 ---
