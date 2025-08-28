@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not all readers are leaders, but all leaders are readers." — Harry S. Truman"
+  ""Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control." — Maxime Lagace"
 </em></p>
 
 ---
