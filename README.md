@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A good stance and posture reflect a proper state of mind." — Morihei Ueshiba"
+  ""Your past does not equal your future." — Tony Robbins"
 </em></p>
 
 ---
