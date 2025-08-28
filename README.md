@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I would rather die on my feet than live on my knees." — Euripides"
+  ""Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." — Helen Keller"
 </em></p>
 
 ---
