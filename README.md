@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Follow your heart, listen to your inner voice, stop caring about what others think." — Roy T. Bennett"
+  ""Opportunity is missed by most people because it is dressed in overalls and looks like work." — Thomas Edison"
 </em></p>
 
 ---
