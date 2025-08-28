@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you are content to be simply yourself and don't compare or compete, everybody will respect you. " — Lao Tzu"
+  ""Wheresoever you go, go with all your heart." — Confucius"
 </em></p>
 
 ---
