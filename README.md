@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." — Epictetus"
+  ""The quieter you become, the more you are able to hear." — Rumi"
 </em></p>
 
 ---
