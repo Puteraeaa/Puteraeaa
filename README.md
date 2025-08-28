@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." — Naval Ravikant"
+  ""A little impatience will spoil great plans." — Chinese Proverb"
 </em></p>
 
 ---
