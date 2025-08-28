@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." — Helen Keller"
+  ""Life is not meant to be easy my child, but take courage: it can be delightful." — George Bernard Shaw"
 </em></p>
 
 ---
