@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is those who concentrate on but one thing at a time who advance in this world." — Gary Keller"
+  ""He who permits himself to tell a lie once, finds it much easier to do it the second time." — Thomas Jefferson"
 </em></p>
 
 ---
