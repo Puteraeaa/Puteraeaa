@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you." — Bob Proctor"
+  ""The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." — Naval Ravikant"
 </em></p>
 
 ---
