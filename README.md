@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you change what you believe, you change what you do." — Spencer Johnson"
+  ""Open your mind before your mouth." — Aristophanes"
 </em></p>
 
 ---
