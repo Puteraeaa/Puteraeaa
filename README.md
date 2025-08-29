@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hold yourself responsible for a higher standard than anybody else expects of you." — Henry Ward Beecher"
+  ""A good teacher opens the door for you, but you must enter the room by yourself." — Zen Proverb"
 </em></p>
 
 ---
