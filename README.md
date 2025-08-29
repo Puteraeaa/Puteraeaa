@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Doubt is an uncomfortable condition, but certainty is a ridiculous one." — Voltaire"
+  ""Life's too mysterious to take too serious." — Mary Engelbreit"
 </em></p>
 
 ---
