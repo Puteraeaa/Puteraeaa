@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Dreams are the royal road to the unconscious. " — Sigmund Freud"
+  ""The first step toward getting somewhere is to decide that you are not going to stay where you are." — Unknown"
 </em></p>
 
 ---
