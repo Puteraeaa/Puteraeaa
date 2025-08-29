@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Once you learn to quit, it becomes a habit." — Vince Lombardi"
+  ""Death walks faster than the wind and never returns what he has taken." — Hans Christian Andersen"
 </em></p>
 
 ---
