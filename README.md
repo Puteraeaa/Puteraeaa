@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Find your Light; They can't love you if they can't see you." — Bette Midler"
+  ""The more often a stupidity is repeated, the more it gets the appearance of wisdom." — Voltaire"
 </em></p>
 
 ---
