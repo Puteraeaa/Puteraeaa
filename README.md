@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more often a stupidity is repeated, the more it gets the appearance of wisdom." — Voltaire"
+  ""A golden cage is still just a cage." — Anita Krizzan"
 </em></p>
 
 ---
