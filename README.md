@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Friends ask you questions; enemies question you." — Criss Jami"
+  ""Be curious, not judgmental." — Walt Whitman"
 </em></p>
 
 ---
