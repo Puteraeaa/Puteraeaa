@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you seek is seeking you." — Rumi"
+  ""The person who cannot control his words shows that he cannot control himself." — Robert Greene"
 </em></p>
 
 ---
