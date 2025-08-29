@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. " — Eckhart Tolle"
+  ""Peace of mind is that mental condition in which you have accepted the worst." — Lin Yutang"
 </em></p>
 
 ---
