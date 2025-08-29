@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can suffer the pain of change or suffer remaining the way you are." — Joyce Meyer"
+  ""When you want to be honored by others, you learn to honor them first." — Sathya Sai Baba"
 </em></p>
 
 ---
