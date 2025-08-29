@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." — Sun Tzu"
+  ""Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." — Earl Nightingale"
 </em></p>
 
 ---
