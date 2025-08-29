@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A tiger doesn't lose sleep over the opinion of sheep." — Shahir Zag"
+  ""Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable." — Bhagavad Gita"
 </em></p>
 
 ---
