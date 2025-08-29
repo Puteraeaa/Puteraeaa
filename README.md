@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ability is a poor man's wealth." — John Wooden"
+  ""Don't stumble over something that's behind you." — Steve Harvey"
 </em></p>
 
 ---
