@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace of mind is that mental condition in which you have accepted the worst." — Lin Yutang"
+  ""Hold yourself responsible for a higher standard than anybody else expects of you." — Henry Ward Beecher"
 </em></p>
 
 ---
