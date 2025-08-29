@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first step toward getting somewhere is to decide that you are not going to stay where you are." — Unknown"
+  ""Doubt is an uncomfortable condition, but certainty is a ridiculous one." — Voltaire"
 </em></p>
 
 ---
