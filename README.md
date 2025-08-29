@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't spend major time on minor things." — Jim Rohn"
+  ""Friends ask you questions; enemies question you." — Criss Jami"
 </em></p>
 
 ---
