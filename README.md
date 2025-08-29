@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't stumble over something that's behind you." — Steve Harvey"
+  ""Find your Light; They can't love you if they can't see you." — Bette Midler"
 </em></p>
 
 ---
