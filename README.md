@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you want to be honored by others, you learn to honor them first." — Sathya Sai Baba"
+  ""What you seek is seeking you." — Rumi"
 </em></p>
 
 ---
