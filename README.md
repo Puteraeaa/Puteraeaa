@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death walks faster than the wind and never returns what he has taken." — Hans Christian Andersen"
+  ""Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found." — Alexander Pope"
 </em></p>
 
 ---
