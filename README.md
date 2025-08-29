@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If a man knows not to which port he sails, no wind is favorable.  " — Seneca"
+  ""Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." — Sun Tzu"
 </em></p>
 
 ---
