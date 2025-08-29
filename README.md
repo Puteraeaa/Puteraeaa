@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life's too mysterious to take too serious." — Mary Engelbreit"
+  ""You have as much laughter as you have faith." — Martin Luther"
 </em></p>
 
 ---
