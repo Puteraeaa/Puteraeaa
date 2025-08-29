@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""From morning till night, we should never rely on a single thing." — Huang Po"
+  ""I am thankful to all who said no to me. It is because of them that I'm doing it myself." — Albert Einstein"
 </em></p>
 
 ---
