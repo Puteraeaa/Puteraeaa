@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who cannot control his words shows that he cannot control himself." — Robert Greene"
+  ""Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble." — Robert Greene"
 </em></p>
 
 ---
