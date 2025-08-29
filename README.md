@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly." — Marcus Aurelius"
+  ""We build too many walls and not enough bridges." — Isaac Newton"
 </em></p>
 
 ---
