@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words have no power to impress the mind without the exquisite horror of their reality." — Edgar Allan Poe"
+  ""The more often a stupidity is repeated, the more it gets the appearance of wisdom." — Voltaire"
 </em></p>
 
 ---
