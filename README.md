@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do not get the chills when you set your goal you're not setting big enough goals." — Bob Proctor"
+  ""Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving." — Yanni"
 </em></p>
 
 ---
