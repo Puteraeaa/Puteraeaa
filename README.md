@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable." — Bhagavad Gita"
+  ""Dreams are the royal road to the unconscious. " — Sigmund Freud"
 </em></p>
 
 ---
