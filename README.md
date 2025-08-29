@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." — Earl Nightingale"
+  ""When you want something in life, you just gotta reach out and grab it." — Christopher McCandless"
 </em></p>
 
 ---
