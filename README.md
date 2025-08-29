@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The biggest room in the world is the room for improvement." — Unknown"
+  ""If you do not get the chills when you set your goal you're not setting big enough goals." — Bob Proctor"
 </em></p>
 
 ---
