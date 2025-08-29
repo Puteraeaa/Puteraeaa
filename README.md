@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be curious, not judgmental." — Walt Whitman"
+  ""The biggest room in the world is the room for improvement." — Unknown"
 </em></p>
 
 ---
