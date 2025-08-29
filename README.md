@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am always doing that which I can not do, in order that I may learn how to do it." — Pablo Picasso"
+  ""Don't spend major time on minor things." — Jim Rohn"
 </em></p>
 
 ---
