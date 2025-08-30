@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Work harder on yourself than you do on your job." — Jim Rohn"
+  ""No problem can be solved from the same level of consciousness that created it." — Albert Einstein"
 </em></p>
 
 ---
