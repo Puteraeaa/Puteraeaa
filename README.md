@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where your talents and the needs of the world cross, there lies your vocation." — Aristotle"
+  ""Our life isn't how much we can take out, but how much we can put in.  " — Estee Lauder"
 </em></p>
 
 ---
