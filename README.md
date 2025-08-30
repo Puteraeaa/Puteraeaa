@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Zen insists that the whole trouble is just our failure to realize that there is no problem." — Bruce Lee"
+  ""Like it or not, this moment is all we really have to work with." — Jon Kabat-Zinn"
 </em></p>
 
 ---
