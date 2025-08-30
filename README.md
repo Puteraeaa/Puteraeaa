@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who know, do. Those that understand, teach." — Aristotle"
+  ""The first man gets the oyster, the second man gets the shell." — Andrew Carnegie"
 </em></p>
 
 ---
