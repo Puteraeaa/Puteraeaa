@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your chances of success in any undertaking can always be measured by your belief in yourself." — Robert Collier"
+  ""It doesn't matter where you are, you are nowhere compared to where you can go." — Bob Proctor"
 </em></p>
 
 ---
