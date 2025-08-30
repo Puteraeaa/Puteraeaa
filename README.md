@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
+  ""Success is nothing more than a few simple disciplines practiced every day." — Jim Rohn"
 </em></p>
 
 ---
