@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The first man gets the oyster, the second man gets the shell." — Andrew Carnegie"
+  ""Wealth consists not in having great possessions, but in having few wants." — Epictetus"
 </em></p>
 
 ---
