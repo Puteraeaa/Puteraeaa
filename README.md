@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A comfort zone is a beautiful place, but nothing ever grows there." — Unknown"
+  ""Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." — Helen Keller"
 </em></p>
 
 ---
