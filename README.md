@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories." — Ray Bradbury"
+  ""Your chances of success in any undertaking can always be measured by your belief in yourself." — Robert Collier"
 </em></p>
 
 ---
