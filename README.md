@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is up to each of us to sing as we feel moved by the overall song of life." — Ming-Dao Deng"
+  ""Don't spend time beating on a wall, hoping to transform it into a door." — Coco Chanel"
 </em></p>
 
 ---
