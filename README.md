@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A life without a cause is a life without effect." — Paulo Coelho"
+  ""Confidence is what you have before you understand the problem." — Woody Allen"
 </em></p>
 
 ---
