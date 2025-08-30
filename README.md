@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is what you have before you understand the problem." — Woody Allen"
+  ""We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world." — Gabor Mate"
 </em></p>
 
 ---
