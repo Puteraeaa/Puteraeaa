@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can discover what your enemy fears most by observing the means he uses to frighten you." — Eric Hoffer"
+  ""Look to the beauty of this day, miracles are all around you." — Mary Engelbreit"
 </em></p>
 
 ---
