@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day do something that will inch you closer to a better tomorrow." — Unknown"
+  ""Your past does not equal your future." — Tony Robbins"
 </em></p>
 
 ---
