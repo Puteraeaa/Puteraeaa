@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No problem can be solved from the same level of consciousness that created it." — Albert Einstein"
+  ""Successful people ask better questions, and as a result, they get better answers." — Tony Robbins"
 </em></p>
 
 ---
