@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Manifest plainness, embrace simplicity, reduce selfishness, have few desires." — Lao Tzu"
+  ""Work harder on yourself than you do on your job." — Jim Rohn"
 </em></p>
 
 ---
