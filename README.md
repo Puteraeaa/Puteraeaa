@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is nothing more than a few simple disciplines practiced every day." — Jim Rohn"
+  ""Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners." — Nicolas Chamfort"
 </em></p>
 
 ---
