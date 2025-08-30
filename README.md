@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wealth consists not in having great possessions, but in having few wants." — Epictetus"
+  ""How much pain they have cost us, the evils which have never happened." — Thomas Jefferson"
 </em></p>
 
 ---
