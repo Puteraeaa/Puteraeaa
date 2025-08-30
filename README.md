@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A wise person should have money in their head, but not in their heart." — Jonathan Swift"
+  ""You can discover what your enemy fears most by observing the means he uses to frighten you." — Eric Hoffer"
 </em></p>
 
 ---
