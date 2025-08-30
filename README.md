@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Genius is patience." — Isaac Newton"
+  ""Zen insists that the whole trouble is just our failure to realize that there is no problem." — Bruce Lee"
 </em></p>
 
 ---
