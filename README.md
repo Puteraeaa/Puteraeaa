@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It doesn't matter where you are, you are nowhere compared to where you can go." — Bob Proctor"
+  ""A wise person should have money in their head, but not in their heart." — Jonathan Swift"
 </em></p>
 
 ---
