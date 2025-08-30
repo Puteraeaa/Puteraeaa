@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." — Bhagavad Gita"
+  ""A life without a cause is a life without effect." — Paulo Coelho"
 </em></p>
 
 ---
