@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Like it or not, this moment is all we really have to work with." — Jon Kabat-Zinn"
+  ""The wisest men follow their own direction." — Euripides"
 </em></p>
 
 ---
