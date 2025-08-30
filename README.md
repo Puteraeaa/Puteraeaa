@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love doesn't need reason. It speaks from the irrational wisdom of the heart." — Deepak Chopra"
+  ""Don't give up on your dreams, or your dreams will give up on you." — John Wooden"
 </em></p>
 
 ---
