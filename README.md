@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing we see or hear is perfect. But right there in the imperfection is perfect reality." — Shunryu Suzuki"
+  ""The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson"
 </em></p>
 
 ---
