@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some people don't like change, but you need to embrace change if the alternative is disaster." — Elon Musk"
+  ""Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." — Earl Nightingale"
 </em></p>
 
 ---
