@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." — Mark Twain"
+  ""A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett"
 </em></p>
 
 ---
