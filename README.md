@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All life is a manifestation of the spirit, the manifestation of love." — Morihei Ueshiba"
+  ""When a man is penalized for honesty he learns to lie." — Criss Jami"
 </em></p>
 
 ---
