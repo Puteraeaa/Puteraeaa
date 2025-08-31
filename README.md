@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The art of being wise is knowing what to overlook." — William James"
+  ""Man is made by his belief. As he believes, so he is." — Bhagavad Gita"
 </em></p>
 
 ---
