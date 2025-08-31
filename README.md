@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nature loves to hide." — Heraclitus"
+  ""Do all things with love." — Og Mandino"
 </em></p>
 
 ---
