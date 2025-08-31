@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Simplicity is a difficult thing to achieve.  " — Charlie Chaplin"
+  ""The purpose of life is to contribute in some way to making things better." — Robert F. Kennedy"
 </em></p>
 
 ---
