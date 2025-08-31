@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't listen to the person who has the answers; listen to the person who has the questions." — Albert Einstein"
+  ""The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene"
 </em></p>
 
 ---
