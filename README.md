@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." — G.I. Gurdjieff"
+  ""Unless a man is master of his soul, all other kinds of mastery amount to little." — Theodore Roosevelt"
 </em></p>
 
 ---
