@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The highest form of ignorance is when you reject something you don't know anything about. " — Wayne Dyer"
+  ""The degree of responsibility you take for your life determines how much change you can create in it." — Celestine Chua"
 </em></p>
 
 ---
