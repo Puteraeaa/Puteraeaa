@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do all things with love." — Og Mandino"
+  ""The art of being wise is knowing what to overlook." — William James"
 </em></p>
 
 ---
