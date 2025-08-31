@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." — Spencer Johnson"
+  ""There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." — G.I. Gurdjieff"
 </em></p>
 
 ---
