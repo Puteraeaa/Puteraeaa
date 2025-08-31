@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The person who is his own master cannot tolerate another boss. " — Chinese Proverb"
+  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
 </em></p>
 
 ---
