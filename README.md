@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
+  ""For your life to be great, your faith must be bigger than your fear." — Robin Sharma"
 </em></p>
 
 ---
