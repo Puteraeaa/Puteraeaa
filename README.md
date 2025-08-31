@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." — Thich Nhat Hanh"
+  ""Why fit in when you were born to stand out?" — Dr. Seuss"
 </em></p>
 
 ---
