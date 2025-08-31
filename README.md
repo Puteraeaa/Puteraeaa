@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't try to steer the river." — Deepak Chopra"
+  ""The person who is his own master cannot tolerate another boss. " — Chinese Proverb"
 </em></p>
 
 ---
