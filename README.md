@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If we all did the things we are capable of doing, we would literally astound ourselves." — Thomas Edison"
+  ""Death is not sad; the sad thing is that most people don't really live at all." — Dan Millman"
 </em></p>
 
 ---
