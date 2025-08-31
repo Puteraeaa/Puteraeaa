@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For your life to be great, your faith must be bigger than your fear." — Robin Sharma"
+  ""Circumstances rule men; men do not rule circumstances. " — Herodotus"
 </em></p>
 
 ---
