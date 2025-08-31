@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You know the more one does the more one can do." — Amelia Earhart"
+  ""Don't try to steer the river." — Deepak Chopra"
 </em></p>
 
 ---
