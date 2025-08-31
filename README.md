@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Admire as much as you can. Most people do not admire enough." — Vincent van Gogh"
+  ""Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." — Thich Nhat Hanh"
 </em></p>
 
 ---
