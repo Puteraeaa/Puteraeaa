@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why fit in when you were born to stand out?" — Dr. Seuss"
+  ""The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac"
 </em></p>
 
 ---
