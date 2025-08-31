@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Until we can manage time, we can manage nothing else." — Peter Drucker"
+  ""The highest form of ignorance is when you reject something you don't know anything about. " — Wayne Dyer"
 </em></p>
 
 ---
