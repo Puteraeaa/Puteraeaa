@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The degree of responsibility you take for your life determines how much change you can create in it." — Celestine Chua"
+  ""If we all did the things we are capable of doing, we would literally astound ourselves." — Thomas Edison"
 </em></p>
 
 ---
