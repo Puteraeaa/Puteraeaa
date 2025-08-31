@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When a man is penalized for honesty he learns to lie." — Criss Jami"
+  ""Happiness is pretty simple: someone to love, something to do, something to look forward to." — Rita Mae Brown"
 </em></p>
 
 ---
