@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people ask better questions, and as a result, they get better answers." — Tony Robbins"
+  ""The world is open for play, everything and everybody is mockable in a wonderful way." — Robin Williams"
 </em></p>
 
 ---
