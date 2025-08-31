@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is only depth of character that determines the profundity with which we face life." — Ming-Dao Deng"
+  ""Don't listen to the person who has the answers; listen to the person who has the questions." — Albert Einstein"
 </em></p>
 
 ---
