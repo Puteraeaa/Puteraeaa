@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We never know the love of a parent till we become parents ourselves." — Henry Ward Beecher"
+  ""Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." — Spencer Johnson"
 </em></p>
 
 ---
