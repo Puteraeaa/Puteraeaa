@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The foolish reject what they see, not what they think; the wise reject what they think, not what they see." — Huang Po"
+  ""Every drop in the ocean counts. " — Yoko Ono"
 </em></p>
 
 ---
