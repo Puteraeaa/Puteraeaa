@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure will never overtake me if my determination to succeed is strong enough." — Og Mandino"
+  ""Time stays long enough for anyone who will use it." — Leonardo da Vinci"
 </em></p>
 
 ---
