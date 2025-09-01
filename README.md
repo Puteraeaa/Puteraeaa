@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is always room in your life for thinking bigger, pushing limits and imagining the impossible." — Tony Robbins"
+  ""I believe that potential is unlimited - success depends on daring to act on dreams.   " — Estee Lauder"
 </em></p>
 
 ---
