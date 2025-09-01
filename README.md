@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Older men declare war. But it is youth that must fight and die." — Herbert Hoover"
+  ""The health of nations is more important than the wealth of nations." — Will Rogers"
 </em></p>
 
 ---
