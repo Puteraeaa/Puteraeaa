@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The wise accomplish all that they want without arousing the envy or scorn of others." — Ming-Dao Deng"
+  ""The cost of leadership is self-interest." — Simon Sinek"
 </em></p>
 
 ---
