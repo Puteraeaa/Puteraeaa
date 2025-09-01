@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give so much away people insist on paying you." — Jack Butcher"
+  ""You cannot swim for new horizons until you have courage to lose sight of the shore." — William Faulkner"
 </em></p>
 
 ---
