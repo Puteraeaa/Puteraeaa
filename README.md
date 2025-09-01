@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Watch what you say, and whatever you say, practice it." — Soyen Shaku"
+  ""In all chaos there is a cosmos, in all disorder a secret order." — Carl Jung"
 </em></p>
 
 ---
