@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy"
+  ""You cannot change your destination overnight but you can change your direction overnight." — Jim Rohn"
 </em></p>
 
 ---
