@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In all chaos there is a cosmos, in all disorder a secret order." — Carl Jung"
+  ""Greatest success comes just one step beyond the point at which defeat overtakes you." — Unknown"
 </em></p>
 
 ---
