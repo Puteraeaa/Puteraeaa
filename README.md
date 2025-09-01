@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What the eye doesn't see and the mind doesn't know, doesn't exist." — D. H. Lawrence"
+  ""Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve"
 </em></p>
 
 ---
