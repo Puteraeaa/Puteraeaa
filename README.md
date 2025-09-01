@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learn only how to avoid seeking for and attaching yourselves to anything." — Huang Po"
+  ""True wealth is of the heart, not of the purse." — Og Mandino"
 </em></p>
 
 ---
