@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not why the addiction but why the pain." — Gabor Mate"
+  ""Decide what your truth is. Then live it." — Kamal Ravikant"
 </em></p>
 
 ---
