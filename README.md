@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot swim for new horizons until you have courage to lose sight of the shore." — William Faulkner"
+  ""He who violates another's honor loses his own." — Publilius Syrus"
 </em></p>
 
 ---
