@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity." — Og Mandino"
+  ""That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln"
 </em></p>
 
 ---
