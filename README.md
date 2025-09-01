@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot change your destination overnight but you can change your direction overnight." — Jim Rohn"
+  ""Learn only how to avoid seeking for and attaching yourselves to anything." — Huang Po"
 </em></p>
 
 ---
