@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I believe that potential is unlimited - success depends on daring to act on dreams.   " — Estee Lauder"
+  ""What the eye doesn't see and the mind doesn't know, doesn't exist." — D. H. Lawrence"
 </em></p>
 
 ---
