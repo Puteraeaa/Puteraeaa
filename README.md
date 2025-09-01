@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln"
+  ""We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — Bhagavad Gita"
 </em></p>
 
 ---
