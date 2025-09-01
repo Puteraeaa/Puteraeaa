@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " — Charles Swindoll"
+  ""It still holds true that man is most uniquely human when he turns obstacles into opportunities." — Eric Hoffer"
 </em></p>
 
 ---
