@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is our experiences that mold us into who we are...during times of adversity our true character will show." — Unknown"
+  ""Hardly anybody recognizes the most significant moments of their life at the time they happen." — W.P. Kinsella"
 </em></p>
 
 ---
