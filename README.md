@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The health of nations is more important than the wealth of nations." — Will Rogers"
+  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
 </em></p>
 
 ---
