@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve"
+  ""Closing your eyes and listening to silence is self-care." — Maxime Lagace"
 </em></p>
 
 ---
