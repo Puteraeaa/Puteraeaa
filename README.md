@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change is hardest at the beginning, messiest in the middle and best at the end." — Robin Sharma"
+  ""Watch what you say, and whatever you say, practice it." — Soyen Shaku"
 </em></p>
 
 ---
