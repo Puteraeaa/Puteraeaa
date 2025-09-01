@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Consider the rights of others before your own feelings, and the feelings of others before your own rights." — John Wooden"
+  ""Older men declare war. But it is youth that must fight and die." — Herbert Hoover"
 </em></p>
 
 ---
