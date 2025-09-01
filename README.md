@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you give, the more comes back to you." — Napoleon Hill"
+  ""Fear is stupid. So are regrets." — Marilyn Monroe"
 </em></p>
 
 ---
