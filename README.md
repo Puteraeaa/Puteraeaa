@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It still holds true that man is most uniquely human when he turns obstacles into opportunities." — Eric Hoffer"
+  ""Nothing is particularly hard if you divide it into small jobs. " — Henry Ford"
 </em></p>
 
 ---
