@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True wealth is of the heart, not of the purse." — Og Mandino"
+  ""We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " — Charles Swindoll"
 </em></p>
 
 ---
