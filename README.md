@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear is stupid. So are regrets." — Marilyn Monroe"
+  ""Change is hardest at the beginning, messiest in the middle and best at the end." — Robin Sharma"
 </em></p>
 
 ---
