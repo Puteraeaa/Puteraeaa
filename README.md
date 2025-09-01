@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe and you're halfway there." — Harry S. Truman"
+  ""Give so much away people insist on paying you." — Jack Butcher"
 </em></p>
 
 ---
