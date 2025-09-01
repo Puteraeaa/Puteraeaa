@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Decide what your truth is. Then live it." — Kamal Ravikant"
+  ""Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." — Martin Luther King, Jr."
 </em></p>
 
 ---
