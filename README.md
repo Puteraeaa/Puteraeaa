@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's easier to lose than to win.  " — Wayne Gretzky"
+  ""The wise accomplish all that they want without arousing the envy or scorn of others." — Ming-Dao Deng"
 </em></p>
 
 ---
