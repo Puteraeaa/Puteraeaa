@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti"
+  ""There is always room in your life for thinking bigger, pushing limits and imagining the impossible." — Tony Robbins"
 </em></p>
 
 ---
