@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Closing your eyes and listening to silence is self-care." — Maxime Lagace"
+  ""Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy"
 </em></p>
 
 ---
