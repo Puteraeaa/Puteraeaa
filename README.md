@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." — Virginia Woolf"
+  ""Without the rain there would be no rainbow." — Gilbert Chesterton"
 </em></p>
 
 ---
