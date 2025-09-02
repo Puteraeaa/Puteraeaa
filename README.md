@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""As mortals, we're ruled by conditions, not by ourselves." — Bodhidharma"
+  ""Everything will be ok in the end. If it's not ok, it's not the end." — John Lennon"
 </em></p>
 
 ---
