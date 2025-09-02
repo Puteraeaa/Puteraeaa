@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no secrets to success. It is the result of preparation, hard work, learning from failure." — Colin Powell"
+  ""It all depends on what you choose to believe." — Spencer Johnson"
 </em></p>
 
 ---
