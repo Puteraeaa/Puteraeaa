@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing is impossible. The word itself says 'I'm possible!'" — Audrey Hepburn"
+  ""The few who do are the envy of the many who only watch." — Jim Rohn"
 </em></p>
 
 ---
