@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Without education, we are in a horrible and deadly danger of taking educated people seriously." — Gilbert Chesterton"
+  ""As a man thinketh in his heart, so shall he be." — James Allen"
 </em></p>
 
 ---
