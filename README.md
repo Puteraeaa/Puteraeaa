@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your next step is simple. You are the first domino." — Gary Keller"
+  ""The greatest work that kindness does to others is that it makes them kind themselves." — Amelia Earhart"
 </em></p>
 
 ---
