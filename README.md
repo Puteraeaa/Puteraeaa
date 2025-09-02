@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest work that kindness does to others is that it makes them kind themselves." — Amelia Earhart"
+  ""Without education, we are in a horrible and deadly danger of taking educated people seriously." — Gilbert Chesterton"
 </em></p>
 
 ---
