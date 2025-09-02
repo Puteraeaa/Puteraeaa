@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." — Wayne Gretzky"
+  ""Nothing is impossible. The word itself says 'I'm possible!'" — Audrey Hepburn"
 </em></p>
 
 ---
