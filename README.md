@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A creative man is motivated by the desire to achieve, not by the desire to beat others." — Ayn Rand"
+  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
 </em></p>
 
 ---
