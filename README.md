@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — Eckhart Tolle"
+  ""Don´t hesitate or allow yourself to make excuses. Just get out and do it." — Christopher McCandless"
 </em></p>
 
 ---
