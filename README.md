@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Hardly anybody recognizes the most significant moments of their life at the time they happen." — W.P. Kinsella"
+  ""We have no more right to consume happiness without producing it than to consume wealth without producing it." — George Bernard Shaw"
 </em></p>
 
 ---
