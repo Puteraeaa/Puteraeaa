@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches." — Ming-Dao Deng"
+  ""A tiny change today brings a dramatically different tomorrow." — Richard Bach"
 </em></p>
 
 ---
