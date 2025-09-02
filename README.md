@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don´t hesitate or allow yourself to make excuses. Just get out and do it." — Christopher McCandless"
+  ""Wherever you are is the entry point." — Kabir"
 </em></p>
 
 ---
