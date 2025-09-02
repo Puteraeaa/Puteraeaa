@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is not as important how we start, but how we finish." — Joyce Meyer"
+  ""Judge a man by his questions rather than his answers." — Voltaire"
 </em></p>
 
 ---
