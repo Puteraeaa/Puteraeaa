@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Falling down is not failure. Failure comes when you stay where you have fallen." — Socrates"
+  ""The pen is the tongue of the mind. " — Miguel de Cervantes"
 </em></p>
 
 ---
