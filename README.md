@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found." — Alexander Pope"
+  ""There are no secrets to success. It is the result of preparation, hard work, learning from failure." — Colin Powell"
 </em></p>
 
 ---
