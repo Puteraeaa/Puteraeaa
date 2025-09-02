@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can have it all. You just can't have it all at once. " — Oprah Winfrey"
+  ""One of the keys to happiness is a bad memory." — Rita Mae Brown"
 </em></p>
 
 ---
