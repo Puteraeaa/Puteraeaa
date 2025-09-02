@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The journey is what brings us happiness not the destination." — Dan Millman"
+  ""The time is always right to do what is right." — Martin Luther King, Jr."
 </em></p>
 
 ---
