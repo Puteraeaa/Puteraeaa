@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It all depends on what you choose to believe." — Spencer Johnson"
+  ""You can have it all. You just can't have it all at once. " — Oprah Winfrey"
 </em></p>
 
 ---
