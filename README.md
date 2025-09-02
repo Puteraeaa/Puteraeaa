@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A tiny change today brings a dramatically different tomorrow." — Richard Bach"
+  ""It is not as important how we start, but how we finish." — Joyce Meyer"
 </em></p>
 
 ---
