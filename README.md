@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rewards and punishment is the lowest form of education." — Zhuangzi"
+  ""Awakening is possible only for those who seek it and want it." — G.I. Gurdjieff"
 </em></p>
 
 ---
