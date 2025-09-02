@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True life is lived when tiny changes occur." — Leo Tolstoy"
+  ""As mortals, we're ruled by conditions, not by ourselves." — Bodhidharma"
 </em></p>
 
 ---
