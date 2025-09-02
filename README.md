@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything will be ok in the end. If it's not ok, it's not the end." — John Lennon"
+  ""You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — Eckhart Tolle"
 </em></p>
 
 ---
