@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever you do in life, surround yourself with smart people who'll argue with you." — John Wooden"
+  ""If you take responsibility for yourself you will develop a hunger to accomplish your dream." — Les Brown"
 </em></p>
 
 ---
