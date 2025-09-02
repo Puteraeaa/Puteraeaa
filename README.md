@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Awakening is possible only for those who seek it and want it." — G.I. Gurdjieff"
+  ""Your next step is simple. You are the first domino." — Gary Keller"
 </em></p>
 
 ---
