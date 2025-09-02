@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wake up and smile! Wake up and be grateful!" — Steve Harvey"
+  ""We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality." — Vaclav Havel"
 </em></p>
 
 ---
