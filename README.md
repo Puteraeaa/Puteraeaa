@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All human beings can alter their lives by altering their attitudes." — Andrew Carnegie"
+  ""Wake up and smile! Wake up and be grateful!" — Steve Harvey"
 </em></p>
 
 ---
