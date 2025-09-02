@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you take responsibility for yourself you will develop a hunger to accomplish your dream." — Les Brown"
+  ""A creative man is motivated by the desire to achieve, not by the desire to beat others." — Ayn Rand"
 </em></p>
 
 ---
