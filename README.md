@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love." — John Lennon"
+  ""I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." — Virginia Woolf"
 </em></p>
 
 ---
