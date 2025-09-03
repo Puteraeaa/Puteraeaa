@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What the eye doesn't see and the mind doesn't know, doesn't exist." — D. H. Lawrence"
+  ""A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. " — Buddha"
 </em></p>
 
 ---
