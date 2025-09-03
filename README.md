@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give out what you most want to come back." — Robin Sharma"
+  ""Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed." — Lily Tomlin"
 </em></p>
 
 ---
