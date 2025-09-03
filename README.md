@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the noise of others opinions drown out your inner voice." — Steve Jobs"
+  ""Actions are the seeds of fate. Deeds grow into destiny." — Harry S. Truman"
 </em></p>
 
 ---
