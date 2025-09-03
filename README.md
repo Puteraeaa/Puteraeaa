@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being wrong brings the opportunity for growth." — Mark Manson"
+  ""Tradition is the illusion of permanence. " — Woody Allen"
 </em></p>
 
 ---
