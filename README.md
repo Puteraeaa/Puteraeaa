@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may think I'm small, but I have a universe inside my mind." — Yoko Ono"
+  ""If a thing is worth doing, it is worth doing badly." — Gilbert Chesterton"
 </em></p>
 
 ---
