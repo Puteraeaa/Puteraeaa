@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the end, it's not the years in your life that count. It's the life in your years." — Abraham Lincoln"
+  ""The only time you run out of chances is when you stop taking them." — Unknown"
 </em></p>
 
 ---
