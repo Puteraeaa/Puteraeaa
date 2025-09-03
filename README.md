@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't listen to the person who has the answers; listen to the person who has the questions." — Albert Einstein"
+  ""When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. " — Charles Swindoll"
 </em></p>
 
 ---
