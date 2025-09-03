@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every hour of every day is an unspeakably perfect miracle." — Walt Whitman"
+  ""If you don't like something change it; if you can't change it, change the way you think about it." — Mary Engelbreit"
 </em></p>
 
 ---
