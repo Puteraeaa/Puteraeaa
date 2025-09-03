@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Leadership starts at the top." — Morgan Wootten"
+  ""You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way." — Richard Bach"
 </em></p>
 
 ---
