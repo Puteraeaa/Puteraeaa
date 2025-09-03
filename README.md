@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed." — Lily Tomlin"
+  ""In the end, it's not the years in your life that count. It's the life in your years." — Abraham Lincoln"
 </em></p>
 
 ---
