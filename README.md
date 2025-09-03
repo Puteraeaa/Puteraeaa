@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream." — Arnold Schwarzenegger"
+  ""Success is a consequence and must not be a goal." — Gustave Flaubert"
 </em></p>
 
 ---
