@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is a consequence and must not be a goal." — Gustave Flaubert"
+  ""When something is important enough, you do it even if the odds are not in your favor." — Elon Musk"
 </em></p>
 
 ---
