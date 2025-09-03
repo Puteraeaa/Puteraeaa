@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some people find fault like there is a reward for it.  " — Zig Ziglar"
+  ""You must find the place inside yourself where nothing is impossible." — Deepak Chopra"
 </em></p>
 
 ---
