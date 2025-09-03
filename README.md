@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every man gotta right to decide his own destiny." — Bob Marley"
+  ""Leadership starts at the top." — Morgan Wootten"
 </em></p>
 
 ---
