@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tradition is the illusion of permanence. " — Woody Allen"
+  ""Believe nothing you hear, and only one half that you see." — Edgar Allan Poe"
 </em></p>
 
 ---
