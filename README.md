@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only time you run out of chances is when you stop taking them." — Unknown"
+  ""Still your waters." — Josh Waitzkin"
 </em></p>
 
 ---
