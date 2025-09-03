@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." — Peter A. Cohen"
+  ""Great things are not accomplished by those who yield to trends and fads and popular opinion." — Jack Kerouac"
 </em></p>
 
 ---
