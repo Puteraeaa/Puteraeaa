@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong." — Elon Musk"
+  ""Confidence is contagious. So is lack of confidence." — Vince Lombardi"
 </em></p>
 
 ---
