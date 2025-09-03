@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When something is important enough, you do it even if the odds are not in your favor." — Elon Musk"
+  ""Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." — Herbert Hoover"
 </em></p>
 
 ---
