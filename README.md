@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you don't like something change it; if you can't change it, change the way you think about it." — Mary Engelbreit"
+  ""If you believe you can, you can. If you believe you can't, then, well you can't." — Celestine Chua"
 </em></p>
 
 ---
