@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. " — Charles Swindoll"
+  ""Every man gotta right to decide his own destiny." — Bob Marley"
 </em></p>
 
 ---
