@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Confidence is contagious. So is lack of confidence." — Vince Lombardi"
+  ""Do not ignore the passion that burns in you. Spend time to discover your gift." — Steve Harvey"
 </em></p>
 
 ---
