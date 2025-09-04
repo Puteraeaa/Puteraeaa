@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The glow of one warm thought is to me worth more than money." — Thomas Jefferson"
+  ""Don't stop when you're tired. Stop when you're done." — Marilyn Monroe"
 </em></p>
 
 ---
