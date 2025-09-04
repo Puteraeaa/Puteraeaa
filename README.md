@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." — Margaret Mead"
+  ""Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." — Zen Proverb"
 </em></p>
 
 ---
