@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be brave to stand for what you believe in even if you stand alone." — Roy T. Bennett"
+  ""The glow of one warm thought is to me worth more than money." — Thomas Jefferson"
 </em></p>
 
 ---
