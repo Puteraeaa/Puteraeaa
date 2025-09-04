@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." — Jonathan Swift"
+  ""I dream my painting and I paint my dream." — Vincent van Gogh"
 </em></p>
 
 ---
