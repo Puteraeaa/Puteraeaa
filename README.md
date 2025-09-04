@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Listening well is as powerful as talking well, and is also as essential to true conversation." — Chinese Proverb"
+  ""So long as we are being remembered, we remain alive." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
