@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The right thing to do and the hard thing to do are usually the same." — Steve Maraboli"
+  ""Nothing endures but change." — Heraclitus"
 </em></p>
 
 ---
