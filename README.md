@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I dream my painting and I paint my dream." — Vincent van Gogh"
+  ""Waste not fresh tears over old griefs." — Euripides"
 </em></p>
 
 ---
