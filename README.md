@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truly rich men are the ones who have health, loved ones and a work they love." — Maxime Lagace"
+  ""Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity." — Charles Spurgeon"
 </em></p>
 
 ---
