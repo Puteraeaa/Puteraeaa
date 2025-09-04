@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." — Nelson Mandela"
+  ""Every day is an opportunity to a make a new happy ending." — Jonathan Swift"
 </em></p>
 
 ---
