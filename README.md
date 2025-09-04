@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You don't earn loyalty in a day. You earn loyalty day-by-day." — Jeffrey Gitomer"
+  ""When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." — Jack Butcher"
 </em></p>
 
 ---
