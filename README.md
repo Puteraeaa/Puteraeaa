@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't live the same year 75 times and call it a life." — Robin Sharma"
+  ""You don't earn loyalty in a day. You earn loyalty day-by-day." — Jeffrey Gitomer"
 </em></p>
 
 ---
