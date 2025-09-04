@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Waste not fresh tears over old griefs." — Euripides"
+  ""The truly rich men are the ones who have health, loved ones and a work they love." — Maxime Lagace"
 </em></p>
 
 ---
