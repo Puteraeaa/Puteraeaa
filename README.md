@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A zen master's life is one continuous mistake." — Dogen"
+  ""There are three classes of people: those who see. Those who see when they are shown. Those who do not see." — Leonardo da Vinci"
 </em></p>
 
 ---
