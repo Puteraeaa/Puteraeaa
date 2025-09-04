@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing ever goes away until it has taught us what we need to know." — Pema Chodron"
+  ""Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." — Jonathan Swift"
 </em></p>
 
 ---
