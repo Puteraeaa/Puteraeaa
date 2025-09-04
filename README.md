@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When something comes from within, when it is a part of you, you have no choice but to live it, to express it." — Kamal Ravikant"
+  ""Absorb what is useful, discard what is not, add what is uniquely your own." — Bruce Lee"
 </em></p>
 
 ---
