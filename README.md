@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami"
+  ""Failure is not fatal, but failure to change might be." — John Wooden"
 </em></p>
 
 ---
