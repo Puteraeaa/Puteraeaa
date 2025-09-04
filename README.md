@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
+  ""If the plan doesn't work, change the plan, but never the goal." — Unknown"
 </em></p>
 
 ---
