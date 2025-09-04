@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." — Zen Proverb"
+  ""A zen master's life is one continuous mistake." — Dogen"
 </em></p>
 
 ---
