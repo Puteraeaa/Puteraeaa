@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man becomes rich unless he enriches others." — Andrew Carnegie"
+  ""Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." — Peter Drucker"
 </em></p>
 
 ---
