@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions." — Steve Maraboli"
+  ""Nothing ever goes away until it has taught us what we need to know." — Pema Chodron"
 </em></p>
 
 ---
