@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You may be disappointed if you fail, but you are doomed if you don't try. " — Beverly Sills"
+  ""Don't live the same year 75 times and call it a life." — Robin Sharma"
 </em></p>
 
 ---
