@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Absorb what is useful, discard what is not, add what is uniquely your own." — Bruce Lee"
+  ""Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami"
 </em></p>
 
 ---
