@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The thing about smart people is that they seem like crazy people to dumb people." — Stephen Hawking"
+  ""You may be disappointed if you fail, but you are doomed if you don't try. " — Beverly Sills"
 </em></p>
 
 ---
