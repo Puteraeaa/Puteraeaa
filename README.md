@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Trying to define yourself is like trying to bite your own teeth." — Zen Proverb"
+  ""There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." — Nelson Mandela"
 </em></p>
 
 ---
