@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." — Zig Ziglar"
+  ""The right thing to do and the hard thing to do are usually the same." — Steve Maraboli"
 </em></p>
 
 ---
