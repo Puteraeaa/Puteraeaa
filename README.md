@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every day is an opportunity to a make a new happy ending." — Jonathan Swift"
+  ""Courage is the price that life exacts for granting peace." — Amelia Earhart"
 </em></p>
 
 ---
