@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""So long as we are being remembered, we remain alive." — Carlos Ruiz Zafon"
+  ""Trying to define yourself is like trying to bite your own teeth." — Zen Proverb"
 </em></p>
 
 ---
