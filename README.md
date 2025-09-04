@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Courage is the price that life exacts for granting peace." — Amelia Earhart"
+  ""The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions." — Steve Maraboli"
 </em></p>
 
 ---
