@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill"
+  ""No man becomes rich unless he enriches others." — Andrew Carnegie"
 </em></p>
 
 ---
