@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is not fatal, but failure to change might be." — John Wooden"
+  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
 </em></p>
 
 ---
