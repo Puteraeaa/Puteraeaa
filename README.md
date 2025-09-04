@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." — Jack Butcher"
+  ""When something comes from within, when it is a part of you, you have no choice but to live it, to express it." — Kamal Ravikant"
 </em></p>
 
 ---
