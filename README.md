@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are two kinds of perfect people: those who are dead, and those who have not been born yet." — Chinese Proverb"
+  ""People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." — Zig Ziglar"
 </em></p>
 
 ---
