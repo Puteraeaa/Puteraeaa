@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing endures but change." — Heraclitus"
+  ""The thing about smart people is that they seem like crazy people to dumb people." — Stephen Hawking"
 </em></p>
 
 ---
