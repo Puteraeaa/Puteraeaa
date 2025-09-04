@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If a thing is worth doing, it is worth doing badly." — Gilbert Chesterton"
+  ""There are two kinds of perfect people: those who are dead, and those who have not been born yet." — Chinese Proverb"
 </em></p>
 
 ---
