@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is a big difference between being centered and being self-centered." — Lolly Daskal"
+  ""Listening well is as powerful as talking well, and is also as essential to true conversation." — Chinese Proverb"
 </em></p>
 
 ---
