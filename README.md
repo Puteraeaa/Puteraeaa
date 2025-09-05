@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Believe that life is worth living and your belief will help create the fact." — William James"
+  ""It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins"
 </em></p>
 
 ---
