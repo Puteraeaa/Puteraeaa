@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind." — Theodore Roosevelt"
+  ""Do not look upon this world with fear and loathing. Bravely face whatever the gods offer." — Morihei Ueshiba"
 </em></p>
 
 ---
