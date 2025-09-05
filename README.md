@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Logic is like the sword - those who appeal to it shall perish by it." — Samuel Butler"
+  ""If the plan doesn't work, change the plan, but never the goal." — Unknown"
 </em></p>
 
 ---
