@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People do not decide their futures, they decide their habits and their habits decide their futures." — Gary Keller"
+  ""Unless someone truly has the power to say no, they never truly have the power to say yes." — Dan Millman"
 </em></p>
 
 ---
