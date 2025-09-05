@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." — Oprah Winfrey"
+  ""You cannot find peace by avoiding life." — Virginia Woolf"
 </em></p>
 
 ---
