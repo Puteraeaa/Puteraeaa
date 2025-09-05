@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You just can't beat the person who never gives up. " — Babe Ruth"
+  ""The quality of your life is determined by the quality of questions you ask." — Tony Robbins"
 </em></p>
 
 ---
