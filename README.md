@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time is more valuable than money. You can get more money, but you cannot get more time." — Jim Rohn"
+  ""Courage is the price that life exacts for granting peace." — Amelia Earhart"
 </em></p>
 
 ---
