@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Faith is taking the first step even when you don't see the whole staircase." — Martin Luther King, Jr."
+  ""The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." — Oprah Winfrey"
 </em></p>
 
 ---
