@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa"
+  ""Time is more valuable than money. You can get more money, but you cannot get more time." — Jim Rohn"
 </em></p>
 
 ---
