@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results." — James Allen"
+  ""Over time, loneliness gets inside you and doesn't go away." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
