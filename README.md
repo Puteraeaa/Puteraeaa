@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Learn from the mistakes of others. You can't live long enough to make them all yourself." — Eleanor Roosevelt"
+  ""To be fully alive, fully human, and completely awake is to be continually thrown out of the nest." — Pema Chodron"
 </em></p>
 
 ---
