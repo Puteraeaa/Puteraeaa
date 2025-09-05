@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You cannot find peace by avoiding life." — Virginia Woolf"
+  ""Few things are more deceptive than memories." — Carlos Ruiz Zafon"
 </em></p>
 
 ---
