@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Conflict cannot survive without your participation. " — Wayne Dyer"
+  ""Change is not a four letter word...but often your reaction to it is!" — Jeffrey Gitomer"
 </em></p>
 
 ---
