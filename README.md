@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If the plan doesn't work, change the plan, but never the goal." — Unknown"
+  ""Life is like a beautiful melody, only the lyrics are messed up." — Hans Christian Andersen"
 </em></p>
 
 ---
