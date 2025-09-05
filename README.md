@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't cry because it's over. Smile because it happened." — Dr. Seuss"
+  ""Logic is like the sword - those who appeal to it shall perish by it." — Samuel Butler"
 </em></p>
 
 ---
