@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Few things are more deceptive than memories." — Carlos Ruiz Zafon"
+  ""Success is not how high you have climbed, but how you make a positive difference to the world." — Roy T. Bennett"
 </em></p>
 
 ---
