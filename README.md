@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each day provides it's own gifts." — Marcus Aurelius"
+  ""Do not try to be on the side of the majority, but live according to your inner laws." — Marcus Aurelius"
 </em></p>
 
 ---
