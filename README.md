@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves." — Steve Maraboli"
+  ""Genius is patience." — Isaac Newton"
 </em></p>
 
 ---
