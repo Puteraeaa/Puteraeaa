@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not look upon this world with fear and loathing. Bravely face whatever the gods offer." — Morihei Ueshiba"
+  ""Don't cry because it's over. Smile because it happened." — Dr. Seuss"
 </em></p>
 
 ---
