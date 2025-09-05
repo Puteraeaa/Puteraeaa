@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Circumstances do not make the man, they reveal him." — James Allen"
+  ""We must have strong minds, ready to accept facts as they are." — Harry S. Truman"
 </em></p>
 
 ---
