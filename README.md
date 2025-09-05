@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the keys to happiness is a bad memory." — Rita Mae Brown"
+  ""Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results." — James Allen"
 </em></p>
 
 ---
