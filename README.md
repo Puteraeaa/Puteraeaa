@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowledge has to be improved, challenged, and increased constantly, or it vanishes." — Peter Drucker"
+  ""She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa"
 </em></p>
 
 ---
