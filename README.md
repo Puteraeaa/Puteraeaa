@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are never too old to become younger." — Mae West"
+  ""Faith is taking the first step even when you don't see the whole staircase." — Martin Luther King, Jr."
 </em></p>
 
 ---
