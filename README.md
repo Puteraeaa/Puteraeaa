@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like a beautiful melody, only the lyrics are messed up." — Hans Christian Andersen"
+  ""Each day provides it's own gifts." — Marcus Aurelius"
 </em></p>
 
 ---
