@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sorrow is how we learn to love." — Rita Mae Brown"
+  ""Failure is an option, fear is not." — James Cameron"
 </em></p>
 
 ---
