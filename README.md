@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change is not a four letter word...but often your reaction to it is!" — Jeffrey Gitomer"
+  ""Sorrow is how we learn to love." — Rita Mae Brown"
 </em></p>
 
 ---
