@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is not how high you have climbed, but how you make a positive difference to the world." — Roy T. Bennett"
+  ""Learn from the mistakes of others. You can't live long enough to make them all yourself." — Eleanor Roosevelt"
 </em></p>
 
 ---
