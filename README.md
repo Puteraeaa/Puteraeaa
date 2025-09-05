@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins"
+  ""Don't talk about what you have done or what you are going to do." — Thomas Jefferson"
 </em></p>
 
 ---
