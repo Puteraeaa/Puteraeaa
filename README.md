@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Courage is the price that life exacts for granting peace." — Amelia Earhart"
+  ""Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind." — Theodore Roosevelt"
 </em></p>
 
 ---
