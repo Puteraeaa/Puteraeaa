@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must have strong minds, ready to accept facts as they are." — Harry S. Truman"
+  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
 </em></p>
 
 ---
