@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be fully alive, fully human, and completely awake is to be continually thrown out of the nest." — Pema Chodron"
+  ""One of the keys to happiness is a bad memory." — Rita Mae Brown"
 </em></p>
 
 ---
