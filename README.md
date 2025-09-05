@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowing is not enough, we must apply. Willing is not enough, we must do.  " — Bruce Lee"
+  ""Believe that life is worth living and your belief will help create the fact." — William James"
 </em></p>
 
 ---
