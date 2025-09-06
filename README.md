@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is getting what you want, happiness is wanting what you get." — W.P. Kinsella"
+  ""Give so much away people insist on paying you." — Jack Butcher"
 </em></p>
 
 ---
