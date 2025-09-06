@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Is it really possible to tell someone else what one feels?" — Leo Tolstoy"
+  ""The sun is new each day." — Heraclitus"
 </em></p>
 
 ---
