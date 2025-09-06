@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most virtuous are those who content themselves with being virtuous without seeking to appear so." — Plato"
+  ""Your chances of success in any undertaking can always be measured by your belief in yourself." — Robert Collier"
 </em></p>
 
 ---
