@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The sun is new each day." — Heraclitus"
+  ""Success is getting what you want, happiness is wanting what you get." — W.P. Kinsella"
 </em></p>
 
 ---
