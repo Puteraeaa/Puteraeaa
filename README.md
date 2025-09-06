@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most great people have achieved their greatest success just one step beyond their greatest failure." — Napoleon Hill"
+  ""Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift"
 </em></p>
 
 ---
