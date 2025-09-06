@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All human wisdom is contained in these two words - Wait and Hope" — Alexandre Dumas"
+  ""Love the life you live, live the life you love." — Bob Marley"
 </em></p>
 
 ---
