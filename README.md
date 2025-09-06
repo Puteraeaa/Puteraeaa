@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give so much away people insist on paying you." — Jack Butcher"
+  ""Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." — Dan Millman"
 </em></p>
 
 ---
