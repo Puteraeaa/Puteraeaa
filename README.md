@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your chances of success in any undertaking can always be measured by your belief in yourself." — Robert Collier"
+  ""It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose." — Ming-Dao Deng"
 </em></p>
 
 ---
