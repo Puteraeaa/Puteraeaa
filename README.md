@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing like a health problem to turn up the contrast dial for the rest of life." — Naval Ravikant"
+  ""One mistake does not have to rule a person's entire life." — Joyce Meyer"
 </em></p>
 
 ---
