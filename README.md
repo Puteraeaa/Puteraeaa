@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want peace, you won't get it with violence." — John Lennon"
+  ""People are not disturbed by things, but by the views they take of them." — Epictetus"
 </em></p>
 
 ---
