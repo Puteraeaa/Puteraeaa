@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To the world you may be one person; but to one person you may be the world." — Dr. Seuss"
+  ""If you are going to achieve excellence in big things, you develop the habit in little matters." — Colin Powell"
 </em></p>
 
 ---
