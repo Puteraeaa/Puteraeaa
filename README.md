@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Men are equal; it is not birth but virtue that makes the difference." — Voltaire"
+  ""A zen master's life is one continuous mistake." — Dogen"
 </em></p>
 
 ---
