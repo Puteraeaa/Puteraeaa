@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Walk slowly but never walk backward." — Unknown"
+  ""Difficult and meaningful will always bring more satisfaction than easy and meaningless." — Maxime Lagace"
 </em></p>
 
 ---
