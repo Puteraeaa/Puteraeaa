@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you seek is seeking you." — Rumi"
+  ""To seek greatness is the only righteous vengeance." — Criss Jami"
 </em></p>
 
 ---
