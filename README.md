@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's possible in ways both large or small to make a difference in someone's life." — Yanni"
+  ""All wealth is the product of labor." — John Locke"
 </em></p>
 
 ---
