@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Once you choose hope, anything's possible." — Christopher Reeve"
+  ""Don't seek, don't avoid, don't expect. Take what comes and be happy." — Maxime Lagace"
 </em></p>
 
 ---
