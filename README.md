@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't seek, don't avoid, don't expect. Take what comes and be happy." — Maxime Lagace"
+  ""Not doing it is certainly the best way to not getting it.  " — Wayne Gretzky"
 </em></p>
 
 ---
