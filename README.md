@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose." — Ming-Dao Deng"
+  ""No one can compete with you on being you. Most of life is a search for who and what needs you the most." — Naval Ravikant"
 </em></p>
 
 ---
