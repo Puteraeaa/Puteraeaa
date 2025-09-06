@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." — Dan Millman"
+  ""Men are equal; it is not birth but virtue that makes the difference." — Voltaire"
 </em></p>
 
 ---
