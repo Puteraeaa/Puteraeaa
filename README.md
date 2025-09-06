@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A zen master's life is one continuous mistake." — Dogen"
+  ""Ripe fruit falls by itself - but it doesn't fall in your mouth. " — Chinese Proverb"
 </em></p>
 
 ---
