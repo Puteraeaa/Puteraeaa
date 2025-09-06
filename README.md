@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better." — Benjamin Mays"
+  ""If you want work well done, select a busy man; the other kind has no time." — Elbert Hubbard"
 </em></p>
 
 ---
