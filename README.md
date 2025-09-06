@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All wealth is the product of labor." — John Locke"
+  ""Live the moment for the moment." — Michael Jordan"
 </em></p>
 
 ---
