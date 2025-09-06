@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ripe fruit falls by itself - but it doesn't fall in your mouth. " — Chinese Proverb"
+  ""The most virtuous are those who content themselves with being virtuous without seeking to appear so." — Plato"
 </em></p>
 
 ---
