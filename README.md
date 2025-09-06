@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love the life you live, live the life you love." — Bob Marley"
+  ""What would you do if you weren't afraid?" — Spencer Johnson"
 </em></p>
 
 ---
