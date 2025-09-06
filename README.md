@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One mistake does not have to rule a person's entire life." — Joyce Meyer"
+  ""All human wisdom is contained in these two words - Wait and Hope" — Alexandre Dumas"
 </em></p>
 
 ---
