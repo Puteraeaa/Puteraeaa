@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you are going to achieve excellence in big things, you develop the habit in little matters." — Colin Powell"
+  ""Don't gain the world and lose your soul. Wisdom is better than silver and gold." — Bob Marley"
 </em></p>
 
 ---
