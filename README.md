@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want work well done, select a busy man; the other kind has no time." — Elbert Hubbard"
+  ""What you seek is seeking you." — Rumi"
 </em></p>
 
 ---
