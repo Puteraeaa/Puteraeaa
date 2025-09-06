@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not doing it is certainly the best way to not getting it.  " — Wayne Gretzky"
+  ""Listen to the secret sound, the real sound, which is inside you." — Kabir"
 </em></p>
 
 ---
