@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always do your best. What you plant now, you will harvest later." — Og Mandino"
+  ""Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor." — Thich Nhat Hanh"
 </em></p>
 
 ---
