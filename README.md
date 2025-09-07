@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Empty your mind, be formless, shapeless, like water." — Bruce Lee"
+  ""It's the job that's never started that takes the longest to finish." — J.R.R. Tolkien"
 </em></p>
 
 ---
