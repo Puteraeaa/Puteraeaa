@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being wrong opens us up to the possibility of change." — Mark Manson"
+  ""If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest." — Seungsahn"
 </em></p>
 
 ---
