@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success." — Mark Manson"
+  ""To be fully alive, fully human, and completely awake is to be continually thrown out of the nest." — Pema Chodron"
 </em></p>
 
 ---
