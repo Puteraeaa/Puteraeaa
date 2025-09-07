@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can never get enough of what you don't need to make you happy." — Eric Hoffer"
+  ""Each path to knowledge involves different rules and these rules are not interchangeable." — Barack Obama"
 </em></p>
 
 ---
