@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale"
+  ""I am who I am today because of the choices I made yesterday." — Eleanor Roosevelt"
 </em></p>
 
 ---
