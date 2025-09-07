@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perplexity is the beginning of knowledge." — Kahlil Gibran"
+  ""If you love life, don't waste time, for time is what life is made up of. " — Bruce Lee"
 </em></p>
 
 ---
