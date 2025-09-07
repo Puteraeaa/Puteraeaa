@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Good things aren't supposed to just fall into your lap." — Audrey Hepburn"
+  ""In matters of style, swim with the current; in matters of principle, stand like a rock." — Thomas Jefferson"
 </em></p>
 
 ---
