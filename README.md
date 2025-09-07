@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People are not disturbed by things, but by the views they take of them." — Epictetus"
+  ""Each of us is a unique strand in the intricate web of life and here to make a contribution." — Deepak Chopra"
 </em></p>
 
 ---
