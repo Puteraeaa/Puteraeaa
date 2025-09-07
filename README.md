@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you love life, don't waste time, for time is what life is made up of. " — Bruce Lee"
+  ""There's a very deep connection among human beings. All we have to do is open our minds to it." — Yanni"
 </em></p>
 
 ---
