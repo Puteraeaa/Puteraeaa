@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be fully alive, fully human, and completely awake is to be continually thrown out of the nest." — Pema Chodron"
+  ""Do not follow the ideas of others, but learn to listen to the voice within yourself." — Dogen"
 </em></p>
 
 ---
