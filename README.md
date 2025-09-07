@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The quality of your life is determined by the quality of questions you ask." — Tony Robbins"
+  ""True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us." — Socrates"
 </em></p>
 
 ---
