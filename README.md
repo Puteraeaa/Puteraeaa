@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I am who I am today because of the choices I made yesterday." — Eleanor Roosevelt"
+  ""Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." — George Eliot"
 </em></p>
 
 ---
