@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you rise in the morning, form a resolution to make the day a happy one for a fellow creature." — Sydney Smith"
+  ""Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." — Gary Keller"
 </em></p>
 
 ---
