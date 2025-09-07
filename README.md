@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." — Gary Keller"
+  ""Being wrong opens us up to the possibility of change." — Mark Manson"
 </em></p>
 
 ---
