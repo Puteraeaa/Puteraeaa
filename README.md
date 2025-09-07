@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only thing more frustrating than slanderers is those foolish enough to listen to them." — Criss Jami"
+  ""Your spirit is the true shield." — Morihei Ueshiba"
 </em></p>
 
 ---
