@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Doubt is an uncomfortable condition, but certainty is a ridiculous one." — Voltaire"
+  ""Every day may not be good, but there's something good in every day." — Unknown"
 </em></p>
 
 ---
