@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you resist, persists." — Carl Jung"
+  ""The only thing more frustrating than slanderers is those foolish enough to listen to them." — Criss Jami"
 </em></p>
 
 ---
