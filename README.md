@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The goal of an artist is to create the definitive work that cannot be surpassed." — George Bernard Shaw"
+  ""To every action there is always opposed an equal reaction." — Isaac Newton"
 </em></p>
 
 ---
