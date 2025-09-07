@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us." — Socrates"
+  ""Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale"
 </em></p>
 
 ---
