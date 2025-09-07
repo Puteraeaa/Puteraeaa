@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In matters of style, swim with the current; in matters of principle, stand like a rock." — Thomas Jefferson"
+  ""Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." — Colin Powell"
 </em></p>
 
 ---
