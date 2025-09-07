@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To every action there is always opposed an equal reaction." — Isaac Newton"
+  ""Empty your mind, be formless, shapeless, like water." — Bruce Lee"
 </em></p>
 
 ---
