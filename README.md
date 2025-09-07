@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." — George Eliot"
+  ""The goal of an artist is to create the definitive work that cannot be surpassed." — George Bernard Shaw"
 </em></p>
 
 ---
