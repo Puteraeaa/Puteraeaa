@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit." — Conrad Hilton"
+  ""What you resist, persists." — Carl Jung"
 </em></p>
 
 ---
