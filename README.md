@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything." — Shunryu Suzuki"
+  ""The quality of your life is determined by the quality of questions you ask." — Tony Robbins"
 </em></p>
 
 ---
