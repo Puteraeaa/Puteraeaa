@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A golden cage is still just a cage." — Anita Krizzan"
+  ""Change yourself - you are in control." — Mahatma Gandhi"
 </em></p>
 
 ---
