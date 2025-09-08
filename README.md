@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only those who do nothing at all make no mistakes." — Unknown"
+  ""A day wasted on others is not wasted on one's self." — Charles Dickens"
 </em></p>
 
 ---
