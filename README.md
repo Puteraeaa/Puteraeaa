@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is filled with secrets. You can't learn them all at once." — Dan Brown"
+  ""All wealth is the product of labor." — John Locke"
 </em></p>
 
 ---
