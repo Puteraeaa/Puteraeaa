@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When it hurts - observe. Life is trying to teach you something." — Anita Krizzan"
+  ""Only those who do nothing at all make no mistakes." — Unknown"
 </em></p>
 
 ---
