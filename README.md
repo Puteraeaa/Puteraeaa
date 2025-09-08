@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom from desire leads to inner peace." — Lao Tzu"
+  ""Life and death are of supreme importance. Time swiftly passes by and opportunity is lost." — Dogen"
 </em></p>
 
 ---
