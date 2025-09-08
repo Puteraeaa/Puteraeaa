@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead." — Samuel Butler"
+  ""To be of use to the world is the only way to be happy." — Hans Christian Andersen"
 </em></p>
 
 ---
