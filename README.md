@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Unless you change how you are, you will always have what you got." — Jim Rohn"
+  ""The ability to observe without evaluating is the highest form of intelligence." — Jiddu Krishnamurti"
 </em></p>
 
 ---
