@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides"
+  ""I can live without money, but I cannot live without love." — Judy Garland"
 </em></p>
 
 ---
