@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A day wasted on others is not wasted on one's self." — Charles Dickens"
+  ""Failure is an option, fear is not." — James Cameron"
 </em></p>
 
 ---
