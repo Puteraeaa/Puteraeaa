@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When asked, how do you write? I invariably answer, one word at a time." — Stephen King"
+  ""Growth comes at the point of resistance." — Josh Waitzkin"
 </em></p>
 
 ---
