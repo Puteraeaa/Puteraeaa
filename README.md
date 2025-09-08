@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing has more strength than dire necessity." — Euripides"
+  ""A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves." — Lao Tzu"
 </em></p>
 
 ---
