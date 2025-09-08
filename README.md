@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We are shaped and fashioned by what we love." — Johann Wolfgang von Goethe"
+  ""Never say never, because limits, like fears, are often just an illusion." — Michael Jordan"
 </em></p>
 
 ---
