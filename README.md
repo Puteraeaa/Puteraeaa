@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A clear conscience is the sure sign of a bad memory." — Mark Twain"
+  ""The future is the worst thing about the present." — Gustave Flaubert"
 </em></p>
 
 ---
