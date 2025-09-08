@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a long lesson in humility. " — James Matthew Barrie"
+  ""Don't let what you cannot do interfere with what you can do." — John Wooden"
 </em></p>
 
 ---
