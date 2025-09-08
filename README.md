@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let what you cannot do interfere with what you can do." — John Wooden"
+  ""Life is filled with secrets. You can't learn them all at once." — Dan Brown"
 </em></p>
 
 ---
