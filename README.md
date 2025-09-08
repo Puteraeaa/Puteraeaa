@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ability to observe without evaluating is the highest form of intelligence." — Jiddu Krishnamurti"
+  ""Freedom from desire leads to inner peace." — Lao Tzu"
 </em></p>
 
 ---
