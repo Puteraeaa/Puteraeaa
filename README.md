@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life and death are of supreme importance. Time swiftly passes by and opportunity is lost." — Dogen"
+  ""People inspire you, or they drain you. Pick them wisely." — Les Brown"
 </em></p>
 
 ---
