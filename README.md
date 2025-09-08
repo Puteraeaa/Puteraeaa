@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving." — Yanni"
+  ""Because a thing seems difficult for you, do not think it impossible." — Marcus Aurelius"
 </em></p>
 
 ---
