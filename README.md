@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Because a thing seems difficult for you, do not think it impossible." — Marcus Aurelius"
+  ""People are doing the best that they can from their own level of consciousness." — Deepak Chopra"
 </em></p>
 
 ---
