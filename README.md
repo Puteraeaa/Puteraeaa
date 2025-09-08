@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People are doing the best that they can from their own level of consciousness." — Deepak Chopra"
+  ""Plants grow weak without wind." — Maxime Lagace"
 </em></p>
 
 ---
