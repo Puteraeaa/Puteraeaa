@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change yourself - you are in control." — Mahatma Gandhi"
+  ""Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides"
 </em></p>
 
 ---
