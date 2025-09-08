@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let making a living prevent you from making a life." — John Wooden"
+  ""TEAMWORK: the fuel that allows common people attain uncommon results." — Andrew Carnegie"
 </em></p>
 
 ---
