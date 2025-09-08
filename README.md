@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is an option, fear is not." — James Cameron"
+  ""A clear conscience is the sure sign of a bad memory." — Mark Twain"
 </em></p>
 
 ---
