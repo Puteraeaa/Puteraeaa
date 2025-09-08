@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Plants grow weak without wind." — Maxime Lagace"
+  ""When it hurts - observe. Life is trying to teach you something." — Anita Krizzan"
 </em></p>
 
 ---
