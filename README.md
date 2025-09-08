@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never say never, because limits, like fears, are often just an illusion." — Michael Jordan"
+  ""Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." — Earl Nightingale"
 </em></p>
 
 ---
