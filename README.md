@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To be of use to the world is the only way to be happy." — Hans Christian Andersen"
+  ""Life is a long lesson in humility. " — James Matthew Barrie"
 </em></p>
 
 ---
