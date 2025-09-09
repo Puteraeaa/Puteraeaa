@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
+  ""There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — Elbert Hubbard"
 </em></p>
 
 ---
