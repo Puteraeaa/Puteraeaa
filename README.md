@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The meaning of life is that it stops." — Franz Kafka"
+  ""One of the advantages of being disorganized is that one is always having surprising discoveries." — A.A. Milne"
 </em></p>
 
 ---
