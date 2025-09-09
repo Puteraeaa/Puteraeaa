@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the advantages of being disorganized is that one is always having surprising discoveries." — A.A. Milne"
+  ""To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace." — Morihei Ueshiba"
 </em></p>
 
 ---
