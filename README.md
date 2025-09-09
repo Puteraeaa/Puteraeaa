@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We tend to live up to our expectations." — Earl Nightingale"
+  ""If you let your head get too big, it'll break your neck." — Elvis Presley"
 </em></p>
 
 ---
