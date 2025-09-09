@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength." — Criss Jami"
+  ""Always render more and better service than is expected of you, no matter what your task may be." — Og Mandino"
 </em></p>
 
 ---
