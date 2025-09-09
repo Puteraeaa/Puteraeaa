@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing has more strength than dire necessity." — Euripides"
+  ""The meaning of life is that it stops." — Franz Kafka"
 </em></p>
 
 ---
