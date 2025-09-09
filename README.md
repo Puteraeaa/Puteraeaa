@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When you have to make a choice and don't make it, that is in itself a choice." — William James"
+  ""Tradition is the illusion of permanence. " — Woody Allen"
 </em></p>
 
 ---
