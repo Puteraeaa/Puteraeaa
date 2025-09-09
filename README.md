@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
+  ""Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." — Maxime Lagace"
 </em></p>
 
 ---
