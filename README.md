@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I can live without money, but I cannot live without love." — Judy Garland"
+  ""Life is a long lesson in humility. " — James Matthew Barrie"
 </em></p>
 
 ---
