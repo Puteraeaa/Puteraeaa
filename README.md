@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a long lesson in humility. " — James Matthew Barrie"
+  ""To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength." — Criss Jami"
 </em></p>
 
 ---
