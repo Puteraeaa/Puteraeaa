@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " — Samuel Beckett"
+  ""Nothing has more strength than dire necessity." — Euripides"
 </em></p>
 
 ---
