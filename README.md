@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you do what you've always done, you'll get what you've always gotten." — Tony Robbins"
+  ""Be thankful for everything that happens in your life; it's all an experience." — Roy T. Bennett"
 </em></p>
 
 ---
