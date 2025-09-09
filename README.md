@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be the change that you want to see in the world." — Mahatma Gandhi"
+  ""If you try, you might get exactly what you want. If you don't, you don't." — Unknown"
 </em></p>
 
 ---
