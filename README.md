@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I don't ever give up. I'd have to be dead or completely incapacitated." — Elon Musk"
+  ""Today you are you, that is truer than true. There is no one alive who is you-er than you." — Dr. Seuss"
 </em></p>
 
 ---
