@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " — Samuel Beckett"
+  ""Eighty percent of success is showing up. " — Woody Allen"
 </em></p>
 
 ---
