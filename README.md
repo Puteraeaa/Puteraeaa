@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throw your heart over the bar and your body will follow." — Norman Vincent Peale"
+  ""A clear conscience is the sure sign of a bad memory." — Mark Twain"
 </em></p>
 
 ---
