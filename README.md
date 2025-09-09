@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is a consequence and must not be a goal." — Gustave Flaubert"
+  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
 </em></p>
 
 ---
