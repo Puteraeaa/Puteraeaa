@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." — Maxime Lagace"
+  ""Turn your face to the sun, as flowers know how to do." — Ming-Dao Deng"
 </em></p>
 
 ---
