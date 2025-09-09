@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Today you are you, that is truer than true. There is no one alive who is you-er than you." — Dr. Seuss"
+  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
 </em></p>
 
 ---
