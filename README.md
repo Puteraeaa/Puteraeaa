@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you try, you might get exactly what you want. If you don't, you don't." — Unknown"
+  ""Ripe fruit falls by itself - but it doesn't fall in your mouth. " — Chinese Proverb"
 </em></p>
 
 ---
