@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Honesty is the first chapter in the book of wisdom." — Thomas Jefferson"
+  ""I don't ever give up. I'd have to be dead or completely incapacitated." — Elon Musk"
 </em></p>
 
 ---
