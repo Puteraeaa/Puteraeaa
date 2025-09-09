@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace." — Morihei Ueshiba"
+  ""When you have to make a choice and don't make it, that is in itself a choice." — William James"
 </em></p>
 
 ---
