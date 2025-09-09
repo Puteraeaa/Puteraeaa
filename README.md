@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you let your head get too big, it'll break your neck." — Elvis Presley"
+  ""Success is a consequence and must not be a goal." — Gustave Flaubert"
 </em></p>
 
 ---
