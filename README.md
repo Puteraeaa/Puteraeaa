@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Victory is always possible for the person who refuses to stop fighting." — Napoleon Hill"
+  ""Be the change that you want to see in the world." — Mahatma Gandhi"
 </em></p>
 
 ---
