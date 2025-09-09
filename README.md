@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Time goes from present to past." — Shunryu Suzuki"
+  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
 </em></p>
 
 ---
