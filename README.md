@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throw me to the wolves and I will return leading the pack.  " — Seneca"
+  ""Insanity is relative. It depends on who has who locked in what cage.  " — Ray Bradbury"
 </em></p>
 
 ---
