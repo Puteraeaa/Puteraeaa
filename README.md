@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A lie can travel half way around the world while the truth is putting on its shoes." — Mark Twain"
+  ""Throw me to the wolves and I will return leading the pack.  " — Seneca"
 </em></p>
 
 ---
