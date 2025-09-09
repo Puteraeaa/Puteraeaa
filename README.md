@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Insanity is relative. It depends on who has who locked in what cage.  " — Ray Bradbury"
+  ""The constant assertion of belief is an indication of fear." — Jiddu Krishnamurti"
 </em></p>
 
 ---
