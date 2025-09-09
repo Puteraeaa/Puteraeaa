@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Turn your face to the sun, as flowers know how to do." — Ming-Dao Deng"
+  ""If you're not failing every now and again, it's a sign you're not doing anything very innovative." — Woody Allen"
 </em></p>
 
 ---
