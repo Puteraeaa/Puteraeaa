@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Ripe fruit falls by itself - but it doesn't fall in your mouth. " — Chinese Proverb"
+  ""Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " — Samuel Beckett"
 </em></p>
 
 ---
