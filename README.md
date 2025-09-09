@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tradition is the illusion of permanence. " — Woody Allen"
+  ""Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " — Samuel Beckett"
 </em></p>
 
 ---
