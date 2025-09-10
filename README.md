@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
+  ""You are never too old to set another goal or to dream a new dream." — Les Brown"
 </em></p>
 
 ---
