@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""First say to yourself what you would be; and then do what you have to do." — Epictetus"
+  ""The most effective way to do it, is to do it." — Amelia Earhart"
 </em></p>
 
 ---
