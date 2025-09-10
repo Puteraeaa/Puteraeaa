@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""At the end of the day, let there be no excuses, no explanations, no regrets." — Steve Maraboli"
+  ""There are more people who wish to be loved than there are who are willing to love. " — Nicolas Chamfort"
 </em></p>
 
 ---
