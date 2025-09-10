@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant"
+  ""Your greatest asset is your earning ability. Your greatest resource is your time." — Brian Tracy"
 </em></p>
 
 ---
