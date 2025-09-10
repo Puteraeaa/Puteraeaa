@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no self-discovery without pain and loss." — Anita Krizzan"
+  ""You get in life what you have the courage to ask for." — Oprah Winfrey"
 </em></p>
 
 ---
