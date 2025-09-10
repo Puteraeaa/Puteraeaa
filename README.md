@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Tragedy is a tool for the living to gain wisdom, not a guide by which to live." — Robert F. Kennedy"
+  ""Very little is needed to make a happy life; it is all within yourself, in your way of thinking." — Marcus Aurelius"
 </em></p>
 
 ---
