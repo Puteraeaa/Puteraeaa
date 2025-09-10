@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The most creative act you will ever undertake is the act of creating yourself." — Deepak Chopra"
+  ""Always be a first rate version of yourself and not a second rate version of someone else." — Judy Garland"
 </em></p>
 
 ---
