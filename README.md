@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have." — Norman Vincent Peale"
+  ""Our life isn't how much we can take out, but how much we can put in.  " — Estee Lauder"
 </em></p>
 
 ---
