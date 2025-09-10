@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A warrior does not give up what he loves, he finds the love in what he does." — Dan Millman"
+  ""If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you." — Paramahansa Yogananda"
 </em></p>
 
 ---
