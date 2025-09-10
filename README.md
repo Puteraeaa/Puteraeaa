@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You get in life what you have the courage to ask for." — Oprah Winfrey"
+  ""A clear conscience is the sure sign of a bad memory." — Mark Twain"
 </em></p>
 
 ---
