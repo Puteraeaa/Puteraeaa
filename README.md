@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ability to observe without evaluating is the highest form of intelligence." — Jiddu Krishnamurti"
+  ""Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant"
 </em></p>
 
 ---
