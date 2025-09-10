@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To seek greatness is the only righteous vengeance." — Criss Jami"
+  ""The most creative act you will ever undertake is the act of creating yourself." — Deepak Chopra"
 </em></p>
 
 ---
