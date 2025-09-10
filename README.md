@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Winners never quit and quitters never win." — Vince Lombardi"
+  ""Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey." — Roy T. Bennett"
 </em></p>
 
 ---
