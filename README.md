@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's always to soon to quit!" — Norman Vincent Peale"
+  ""Without the confidence, nothing can be accomplished." — Sathya Sai Baba"
 </em></p>
 
 ---
