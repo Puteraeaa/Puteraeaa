@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found." — Pema Chodron"
+  ""You can easily judge the character of a man by how he treats those who can do nothing for him." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
