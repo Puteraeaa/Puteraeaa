@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can easily judge the character of a man by how he treats those who can do nothing for him." — Johann Wolfgang von Goethe"
+  ""Winners never quit and quitters never win." — Vince Lombardi"
 </em></p>
 
 ---
