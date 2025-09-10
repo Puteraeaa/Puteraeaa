@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What's right is what's left if you do everything else wrong." — Robin Williams"
+  ""The greatest of empires, is the empire over one's self." — Publilius Syrus"
 </em></p>
 
 ---
