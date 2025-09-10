@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." — Richard Bach"
+  ""The meaning of life is just to be alive. It is so plain and so obvious and so simple." — Alan Watts"
 </em></p>
 
 ---
