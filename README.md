@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no shortcuts to any place worth going." — Beverly Sills"
+  ""There is no self-discovery without pain and loss." — Anita Krizzan"
 </em></p>
 
 ---
