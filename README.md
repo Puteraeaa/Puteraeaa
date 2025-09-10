@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always be a first rate version of yourself and not a second rate version of someone else." — Judy Garland"
+  ""There's more to life than being a passenger." — Amelia Earhart"
 </em></p>
 
 ---
