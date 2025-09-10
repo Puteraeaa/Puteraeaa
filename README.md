@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The enemy is a very good teacher." — Dalai Lama"
+  ""Keep your eyes on the stars, but remember to keep your feet on the ground." — Theodore Roosevelt"
 </em></p>
 
 ---
