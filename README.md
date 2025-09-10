@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our life isn't how much we can take out, but how much we can put in.  " — Estee Lauder"
+  ""Remember that the best relationship is one in which your love for each other exceeds your need for each other." — Dalai Lama"
 </em></p>
 
 ---
