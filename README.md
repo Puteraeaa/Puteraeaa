@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The meaning of life is just to be alive. It is so plain and so obvious and so simple." — Alan Watts"
+  ""People spend too much time doing and not enough time thinking about what they should be doing." — Naval Ravikant"
 </em></p>
 
 ---
