@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There's more to life than being a passenger." — Amelia Earhart"
+  ""The ability to observe without evaluating is the highest form of intelligence." — Jiddu Krishnamurti"
 </em></p>
 
 ---
