@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Very little is needed to make a happy life; it is all within yourself, in your way of thinking." — Marcus Aurelius"
+  ""Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found." — Pema Chodron"
 </em></p>
 
 ---
