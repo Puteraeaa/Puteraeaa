@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are more people who wish to be loved than there are who are willing to love. " — Nicolas Chamfort"
+  ""Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again." — Og Mandino"
 </em></p>
 
 ---
