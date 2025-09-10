@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer." — J.R.R. Tolkien"
+  ""First say to yourself what you would be; and then do what you have to do." — Epictetus"
 </em></p>
 
 ---
