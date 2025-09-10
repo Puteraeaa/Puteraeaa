@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""This is such a short and precious life that it's really important that you don't spend it being unhappy." — Naval Ravikant"
+  ""Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." — Richard Bach"
 </em></p>
 
 ---
