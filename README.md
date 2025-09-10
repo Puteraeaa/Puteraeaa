@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People spend too much time doing and not enough time thinking about what they should be doing." — Naval Ravikant"
+  ""To seek greatness is the only righteous vengeance." — Criss Jami"
 </em></p>
 
 ---
