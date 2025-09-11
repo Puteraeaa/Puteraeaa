@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is often safer to be in chains than to be free. " — Franz Kafka"
+  ""Always be a first-rate version of yourself, instead of a second-rate version of someone else." — Judy Garland"
 </em></p>
 
 ---
