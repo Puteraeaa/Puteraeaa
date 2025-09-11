@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Courage is not having the strength to go on; it is going on when you don't have the strength." — Theodore Roosevelt"
+  ""Weeds are flowers too, once you get to know them." — A.A. Milne"
 </em></p>
 
 ---
