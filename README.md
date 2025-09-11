@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always be a first-rate version of yourself, instead of a second-rate version of someone else." — Judy Garland"
+  ""The pen is the tongue of the mind. " — Miguel de Cervantes"
 </em></p>
 
 ---
