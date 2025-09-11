@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A warrior does not give up what he loves, he finds the love in what he does." — Dan Millman"
+  ""Courage is not having the strength to go on; it is going on when you don't have the strength." — Theodore Roosevelt"
 </em></p>
 
 ---
