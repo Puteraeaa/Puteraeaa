@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can have the mind or you can have the moment." — Naval Ravikant"
+  ""Shoot for the moon. Even if you miss, you'll land among the stars." — Norman Vincent Peale"
 </em></p>
 
 ---
