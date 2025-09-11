@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Shoot for the moon. Even if you miss, you'll land among the stars." — Norman Vincent Peale"
+  ""The only difference between success and failure is the ability to take action." — Alexander Graham Bell"
 </em></p>
 
 ---
