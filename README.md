@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Still your waters." — Josh Waitzkin"
+  ""A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board." — D. H. Lawrence"
 </em></p>
 
 ---
