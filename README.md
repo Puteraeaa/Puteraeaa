@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Focused, hard work is the real key to success." — John Carmack"
+  ""Still your waters." — Josh Waitzkin"
 </em></p>
 
 ---
