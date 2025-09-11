@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't learn to do, but learn in doing." — Samuel Butler"
+  ""Life has no limitations except the ones you make." — Les Brown"
 </em></p>
 
 ---
