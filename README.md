@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The pen is the tongue of the mind. " — Miguel de Cervantes"
+  ""Wise people, even though all laws were abolished, would still lead the same life." — Aristophanes"
 </em></p>
 
 ---
