@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Far and away the best prize that life has to offer is the chance to work hard at work worth doing." — Theodore Roosevelt"
+  ""It is better to fail in originality than to succeed in imitation." — Herman Melville"
 </em></p>
 
 ---
