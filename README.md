@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who knows how to wait need make no concessions." — Sigmund Freud"
+  ""Success is achieved and maintained by those who try and keep trying. " — W. Clement Stone"
 </em></p>
 
 ---
