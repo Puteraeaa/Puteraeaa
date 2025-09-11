@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give out what you most want to come back." — Robin Sharma"
+  ""Definiteness of purpose is the starting point of all achievement. " — W. Clement Stone"
 </em></p>
 
 ---
