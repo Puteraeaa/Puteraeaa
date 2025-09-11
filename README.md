@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only difference between success and failure is the ability to take action." — Alexander Graham Bell"
+  ""Every act of creation is first an act of destruction." — Pablo Picasso"
 </em></p>
 
 ---
