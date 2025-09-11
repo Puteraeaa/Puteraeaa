@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you quit once it becomes a habit." — Michael Jordan"
+  ""One of the first signs of the beginning of understanding is the wish to die. " — Franz Kafka"
 </em></p>
 
 ---
