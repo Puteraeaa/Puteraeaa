@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board." — D. H. Lawrence"
+  ""All happiness depends on courage and work." — Honore de Balzac"
 </em></p>
 
 ---
