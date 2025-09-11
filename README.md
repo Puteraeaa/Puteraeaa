@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every strike brings me closer to the next home run. " — Babe Ruth"
+  ""A warrior does not give up what he loves, he finds the love in what he does." — Dan Millman"
 </em></p>
 
 ---
