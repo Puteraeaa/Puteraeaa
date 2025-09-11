@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Desire is suffering." — Naval Ravikant"
+  ""Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do." — Nelson Mandela"
 </em></p>
 
 ---
