@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Definiteness of purpose is the starting point of all achievement. " — W. Clement Stone"
+  ""He who knows how to wait need make no concessions." — Sigmund Freud"
 </em></p>
 
 ---
