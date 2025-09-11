@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is better to fail in originality than to succeed in imitation." — Herman Melville"
+  ""Focused, hard work is the real key to success." — John Carmack"
 </em></p>
 
 ---
