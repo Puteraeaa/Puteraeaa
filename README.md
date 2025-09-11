@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wise people, even though all laws were abolished, would still lead the same life." — Aristophanes"
+  ""If you are far from the enemy, make him believe you are near." — Sun Tzu"
 </em></p>
 
 ---
