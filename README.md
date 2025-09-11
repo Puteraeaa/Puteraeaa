@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All happiness depends on courage and work." — Honore de Balzac"
+  ""You can have the mind or you can have the moment." — Naval Ravikant"
 </em></p>
 
 ---
