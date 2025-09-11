@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Some of your greatest lessons come from your darkest moments." — Roger Lee"
+  ""Follow your instincts. That is where true wisdom manifests itself." — Oprah Winfrey"
 </em></p>
 
 ---
