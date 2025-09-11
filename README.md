@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One of the first signs of the beginning of understanding is the wish to die. " — Franz Kafka"
+  ""Don't learn to do, but learn in doing." — Samuel Butler"
 </em></p>
 
 ---
