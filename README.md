@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be happy in the moment, that's enough. Each moment is all we need, not more." — Mother Teresa"
+  ""When you consider things like the stars, our affairs don't seem to matter very much, do they?" — Virginia Woolf"
 </em></p>
 
 ---
