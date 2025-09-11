@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you cannot understand something, then you have understood it incorrectly." — Kabir"
+  ""Be happy in the moment, that's enough. Each moment is all we need, not more." — Mother Teresa"
 </em></p>
 
 ---
