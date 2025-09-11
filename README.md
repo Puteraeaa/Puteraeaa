@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are not stuck where you are unless you decide to be.  " — Wayne Dyer"
+  ""Far and away the best prize that life has to offer is the chance to work hard at work worth doing." — Theodore Roosevelt"
 </em></p>
 
 ---
