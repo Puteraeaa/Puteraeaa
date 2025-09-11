@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Obstacles are those frightful things you see when you take your eyes off your goals." — Sydney Smith"
+  ""You are not stuck where you are unless you decide to be.  " — Wayne Dyer"
 </em></p>
 
 ---
