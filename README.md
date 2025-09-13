@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln"
+  ""In the beginner's mind there are many possibilities, but in the expert's mind there are few." — Shunryu Suzuki"
 </em></p>
 
 ---
