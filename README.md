@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be confident, not certain." — Eleanor Roosevelt"
+  ""That some achieve great success is proof to all that others can achieve it as well." — Abraham Lincoln"
 </em></p>
 
 ---
