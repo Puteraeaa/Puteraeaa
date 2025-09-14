@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the beginner's mind there are many possibilities, but in the expert's mind there are few." — Shunryu Suzuki"
+  ""Every poem should remind the reader that they are going to die." — Edgar Allan Poe"
 </em></p>
 
 ---
