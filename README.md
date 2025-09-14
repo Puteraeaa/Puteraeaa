@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every poem should remind the reader that they are going to die." — Edgar Allan Poe"
+  ""Always render more and better service than is expected of you, no matter what your task may be." — Og Mandino"
 </em></p>
 
 ---
