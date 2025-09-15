@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always render more and better service than is expected of you, no matter what your task may be." — Og Mandino"
+  ""Be mindful. Be grateful. Be positive. Be true. Be kind." — Roy T. Bennett"
 </em></p>
 
 ---
