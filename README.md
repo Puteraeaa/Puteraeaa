@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Happiness is when what you think, what you say, and what you do are in harmony." — Mahatma Gandhi"
+  ""Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. " — Henry Ford"
 </em></p>
 
 ---
