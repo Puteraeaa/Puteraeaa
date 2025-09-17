@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever you believe with feeling becomes your reality. " — Brian Tracy"
+  ""Your gift is something that you can do innately better than anything else." — Steve Harvey"
 </em></p>
 
 ---
