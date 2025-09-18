@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your gift is something that you can do innately better than anything else." — Steve Harvey"
+  ""The season of failure is the best time for sowing the seeds of success. " — Paramahansa Yogananda"
 </em></p>
 
 ---
