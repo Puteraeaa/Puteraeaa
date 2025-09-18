@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The season of failure is the best time for sowing the seeds of success. " — Paramahansa Yogananda"
+  ""Talk to someone about themselves and they'll listen for hours." — Dale Carnegie"
 </em></p>
 
 ---
