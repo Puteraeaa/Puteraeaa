@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When one door closes another door opens. " — Alexander Graham Bell"
+  ""Your mind is infinite, it's your doubts that are limiting." — Robert Kiyosaki"
 </em></p>
 
 ---
