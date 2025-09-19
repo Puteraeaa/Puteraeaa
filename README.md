@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Talk to someone about themselves and they'll listen for hours." — Dale Carnegie"
+  ""When one door closes another door opens. " — Alexander Graham Bell"
 </em></p>
 
 ---
