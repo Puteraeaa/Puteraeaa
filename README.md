@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wealth consists not in having great possessions, but in having few wants." — Epictetus"
+  ""Know your gifts and share them." — Les Brown"
 </em></p>
 
 ---
