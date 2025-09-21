@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Live your life as an exclamation rather than an explanation." — Isaac Newton"
+  ""The few who do are the envy of the many who only watch." — Jim Rohn"
 </em></p>
 
 ---
