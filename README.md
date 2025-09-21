@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Know your gifts and share them." — Les Brown"
+  ""Live your life as an exclamation rather than an explanation." — Isaac Newton"
 </em></p>
 
 ---
