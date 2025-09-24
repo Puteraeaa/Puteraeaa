@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must accept finite disappointment, but never lose infinite hope." — Martin Luther King, Jr."
+  ""Adventure is worthwhile in itself." — Amelia Earhart"
 </em></p>
 
 ---
