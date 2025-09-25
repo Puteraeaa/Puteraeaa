@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you." — Norman Vincent Peale"
+  ""Setting goals is the first step in turning the invisible into the visible." — Tony Robbins"
 </em></p>
 
 ---
