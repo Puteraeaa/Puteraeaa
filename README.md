@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Setting goals is the first step in turning the invisible into the visible." — Tony Robbins"
+  ""Do not stop thinking of life as an adventure." — Eleanor Roosevelt"
 </em></p>
 
 ---
