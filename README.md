@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not stop thinking of life as an adventure." — Eleanor Roosevelt"
+  ""You will face many defeats in life, but never let yourself be defeated." — Maya Angelou"
 </em></p>
 
 ---
