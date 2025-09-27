@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You will face many defeats in life, but never let yourself be defeated." — Maya Angelou"
+  ""The health of nations is more important than the wealth of nations." — Will Rogers"
 </em></p>
 
 ---
