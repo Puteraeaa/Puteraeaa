@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The health of nations is more important than the wealth of nations." — Will Rogers"
+  ""There are people who have money and people who are rich." — Coco Chanel"
 </em></p>
 
 ---
