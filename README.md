@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future is no more uncertain than the present." — Walt Whitman"
+  ""How you think is as important as as what you think." — Unknown"
 </em></p>
 
 ---
