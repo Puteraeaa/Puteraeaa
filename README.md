@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are people who have money and people who are rich." — Coco Chanel"
+  ""The future is no more uncertain than the present." — Walt Whitman"
 </em></p>
 
 ---
