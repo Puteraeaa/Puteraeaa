@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""How you think is as important as as what you think." — Unknown"
+  ""I believe that one of life's greatest risks is never daring to risk." — Oprah Winfrey"
 </em></p>
 
 ---
