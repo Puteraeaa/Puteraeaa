@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I believe that one of life's greatest risks is never daring to risk." — Oprah Winfrey"
+  ""Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for." — Socrates"
 </em></p>
 
 ---
