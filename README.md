@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for." — Socrates"
+  ""The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." — Benjamin Mays"
 </em></p>
 
 ---
