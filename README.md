@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life does not get better by chance, it gets better by change." — Jim Rohn"
+  ""The joy of life comes from our encounters with new experiences." — Christopher McCandless"
 </em></p>
 
 ---
