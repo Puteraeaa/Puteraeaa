@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The joy of life comes from our encounters with new experiences." — Christopher McCandless"
+  ""Never argue with stupid people, they will drag you down to their level and then beat you with experience." — Mark Twain"
 </em></p>
 
 ---
