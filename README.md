@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never argue with stupid people, they will drag you down to their level and then beat you with experience." — Mark Twain"
+  ""The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive." — Herodotus"
 </em></p>
 
 ---
