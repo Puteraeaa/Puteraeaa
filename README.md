@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive." — Herodotus"
+  ""A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." — Amelia Earhart"
 </em></p>
 
 ---
