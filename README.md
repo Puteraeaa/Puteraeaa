@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even when a friend does something you do not like, he continues to be your friend. " — Genghis Khan"
+  ""Why change? Everyone has his own style. When you have found it, you should stick to it." — Audrey Hepburn"
 </em></p>
 
 ---
