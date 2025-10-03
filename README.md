@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." — Amelia Earhart"
+  ""Even when a friend does something you do not like, he continues to be your friend. " — Genghis Khan"
 </em></p>
 
 ---
