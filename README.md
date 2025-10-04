@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is the power of thought that gives man power over nature." — Hans Christian Andersen"
+  ""Art is the signature of civilizations. " — Beverly Sills"
 </em></p>
 
 ---
