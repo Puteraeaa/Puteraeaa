@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Art is the signature of civilizations. " — Beverly Sills"
+  ""Whenever people agree with me I always feel I must be wrong." — Oscar Wilde"
 </em></p>
 
 ---
