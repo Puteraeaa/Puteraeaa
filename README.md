@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whenever people agree with me I always feel I must be wrong." — Oscar Wilde"
+  ""My definition of success is control." — Kenneth Branagh"
 </em></p>
 
 ---
