@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  " — Jack Kerouac"
+  ""As soon as you truly commit to making something happen, the 'how' will reveal itself." — Tony Robbins"
 </em></p>
 
 ---
