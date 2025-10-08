@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned." — Ming-Dao Deng"
+  ""Trust, but verify." — Ronald Reagan"
 </em></p>
 
 ---
