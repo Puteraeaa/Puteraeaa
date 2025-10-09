@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Who you are is always right." — Ming-Dao Deng"
+  ""I would rather die on my feet than live on my knees." — Euripides"
 </em></p>
 
 ---
