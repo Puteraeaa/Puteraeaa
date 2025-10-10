@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I would rather die on my feet than live on my knees." — Euripides"
+  ""Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer." — J.R.R. Tolkien"
 </em></p>
 
 ---
