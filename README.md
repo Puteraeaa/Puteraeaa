@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer." — J.R.R. Tolkien"
+  ""The season of failure is the best time for sowing the seeds of success. " — Paramahansa Yogananda"
 </em></p>
 
 ---
