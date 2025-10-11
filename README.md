@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I've always lived in the moment." — Yanni"
+  ""Freedom from desire leads to inner peace." — Lao Tzu"
 </em></p>
 
 ---
