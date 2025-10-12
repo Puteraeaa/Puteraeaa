@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do what is right, not what is easy, nor what is popular." — Roy T. Bennett"
+  ""Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry." — Celestine Chua"
 </em></p>
 
 ---
