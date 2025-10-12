@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom from desire leads to inner peace." — Lao Tzu"
+  ""Do what is right, not what is easy, nor what is popular." — Roy T. Bennett"
 </em></p>
 
 ---
