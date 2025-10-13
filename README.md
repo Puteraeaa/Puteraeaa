@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The heart wants what it wants - or else it does not care." — Emily Dickinson"
+  ""You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." — Steve Maraboli"
 </em></p>
 
 ---
