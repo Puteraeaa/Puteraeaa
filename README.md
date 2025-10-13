@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry." — Celestine Chua"
+  ""The heart wants what it wants - or else it does not care." — Emily Dickinson"
 </em></p>
 
 ---
