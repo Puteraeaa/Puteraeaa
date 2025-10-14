@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." — Steve Maraboli"
+  ""Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death." — Socrates"
 </em></p>
 
 ---
