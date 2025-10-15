@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing makes a man broad-minded like adversity." — Will Rogers"
+  ""Life is a journey, not a destination." — Dan Millman"
 </em></p>
 
 ---
