@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills"
+  ""Nothing makes a man broad-minded like adversity." — Will Rogers"
 </em></p>
 
 ---
