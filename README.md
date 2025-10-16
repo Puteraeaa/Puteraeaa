@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Never do to others what you would not like them to do to you. " — Confucius"
+  ""When it comes to mastering a skill, time is the magic ingredient." — Robert Greene"
 </em></p>
 
 ---
