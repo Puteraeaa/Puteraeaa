@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a journey, not a destination." — Dan Millman"
+  ""Never do to others what you would not like them to do to you. " — Confucius"
 </em></p>
 
 ---
