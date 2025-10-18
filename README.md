@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The constant assertion of belief is an indication of fear." — Jiddu Krishnamurti"
+  ""Talk to someone about themselves and they'll listen for hours." — Dale Carnegie"
 </em></p>
 
 ---
