@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can't argue both sides, you can't argue." — Jack Butcher"
+  ""The constant assertion of belief is an indication of fear." — Jiddu Krishnamurti"
 </em></p>
 
 ---
