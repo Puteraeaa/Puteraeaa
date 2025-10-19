@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""For your life to be great, your faith must be bigger than your fear." — Robin Sharma"
+  ""There is no way to happiness - happiness is the way." — Thich Nhat Hanh"
 </em></p>
 
 ---
