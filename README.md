@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whenever you do a thing, act as if all the world were watching." — Thomas Jefferson"
+  ""Start the day with love, spend the day with love, fill the day with love and end the day with love." — Sathya Sai Baba"
 </em></p>
 
 ---
