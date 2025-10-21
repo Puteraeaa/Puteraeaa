@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Start the day with love, spend the day with love, fill the day with love and end the day with love." — Sathya Sai Baba"
+  ""Where does a thought go when it's forgotten?" — Sigmund Freud"
 </em></p>
 
 ---
