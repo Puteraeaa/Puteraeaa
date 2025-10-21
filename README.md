@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where does a thought go when it's forgotten?" — Sigmund Freud"
+  ""It is far easier to start something than it is to finish it." — Amelia Earhart"
 </em></p>
 
 ---
