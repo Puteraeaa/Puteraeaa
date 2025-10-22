@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is far easier to start something than it is to finish it." — Amelia Earhart"
+  ""Better late than never." — Spencer Johnson"
 </em></p>
 
 ---
