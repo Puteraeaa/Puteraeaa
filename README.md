@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Until you make the unconscious conscious, it will direct your life and you will call it fate." — Carl Jung"
+  ""All great truths begin as blasphemies." — George Bernard Shaw"
 </em></p>
 
 ---
