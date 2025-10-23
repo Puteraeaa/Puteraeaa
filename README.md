@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All great truths begin as blasphemies." — George Bernard Shaw"
+  ""Fashion fades, only style remains the same." — Coco Chanel"
 </em></p>
 
 ---
