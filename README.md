@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Smell the cheese often so you know when it is getting old." — Spencer Johnson"
+  ""Happiness is not the absence of problems, it's the ability to deal with them." — Steve Maraboli"
 </em></p>
 
 ---
