@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fashion fades, only style remains the same." — Coco Chanel"
+  ""Smell the cheese often so you know when it is getting old." — Spencer Johnson"
 </em></p>
 
 ---
