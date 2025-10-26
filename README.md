@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett"
+  ""Fear does not have any special power unless you empower it by submitting to it." — Les Brown"
 </em></p>
 
 ---
