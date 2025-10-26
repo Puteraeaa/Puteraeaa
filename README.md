@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""What you resist, persists." — Carl Jung"
+  ""The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett"
 </em></p>
 
 ---
