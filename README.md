@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Troubles are often the tools by which God fashions us for better things." — Henry Ward Beecher"
+  ""If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe." — Nikola Tesla"
 </em></p>
 
 ---
