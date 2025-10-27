@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Fear does not have any special power unless you empower it by submitting to it." — Les Brown"
+  ""Troubles are often the tools by which God fashions us for better things." — Henry Ward Beecher"
 </em></p>
 
 ---
