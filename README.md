@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life happens in the river, not the shore." — Maxime Lagace"
+  ""All our knowledge has its origins in our perceptions." — Leonardo da Vinci"
 </em></p>
 
 ---
