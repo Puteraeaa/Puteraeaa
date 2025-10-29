@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes you have to lose all you have to find out who you truly are." — Roy T. Bennett"
+  ""Life happens in the river, not the shore." — Maxime Lagace"
 </em></p>
 
 ---
