@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All our knowledge has its origins in our perceptions." — Leonardo da Vinci"
+  ""It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." — Albus Dumbledore"
 </em></p>
 
 ---
