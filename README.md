@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." — Albus Dumbledore"
+  ""Most people get ahead during the time that others waste." — Henry Ford"
 </em></p>
 
 ---
