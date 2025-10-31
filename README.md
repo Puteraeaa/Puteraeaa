@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more." — Tony Robbins"
+  ""The more you are grateful for what you have the more you will have to be grateful for.  " — Zig Ziglar"
 </em></p>
 
 ---
