@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be true to yourself, help others, make each day your masterpiece" — John Wooden"
+  ""Be like a postage stamp. Stick to it until you get there." — Bob Proctor"
 </em></p>
 
 ---
