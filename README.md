@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be like a postage stamp. Stick to it until you get there." — Bob Proctor"
+  ""The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes." — Voltaire"
 </em></p>
 
 ---
