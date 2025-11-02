@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes." — Voltaire"
+  ""The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!" — Tony Robbins"
 </em></p>
 
 ---
