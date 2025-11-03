@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Money poisons you when you've got it, and starves you when you haven't." — D. H. Lawrence"
+  ""Always focus on the front windshield and not the rear view mirror." — Colin Powell"
 </em></p>
 
 ---
