@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always focus on the front windshield and not the rear view mirror." — Colin Powell"
+  ""Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda"
 </em></p>
 
 ---
