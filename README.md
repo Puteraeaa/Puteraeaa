@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The roots of education are bitter, but the fruit is sweet." — Aristotle"
+  ""If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results." — Tony Robbins"
 </em></p>
 
 ---
