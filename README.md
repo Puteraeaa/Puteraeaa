@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing that results in human progress is achieved with unanimous consent." — Christopher Columbus"
+  ""Avoiding failure is to avoid progress." — Unknown"
 </em></p>
 
 ---
