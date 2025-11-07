@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is the sum of small efforts, repeated day in and day out." — Robert Collier"
+  ""I've always tried to go a step past wherever people expected me to end up." — Beverly Sills"
 </em></p>
 
 ---
