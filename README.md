@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you put water into a cup, it becomes the cup." — Bruce Lee"
+  ""He who knows, does not speak. He who speaks, does not know." — Lao Tzu"
 </em></p>
 
 ---
