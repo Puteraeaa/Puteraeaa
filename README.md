@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I've always tried to go a step past wherever people expected me to end up." — Beverly Sills"
+  ""If you put water into a cup, it becomes the cup." — Bruce Lee"
 </em></p>
 
 ---
