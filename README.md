@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who knows, does not speak. He who speaks, does not know." — Lao Tzu"
+  ""Whatever is begun in anger, ends in shame." — Benjamin Franklin"
 </em></p>
 
 ---
