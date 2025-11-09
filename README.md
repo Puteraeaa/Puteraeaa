@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever is begun in anger, ends in shame." — Benjamin Franklin"
+  ""Don't let the fear of losing be greater than the excitement of winning." — Robert Kiyosaki"
 </em></p>
 
 ---
