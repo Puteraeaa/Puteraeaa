@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everyone has the right to make his own decisions, but none has the right to force his decision on others." — Ayn Rand"
+  ""Weeds are flowers too, once you get to know them." — A.A. Milne"
 </em></p>
 
 ---
