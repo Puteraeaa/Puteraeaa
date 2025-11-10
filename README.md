@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't let the fear of losing be greater than the excitement of winning." — Robert Kiyosaki"
+  ""Everyone has the right to make his own decisions, but none has the right to force his decision on others." — Ayn Rand"
 </em></p>
 
 ---
