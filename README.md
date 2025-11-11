@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Weeds are flowers too, once you get to know them." — A.A. Milne"
+  ""Your spirit is the true shield." — Morihei Ueshiba"
 </em></p>
 
 ---
