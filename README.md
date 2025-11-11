@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your spirit is the true shield." — Morihei Ueshiba"
+  ""To seek is to suffer. To seek nothing is bliss." — Bodhidharma"
 </em></p>
 
 ---
