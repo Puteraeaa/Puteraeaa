@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligent men are cruel. Stupid men are monstrously cruel." — Jack London"
+  ""Life is the art of drawing sufficient conclusions from insufficient premises." — Samuel Butler"
 </em></p>
 
 ---
