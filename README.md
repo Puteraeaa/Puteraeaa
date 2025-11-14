@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!" — Sathya Sai Baba"
+  ""Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away." — John Lennon"
 </em></p>
 
 ---
