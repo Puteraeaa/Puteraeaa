@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We think too much and feel too little." — Charlie Chaplin"
+  ""Actions are the seeds of fate. Deeds grow into destiny." — Harry S. Truman"
 </em></p>
 
 ---
