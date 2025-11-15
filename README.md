@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away." — John Lennon"
+  ""We think too much and feel too little." — Charlie Chaplin"
 </em></p>
 
 ---
