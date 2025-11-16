@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Actions are the seeds of fate. Deeds grow into destiny." — Harry S. Truman"
+  ""Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad." — Harry S. Truman"
 </em></p>
 
 ---
