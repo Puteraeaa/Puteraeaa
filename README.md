@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Respect is earned by effort not age, all things age without effort." — C. Sean McGee"
+  ""Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window." — Peter Drucker"
 </em></p>
 
 ---
