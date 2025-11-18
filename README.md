@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If they wrote it to make money, don't read it." — Naval Ravikant"
+  ""The friendship that can cease has never been real. " — St. Jerome"
 </em></p>
 
 ---
