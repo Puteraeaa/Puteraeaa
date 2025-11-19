@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The friendship that can cease has never been real. " — St. Jerome"
+  ""Weeds are flowers too, once you get to know them." — A.A. Milne"
 </em></p>
 
 ---
