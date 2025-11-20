@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble." — Robert Greene"
+  ""Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." — Charles Dickens"
 </em></p>
 
 ---
