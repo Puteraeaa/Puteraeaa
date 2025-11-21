@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A thing must be loved before it is lovable." — Gilbert Chesterton"
+  ""Behind every cloud is another cloud." — Judy Garland"
 </em></p>
 
 ---
