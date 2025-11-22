@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Create each day anew." — Morihei Ueshiba"
+  ""We should not look back unless it is to derive useful lessons from past errors." — George Washington"
 </em></p>
 
 ---
