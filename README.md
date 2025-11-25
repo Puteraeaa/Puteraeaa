@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The chief danger in life is that you may take too many precautions." — Alfred Adler"
+  ""To become what you are not, behave as you do not." — T.S. Eliot"
 </em></p>
 
 ---
