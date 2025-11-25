@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Where there is no struggle, there is no strength. " — Oprah Winfrey"
+  ""The chief danger in life is that you may take too many precautions." — Alfred Adler"
 </em></p>
 
 ---
