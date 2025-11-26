@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To become what you are not, behave as you do not." — T.S. Eliot"
+  ""No great discovery was ever made without a bold guess. " — Isaac Newton"
 </em></p>
 
 ---
