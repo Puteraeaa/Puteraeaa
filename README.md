@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No great discovery was ever made without a bold guess. " — Isaac Newton"
+  ""The prettiest eyes have cried the most." — Unknown"
 </em></p>
 
 ---
