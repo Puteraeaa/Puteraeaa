@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The mind can calculate, but the spirit yearns, and the heart wants what the heart wants." — Stephen King"
+  ""A life without a cause is a life without effect." — Paulo Coelho"
 </em></p>
 
 ---
