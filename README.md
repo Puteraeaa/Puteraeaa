@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""In the midst of movement and chaos, keep stillness inside of you." — Deepak Chopra"
+  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
 </em></p>
 
 ---
