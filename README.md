@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A life without a cause is a life without effect." — Paulo Coelho"
+  ""In the midst of movement and chaos, keep stillness inside of you." — Deepak Chopra"
 </em></p>
 
 ---
