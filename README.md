@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I would rather be hated for who I am than loved for who I'm not.  " — Wayne Dyer"
+  ""Failure is just information and an opportunity to change your course." — Oprah Winfrey"
 </em></p>
 
 ---
