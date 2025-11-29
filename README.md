@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Opportunity often comes disguised in the form of misfortune or temporary defeat." — Napoleon Hill"
+  ""I would rather be hated for who I am than loved for who I'm not.  " — Wayne Dyer"
 </em></p>
 
 ---
