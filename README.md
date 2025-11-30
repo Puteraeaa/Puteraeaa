@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure is just information and an opportunity to change your course." — Oprah Winfrey"
+  ""To do two things at once is to do neither." — Publilius Syrus"
 </em></p>
 
 ---
