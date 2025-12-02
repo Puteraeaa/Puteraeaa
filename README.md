@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't explain your philosophy. Embody it." — Epictetus"
+  ""No one can confidently say that he will still be living tomorrow." — Euripides"
 </em></p>
 
 ---
