@@ -33,8 +33,8 @@ jobs:
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions@users.noreply.github.com"
+          git config --global user.name "Puteraeaa"
+          git config --global user.email "utasuta1234@gmail.com"
           git add README.md
           git commit -m "Updated Quote" || echo "No changes to commit"
           git push origin main || echo "No changes to push"
