@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Goals are the fuel in the furnace of achievement." — Brian Tracy"
+  ""Your past does not equal your future." — Tony Robbins"
 </em></p>
 
 ---
