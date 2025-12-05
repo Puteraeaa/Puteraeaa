@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." — Richard Bach"
+  ""Keep your eyes on the stars, but remember to keep your feet on the ground." — Theodore Roosevelt"
 </em></p>
 
 ---
