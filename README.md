@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Keep your eyes on the stars, but remember to keep your feet on the ground." — Theodore Roosevelt"
+  ""If fear is too strong, the genius is suppressed." — Robert Kiyosaki"
 </em></p>
 
 ---
