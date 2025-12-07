@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no differences but differences of degree between different degrees of difference and no difference." — William James"
+  ""Everything you can imagine is real." — Pablo Picasso"
 </em></p>
 
 ---
