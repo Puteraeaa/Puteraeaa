@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything you can imagine is real." — Pablo Picasso"
+  ""A fear of weakness only strengthens weakness." — Criss Jami"
 </em></p>
 
 ---
