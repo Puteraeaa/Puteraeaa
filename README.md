@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You are what you believe in. You become that which you believe you can become." — Bhagavad Gita"
+  ""The busy man is never wise and the wise man is never busy." — Lin Yutang"
 </em></p>
 
 ---
