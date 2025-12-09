@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The busy man is never wise and the wise man is never busy." — Lin Yutang"
+  ""If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable." — Maxime Lagace"
 </em></p>
 
 ---
