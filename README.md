@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. " — Henry Ford"
+  ""It's not whether you get knocked down, its whether you get back up." — Vince Lombardi"
 </em></p>
 
 ---
