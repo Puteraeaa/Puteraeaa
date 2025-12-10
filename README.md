@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Action may not always bring happiness, but there is no happiness without action." — William James"
+  ""Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. " — Henry Ford"
 </em></p>
 
 ---
