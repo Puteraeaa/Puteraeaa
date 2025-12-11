@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Longevity is a fleeting moment that lasts forever." — Vidal Sassoon"
+  ""This is the most simple and basic component of life: our struggles determine our successes." — Mark Manson"
 </em></p>
 
 ---
