@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can't get to a place that you don't believe exists." — Unknown"
+  ""Insanity: doing the same thing over and over again and expecting different results." — Albert Einstein"
 </em></p>
 
 ---
