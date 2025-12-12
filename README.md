@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""This is the most simple and basic component of life: our struggles determine our successes." — Mark Manson"
+  ""You can't get to a place that you don't believe exists." — Unknown"
 </em></p>
 
 ---
