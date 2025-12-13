@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Insanity: doing the same thing over and over again and expecting different results." — Albert Einstein"
+  ""However difficult life may seem, there is always something you can do and succeed at." — Stephen Hawking"
 </em></p>
 
 ---
