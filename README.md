@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""However difficult life may seem, there is always something you can do and succeed at." — Stephen Hawking"
+  ""Quiet people have the loudest minds." — Stephen King"
 </em></p>
 
 ---
