@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." — Elbert Hubbard"
+  ""Belief creates the actual fact." — William James"
 </em></p>
 
 ---
