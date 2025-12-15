@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Belief creates the actual fact." — William James"
+  ""The mind can calculate, but the spirit yearns, and the heart wants what the heart wants." — Stephen King"
 </em></p>
 
 ---
