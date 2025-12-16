@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The mind can calculate, but the spirit yearns, and the heart wants what the heart wants." — Stephen King"
+  ""The roots of education are bitter, but the fruit is sweet." — Aristotle"
 </em></p>
 
 ---
