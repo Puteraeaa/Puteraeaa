@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We can have more than we've got because we can become more than we are." — Jim Rohn"
+  ""New beginnings are disguised as painful endings." — Lao Tzu"
 </em></p>
 
 ---
