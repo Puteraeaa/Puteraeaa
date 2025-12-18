@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""New beginnings are disguised as painful endings." — Lao Tzu"
+  ""Those who know, do. Those that understand, teach." — Aristotle"
 </em></p>
 
 ---
