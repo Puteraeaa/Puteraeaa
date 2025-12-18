@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who know, do. Those that understand, teach." — Aristotle"
+  ""Raise your words, not voice. It is rain that grows flowers, not thunder." — Rumi"
 </em></p>
 
 ---
