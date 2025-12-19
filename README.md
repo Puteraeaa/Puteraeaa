@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Raise your words, not voice. It is rain that grows flowers, not thunder." — Rumi"
+  ""Courage is the price that life exacts for granting peace." — Amelia Earhart"
 </em></p>
 
 ---
