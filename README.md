@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Many a man has failed because he had his wishbone where his backbone should have been." — Ronald Reagan"
+  ""Expect the best of yourself, and then do what is necessary to make it a reality." — Ralph Marston"
 </em></p>
 
 ---
