@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Expect the best of yourself, and then do what is necessary to make it a reality." — Ralph Marston"
+  ""When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar"
 </em></p>
 
 ---
