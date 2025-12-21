@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." — Norman Vincent Peale"
+  ""There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." — G.I. Gurdjieff"
 </em></p>
 
 ---
