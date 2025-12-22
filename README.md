@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." — Norman Vincent Peale"
+  ""Duty makes us do things well, but love makes us do them beautifully.  " — Zig Ziglar"
 </em></p>
 
 ---
