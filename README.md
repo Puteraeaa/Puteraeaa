@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Duty makes us do things well, but love makes us do them beautifully.  " — Zig Ziglar"
+  ""Where words fail, music speaks." — Hans Christian Andersen"
 </em></p>
 
 ---
