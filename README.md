@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins"
+  ""Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." — Sonia Ricotti"
 </em></p>
 
 ---
