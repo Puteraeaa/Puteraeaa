@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Listen to what you know instead of what you fear." — Richard Bach"
+  ""It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins"
 </em></p>
 
 ---
