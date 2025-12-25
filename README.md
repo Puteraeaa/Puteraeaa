@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To create more positive results in your life, replace 'if only' with 'next time'." — Celestine Chua"
+  ""Saying nothing sometimes says the most." — Emily Dickinson"
 </em></p>
 
 ---
