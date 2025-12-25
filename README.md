@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." — Sonia Ricotti"
+  ""To create more positive results in your life, replace 'if only' with 'next time'." — Celestine Chua"
 </em></p>
 
 ---
