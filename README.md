@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Avoiding failure is to avoid progress." — Unknown"
+  ""Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!" — Sathya Sai Baba"
 </em></p>
 
 ---
