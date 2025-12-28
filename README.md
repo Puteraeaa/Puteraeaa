@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn"
+  ""No one can confidently say that he will still be living tomorrow." — Euripides"
 </em></p>
 
 ---
