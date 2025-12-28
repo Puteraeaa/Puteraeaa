@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!" — Sathya Sai Baba"
+  ""Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn"
 </em></p>
 
 ---
