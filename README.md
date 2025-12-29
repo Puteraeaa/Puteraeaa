@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is like a wheel. Sooner or later, it always comes around to where you started again." — Stephen King"
+  ""No one can hurt you without your consent." — Eleanor Roosevelt"
 </em></p>
 
 ---
