@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No one can hurt you without your consent." — Eleanor Roosevelt"
+  ""Nature is pleased with simplicity. And nature is no dummy." — Isaac Newton"
 </em></p>
 
 ---
