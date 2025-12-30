@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nature is pleased with simplicity. And nature is no dummy." — Isaac Newton"
+  ""Your life does not get better by chance, it gets better by change." — Jim Rohn"
 </em></p>
 
 ---
