@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him." — James Allen"
+  ""The way to change others' minds is with affection, and not anger." — Dalai Lama"
 </em></p>
 
 ---
