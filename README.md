@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The way to change others' minds is with affection, and not anger." — Dalai Lama"
+  ""Many people will walk in and out of your life, but only true friends will leave footprints in your heart." — Eleanor Roosevelt"
 </em></p>
 
 ---
