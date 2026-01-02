@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po"
+  ""Reality is the leading cause of stress among those in touch with it." — Lily Tomlin"
 </em></p>
 
 ---
