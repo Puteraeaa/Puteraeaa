@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Reality is the leading cause of stress among those in touch with it." — Lily Tomlin"
+  ""When one does not have what one wants, one must want what one has." — Sigmund Freud"
 </em></p>
 
 ---
