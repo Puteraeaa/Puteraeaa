@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""When one does not have what one wants, one must want what one has." — Sigmund Freud"
+  ""At the end of the day, let there be no excuses, no explanations, no regrets." — Steve Maraboli"
 </em></p>
 
 ---
