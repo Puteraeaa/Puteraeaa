@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""At the end of the day, let there be no excuses, no explanations, no regrets." — Steve Maraboli"
+  ""Your success and happiness lie in you." — Helen Keller"
 </em></p>
 
 ---
