@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a constant series of opportunities." — Ming-Dao Deng"
+  ""People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." — Zig Ziglar"
 </em></p>
 
 ---
