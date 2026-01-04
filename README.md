@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your success and happiness lie in you." — Helen Keller"
+  ""Life is a constant series of opportunities." — Ming-Dao Deng"
 </em></p>
 
 ---
