@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do what is right, not what is easy, nor what is popular." — Roy T. Bennett"
+  ""A change is brought about because ordinary people do extraordinary things." — Barack Obama"
 </em></p>
 
 ---
