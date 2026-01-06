@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." — Buddha"
+  ""Duty makes us do things well, but love makes us do them beautifully.  " — Zig Ziglar"
 </em></p>
 
 ---
