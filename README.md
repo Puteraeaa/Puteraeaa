@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A change is brought about because ordinary people do extraordinary things." — Barack Obama"
+  ""Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." — Buddha"
 </em></p>
 
 ---
