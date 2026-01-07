@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Duty makes us do things well, but love makes us do them beautifully.  " — Zig Ziglar"
+  ""Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself." — William Faulkner"
 </em></p>
 
 ---
