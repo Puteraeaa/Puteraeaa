@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself." — William Faulkner"
+  ""Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho"
 </em></p>
 
 ---
