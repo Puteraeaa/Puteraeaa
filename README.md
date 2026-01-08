@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho"
+  ""Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is." — Nicolas Chamfort"
 </em></p>
 
 ---
