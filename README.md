@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is." — Nicolas Chamfort"
+  ""No need to hurry. No need to sparkle. No need to be anybody but oneself." — Virginia Woolf"
 </em></p>
 
 ---
