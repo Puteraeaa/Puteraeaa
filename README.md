@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No need to hurry. No need to sparkle. No need to be anybody but oneself." — Virginia Woolf"
+  ""Change is not a four letter word...but often your reaction to it is!" — Jeffrey Gitomer"
 </em></p>
 
 ---
