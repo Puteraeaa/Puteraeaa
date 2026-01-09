@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Change is not a four letter word...but often your reaction to it is!" — Jeffrey Gitomer"
+  ""A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled." — Andrew Carnegie"
 </em></p>
 
 ---
