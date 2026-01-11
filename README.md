@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you truly love Nature, you will find beauty everywhere. " — Vincent van Gogh"
+  ""What have you done today to make someone else happy?" — Deepam Chaterjee"
 </em></p>
 
 ---
