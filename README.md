@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""True knowledge exists in knowing that you know nothing." — Socrates"
+  ""It's much better to do good in a way that no one knows anything about it." — Leo Tolstoy"
 </em></p>
 
 ---
