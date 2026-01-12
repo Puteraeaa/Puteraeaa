@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The way to change others' minds is with affection, and not anger." — Dalai Lama"
+  ""True knowledge exists in knowing that you know nothing." — Socrates"
 </em></p>
 
 ---
