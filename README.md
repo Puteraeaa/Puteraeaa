@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore"
+  ""Success is getting what you want... Happiness is wanting what you get." — Dale Carnegie"
 </em></p>
 
 ---
