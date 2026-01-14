@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't think money does everything or you are going to end up doing everything for money." — Voltaire"
+  ""It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore"
 </em></p>
 
 ---
