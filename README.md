@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a traveling to the edge of knowledge, then a leap taken." — D. H. Lawrence"
+  ""Actions are the seeds of fate. Deeds grow into destiny." — Harry S. Truman"
 </em></p>
 
 ---
