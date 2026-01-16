@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I have never let my schooling interfere with my education." — Mark Twain"
+  ""There is no greatness where there is not simplicity, goodness, and truth." — Leo Tolstoy"
 </em></p>
 
 ---
