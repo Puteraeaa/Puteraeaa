@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Instead of thinking outside the box, get rid of the box." — Deepak Chopra"
+  ""Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed." — Lily Tomlin"
 </em></p>
 
 ---
