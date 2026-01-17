@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no greatness where there is not simplicity, goodness, and truth." — Leo Tolstoy"
+  ""Instead of thinking outside the box, get rid of the box." — Deepak Chopra"
 </em></p>
 
 ---
