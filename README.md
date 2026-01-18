@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you're afraid - don't do it, - if you're doing it - don't be afraid! " — Genghis Khan"
+  ""The only real mistake is the one from which we learn nothing. " — Henry Ford"
 </em></p>
 
 ---
