@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only real mistake is the one from which we learn nothing. " — Henry Ford"
+  ""Old age is like everything else. To make a success of it, you've got to start young." — Theodore Roosevelt"
 </em></p>
 
 ---
