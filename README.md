@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be curious, not judgmental." — Walt Whitman"
+  ""When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place." — Bhagavad Gita"
 </em></p>
 
 ---
