@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you try, you might get exactly what you want. If you don't, you don't." — Unknown"
+  ""Always be a first-rate version of yourself, instead of a second-rate version of someone else." — Judy Garland"
 </em></p>
 
 ---
