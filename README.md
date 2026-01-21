@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Always be a first-rate version of yourself, instead of a second-rate version of someone else." — Judy Garland"
+  ""There are no secrets to success. It is the result of preparation, hard work, learning from failure." — Colin Powell"
 </em></p>
 
 ---
