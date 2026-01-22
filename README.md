@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who attain the middle Dominate the whole." — Ming-Dao Deng"
+  ""Muddy water is best cleared by leaving it alone." — Alan Watts"
 </em></p>
 
 ---
