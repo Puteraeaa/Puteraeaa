@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are no secrets to success. It is the result of preparation, hard work, learning from failure." — Colin Powell"
+  ""Those who attain the middle Dominate the whole." — Ming-Dao Deng"
 </em></p>
 
 ---
