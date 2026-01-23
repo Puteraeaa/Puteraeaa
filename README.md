@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Muddy water is best cleared by leaving it alone." — Alan Watts"
+  ""If you done it, it ain't bragging." — Walt Whitman"
 </em></p>
 
 ---
