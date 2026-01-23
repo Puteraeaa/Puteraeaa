@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you done it, it ain't bragging." — Walt Whitman"
+  ""When we allow negative messages to fester in our head, they take on a life of their own." — Lolly Daskal"
 </em></p>
 
 ---
