@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Because of your smile, you make life more beautiful." — Thich Nhat Hanh"
+  ""No grand idea was ever born in a conference, but a lot of foolish ideas have died there." — F. Scott Fitzgerald"
 </em></p>
 
 ---
