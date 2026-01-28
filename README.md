@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you chase two rabbits, you catch none." — Confucius"
+  ""Every hour of every day is an unspeakably perfect miracle." — Walt Whitman"
 </em></p>
 
 ---
