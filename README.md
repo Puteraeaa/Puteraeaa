@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You need to be doing fewer things for more effect instead of doing more things with side effects." — Gary Keller"
+  ""If you chase two rabbits, you catch none." — Confucius"
 </em></p>
 
 ---
