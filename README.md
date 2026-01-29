@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The moment you doubt whether you can fly, you cease for ever to be able to do it." — James Matthew Barrie"
+  ""Truth is not something outside to be discovered, it is something inside to be realized." — Osho"
 </em></p>
 
 ---
