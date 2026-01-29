@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every hour of every day is an unspeakably perfect miracle." — Walt Whitman"
+  ""The moment you doubt whether you can fly, you cease for ever to be able to do it." — James Matthew Barrie"
 </em></p>
 
 ---
