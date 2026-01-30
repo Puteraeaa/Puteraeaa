@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Truth is not something outside to be discovered, it is something inside to be realized." — Osho"
+  ""Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all." — Dale Carnegie"
 </em></p>
 
 ---
