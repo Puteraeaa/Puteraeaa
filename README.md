@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want things to be different, perhaps the answer is to become different yourself." — Norman Vincent Peale"
+  ""Success is built sequentially. It's one thing at a time." — Gary Keller"
 </em></p>
 
 ---
