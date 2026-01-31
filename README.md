@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is built sequentially. It's one thing at a time." — Gary Keller"
+  ""There is only one thing in the world worse than being talked about, and that is not being talked about. " — Oscar Wilde"
 </em></p>
 
 ---
