@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Before you can see the Light, you have to deal with the darkness." — Dan Millman"
+  ""If you want more luck, take more chances." — Brian Tracy"
 </em></p>
 
 ---
