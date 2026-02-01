@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is only one thing in the world worse than being talked about, and that is not being talked about. " — Oscar Wilde"
+  ""Before you can see the Light, you have to deal with the darkness." — Dan Millman"
 </em></p>
 
 ---
