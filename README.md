@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you want more luck, take more chances." — Brian Tracy"
+  ""Laziness may appear attractive, but work gives satisfaction." — Anne Frank"
 </em></p>
 
 ---
