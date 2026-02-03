@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Intense love does not measure, it just gives." — Mother Teresa"
+  ""If you spend too much time thinking about a thing, you'll never get it done. " — Bruce Lee"
 </em></p>
 
 ---
