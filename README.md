@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To arrive at the simplest truth requires years of contemplation." — Isaac Newton"
+  ""If there were no God, there would be no atheists." — Gilbert Chesterton"
 </em></p>
 
 ---
