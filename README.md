@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Stop wasting time defending your problems and work on addressing them instead." — Celestine Chua"
+  ""The joy of life comes from our encounters with new experiences." — Christopher McCandless"
 </em></p>
 
 ---
