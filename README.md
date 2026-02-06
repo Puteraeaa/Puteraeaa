@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more." — Tony Robbins"
+  ""Good things aren't supposed to just fall into your lap." — Audrey Hepburn"
 </em></p>
 
 ---
