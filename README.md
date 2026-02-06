@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The joy of life comes from our encounters with new experiences." — Christopher McCandless"
+  ""Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more." — Tony Robbins"
 </em></p>
 
 ---
