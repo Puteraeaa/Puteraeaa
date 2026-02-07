@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The best dreams happen when you're awake." — Cherie Gilderbloom"
+  ""Continuous effort - not strength or intelligence - is the key to unlocking our potential." — Winston Churchill"
 </em></p>
 
 ---
