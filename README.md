@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We become brave by doing brave acts." — Aristotle"
+  ""As soon as you truly commit to making something happen, the 'how' will reveal itself." — Tony Robbins"
 </em></p>
 
 ---
