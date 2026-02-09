@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you spend too much time thinking about a thing, you'll never get it done. " — Bruce Lee"
+  ""Man is made by his belief. As he believes, so he is." — Bhagavad Gita"
 </em></p>
 
 ---
