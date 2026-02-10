@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Man is made by his belief. As he believes, so he is." — Bhagavad Gita"
+  ""Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." — Wayne Gretzky"
 </em></p>
 
 ---
