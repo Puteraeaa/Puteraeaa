@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The purpose of life is to contribute in some way to making things better." — Robert F. Kennedy"
+  ""The less you try to impress, the more peaceful you can be." — Maxime Lagace"
 </em></p>
 
 ---
