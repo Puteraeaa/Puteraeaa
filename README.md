@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be the silent watcher of your thoughts and behavior. You are beneath the thinker." — Eckhart Tolle"
+  ""The purpose of life is to contribute in some way to making things better." — Robert F. Kennedy"
 </em></p>
 
 ---
