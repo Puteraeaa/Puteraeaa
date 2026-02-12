@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The less you try to impress, the more peaceful you can be." — Maxime Lagace"
+  ""One always begins to forgive a place as soon as it's left behind." — Charles Dickens"
 </em></p>
 
 ---
