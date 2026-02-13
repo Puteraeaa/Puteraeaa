@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It doesn't matter what you do, only how well you do it." — Dan Millman"
+  ""Out of your vulnerabilities will come your strength." — Sigmund Freud"
 </em></p>
 
 ---
