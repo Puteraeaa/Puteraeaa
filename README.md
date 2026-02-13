@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for." — Bob Marley"
+  ""It doesn't matter what you do, only how well you do it." — Dan Millman"
 </em></p>
 
 ---
