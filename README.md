@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Out of your vulnerabilities will come your strength." — Sigmund Freud"
+  ""Nothing makes a man broad-minded like adversity." — Will Rogers"
 </em></p>
 
 ---
