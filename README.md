@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Nothing makes a man broad-minded like adversity." — Will Rogers"
+  ""Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso"
 </em></p>
 
 ---
