@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer." — J.R.R. Tolkien"
+  ""The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is." — Eckhart Tolle"
 </em></p>
 
 ---
