@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The joy of life comes from our encounters with new experiences." — Christopher McCandless"
+  ""Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer." — J.R.R. Tolkien"
 </em></p>
 
 ---
