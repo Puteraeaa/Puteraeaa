@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Give a girl the right shoes, and she can conquer the world." — Bette Midler"
+  ""The journey, not the destination matters." — T.S. Eliot"
 </em></p>
 
 ---
