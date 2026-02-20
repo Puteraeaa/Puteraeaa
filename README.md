@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." — Albus Dumbledore"
+  ""Sometimes letting things go is an act of far greater power than defending or hanging on." — Eckhart Tolle"
 </em></p>
 
 ---
