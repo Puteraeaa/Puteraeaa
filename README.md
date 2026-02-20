@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes letting things go is an act of far greater power than defending or hanging on." — Eckhart Tolle"
+  ""It's not what happens to you, but how you react to it that matters." — Epictetus"
 </em></p>
 
 ---
