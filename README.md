@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To forget the whole world is easy; to make the whole world forget you is hard." — Zhuangzi"
+  ""Being in a good frame of mind helps keep one in the picture of health." — Unknown"
 </em></p>
 
 ---
