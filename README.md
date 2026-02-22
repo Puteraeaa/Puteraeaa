@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only place success comes before work is in the dictionary." — Vince Lombardi"
+  ""You can live a whole life time never being awake." — Dan Millman"
 </em></p>
 
 ---
