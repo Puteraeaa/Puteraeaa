@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being in a good frame of mind helps keep one in the picture of health." — Unknown"
+  ""The only place success comes before work is in the dictionary." — Vince Lombardi"
 </em></p>
 
 ---
