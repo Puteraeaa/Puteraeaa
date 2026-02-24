@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who cannot change their minds cannot change anything." — George Bernard Shaw"
+  ""We must embrace pain and burn it as fuel for our journey." — Kenji Miyazawa"
 </em></p>
 
 ---
