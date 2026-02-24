@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We must embrace pain and burn it as fuel for our journey." — Kenji Miyazawa"
+  ""Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner." — Arnold Schwarzenegger"
 </em></p>
 
 ---
