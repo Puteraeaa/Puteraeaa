@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner." — Arnold Schwarzenegger"
+  ""Mind is the creator of everything. You should therefore guide it to create only good." — Paramahansa Yogananda"
 </em></p>
 
 ---
