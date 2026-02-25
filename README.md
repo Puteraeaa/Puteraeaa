@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Mind is the creator of everything. You should therefore guide it to create only good." — Paramahansa Yogananda"
+  ""Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't." — Steve Maraboli"
 </em></p>
 
 ---
