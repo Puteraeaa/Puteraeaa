@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't." — Steve Maraboli"
+  ""The greatest miracle is to be alive." — Thich Nhat Hanh"
 </em></p>
 
 ---
