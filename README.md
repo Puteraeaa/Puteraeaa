@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Instead of being intimidated by the limitations, be inspired to find new ways around them." — Ralph Marston"
+  ""If the grass is greener on the other side, maybe that's because you're not taking good care of your grass." — Unknown"
 </em></p>
 
 ---
