@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Enjoy life. There's plenty of time to be dead." — Hans Christian Andersen"
+  ""Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work." — John Eliot"
 </em></p>
 
 ---
