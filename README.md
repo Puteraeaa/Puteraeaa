@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only real mistake is the one from which we learn nothing. " — Henry Ford"
+  ""You can calculate the worth of a man by the number of his enemies." — Gustave Flaubert"
 </em></p>
 
 ---
