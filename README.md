@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can calculate the worth of a man by the number of his enemies." — Gustave Flaubert"
+  ""If you've never eaten while crying you don t know what life tastes like." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
