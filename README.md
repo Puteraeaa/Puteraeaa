@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You're never given a dream without also being given the power to make it true." — Richard Bach"
+  ""The dreamers are the saviors of the worlds." — James Allen"
 </em></p>
 
 ---
