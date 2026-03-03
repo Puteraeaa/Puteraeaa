@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The dreamers are the saviors of the worlds." — James Allen"
+  ""The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene"
 </em></p>
 
 ---
