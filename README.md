@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene"
+  ""Until you change how you get things done, you'll never know what works best." — Roy T. Bennett"
 </em></p>
 
 ---
