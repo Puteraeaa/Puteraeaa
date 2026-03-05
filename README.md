@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To escape from the world means that one's mind is not concerned with the opinions of the world." — Dogen"
+  ""The one who praises you is a thief. The one who criticizes you is your true friend." — Seungsahn"
 </em></p>
 
 ---
