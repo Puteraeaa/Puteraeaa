@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I'm an optimist by choice not by stupidity." — Yanni"
+  ""You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this." — Henry David Thoreau"
 </em></p>
 
 ---
