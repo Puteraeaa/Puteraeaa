@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's not about what it is, it's about what it can become." — Dr. Seuss"
+  ""I'm an optimist by choice not by stupidity." — Yanni"
 </em></p>
 
 ---
