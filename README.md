@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Even when a friend does something you do not like, he continues to be your friend. " — Genghis Khan"
+  ""The opposite of courage in our society is not cowardice... it is conformity." — Earl Nightingale"
 </em></p>
 
 ---
