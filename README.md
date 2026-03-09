@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The opposite of courage in our society is not cowardice... it is conformity." — Earl Nightingale"
+  ""A flower falls, even though we love it; and a weed grows, even though we do not love it." — Dogen"
 </em></p>
 
 ---
