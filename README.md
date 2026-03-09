@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A flower falls, even though we love it; and a weed grows, even though we do not love it." — Dogen"
+  ""We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences " — Nikola Tesla"
 </em></p>
 
 ---
