@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is ignorance that causes most mistakes." — Harry S. Truman"
+  ""Be approximately right rather than exactly wrong." — John Tukey"
 </em></p>
 
 ---
