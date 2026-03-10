@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences " — Nikola Tesla"
+  ""It is ignorance that causes most mistakes." — Harry S. Truman"
 </em></p>
 
 ---
