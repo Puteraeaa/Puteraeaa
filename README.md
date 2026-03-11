@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The cost of leadership is self-interest." — Simon Sinek"
+  ""The ladder of success is best climbed by stepping on the rungs of opportunity." — Ayn Rand"
 </em></p>
 
 ---
