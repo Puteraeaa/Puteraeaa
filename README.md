@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The ladder of success is best climbed by stepping on the rungs of opportunity." — Ayn Rand"
+  ""Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu"
 </em></p>
 
 ---
