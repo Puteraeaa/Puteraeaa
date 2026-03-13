@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Don't Let Yesterday Take Up Too Much Of Today." — Will Rogers"
+  ""When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything." — Paramahansa Yogananda"
 </em></p>
 
 ---
