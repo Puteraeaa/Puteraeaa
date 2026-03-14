@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""My definition of success is control." — Kenneth Branagh"
+  ""Attitude drives actions. Actions drive results. Results drive lifestyles." — Jim Rohn"
 </em></p>
 
 ---
