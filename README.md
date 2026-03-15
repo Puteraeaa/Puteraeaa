@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Attitude drives actions. Actions drive results. Results drive lifestyles." — Jim Rohn"
+  ""You are what you believe in. You become that which you believe you can become." — Bhagavad Gita"
 </em></p>
 
 ---
