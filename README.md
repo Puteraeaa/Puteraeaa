@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I have no methods; all I do is accept people as they are." — Joan Rivers"
+  ""Happiness is when what you think, what you say, and what you do are in harmony." — Mahatma Gandhi"
 </em></p>
 
 ---
