@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The number one cause of failure is the fear of failure." — Steve Harvey"
+  ""If the plan doesn't work, change the plan, but never the goal." — Unknown"
 </em></p>
 
 ---
