@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If the plan doesn't work, change the plan, but never the goal." — Unknown"
+  ""The greatest of empires, is the empire over one's self." — Publilius Syrus"
 </em></p>
 
 ---
