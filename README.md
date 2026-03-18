@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest of empires, is the empire over one's self." — Publilius Syrus"
+  ""Either write something worth reading or do something worth writing." — Benjamin Franklin"
 </em></p>
 
 ---
