@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Either write something worth reading or do something worth writing." — Benjamin Franklin"
+  ""Success is getting what you want. Happiness is wanting what you get." — Andrew Carnegie"
 </em></p>
 
 ---
