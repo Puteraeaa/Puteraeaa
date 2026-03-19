@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is getting what you want. Happiness is wanting what you get." — Andrew Carnegie"
+  ""Do Something. If it works, do more of it. If it doesn't, do something else." — Franklin D. Roosevelt"
 </em></p>
 
 ---
