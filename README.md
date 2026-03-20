@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wake up and smile! Wake up and be grateful!" — Steve Harvey"
+  ""The world is changed by your example, not by your opinion." — Paulo Coelho"
 </em></p>
 
 ---
