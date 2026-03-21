@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The world is changed by your example, not by your opinion." — Paulo Coelho"
+  ""Those who look for the bad in people will surely find it." — Abraham Lincoln"
 </em></p>
 
 ---
