@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Those who look for the bad in people will surely find it." — Abraham Lincoln"
+  ""Perfection is not attainable, but if we chase perfection we can catch excellence." — Vince Lombardi"
 </em></p>
 
 ---
