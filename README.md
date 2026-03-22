@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Perfection is not attainable, but if we chase perfection we can catch excellence." — Vince Lombardi"
+  ""From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka"
 </em></p>
 
 ---
