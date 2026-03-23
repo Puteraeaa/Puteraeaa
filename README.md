@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The few who do are the envy of the many who only watch." — Jim Rohn"
+  ""Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win." — Stephen King"
 </em></p>
 
 ---
