@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win." — Stephen King"
+  ""Life is one long process of getting tired." — Samuel Butler"
 </em></p>
 
 ---
