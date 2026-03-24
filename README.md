@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""All has not been said and never will be." — Samuel Beckett"
+  ""Try not to become a man of success, but rather try to become a man of value." — Albert Einstein"
 </em></p>
 
 ---
