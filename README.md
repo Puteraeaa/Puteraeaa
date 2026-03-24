@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is one long process of getting tired." — Samuel Butler"
+  ""All has not been said and never will be." — Samuel Beckett"
 </em></p>
 
 ---
