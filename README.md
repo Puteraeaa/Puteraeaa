@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail." — Arnold Schwarzenegger"
+  ""You can have results or excuses, but not both." — Arnold Schwarzenegger"
 </em></p>
 
 ---
