@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Try not to become a man of success, but rather try to become a man of value." — Albert Einstein"
+  ""Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail." — Arnold Schwarzenegger"
 </em></p>
 
 ---
