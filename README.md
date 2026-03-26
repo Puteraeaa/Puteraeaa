@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""You can have results or excuses, but not both." — Arnold Schwarzenegger"
+  ""If you do not push the boundaries, you will never know where they are." — T.S. Eliot"
 </em></p>
 
 ---
