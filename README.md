@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand." — Colin Powell"
+  ""It is the power of the mind to be unconquerable." — Seneca"
 </em></p>
 
 ---
