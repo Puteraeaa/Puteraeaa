@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is the power of the mind to be unconquerable." — Seneca"
+  ""Being wrong opens us up to the possibility of change." — Mark Manson"
 </em></p>
 
 ---
