@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There are two things a person should never be angry at, what they can help, and what they cannot." — Plato"
+  ""I wasn't brave, I just didn't have time to be scared." — Amelia Earhart"
 </em></p>
 
 ---
