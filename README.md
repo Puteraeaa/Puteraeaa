@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being wrong opens us up to the possibility of change." — Mark Manson"
+  ""There are two things a person should never be angry at, what they can help, and what they cannot." — Plato"
 </em></p>
 
 ---
