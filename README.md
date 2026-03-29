@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I wasn't brave, I just didn't have time to be scared." — Amelia Earhart"
+  ""Whatever your heart clings to and confides in, that is really your God." — Martin Luther"
 </em></p>
 
 ---
