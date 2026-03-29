@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Whatever your heart clings to and confides in, that is really your God." — Martin Luther"
+  ""If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." — Martin Luther King, Jr."
 </em></p>
 
 ---
