@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." — Martin Luther King, Jr."
+  ""When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar"
 </em></p>
 
 ---
