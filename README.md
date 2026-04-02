@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""He who knows, does not speak. He who speaks, does not know." — Lao Tzu"
+  ""Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality." — James Cameron"
 </em></p>
 
 ---
