@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
+  ""The more we value things, the less we value ourselves.  " — Bruce Lee"
 </em></p>
 
 ---
