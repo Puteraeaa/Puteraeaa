@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality." — James Cameron"
+  ""Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee"
 </em></p>
 
 ---
