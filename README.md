@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Self-control is strength." — James Allen"
+  ""The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts"
 </em></p>
 
 ---
