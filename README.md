@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." — Josh Waitzkin"
+  ""Conflict cannot survive without your participation. " — Wayne Dyer"
 </em></p>
 
 ---
