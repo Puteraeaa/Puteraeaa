@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts"
+  ""We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." — Josh Waitzkin"
 </em></p>
 
 ---
