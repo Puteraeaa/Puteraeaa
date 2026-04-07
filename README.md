@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Conflict cannot survive without your participation. " — Wayne Dyer"
+  ""Everything you can imagine is real." — Pablo Picasso"
 </em></p>
 
 ---
