@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything you can imagine is real." — Pablo Picasso"
+  ""The sun shines upon good and bad alike." — Hans Christian Andersen"
 </em></p>
 
 ---
