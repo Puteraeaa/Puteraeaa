@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The sun shines upon good and bad alike." — Hans Christian Andersen"
+  ""First learn the meaning of what you say, and then speak." — Epictetus"
 </em></p>
 
 ---
