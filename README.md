@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome." — Dan Millman"
+  ""The soul without imagination is what an observatory would be without a telescope." — Henry Ward Beecher"
 </em></p>
 
 ---
