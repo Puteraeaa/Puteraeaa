@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Forever is composed of now's." — Emily Dickinson"
+  ""Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino"
 </em></p>
 
 ---
