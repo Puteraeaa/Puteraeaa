@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino"
+  ""Leadership is solving problems" — Colin Powell"
 </em></p>
 
 ---
