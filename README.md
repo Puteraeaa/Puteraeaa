@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Leadership is solving problems" — Colin Powell"
+  ""Not engaging in ignorance is wisdom. " — Bodhidharma"
 </em></p>
 
 ---
