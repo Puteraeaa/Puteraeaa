@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It's just a bad day, not a bad life." — Mary Engelbreit"
+  ""Show me a hero, and I'll write you a tragedy." — F. Scott Fitzgerald"
 </em></p>
 
 ---
