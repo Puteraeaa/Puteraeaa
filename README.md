@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Not engaging in ignorance is wisdom. " — Bodhidharma"
+  ""It's just a bad day, not a bad life." — Mary Engelbreit"
 </em></p>
 
 ---
