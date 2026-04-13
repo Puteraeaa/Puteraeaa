@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Real loss is only possible when you love something more than you love yourself." — Robin Williams"
+  ""Be not glad at the misfortune of another, though he may be your enemy. " — George Washington"
 </em></p>
 
 ---
