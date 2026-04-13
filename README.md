@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Show me a hero, and I'll write you a tragedy." — F. Scott Fitzgerald"
+  ""Real loss is only possible when you love something more than you love yourself." — Robin Williams"
 </em></p>
 
 ---
