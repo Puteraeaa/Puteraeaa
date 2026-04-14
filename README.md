@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Be not glad at the misfortune of another, though he may be your enemy. " — George Washington"
+  ""To improve is to change, so to be perfect is to change often." — Winston Churchill"
 </em></p>
 
 ---
