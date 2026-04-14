@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""To improve is to change, so to be perfect is to change often." — Winston Churchill"
+  ""Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control." — Epictetus"
 </em></p>
 
 ---
