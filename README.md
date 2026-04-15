@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control." — Epictetus"
+  ""Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'" — Brian Tracy"
 </em></p>
 
 ---
