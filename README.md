@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'" — Brian Tracy"
+  ""Enthusiasm is a vital element toward the individual success of every man or woman." — Conrad Hilton"
 </em></p>
 
 ---
