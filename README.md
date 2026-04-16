@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Enthusiasm is a vital element toward the individual success of every man or woman." — Conrad Hilton"
+  ""To bear trials with a calm mind robs misfortune of its strength and burden." — Seneca"
 </em></p>
 
 ---
