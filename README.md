@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Determine never to be idle. No person will have occasion to complain of the want of time who never loses any." — Thomas Jefferson"
+  ""Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner." — Sonia Ricotti"
 </em></p>
 
 ---
