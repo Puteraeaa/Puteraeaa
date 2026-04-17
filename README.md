@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why compare yourself with others? No one in the entire world can do a better job of being you than you." — Unknown"
+  ""Determine never to be idle. No person will have occasion to complain of the want of time who never loses any." — Thomas Jefferson"
 </em></p>
 
 ---
