@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is from the inside out. When you shift on the inside, life shifts on the outside." — Kamal Ravikant"
+  ""Every one of us is the sum total of his own thoughts." — Earl Nightingale"
 </em></p>
 
 ---
