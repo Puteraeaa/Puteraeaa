@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner." — Sonia Ricotti"
+  ""Life is from the inside out. When you shift on the inside, life shifts on the outside." — Kamal Ravikant"
 </em></p>
 
 ---
