@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Every one of us is the sum total of his own thoughts." — Earl Nightingale"
+  ""You have the ability, now apply yourself." — Benjamin Mays"
 </em></p>
 
 ---
