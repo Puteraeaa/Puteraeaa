@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I know not all that may be coming, but be it what it will, I'll go to it laughing." — Herman Melville"
+  ""Experience is simply the name we give our mistakes. " — Oscar Wilde"
 </em></p>
 
 ---
