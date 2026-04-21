@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Love is the absence of judgment." — Dalai Lama"
+  ""I know not all that may be coming, but be it what it will, I'll go to it laughing." — Herman Melville"
 </em></p>
 
 ---
