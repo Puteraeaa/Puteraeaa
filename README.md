@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Experience is simply the name we give our mistakes. " — Oscar Wilde"
+  ""In the practice of tolerance, one's enemy is the best teacher." — Dalai Lama"
 </em></p>
 
 ---
