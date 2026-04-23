@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Only in the agony of parting do we look into the depths of love." — George Eliot"
+  ""Sometimes you have to travel a long way to find what is near." — Paulo Coelho"
 </em></p>
 
 ---
