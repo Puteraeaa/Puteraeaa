@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Sometimes you have to travel a long way to find what is near." — Paulo Coelho"
+  ""By perseverance the snail reached the ark." — Charles Spurgeon"
 </em></p>
 
 ---
