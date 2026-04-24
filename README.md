@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""By perseverance the snail reached the ark." — Charles Spurgeon"
+  ""No man can get rich himself unless he enriches others." — Earl Nightingale"
 </em></p>
 
 ---
