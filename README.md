@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No man can get rich himself unless he enriches others." — Earl Nightingale"
+  ""When a man is penalized for honesty he learns to lie." — Criss Jami"
 </em></p>
 
 ---
