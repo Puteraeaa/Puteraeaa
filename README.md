@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People become attached to their burdens sometimes more than the burdens are attached to them." — George Bernard Shaw"
+  ""Everything is possible. The impossible just takes longer." — Dan Brown"
 </em></p>
 
 ---
