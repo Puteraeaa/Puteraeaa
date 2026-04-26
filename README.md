@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Everything is possible. The impossible just takes longer." — Dan Brown"
+  ""Success is about creating value." — Candice Carpenter"
 </em></p>
 
 ---
