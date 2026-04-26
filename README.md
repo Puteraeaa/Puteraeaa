@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Success is about creating value." — Candice Carpenter"
+  ""We are most nearly ourselves when we achieve the seriousness of the child at play." — Heraclitus"
 </em></p>
 
 ---
