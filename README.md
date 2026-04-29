@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility." — Sigmund Freud"
+  ""Every limit is a beginning as well as an ending." — George Eliot"
 </em></p>
 
 ---
