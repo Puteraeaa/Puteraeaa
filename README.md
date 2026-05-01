@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu"
+  ""The strength of a wall is neither greater nor less than the courage of the men who defend it. " — Genghis Khan"
 </em></p>
 
 ---
