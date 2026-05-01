@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I hear and I forget. I see and I remember. I do and I understand. " — Confucius"
+  ""A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu"
 </em></p>
 
 ---
