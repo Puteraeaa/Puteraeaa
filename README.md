@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Often in the real world, it's not the smart that get ahead, but the bold." — Robert Kiyosaki"
+  ""Yesterday is but today's memory, tomorrow is today's dream." — Kahlil Gibran"
 </em></p>
 
 ---
