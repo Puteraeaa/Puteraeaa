@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Wheels of justice grind slow but grind fine." — Sun Tzu"
+  ""It is the mark of an educated mind to be able to entertain a thought without accepting it." — Aristotle"
 </em></p>
 
 ---
