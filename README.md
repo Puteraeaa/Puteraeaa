@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Insanity is relative. It depends on who has who locked in what cage.  " — Ray Bradbury"
+  ""The only way to 'find out if it will work out' is to do it." — Simon Sinek"
 </em></p>
 
 ---
