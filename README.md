@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""It is the mark of an educated mind to be able to entertain a thought without accepting it." — Aristotle"
+  ""Insanity is relative. It depends on who has who locked in what cage.  " — Ray Bradbury"
 </em></p>
 
 ---
