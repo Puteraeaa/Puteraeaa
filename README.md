@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The only way to 'find out if it will work out' is to do it." — Simon Sinek"
+  ""Avoiding failure is to avoid progress." — Unknown"
 </em></p>
 
 ---
