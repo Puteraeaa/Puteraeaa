@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Knowledge is learning something everyday. Wisdom is letting go of something everyday." — Unknown"
+  ""Working hard for something we don't care about is called stress: Working hard for something we love is called passion." — Simon Sinek"
 </em></p>
 
 ---
