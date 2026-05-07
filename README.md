@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Working hard for something we don't care about is called stress: Working hard for something we love is called passion." — Simon Sinek"
+  ""Knowing is not enough, we must apply. Willing is not enough, we must do." — Johann Wolfgang von Goethe"
 </em></p>
 
 ---
