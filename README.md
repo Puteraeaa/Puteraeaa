@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The real meditation is how you live your life." — Jon Kabat-Zinn"
+  ""Failure will never overtake me if my determination to succeed is strong enough." — Og Mandino"
 </em></p>
 
 ---
