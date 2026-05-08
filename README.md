@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The greatest miracle is to be alive." — Thich Nhat Hanh"
+  ""The real meditation is how you live your life." — Jon Kabat-Zinn"
 </em></p>
 
 ---
