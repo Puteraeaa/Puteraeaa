@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Failure will never overtake me if my determination to succeed is strong enough." — Og Mandino"
+  ""What the caterpillar calls the end of the world, the master calls a butterfly." — Richard Bach"
 </em></p>
 
 ---
