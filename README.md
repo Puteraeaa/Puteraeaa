@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Each problem has a positive side." — Og Mandino"
+  ""The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." — Mark Twain"
 </em></p>
 
 ---
