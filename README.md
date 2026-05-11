@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." — Mark Twain"
+  ""The biggest adventure you can ever take is to live the life of your dreams. " — Oprah Winfrey"
 </em></p>
 
 ---
