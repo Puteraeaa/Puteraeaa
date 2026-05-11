@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""The biggest adventure you can ever take is to live the life of your dreams. " — Oprah Winfrey"
+  ""The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive." — Herodotus"
 </em></p>
 
 ---
