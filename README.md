@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Being ignorant is not so much a shame, as being unwilling to learn." — Benjamin Franklin"
+  ""Life is a long lesson in humility. " — James Matthew Barrie"
 </em></p>
 
 ---
