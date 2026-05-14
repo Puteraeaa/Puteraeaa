@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""No matter what happens, always be yourself." — Dale Carnegie"
+  ""Being ignorant is not so much a shame, as being unwilling to learn." — Benjamin Franklin"
 </em></p>
 
 ---
