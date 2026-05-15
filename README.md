@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Life is a long lesson in humility. " — James Matthew Barrie"
+  ""Why live an ordinary life, when you can live an extraordinary one." — Tony Robbins"
 </em></p>
 
 ---
