@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Why live an ordinary life, when you can live an extraordinary one." — Tony Robbins"
+  ""Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." — Nicolas Chamfort"
 </em></p>
 
 ---
