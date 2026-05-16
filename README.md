@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." — Nicolas Chamfort"
+  ""Go confidently in the direction of your dreams! Live the life you've imagined." — Henry David Thoreau"
 </em></p>
 
 ---
