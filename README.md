@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Go confidently in the direction of your dreams! Live the life you've imagined." — Henry David Thoreau"
+  ""People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie"
 </em></p>
 
 ---
