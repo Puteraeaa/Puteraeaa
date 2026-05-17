@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — Elbert Hubbard"
+  ""Engage in those actions and thoughts that nurture the good qualities you want to have." — Paramahansa Yogananda"
 </em></p>
 
 ---
