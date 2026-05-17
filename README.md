@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie"
+  ""There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — Elbert Hubbard"
 </em></p>
 
 ---
