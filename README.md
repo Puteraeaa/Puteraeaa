@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""Engage in those actions and thoughts that nurture the good qualities you want to have." — Paramahansa Yogananda"
+  ""People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie"
 </em></p>
 
 ---
