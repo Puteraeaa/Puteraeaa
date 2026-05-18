@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie"
+  ""I don't pretend to know everything; I just only speak on matters I know I'll win." — Criss Jami"
 </em></p>
 
 ---
