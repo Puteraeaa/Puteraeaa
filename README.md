@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putera 👋</h1>
 
 <p align="center"><em>
-  ""I don't pretend to know everything; I just only speak on matters I know I'll win." — Criss Jami"
+  ""To be prepared is half the victory. " — Miguel de Cervantes"
 </em></p>
 
 ---
